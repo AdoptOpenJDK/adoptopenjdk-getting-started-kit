@@ -15,4 +15,5 @@
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
    * [Build your own](build_your_own.md)
+* Binaries
 
