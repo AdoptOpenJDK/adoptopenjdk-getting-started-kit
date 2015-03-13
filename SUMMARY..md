@@ -23,4 +23,5 @@
        * Build OpenJDK 9
 * OpenJDK projects
    * Project Penrose
+   * Nashorn
 
