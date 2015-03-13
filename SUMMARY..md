@@ -9,6 +9,6 @@
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](linuxunix.md)
-   * MacOS
+   * [MacOS](macos.md)
    * Windows
 
