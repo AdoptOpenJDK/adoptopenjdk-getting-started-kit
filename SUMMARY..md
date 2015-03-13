@@ -15,7 +15,7 @@
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
    * [Build your own](build_your_own.md)
-* Binaries
+* [Binaries](binaries.md)
    * OpenJDK Early Access
    * JTReg from BuildFarm
    * Build your own OpenJDK
