@@ -8,10 +8,10 @@
    * [Custom JUG hand-out template](custom_jug_hand-out_template.md)
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
 * [Known issues](known_issues.md)
-   * Source code
    * [Linux/Unix](linuxunix.md)
    * [MacOS](macos.md)
    * [Windows](windows.md)
+* Source code
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
