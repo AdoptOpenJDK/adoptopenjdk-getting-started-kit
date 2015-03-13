@@ -18,7 +18,7 @@
 * [Binaries](binaries.md)
    * [OpenJDK Early Access](openjdk_early_access.md)
    * [JTReg from BuildFarm](jtreg_from_buildfarm.md)
-   * Build your own OpenJDK
+   * [Build your own OpenJDK](build_your_own_openjdk.md)
        * Build OpenJDK 8
        * Build OpenJDK 9
 * OpenJDK projects
