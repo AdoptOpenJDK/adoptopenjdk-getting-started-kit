@@ -9,4 +9,5 @@
    * Table of supported OSes & IDEs
 * Known issues
    * Linux/Unix
+   * MacOS
 
