@@ -12,7 +12,7 @@
    * [MacOS](macos.md)
    * [Windows](windows.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
-* Virtual Machines
+* [Virtual Machines](virtual_machines.md)
    * Ready-made VM
    * Build your own
 
