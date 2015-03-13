@@ -21,7 +21,7 @@
    * [Build your own OpenJDK](build_your_own_openjdk.md)
        * Build OpenJDK 8
        * Build OpenJDK 9
-* OpenJDK projects
+* [OpenJDK projects](openjdk_projects.md)
    * Penrose
    * Nashorn
 * Goodies for the die-hard OpenJDK-er
