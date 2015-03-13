@@ -8,4 +8,5 @@
    * Custom JUG hand-out template
    * Table of supported OSes & IDEs
 * Known issues
+   * Linux/Unix
 
