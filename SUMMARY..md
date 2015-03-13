@@ -10,4 +10,5 @@
 * Known issues
    * Linux/Unix
    * MacOS
+   * Windows
 
