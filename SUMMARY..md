@@ -23,6 +23,7 @@
        * Build OpenJDK 9
 * [Source code](source_code.md)
    * Loading OpenJDK into IDE
+       * IntelliJ
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](penrose.md)
    * [Nashorn](nashorn.md)
