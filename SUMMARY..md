@@ -24,4 +24,5 @@
 * OpenJDK projects
    * Penrose
    * Nashorn
+* Goodies for the die-hard OpenJDK-er
 
