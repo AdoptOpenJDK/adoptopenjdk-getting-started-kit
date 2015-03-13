@@ -25,6 +25,7 @@
    * Loading OpenJDK into IDE
        * IntelliJ
        * Eclipse
+       * Netbeans
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](penrose.md)
    * [Nashorn](nashorn.md)
