@@ -11,7 +11,6 @@
    * [Linux/Unix](linuxunix.md)
    * [MacOS](macos.md)
    * [Windows](windows.md)
-* Source code
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
@@ -22,6 +21,7 @@
    * [Build your own OpenJDK](build_your_own_openjdk.md)
        * Build OpenJDK 8
        * Build OpenJDK 9
+* Source code
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](penrose.md)
    * [Nashorn](nashorn.md)
