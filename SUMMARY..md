@@ -23,6 +23,6 @@
        * Build OpenJDK 9
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](penrose.md)
-   * Nashorn
+   * [Nashorn](nashorn.md)
 * Goodies for the die-hard OpenJDK-er
 
