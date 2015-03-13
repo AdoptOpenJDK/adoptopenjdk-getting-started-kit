@@ -19,4 +19,5 @@
    * OpenJDK Early Access
    * JTReg from BuildFarm
    * Build your own OpenJDK
+       * Build OpenJDK 8
 
