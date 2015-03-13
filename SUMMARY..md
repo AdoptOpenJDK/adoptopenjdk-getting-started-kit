@@ -7,4 +7,5 @@
    * Hand-out for attendees of the Adopt OpenJDK sessions (also applicable for conferences)
    * Custom JUG hand-out template
    * Table of supported OSes & IDEs
+* Known issues
 
