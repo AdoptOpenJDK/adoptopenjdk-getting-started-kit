@@ -7,7 +7,7 @@
    * Hand-out for attendees of the Adopt OpenJDK sessions (also applicable for conferences)
    * Custom JUG hand-out template
    * Table of supported OSes & IDEs
-* Known issues
+* [Known issues](known_issues.md)
    * Linux/Unix
    * MacOS
    * Windows
