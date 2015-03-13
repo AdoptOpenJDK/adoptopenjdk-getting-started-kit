@@ -18,4 +18,5 @@
 * Binaries
    * OpenJDK Early Access
    * JTReg from BuildFarm
+   * Build your own OpenJDK
 
