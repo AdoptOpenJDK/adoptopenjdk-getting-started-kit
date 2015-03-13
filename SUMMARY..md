@@ -10,5 +10,5 @@
 * [Known issues](known_issues.md)
    * [Linux/Unix](linuxunix.md)
    * [MacOS](macos.md)
-   * Windows
+   * [Windows](windows.md)
 
