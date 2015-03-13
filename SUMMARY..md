@@ -2,7 +2,7 @@
 
 * [Adopt OpenJDK - Getting started](adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](what_is_openjdk.md)
-   * About OCA - signing the OCA
+   * [About OCA - signing the OCA](about_oca_-_signing_the_oca.md)
    * Write up on the Adopt OpenJDK & Adopt-a-JSR programs
    * Hand-out for attendees of the Adopt OpenJDK sessions (also applicable for conferences)
    * Custom JUG hand-out template
