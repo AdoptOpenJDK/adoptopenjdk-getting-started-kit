@@ -21,7 +21,7 @@
    * [Build your own OpenJDK](build_your_own_openjdk.md)
        * Build OpenJDK 8
        * Build OpenJDK 9
-* Source code
+* [Source code](source_code.md)
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](penrose.md)
    * [Nashorn](nashorn.md)
