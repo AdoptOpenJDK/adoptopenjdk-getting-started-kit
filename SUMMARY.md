@@ -42,4 +42,5 @@
 * [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
 * [Thanks and support](thanks_and_support.md)
 * [Feedback](feedback.md)
+* Advanced steps
 
