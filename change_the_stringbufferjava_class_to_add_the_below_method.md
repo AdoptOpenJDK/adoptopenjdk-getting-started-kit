@@ -1,17 +1,28 @@
 # Change the StringBuffer.java class to add the below method
 
+```
 $ cd $HOME/sources/jdk8_tl/
+```
 or
+```
 $ cd $HOME/sources/jdk8/
+```
 or 
+```
 $ cd $HOME/sources/jdk9/
+```
 
+```
 $ gedit jdk/src/share/classes/java/lang/StringBuffer.java
+```
 or
+```
 $ gedit jdk/src/java.base/share/classes/java/lang/StringBuffer.java
+```
 
-Note: please ensure that the annotations at the top of all the test file are preserved, they are needed for the jtreg
+Note: please ensure that the annotations at the top of all the test file are preserved, they are needed for the jtreg.
 
+```java
  /**
     * Mitia's greatest contribution ever!
     * 
@@ -20,9 +31,11 @@ Note: please ensure that the annotations at the top of all the test file are pre
  public boolean isEmpty() {
              return count==0;
  }
+```
 
 Write the below tests in IsEmptyTest.java in some folder 
 
+```java
 /* @test
  * @summary Test StringBuffer.isEmpty();
  * @run main IsEmptyTest
@@ -75,9 +88,11 @@ public class IsEmptyTest {
 		}
 	}
 }
+```
 
 Write the below (TestNG) tests in the IsEmptyTestNG.java file
 
+```javascript
 /* @test
  * @summary Test StringBuffer.isEmpty();
  * @run testng IsEmptyTestNG
@@ -116,12 +131,17 @@ public class IsEmptyTestNG {
 		assertFalse(buffer.isEmpty());
 	}
 }
+```
 
+```
 $ make images
+```
 
 or 
 
+```
 $ make jdk
+```
 
 Finally run the below JTReg commands to ensure the tests run, and pass (see section below).
 
