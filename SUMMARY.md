@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Intermediate steps
 * [Adopt OpenJDK - Getting started](adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](what_is_openjdk.md)
    * [About OCA - signing the OCA](about_oca_-_signing_the_oca.md)
@@ -11,6 +10,7 @@
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
    * [OpenJDK Build Benchmarks](openjdk-build-benchmarks.md)
    * [Install the tree command](install_the_tree_command.md)
+* Intermediate steps
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
