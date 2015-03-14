@@ -5,15 +5,15 @@ See directory structure of various OpenJDK projects
 
 Below are full or partial outputs of the output from the tree command:
  
-OpenJDK (level 1) <br/>
-```$ tree -L 1 -d```
+**OpenJDK (level 1)** <br/>
+```$ tree -L 1 -d``` <br/>
 [[image or output of above command]]
 
-OpenJDK (level 2) <br/>
-```$ tree -L 2 -d```
+**OpenJDK (level 2)** <br/>
+```$ tree -L 2 -d``` <br/>
 [[image or output of above command]]
 
-build (level 3) <br/>
+**build (level 3)** <br/>
 ```
 $ tree -L 3 -d build
 build
@@ -51,9 +51,8 @@ build
 Folder jaxp onwards the tree structure has been collapsed to enabling fitting of the build folder structure on this page.
 
 
-Hotspot (all levels)
-```
-$ tree -d hotspot
-```
+**Hotspot (all levels)**  <br/>
+```$ tree -d hotspot```<br/>
+[[image or output of above command]]
 
 Only a partial view of the hotspot structure has been displayed on this page to enable us to fit the overview.
