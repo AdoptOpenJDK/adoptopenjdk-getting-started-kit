@@ -59,9 +59,9 @@ public class ChangeRandom {
 
 ```
 $ make images
-.<br/>
-.<br/>
-.<br/>
+.
+.
+.
 $ bash buildAndRunTheChangedRandom.sh
 
 Output
