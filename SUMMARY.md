@@ -11,7 +11,7 @@
    * [OpenJDK Build Benchmarks](openjdk-build-benchmarks.md)
    * [Install the tree command](install_the_tree_command.md)
 * Intermediate steps
-   * Command-line arguments for build performance optimisation
+   * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
