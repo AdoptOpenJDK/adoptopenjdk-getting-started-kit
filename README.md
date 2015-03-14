@@ -1,6 +1,7 @@
-![](https://avatars1.githubusercontent.com/u/1673867?v=3&s=75) 
+![](https://londonjavacommunity.files.wordpress.com/2009/11/bannerblog.jpg)
 
-## Adopt OpenJDK - Getting Started Kit...
+<br/>
+![](https://avatars1.githubusercontent.com/u/1673867?v=3&s=75) Adopt OpenJDK - Getting Started Kit...
 ---
 
 *Shortened link to the Adopt OpenJDK Getting Started Kit: http://bit.ly/17ovGUB*
