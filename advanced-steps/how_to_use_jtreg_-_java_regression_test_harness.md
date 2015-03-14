@@ -108,8 +108,10 @@ $ find . -name "ProblemList.txt"
 Have a look at the contents of this file to see how tests that need to be excluded are defined. As of now this file is only available in the ```jdk/test``` folder.
 
 
-JTReg - examples of annotations in the header of test files
+JTReg - examples of annotations in the header of test files.
+
 Run the following commands in each of the repos to filter out various examples, look into as many as possible, study and examine the syntax, see how the various functionalities are implemented. 
+
 Modify them and write new ones to see how they can be used, re-run the tests to see if you got them right:
 
 ```
