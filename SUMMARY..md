@@ -28,6 +28,6 @@
        * Netbeans
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](openjdk_projects_penrose.md)
-   * [Nashorn](nashorn.md)
+   * [Nashorn](openjdk_projects_nashorn.md)
 * [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
 
