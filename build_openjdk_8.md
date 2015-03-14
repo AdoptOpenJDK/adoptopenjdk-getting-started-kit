@@ -6,20 +6,17 @@ Link to a detailed page on the Build step on the Adopt OpenJDK wiki: https://jav
 
 In case you don’t have an OpenJDK8 on your VM (jdk8 or jdk8_tl folder) in the following folders:
 
-```
-$ cd $HOME/sources/jdk8_tl```
+```$ cd $HOME/sources/jdk8_tl```
 
 
 or
 
-```
-$ cd $HOME/sources/jdk8```
+```$ cd $HOME/sources/jdk8```
 
 
 or 
 
-```
-$ cd $HOME/dev/jdk8```
+```$ cd $HOME/dev/jdk8```
 
 then do the following from within this folder:
 
@@ -31,13 +28,9 @@ $ cd jdk8
 Download source by running get_source.sh (important)
 (to avoid to have to download sources during the presentation please setup and download before hand)
 
-```
-$ chmod u+x get_source.sh
-```
+```$ chmod u+x get_source.sh```
 
-```
-$ sh get_source.sh
-```
+```$ sh get_source.sh```
 
 ```
 # Repositories:  ./corba . ./hotspot ./jaxp ./jaxws ./jdk ./langtools ./nashorn 
@@ -73,25 +66,22 @@ In case Windows or MacOS X users have issues with installing or downloading the 
 
 Configure openjdk setup (Optional if you haven’t run it)
 
-```
-$ bash configure```
+```$ bash configure```
 
 
 Clean build with Images
 
-```
-$ make clean images```
+```$ make clean images```
 
 
 or
 
-```
-$ make clean images LOG=debug     // to display DEBUG information 
-```
+```$ make clean images LOG=debug     // to display DEBUG information ```
 
 Build individual components
 
 ```
 $ make jdk
 $ make hotspot
-$ make test```
+$ make test
+```
