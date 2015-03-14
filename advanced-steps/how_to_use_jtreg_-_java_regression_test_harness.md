@@ -35,7 +35,7 @@ $ make jdk_all       &> openJDK_jdk_all_Test_Results.logs
 Two ways to run jtreg from the CLI
 
 Prerequisites:<br/>
-1) TEST.ROOT must exist in the folder where the below commands will be executed<br/>
+1) ```TEST.ROOT``` must exist in the folder where the below commands will be executed<br/>
 2) jdk images must be present as a result of the ```make images``` or ```make clean images``` command<br/>
 
 Known issue: <br/>
