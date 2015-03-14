@@ -50,7 +50,7 @@
    * [Deep-dive Hotspot stuff](deep-dive_hotspot_stuff.md)
    * [Building sigtest](building_sigtest.md)
    * [Compiler stuff](compiler_stuff.md)
-   * Change java.c & run Hotspot from within Eclipse
+   * [Change java.c & run Hotspot from within Eclipse](change_javac_&_run_hotspot_from_within_eclipse.md)
    * Change java.c & run Hotspot from the CLI
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
