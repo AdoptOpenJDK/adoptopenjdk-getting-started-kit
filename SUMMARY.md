@@ -13,6 +13,7 @@
 * [Intermediate steps](intermediate_steps.md)
    * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
+* Advanced steps
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
    * [Build your own VM](build_your_own_vm.md)
@@ -42,5 +43,4 @@
 * [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
 * [Thanks and support](thanks_and_support.md)
 * [Feedback](feedback.md)
-* Advanced steps
 
