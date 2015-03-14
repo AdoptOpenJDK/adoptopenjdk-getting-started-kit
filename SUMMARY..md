@@ -8,7 +8,7 @@
    * [Custom JUG hand-out template](custom_jug_hand-out_template.md)
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
 * [Known issues](known_issues.md)
-   * [Linux/Unix](linuxunix.md)
+   * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](macos.md)
    * [Windows](windows.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
