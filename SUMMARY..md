@@ -19,13 +19,13 @@
    * [OpenJDK Early Access](openjdk_early_access.md)
    * [JTReg from BuildFarm](jtreg_from_buildfarm.md)
    * [Build your own OpenJDK](build_your_own_openjdk.md)
-       * Build OpenJDK 8
-       * Build OpenJDK 9
+       * [Build OpenJDK 8](build_openjdk_8.md)
+       * [Build OpenJDK 9](build_openjdk_9.md)
 * [Source code](source_code.md)
    * [Loading OpenJDK into IDE](loading_openjdk_into_ide.md)
-       * [IntelliJ] (loading_openjdk_in_intellij.md)
-       * [Eclipse] (loading_openjdk_in_eclipse.md)
-       * [Netbeans] (loading_openjdk_in_eclipse.md)
+       * [IntelliJ](loading_openjdk_in_intellij.md)
+       * [Eclipse](loading_openjdk_in_eclipse.md)
+       * [Netbeans](loading_openjdk_in_eclipse.md)
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](openjdk_projects_penrose.md)
    * [Nashorn](openjdk_projects_nashorn.md)
