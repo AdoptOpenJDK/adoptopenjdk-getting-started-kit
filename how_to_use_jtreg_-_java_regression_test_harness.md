@@ -63,7 +63,7 @@ $ $HOME/jtreg/linux/bin/jtreg -verbose:all -jdk:$HOME/sources/jdk8_tl/build/linu
 ```
 (the above will run all the tests in the above mentioned test class)
 
-The results can be found in the JTreport and JTwork folders.
+The results can be found in the JTreport and ```JTwork``` folders.
 
 The new versions of JTReg can now be used without having to pass the below command-line argument: 
 ```-cpa:$HOME/jtreg/lib/jcommander-1.7.jar```
@@ -109,6 +109,7 @@ Have a look at the contents of this file to see how tests that need to be exclud
 JTReg - examples of annotations in the header of test files
 Run the following commands in each of the repos to filter out various examples, look into as many as possible, study and examine the syntax, see how the various functionalities are implemented. 
 Modify them and write new ones to see how they can be used, re-run the tests to see if you got them right:
+
 ```
 $ cd $SOURCE_CODE
 
