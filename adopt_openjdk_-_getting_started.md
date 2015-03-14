@@ -6,3 +6,4 @@
    * [Hand-out for attendees of the Adopt OpenJDK sessions (also applicable for conferences)](hand-out_for_attendees_of_the_adopt_openjdk_sessions_also_applicable_for_conferences.md)
    * [Custom JUG hand-out template](custom_jug_hand-out_template.md)
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
+   * [OpenJDK Build Benchmarks](openjdk-build-benchmarks,md)
