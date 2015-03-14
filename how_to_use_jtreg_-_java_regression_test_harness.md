@@ -72,22 +72,25 @@ The new versions of JTReg can now be used without having to pass the below comma
 
 Run the below to find out the repos or packages that have a test folder in it hence supports jtreg tests, meaning you can go into these folders and run make test or the jtreg CLI or binary file commands to run the respective tests:
 
+```
 $ tree -fL 5 | grep "/test/" | more
+```
 
 Our search gave us the below:
-
+```
 ./hotspot/test
 ./jdk/test
 ./langtools/test
 ./nashorn/test
 ./test/
+```
 
-
-ProblemList.txt
+__ProblemList.txt__
 jtreg now provides direct support for the ProblemList.txt file used to identify problematic tests in the jdk/test/ regression test suite. Previously, it was processed by test/Makefile into an exclude list; now, the file can be given directly to the -exclude option.
 
 Its also a file to look into when looking for things to do in the areas of ‘testing’ and ‘jtreg’, try the below to see what you get on your version of OpenJDK:
 
+```
 $ cd $HOME/sources/jdk8_tl
 $ tree -f | grep ProblemList.txt
 │   │   ├── ./jdk/test/ProblemList.txt   ⇐ what we get
