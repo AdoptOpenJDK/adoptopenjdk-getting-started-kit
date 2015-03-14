@@ -22,7 +22,7 @@
        * Build OpenJDK 8
        * Build OpenJDK 9
 * [Source code](source_code.md)
-   * Loading OpenJDK into IDE
+   * [Loading OpenJDK into IDE](loading_openjdk_into_ide.md)
        * IntelliJ
        * Eclipse
        * Netbeans
