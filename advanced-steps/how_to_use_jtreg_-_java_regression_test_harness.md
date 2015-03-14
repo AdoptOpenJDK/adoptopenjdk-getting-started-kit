@@ -61,9 +61,10 @@ $ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all  -jdk:$HOME/sources/jdk8_tl/b
 
 $ $HOME/jtreg/linux/bin/jtreg -verbose:all -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ java/lang/invoke/AccessControlTest.java
 ```
+
 (the above will run all the tests in the above mentioned test class)
 
-The results can be found in the JTreport and ```JTwork``` folders.
+The results can be found in the ```JTreport``` and ```JTwork``` folders.
 
 The new versions of JTReg can now be used without having to pass the below command-line argument: 
 ```-cpa:$HOME/jtreg/lib/jcommander-1.7.jar```
@@ -87,7 +88,7 @@ Our search gave us the below:
 
 __ProblemList.txt__<br/>
 
-jtreg now provides direct support for the ProblemList.txt file used to identify problematic tests in the jdk/test/ regression test suite. Previously, it was processed by test/Makefile into an exclude list; now, the file can be given directly to the -exclude option.
+jtreg now provides direct support for the ProblemList.txt file used to identify problematic tests in the ```jdk/test/``` regression test suite. Previously, it was processed by ```test/Makefile``` into an exclude list; now, the file can be given directly to the ```-exclude``` option.
 
 Its also a file to look into when looking for things to do in the areas of ‘testing’ and ‘jtreg’, try the below to see what you get on your version of OpenJDK:
 
@@ -100,7 +101,7 @@ $ tree -f | grep ProblemList.txt
 or 
 
 ```
-$ find . -name “ProblemList.txt”
+$ find . -name "ProblemList.txt"
 ./jdk/test/ProblemList.txt   ⇐ what we get
 ```
 
