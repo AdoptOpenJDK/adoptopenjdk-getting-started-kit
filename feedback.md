@@ -9,6 +9,6 @@ Your feedback means a lot to us!
 * http://mail.openjdk.java.net/pipermail/adoption-discuss/
 
 *discontinued mailing list*
-* --adopt-openjdk@googlegroups.com--
-* --https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk--
+* ~~adopt-openjdk@googlegroups.com~~
+* ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
 
