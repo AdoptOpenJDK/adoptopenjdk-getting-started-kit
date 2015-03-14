@@ -69,9 +69,9 @@ Output
 Its printing the same number over-and-over again! That's not random.
 ```
 
-Note: nextInt() calls next() with a parameter which is ignored and instead returns the hardcoded 100.
+Note: ```nextInt()``` calls ```next()``` with a parameter which is ignored and instead returns the hardcoded 100.
 
-Undo your changes to jdk/src/java.base/share/classes/java/util/Random.java or jdk/src/share/classes/java/util/Random.java and rebuild the images by running.
+Undo your changes to ```jdk/src/java.base/share/classes/java/util/Random.java``` or ```jdk/src/share/classes/java/util/Random.java``` and rebuild the images by running.
 
 To undo the changes, one can use:
 ```
