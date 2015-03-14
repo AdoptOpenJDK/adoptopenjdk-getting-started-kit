@@ -8,7 +8,7 @@ Your feedback means a lot to us!
 * adoption-discuss@openjdk.java.net
 * http://mail.openjdk.java.net/pipermail/adoption-discuss/
 
-*discontinued mailing list*
+*Discontinued mailing list*
 * ~~adopt-openjdk@googlegroups.com~~
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
 
