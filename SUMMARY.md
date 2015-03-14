@@ -40,6 +40,7 @@
    * [JEPs - JDK Enhancement Proposals](jeps_-_jdk_enhancement_proposals.md)
    * [Code Analysis of OpenJDK projects](code_analysis_of_openjdk_projects.md)
        * OpenJDK 8 SonarQube steps
+       * OpenJDK 9 SonarQube steps
 * [Advanced steps](advanced_steps.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
