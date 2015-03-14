@@ -5,6 +5,7 @@
 http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time
 
 **I get a freetypefont error under Ubuntu 14.04 when I run bash configure ?**
+```text
 .
 .
 .
@@ -25,6 +26,7 @@ Resolution:
 bash configure --with-freetype-lib=/usr/lib --with-freetype-include=/usr/include/freetype2
 
 Please note the location of freetypefont may vary, please find out using find or locate before applying.
+```
 
 Additionally you may need to add:
 ```
@@ -36,7 +38,7 @@ Additionally you may need to add:
 “Need initial clone with ‘hg paths default’ defined”
 Firstly remove the jdk8 or jdk8_tl folder, following that please run the below commands:
 
-
+```
 sudo apt-get install git-core ;
 sudo apt-get install mercurial ;
 cd $SOURCE_CODE ;
@@ -44,3 +46,4 @@ hg clone http://hg.openjdk.java.net/jdk8/jdk8 jdk8;
 cd jdk8/ ;
 chmod u+x get_source.sh ;
 ./get_source.sh ;
+```
