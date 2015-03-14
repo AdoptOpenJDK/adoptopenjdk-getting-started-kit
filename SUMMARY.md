@@ -33,7 +33,7 @@
 * [Intermediate steps](intermediate_steps.md)
    * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
    * [Cleaning up build warnings](cleaning_up_build_warnings.md)
-   * Milling Project Coin
+   * [Milling Project Coin](milling_project_coin.md)
 * [Advanced steps](advanced_steps.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
