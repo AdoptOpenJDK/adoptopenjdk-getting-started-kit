@@ -35,6 +35,7 @@
    * [Cleaning up build warnings](cleaning_up_build_warnings.md)
    * [Milling Project Coin](milling_project_coin.md)
    * [Patches - how to create and submit them (webrev)](patches_-_how_to_create_and_submit_them_webrev.md)
+   * OpenJDK developers Guide
 * [Advanced steps](advanced_steps.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
