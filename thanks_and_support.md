@@ -4,6 +4,8 @@ Thanks to **London Java Community**, its founder Barry Cranford, and JUG leaders
 
 Not forgetting Oracle for its Open Source spirit & support!
 
+![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/148838.gif)
+
     
 
 
