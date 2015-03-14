@@ -1,4 +1,4 @@
-#ProblemList.txt
+# ProblemList.txt
 
 jtreg now provides direct support for the ProblemList.txt file used to identify problematic tests in the ```jdk/test/``` regression test suite. Previously, it was processed by ```test/Makefile``` into an exclude list; now, the file can be given directly to the ```-exclude``` option.
 
