@@ -36,7 +36,7 @@ Two ways to run jtreg from the CLI
 
 Prerequisites:<br/>
 1) TEST.ROOT must exist in the folder where the below commands will be executed<br/>
-2) jdk images must be present as a result of the ‘make images’ or ‘make clean images’ command<br/>
+2) jdk images must be present as a result of the ```make images``` or ```make clean images``` command<br/>
 
 Known issue: <br/>
 “Cannot determine the version of java”, solution: ```unset JT_JAVA in .bashrc```
