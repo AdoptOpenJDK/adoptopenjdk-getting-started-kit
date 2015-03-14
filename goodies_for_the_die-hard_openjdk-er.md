@@ -33,3 +33,35 @@ make images```
 bash configure
 make images
 make test```
+
+```
+buildAndRunTheChangedRandom.sh``` - run after changing the ChangeRandom.java file
+
+```
+# OpenJDK8
+$SOURCES/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/bin/javac ChangeRandom.java
+$SOURCES/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2re-image/bin/java ChangeRandom
+```
+
+```
+# OpenJDK9
+build/linux-x86_64-normal-server-release/images/jdk/bin/javac -version
+build/linux-x86_64-normal-server-release/images/jdk/bin/javac ChangeRandom.java
+build/linux-x86_64-normal-server-release/images/jdk/bin/javap -verbose ChangeRandom | grep "major"
+build/linux-x86_64-normal-server-release/images/jdk/bin/javap -verbose ChangeRandom | grep "minor"
+build/linux-x86_64-normal-server-release/images/jre/bin/java -version
+build/linux-x86_64-normal-server-release/images/jre/bin/java ChangeRandom```
+
+```
+runJtregViaExecutable.sh``` - run JTREG via the $JTREG/bin/jtreg command
+
+```
+$HOME/jtreg/linux/bin/jtreg -verbose:all -cpa:$HOME/jtreg/lib/jcommander-1.7.jar -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1
+```
+
+```
+runJtregViaTheJarFile.sh```
+ - run JTREG via the $JTREG/lib/jtreg.jar command
+
+```
+java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all -cpa:$HOME/jtreg/lib/jcommander-1.7.jar -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1```
