@@ -4,7 +4,7 @@
 
 http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time
 
-I get a freetypefont error under Ubuntu 14.04 when I run bash configure ?
+**I get a freetypefont error under Ubuntu 14.04 when I run bash configure ?**
 .
 .
 .
