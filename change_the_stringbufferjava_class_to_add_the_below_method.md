@@ -92,7 +92,7 @@ public class IsEmptyTest {
 
 Write the below (TestNG) tests in the IsEmptyTestNG.java file
 
-```javascript
+```java
 /* @test
  * @summary Test StringBuffer.isEmpty();
  * @run testng IsEmptyTestNG
