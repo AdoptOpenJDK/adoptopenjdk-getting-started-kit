@@ -18,7 +18,7 @@
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
-   * [Build your own](build_your_own.md)
+   * [Build your own virtual machibe](build_your_own.md)
 * [Binaries](binaries.md)
    * [OpenJDK Early Access](openjdk_early_access.md)
    * [JTReg from BuildFarm](jtreg_from_buildfarm.md)
