@@ -53,6 +53,7 @@
    * [Change java.c & run Hotspot from within Eclipse](change_javac_&_run_hotspot_from_within_eclipse.md)
    * [Change java.c & run Hotspot from the CLI](change_javac_&_run_hotspot_from_the_cli.md)
    * [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
+       * Testing Java Early project
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
