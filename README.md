@@ -26,6 +26,8 @@ Please read and implement the below when attending the presentation or hands-on 
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
    * [Windows](known_issues_windows.md)
+   * [Virtual Machine](known_issues_virtual_machine.md)
+   * [Mercurial](known_issues_mercurial.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
