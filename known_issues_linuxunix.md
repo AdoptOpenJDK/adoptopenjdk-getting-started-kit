@@ -36,7 +36,7 @@ Additionally you may need to add:
 **I get the below error in the Ubuntu VM when I run ./get_sources.sh ?**
 
 “Need initial clone with ‘hg paths default’ defined”
-Firstly remove the jdk8 or jdk8_tl folder, following that please run the below commands:
+Firstly remove the ```jdk8``` or ```jdk8_tl``` folder, following that please run the below commands:
 
 ```
 sudo apt-get install git-core ;
