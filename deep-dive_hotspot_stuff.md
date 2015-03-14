@@ -22,7 +22,7 @@ Neat piece of HotSpot code block - see how branching occurs depending on the typ
 
 Code snippet from http://hg.openjdk.java.net/jdk6/jdk6/hotspot/raw-file/a541ca8fa0e3/src/share/vm/memory/universe.cpp (```./hotspot/src/share/vm/memory/universe.cpp```)
 
-```
+```c
 .
 .
 .
@@ -64,7 +64,7 @@ if (UseParallelGC) {
 
 <br/>
 #####SERIALGC switched ON - platforms that only support SERIAL GC?
-```
+```c
 .
 .
 .
@@ -90,7 +90,7 @@ if (UseParallelGC) {
 ```
 <br/>
 #####SERIALGC switched OFF - platforms that support both types of GC?
-```
+```cpp
 .
 .
 .
