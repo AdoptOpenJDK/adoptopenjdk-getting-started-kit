@@ -48,6 +48,7 @@
    * [Building jcov](building_jcov.md)
    * [OpenJDK Code coverage](openjdk_code_coverage.md)
    * [Deep-dive Hotspot stuff](deep-dive_hotspot_stuff.md)
+   * Building sigtest
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
