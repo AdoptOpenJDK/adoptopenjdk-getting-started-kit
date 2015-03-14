@@ -16,7 +16,7 @@ $ gedit jdk/src/java.base/share/classes/java/util/Random.java
 
 Locate the next() function in ```Random.java```
 
-```
+```java
 protected int next(int bits) {
 	return 100;                     ⇐   our code
 
