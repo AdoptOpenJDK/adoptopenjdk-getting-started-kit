@@ -116,3 +116,5 @@ When done, load SonarQube in the browser via http://localhost:9000 to view the r
 
 Sample visual from SonarQube<br/>
 (jdk repo not included; jitwatch included; zoom to see repo names;)
+
+[[SonarQube Treemap]]
