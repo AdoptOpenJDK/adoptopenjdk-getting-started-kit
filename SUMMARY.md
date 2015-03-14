@@ -51,6 +51,7 @@
    * [Building sigtest](building_sigtest.md)
    * Compiler stuff
    * Change java.c & run Hotspot from within Eclipse
+   * Change java.c & run Hotspot from the CLI
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
