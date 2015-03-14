@@ -1,5 +1,9 @@
 # Loading OpenJDK into IDE
 
+* [IntelliJ](loading_openjdk_in_intellij.md)
+* [Eclipse](loading_openjdk_in_eclipse.md)
+* [Netbeans](loading_openjdk_in_netbeans.md)
+
 As tested on Mac OSX 10.10 running Eclipse and VirtualBox 4.3.20 running VM: Ubuntu_12.04_OpenJDK_dev_1
 
 Create a folder on host machine eg. ```
