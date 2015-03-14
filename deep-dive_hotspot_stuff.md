@@ -90,7 +90,7 @@ if (UseParallelGC) {
 ```
 <br/>
 #####SERIALGC switched OFF - platforms that support both types of GC?
-```cpp
+```java
 .
 .
 .
