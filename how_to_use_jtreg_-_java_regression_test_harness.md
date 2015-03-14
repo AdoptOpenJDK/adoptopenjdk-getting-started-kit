@@ -19,8 +19,8 @@ To see an online help for JTReg perform the below command:
 $ jtreg -onlineHelp
 ```
 
-JTReg tutorial videos: http://bit.ly/1bT4g7f
-Quick Start Guide tutorial on jtreg: http://bit.ly/1fWCqPH
+JTReg tutorial videos: http://bit.ly/1bT4g7f<br/>
+Quick Start Guide tutorial on jtreg: http://bit.ly/1fWCqPH<br/>
 
 ```
 $ cd $HOME/sources/jdk8_tl/test
