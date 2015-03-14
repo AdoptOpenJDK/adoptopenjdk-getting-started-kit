@@ -45,6 +45,7 @@
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)
        * [OpenJDK9 directory structures](intermediate-steps/openjdk9_directory_structures.md)
+* [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
 * [Advanced steps](advanced-steps/advanced_steps.md)
    * [Building jcov](advanced-steps/building_jcov.md)
    * [OpenJDK Code coverage](advanced-steps/openjdk_code_coverage.md)
@@ -66,7 +67,6 @@
    * [Virtual Machine](known-issues/known_issues_virtual_machine.md)
    * [Mercurial](known-issues/known_issues_mercurial.md)
    * [SonarQube](known-issues/known_issues_sonarqube.md)
-* [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
 * [Thanks and support](thanks_and_support.md)
 * [Feedback](feedback.md)
 
