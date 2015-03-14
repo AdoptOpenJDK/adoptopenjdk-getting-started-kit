@@ -10,8 +10,6 @@
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
    * [OpenJDK Build Benchmarks](openjdk-build-benchmarks.md)
    * [Install the tree command](install_the_tree_command.md)
-* [Intermediate steps](intermediate_steps.md)
-   * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
 * Advanced steps
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
@@ -31,6 +29,8 @@
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](openjdk_projects_penrose.md)
    * [Nashorn](openjdk_projects_nashorn.md)
+* [Intermediate steps](intermediate_steps.md)
+   * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
 * [Adopt OpenJDK Projects](adopt_openjdk_projects.md)
    * [Betterrev](adoptopenjdk_projects_betterrev.md)
 * [Known issues](known_issues.md)
