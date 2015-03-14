@@ -105,7 +105,7 @@ $ find . -name "ProblemList.txt"
 ./jdk/test/ProblemList.txt   ⇐ what we get
 ```
 
-Have a look at the contents of this file to see how tests that need to be excluded are defined. As of now this file is only available in the jdk/test folder.
+Have a look at the contents of this file to see how tests that need to be excluded are defined. As of now this file is only available in the ```jdk/test``` folder.
 
 
 JTReg - examples of annotations in the header of test files
