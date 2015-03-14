@@ -14,4 +14,5 @@ This document is meant to make it easier for developers to get started with Open
 Please read and implement the below when attending the presentation or hands-on session!
 
 ---
+{% include "SUMMARY.md" %}
 
