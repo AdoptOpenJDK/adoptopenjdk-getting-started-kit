@@ -45,7 +45,7 @@
        * [OpenJDK8 directory structures](openjdk8_directory_structures.md)
        * [OpenJDK9 directory structures](openjdk9_directory_structures.md)
 * [Advanced steps](advanced_steps.md)
-   * [Code coverage](openjdk_code_coverage.md)
+   * [OpenJDK Code coverage](openjdk_code_coverage.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
