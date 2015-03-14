@@ -2,9 +2,13 @@
 
 ```
 $ cd $HOME/sources/jdk8/
+```
 or
+```
 $ cd $HOME/sources/jdk8_tl/
+```
 or
+```
 $ cd $HOME/sources/jdk9/
 ```
 ```
