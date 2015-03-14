@@ -49,7 +49,7 @@ $ $HOME/jtreg/linux/bin/jtreg -verbose:fail -cpa:<jcommander-path> -jdk: <jdk8-p
 
 ```jdk8-path``` - same as ```$PRODUCT_HOME```  (for eg. $SOURCE_CODE/jdk9/build/macosx-x64-normal-server-release/images/j2sdk-image, this may differ on your system)
 
-Replace the $1 with a file or a folder name, below are few examples:
+Replace the ```$1``` with a file or a folder name, below are few examples:
 
 ```
 $ cd $SOURCE_CODE/jdk8_tl/jdk/test
