@@ -4,7 +4,7 @@ To bring the testing process to the community and also testing early for early f
 
 But this does not need to stop here, you can select your own java library or opensource project, build it using JDK9 and then run it via JDK9 or JRE9.
 
-Ensure you set your PATH and/or JAVA_HOME to point to the JDK image you built using OpenJDK9 (see build folder build/linux-x86_64-normal-server-release/images/jdk for a Linux build).
+Ensure you set your PATH and/or JAVA_HOME to point to the JDK image you built using OpenJDK9 (see build folder ```build/linux-x86_64-normal-server-release/images/jdk``` for a Linux build).
 
 Record all responses at each of these steps and inform the owners of such libraries or projects using their mailing list or on their project page (github or bitbucket). Also copy the Adoption Discuss mailing list in. In case of an issue contact the owners of the project, Adoption Discuss and the relevant OpenJDK mailing list.
 
