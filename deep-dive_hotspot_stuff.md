@@ -1,8 +1,5 @@
 # Deep-dive Hotspot stuff
 
-
-Deep dive Hotspot stuff
-
 GC flags in the source files in the hotspot folder
 * http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/4967eb4f67a9/src/share/vm/gc_implementation/g1/g1_globals.hpp (../hotspot/src/share/vm/gc_implementation/g1/g1_globals.hpp in the Hotspot repo)
 
