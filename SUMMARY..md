@@ -27,7 +27,7 @@
        * Eclipse
        * Netbeans
 * [OpenJDK projects](openjdk_projects.md)
-   * [Penrose](penrose.md)
+   * [Penrose](openjdk_projects_penrose.md)
    * [Nashorn](nashorn.md)
 * [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
 
