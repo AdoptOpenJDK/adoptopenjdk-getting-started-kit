@@ -56,6 +56,7 @@
        * Testing Java Early project
        * Change the Random.java class to amend the below method
        * Change the StringBuffer.java class to add the below method
+       * How to use JTReg… - Java Regression Test Harness ?
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
