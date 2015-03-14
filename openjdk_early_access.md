@@ -9,4 +9,5 @@ If you take this route, then most of the contents of this document won’t apply
 ---
 **JDK 9 Early Access**
 
+To get hold of just the binaries for Java (JDK9), please go
 https://jdk9.java.net/download/
