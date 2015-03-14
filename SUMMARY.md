@@ -41,7 +41,7 @@
    * [Code Analysis of OpenJDK projects](code_analysis_of_openjdk_projects.md)
        * [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
        * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
-   * See directory structure of various OpenJDK projects
+   * [See directory structure of various OpenJDK projects](see_directory_structure_of_various_openjdk_projects.md)
 * [Advanced steps](advanced_steps.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
