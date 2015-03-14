@@ -10,7 +10,7 @@
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
-   * [Windows](windows.md)
+   * [Windows](known_issues_windows.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
