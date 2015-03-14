@@ -30,7 +30,7 @@ protected int next(int bits) {
 }
 ```
 
-```
+```java
 $ gedit ChangeRandom.java 
 
 import java.util.Random;
