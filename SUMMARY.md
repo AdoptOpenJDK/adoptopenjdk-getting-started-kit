@@ -30,9 +30,9 @@
    * [Nashorn](openjdk_projects_nashorn.md)
 * [Adopt OpenJDK Projects](adopt_openjdk_projects.md)
    * [Betterrev](adoptopenjdk_projects_betterrev.md)
-* Advanced steps
 * [Intermediate steps](intermediate_steps.md)
    * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
+* Advanced steps
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
