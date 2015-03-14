@@ -47,7 +47,7 @@ $ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:fail -jdk: <jdk8-path> $1
 $ $HOME/jtreg/linux/bin/jtreg -verbose:fail -jdk: <jdk8-path> $1
 ```
 
-```jdk8-path``` - same as ```$PRODUCT_HOME```  (for eg. $SOURCE_CODE/jdk9/build/macosx-x64-normal-server-release/images/j2sdk-image, this may differ on your system)
+```jdk8-path``` - same as ```$PRODUCT_HOME```  (for eg. ```$SOURCE_CODE/jdk9/build/macosx-x64-normal-server-release/images/j2sdk-image```, this may differ on your system)
 
 Replace the ```$1``` with a file or a folder name, below are few examples:
 
@@ -86,6 +86,7 @@ Our search gave us the below:
 ```
 
 __ProblemList.txt__<br/>
+
 jtreg now provides direct support for the ProblemList.txt file used to identify problematic tests in the jdk/test/ regression test suite. Previously, it was processed by test/Makefile into an exclude list; now, the file can be given directly to the -exclude option.
 
 Its also a file to look into when looking for things to do in the areas of ‘testing’ and ‘jtreg’, try the below to see what you get on your version of OpenJDK:
