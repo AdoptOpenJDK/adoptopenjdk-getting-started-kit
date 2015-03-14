@@ -9,7 +9,7 @@
    * [Custom JUG hand-out template](custom_jug_hand-out_template.md)
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
    * [OpenJDK Build Benchmarks](openjdk-build-benchmarks.md)
-   * [Install the tree command](install_the_tree_command,md)
+   * [Install the tree command](install_the_tree_command.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
    * [MacOS](known_issues_macos.md)
