@@ -2,20 +2,20 @@
 
 Below will help understand and visualise the contents of the OpenJDK projects to help understand the depth of the projects.
 
-Using IntelliJ
+###Using IntelliJ###
 Perform analysis of any of the OpenJDK projects within IntelliJ using its Code analysis functionality:
 https://java.net/projects/adoptopenjdk/pages/JavaSourcesWithIntellij
 
 
-Using SonarQube
+###Using SonarQube##
 
 Known issue: in the latest version of SonarQube, projects are not visible via any of the widgets, after running analysis on them - its being investigate but please feel free to post solutions if you are able to resolve it before us.
 
-Install SonarQube on the Mac OS
+**Install SonarQube on the Mac OS**
 
 Use this blog to install SonarQube (instructions for Mac OS, might need tweaks for other OSes)
 
-Install SonaQube on the ubuntu VM
+**Install SonaQube on the Ubuntu VM**
 
 install mysql on ubuntu: see section titled "Installation" on https://help.ubuntu.com/12.04/serverguide/mysql.html
 
@@ -83,5 +83,3 @@ When done, load SonarQube in the browser via http://localhost:9000 to view the r
 
 Sample visual from SonarQube 
 (jdk repo not included; jitwatch included; zoom to see repo names;)
-
-
