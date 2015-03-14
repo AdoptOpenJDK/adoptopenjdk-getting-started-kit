@@ -94,11 +94,14 @@ Its also a file to look into when looking for things to do in the areas of ‘te
 $ cd $HOME/sources/jdk8_tl
 $ tree -f | grep ProblemList.txt
 │   │   ├── ./jdk/test/ProblemList.txt   ⇐ what we get
+```
 
 or 
 
+```
 $ find . -name “ProblemList.txt”
 ./jdk/test/ProblemList.txt   ⇐ what we get
+```
 
 Have a look at the contents of this file to see how tests that need to be excluded are defined. As of now this file is only available in the jdk/test folder.
 
@@ -106,6 +109,7 @@ Have a look at the contents of this file to see how tests that need to be exclud
 JTReg - examples of annotations in the header of test files
 Run the following commands in each of the repos to filter out various examples, look into as many as possible, study and examine the syntax, see how the various functionalities are implemented. 
 Modify them and write new ones to see how they can be used, re-run the tests to see if you got them right:
+```
 $ cd $SOURCE_CODE
 
 $ cd jdk8_tl
@@ -166,6 +170,6 @@ $ cd ../langtools/test
 
 $ cd ../nashorn/test
 <same as above>
-
+```
 
 Plenty to learn and know about OpenJDK hence we look at the tests to learn about the implementation code behind them.
