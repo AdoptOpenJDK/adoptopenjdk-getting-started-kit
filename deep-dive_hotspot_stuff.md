@@ -64,7 +64,7 @@ if (UseParallelGC) {
 
 <br/>
 #####SERIALGC switched ON - platforms that only support SERIAL GC?
-```c
+```java
 .
 .
 .
