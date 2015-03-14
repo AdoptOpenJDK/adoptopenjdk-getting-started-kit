@@ -27,7 +27,9 @@ Configure the web server as documented here:  http://docs.codehaus.org/display/S
 
 Start SonarQube and go to http:localhost:9000/sonar to verify that SonarQube started, and can see an empty dashboard.
 
+```
 $ /opt/sonarqube-4.5.1/bin/linux-x86-64/sonar.sh start   (path may differ)
+```
 
 Some projects, such as jaxp are analysed using Maven. Download Maven http://maven.apache.org/download.cgi and configure it. On the Maven link, follow the steps in the section titled “Unix-based operating Systems.”
 
@@ -35,7 +37,7 @@ Also set the MAVEN_OPTS environment variable - it’s needed when analysing the 
 
 Edit the sonar.properties of both SonarQube and sonar-runner.
 
-Note: if the /opt/sonarqube-4.5.1/conf/sonar-properties contains, in the “web server” section, the sonar.web.context, then in /opt/sonar-runner-2.4/conf/sonar.properties, set the sonar.host.url=http://localhost:9000/sonar (path may differ). 
+Note: if the ```/opt/sonarqube-4.5.1/conf/sonar-properties``` contains, in the “web server” section, the sonar.web.context, then in ```/opt/sonar-runner-2.4/conf/sonar.properties```, set the sonar.host.url=http://localhost:9000/sonar (path may differ). 
 
 Otherwise, when SonarQube starts up, and tries to call the sonarqube API from the URL, http://localhost:9000, there will be no response and SonarQube will not start up.
 
