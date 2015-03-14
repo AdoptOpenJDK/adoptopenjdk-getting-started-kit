@@ -42,8 +42,8 @@
        * [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
        * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
    * [See directory structure of various OpenJDK projects](see_directory_structure_of_various_openjdk_projects.md)
-       * OpenJDK8 directory structures
-       * OpenJDK9 directory structures
+       * [OpenJDK8 directory structures](openjdk8_directory_structures.md)
+       * [OpenJDK9 directory structures](openjdk9_directory_structures.md)
 * [Advanced steps](advanced_steps.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
