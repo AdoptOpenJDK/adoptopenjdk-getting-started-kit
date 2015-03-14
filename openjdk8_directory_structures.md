@@ -7,11 +7,11 @@ Below are full or partial outputs of the output from the tree command:
  
 OpenJDK (level 1) <br/>
 ```$ tree -L 1 -d```
-
+[[image or output of above command]]
 
 OpenJDK (level 2) <br/>
 ```$ tree -L 2 -d```
-
+[[image or output of above command]]
 
 build (level 3) <br/>
 ```
