@@ -1,0 +1,2 @@
+# Milling Project Coin
+
