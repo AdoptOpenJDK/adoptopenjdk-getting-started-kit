@@ -31,7 +31,7 @@
    * [Loading OpenJDK into IDE](loading_openjdk_into_ide.md)
        * [IntelliJ](loading_openjdk_in_intellij.md)
        * [Eclipse](loading_openjdk_in_eclipse.md)
-       * [Netbeans](loading_openjdk_in_eclipse.md)
+       * [Netbeans](loading_openjdk_in_netbeans.md)
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](openjdk_projects_penrose.md)
    * [Nashorn](openjdk_projects_nashorn.md)
