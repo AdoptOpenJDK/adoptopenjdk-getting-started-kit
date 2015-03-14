@@ -14,15 +14,12 @@ HotSpot CLI option - PrintAssembly
 
 Neat piece of HotSpot code block - see how branching occurs depending on the type of GC you have selected
 
-
 | TYPE OF GC|Young Generation|Old Generation |
---------------------------------------------
+|------------|----------------|--------------|
 | SerialGC  (-XX:+UseSerialGC)|Serial|Serial |   
 | ParallGC  (-XX:+UseParallelGC)|Parallel|Serial|
-| Parallel Compacting
-         (-XX:+UseParallelOldGC)|Parallel|Parallel  |
-| Concurrent Mark Sweep GC
-         (-XX:+UseConcMarkSweepGC)|Parallel|CMS |
+| Parallel Compacting(-XX:+UseParallelOldGC)|Parallel|Parallel  |
+| Concurrent Mark Sweep GC (-XX:+UseConcMarkSweepGC)|Parallel|CMS |
 (http://www.weblogic-training.com/performance-tuning/difference-between-serial-gc-parallgc-cms-(-concurrent-mark-sweep)-gc/)
 
 Code snippet from http://hg.openjdk.java.net/jdk6/jdk6/hotspot/raw-file/a541ca8fa0e3/src/share/vm/memory/universe.cpp (./hotspot/src/share/vm/memory/universe.cpp)
