@@ -28,6 +28,7 @@ Please read and implement the below when attending the presentation or hands-on 
    * [Windows](known_issues_windows.md)
    * [Virtual Machine](known_issues_virtual_machine.md)
    * [Mercurial](known_issues_mercurial.md)
+   * [SonarQube](known_issues_sonarqube.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
    * [Ready-made VM](ready-made_vm.md)
