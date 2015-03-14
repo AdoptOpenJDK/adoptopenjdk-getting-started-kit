@@ -35,6 +35,5 @@
 * [OpenJDK projects](openjdk_projects.md)
    * [Penrose](openjdk_projects_penrose.md)
    * [Nashorn](openjdk_projects_nashorn.md)
-* [Thanks and support](thanks_and_support.md)
 * [Goodies for the die-hard OpenJDK-er](goodies_for_the_die-hard_openjdk-er.md)
-
+* [Thanks and support](thanks_and_support.md)
