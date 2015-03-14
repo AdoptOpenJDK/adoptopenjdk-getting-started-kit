@@ -54,9 +54,9 @@ Replace the ```$1``` with a file or a folder name, below are few examples:
 ```
 $ cd $SOURCE_CODE/jdk8_tl/jdk/test
 
-$ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all -cpa:$HOME/jtreg/lib/jcommander-1.7.jar -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ ./ 
+$ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ ./ 
 
-$ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all -cpa:$HOME/jtreg/lib/jcommander-1.7.jar -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ javax
+$ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all  -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ javax
 (the above will run all the tests in the jdk/test/javax sub-folder)
 
 $ $HOME/jtreg/linux/bin/jtreg -verbose:all -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ java/lang/invoke/AccessControlTest.java
