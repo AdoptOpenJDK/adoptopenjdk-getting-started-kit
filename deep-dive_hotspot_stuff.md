@@ -20,21 +20,22 @@ Neat piece of HotSpot code block - see how branching occurs depending on the typ
 | ParallGC  (-XX:+UseParallelGC)|Parallel|Serial|
 | Parallel Compacting(-XX:+UseParallelOldGC)|Parallel|Parallel  |
 | Concurrent Mark Sweep GC (-XX:+UseConcMarkSweepGC)|Parallel|CMS |
+
 (http://www.weblogic-training.com/performance-tuning/difference-between-serial-gc-parallgc-cms-(-concurrent-mark-sweep)-gc/)
 
-Code snippet from http://hg.openjdk.java.net/jdk6/jdk6/hotspot/raw-file/a541ca8fa0e3/src/share/vm/memory/universe.cpp (./hotspot/src/share/vm/memory/universe.cpp)
+Code snippet from http://hg.openjdk.java.net/jdk6/jdk6/hotspot/raw-file/a541ca8fa0e3/src/share/vm/memory/universe.cpp (```./hotspot/src/share/vm/memory/universe.cpp```)
+
+```
 .
 .
 .
 Universe::initialize_heap()
-
 if (UseParallelGC) {
     #ifndef SERIALGC
     Universe::_collectedHeap = new ParallelScavengeHeap();
     #else // SERIALGC
         fatal("UseParallelGC not supported in this VM.");
     #endif // SERIALGC
-
 } else if (UseG1GC) {
     #ifndef SERIALGC
     G1CollectorPolicy* g1p = new G1CollectorPolicy();
@@ -43,10 +44,8 @@ if (UseParallelGC) {
     #else // SERIALGC
         fatal("UseG1GC not supported in java kernel vm.");
     #endif // SERIALGC
-
 } else {
     GenCollectorPolicy* gc_policy;
-
     if (UseSerialGC) {
         gc_policy = new MarkSweepPolicy();
     } else if (UseConcMarkSweepGC) {
@@ -62,24 +61,22 @@ if (UseParallelGC) {
     } else { // default old generation
         gc_policy = new MarkSweepPolicy();
     }
-
     Universe::_collectedHeap = new GenCollectedHeap(gc_policy);
 }
+```
 
-.
-.
-.
 #SERIALGC switched ON - platforms that only support SERIAL GC?
-
+```
+.
+.
+.
 Universe::initialize_heap()
-
 if (UseParallelGC) {
         fatal("UseParallelGC not supported in this VM.");
 } else if (UseG1GC) {
         fatal("UseG1GC not supported in java kernel vm.");
 } else {
     GenCollectorPolicy* gc_policy;
-
     if (UseSerialGC) {
         gc_policy = new MarkSweepPolicy();
     } else if (UseConcMarkSweepGC) {
@@ -87,16 +84,15 @@ if (UseParallelGC) {
     } else { // default old generation
         gc_policy = new MarkSweepPolicy();
     }
-
     Universe::_collectedHeap = new GenCollectedHeap(gc_policy);
 }
 .
 .
 .
-
-
+```
 
 #SERIALGC switched OFF - platforms that support both types of GC?
+```
 .
 .
 .
@@ -129,4 +125,4 @@ if (UseParallelGC) {
 .
 .
 .
-
+```
