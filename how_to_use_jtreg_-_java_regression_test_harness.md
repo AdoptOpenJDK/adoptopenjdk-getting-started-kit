@@ -42,9 +42,9 @@ Known issue: <br/>
 “Cannot determine the version of java”, solution: ```unset JT_JAVA in .bashrc```
 
 ```
-$ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:fail -cpa:<jcommander-path> -jdk: <jdk8-path> $1
+$ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:fail -jdk: <jdk8-path> $1
 
-$ $HOME/jtreg/linux/bin/jtreg -verbose:fail -cpa:<jcommander-path> -jdk: <jdk8-path> $1
+$ $HOME/jtreg/linux/bin/jtreg -verbose:fail -jdk: <jdk8-path> $1
 ```
 
 ```jdk8-path``` - same as ```$PRODUCT_HOME```  (for eg. $SOURCE_CODE/jdk9/build/macosx-x64-normal-server-release/images/j2sdk-image, this may differ on your system)
