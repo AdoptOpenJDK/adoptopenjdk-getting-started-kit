@@ -45,7 +45,7 @@
        * [OpenJDK8 directory structures](openjdk8_directory_structures.md)
        * [OpenJDK9 directory structures](openjdk9_directory_structures.md)
 * [Advanced steps](advanced_steps.md)
-   * Building jcov
+   * [Building jcov](building_jcov.md)
    * [OpenJDK Code coverage](openjdk_code_coverage.md)
    * [Deep-dive Hotspot stuff](deep-dive_hotspot_stuff.md)
 * [Known issues](known_issues.md)
