@@ -9,7 +9,7 @@
    * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
 * [Known issues](known_issues.md)
    * [Linux/Unix](known_issues_linuxunix.md)
-   * [MacOS](macos.md)
+   * [MacOS](known_issues_macos.md)
    * [Windows](windows.md)
 * [OpenJDK Bug database (JIRA)](openjdk_bug_database_jira.md)
 * [Virtual Machines](virtual_machines.md)
