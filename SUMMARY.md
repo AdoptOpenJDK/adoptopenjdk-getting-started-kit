@@ -1,4 +1,4 @@
-c# Summary
+# Summary
 
 * [Introduction](README.md)
 * [Adopt OpenJDK - Getting started](adopt_openjdk_-_getting_started.md)
