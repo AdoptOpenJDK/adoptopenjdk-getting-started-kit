@@ -1,6 +1,6 @@
 # Build OpenJDK 8
 
-Link to a detailed page on the Build step on the Adopt OpenJDK wiki: https://java.net/projects/adoptopenjdk/pages/Build
+Link to a detailed page on the Build step on the [Adopt OpenJDK wiki](https://java.net/projects/adoptopenjdk/pages/Build).
 
 *Cloning the OpenJDK repo (one-time)*
 
@@ -56,10 +56,10 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 ```
 General get_source page: https://java.net/projects/adoptopenjdk/pages/GetSource
 
-* Linux (Ubuntu/Debian): 
-https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu
+* [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu)
 
-* MacOS X: https://java.net/projects/adoptopenjdk/pages/GetSource#Mac_OS_X Note: if you’re using Mac OS X 10.8.5 with XCode 5 you’ll need to follow one of the solutions at (http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html)
+* [MacOS X](https://java.net/projects/adoptopenjdk/pages/GetSource#Mac_OS_X) <br/>
+Note: if you’re using Mac OS X 10.8.5 with XCode 5 you’ll need to follow one of the solutions at (http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html)
 
 * Windows: https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows
 In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and follow the instructions on: https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVMBuild and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running getSource.sh).
