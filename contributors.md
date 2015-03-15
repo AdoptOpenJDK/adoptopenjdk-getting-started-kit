@@ -7,6 +7,9 @@ The document has grown especially during hackdays in London (host at the @salesf
 Hack-a-thons, hacktergarten and workshops held at various conferences across Europe have also helped developed them further.
 
 Below is a list of contributors both individuals and groups (in no particular order):
-- LJC (various members all those who came to our hackdays)
-- BGJUG ()
-- 
+- LJC 
+    - Julius
+    - Michael
+    - and many members who participated at the hackdays
+- BGJUG (Ivan, Martin, Dmitri)
+- CeJUG (Helio, Paulo)
