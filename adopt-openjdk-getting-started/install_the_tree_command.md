@@ -4,16 +4,16 @@ Use one of the instructions and links below to install the tree command for the 
 
 *Linux (Ubuntu/Debian)*
 ```
-sudo apt-get install tree ```
-             
+sudo apt-get install tree
+```
 
 *Mac OS*
 
 ```
 brew install tree
 sudo port install tree
-fink install tree```
-
+fink install tree
+```
 
 or 
 
