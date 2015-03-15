@@ -25,10 +25,10 @@ jdk9/nashorn(.)* warning
 ```
 Refer to https://bugs.openjdk.java.net/browse/JDK-8048839 
 
-**JavaLintSummary (Javac build warnings)**
-Link to http://openjdk.java.net/projects/code-tools/friday-stats/javacLintSummary.html and https://blogs.oracle.com/darcy/entry/warnings_removal_advice
+**JavaLintSummary (Javac build warnings)**<br/>
+Check out http://openjdk.java.net/projects/code-tools/friday-stats/javacLintSummary.html and https://blogs.oracle.com/darcy/entry/warnings_removal_advice
 
-Code base: http://hg.openjdk.java.net/code-tools/friday-stats/
+Code base can be found at http://hg.openjdk.java.net/code-tools/friday-stats/
 
 ```
 $ sudo apt-get install ant
