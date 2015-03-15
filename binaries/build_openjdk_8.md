@@ -62,7 +62,7 @@ General get_source page: https://java.net/projects/adoptopenjdk/pages/GetSource
 Note: if you’re using Mac OS X 10.8.5 with XCode 5 you’ll need to follow one of the solutions at (http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html)
 
 * [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows)<br/>
-In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and [follow the instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM). Build and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running getSource.sh).
+In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and [follow the instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM). Build and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running ```sh getSource.sh```).
 
 Configure openjdk setup (Optional if you haven’t run it)
 
