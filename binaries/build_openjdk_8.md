@@ -64,7 +64,7 @@ Note: if you’re using Mac OS X 10.8.5 with XCode 5 you’ll need to follow one
 * [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows)<br/>
 In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and [follow the instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM). Build and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running ```sh getSource.sh```).
 
-Configure openjdk setup (Optional if you haven’t run it)
+Configure Openjdk setup (Optional if you haven’t run it)
 
 ```$ bash configure```
 
