@@ -2,6 +2,9 @@
 
 *OpenJDK 8*
 ```
+Treemap of the OpenJDK project and its components
+![](SonarQube-OpenJDK.jpg)
+
 $ cd $SOURCE_CODE
 
 $ cd jdk8
