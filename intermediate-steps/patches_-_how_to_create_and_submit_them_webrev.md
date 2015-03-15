@@ -39,4 +39,4 @@ Once you have a webrev ready, contact the relevant mailing list linked to the ch
 
 At this point you must at least signed the OCA or else sending the webrev for code review won’t yield anything (see [Signing OCA](about_oca_-_signing_the_oca.md)).
 
-There is a project in the making that will help replace this process with a more github like process, see https://bitbucket.org/adoptopenjdk/betterrev.
+There is a project in the making that will help replace this process with a more [github like process](https://bitbucket.org/adoptopenjdk/betterrev).
