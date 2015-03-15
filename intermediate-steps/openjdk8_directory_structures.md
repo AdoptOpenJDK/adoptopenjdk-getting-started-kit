@@ -7,11 +7,11 @@ Below are full or partial outputs of the output from the tree command:
  
 **OpenJDK (level 1)** <br/>
 ```$ tree -L 1 -d``` <br/>
-[[image or output of above command]]
+![](OpenJDKDirStructureLevel1.png)
 
 **OpenJDK (level 2)** <br/>
 ```$ tree -L 2 -d``` <br/>
-[[image or output of above command]]
+![[[image or output of above command]]](OpenJDKDirStructureLevel2.png)
 
 **build (level 3)** <br/>
 ```
@@ -50,9 +50,8 @@ build
 ```
 Folder jaxp onwards the tree structure has been collapsed to enabling fitting of the build folder structure on this page.
 
-
 **Hotspot (all levels)**  <br/>
 ```$ tree -d hotspot```<br/>
-[[image or output of above command]]
+![](HotspotDirStructure.png)
 
 Only a partial view of the hotspot structure has been displayed on this page to enable us to fit the overview.
