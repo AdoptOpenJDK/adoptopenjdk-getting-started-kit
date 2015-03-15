@@ -2,7 +2,7 @@
 
 **I’m unable to select Rules of Compliance in Treemaps in SonarQube?**
 
-This option has been removed from the drop-down menu but apply the below SQL to update the table and refresh the treemap, the Color Metric will be mapped to RCI (called violation_density):
+This option has been removed from the drop-down menu but apply the below SQL to update the table and refresh the treemap, the Color Metric will be mapped to RCI (called ```violation_density```):
 
 ```
 update widget_properties set text_value = 'violations_density' where kee= 'colorMetric’
