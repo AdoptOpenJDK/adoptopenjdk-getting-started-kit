@@ -2,7 +2,7 @@
 
 **What is the root password to the Ubuntu OS on these VMs?**
 
-http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time
+The answer to this question can be found [at the link](http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time).
 
 **I get a freetypefont error under Ubuntu 14.04 when I run bash configure ?**
 ```text
