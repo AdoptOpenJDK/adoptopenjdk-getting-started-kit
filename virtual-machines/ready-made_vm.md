@@ -2,11 +2,11 @@
 
 **Please be mindful these files are several GB in size, so download these files only with a high-speed environment and not at a hands-on event.**
 
-*MacOS users: please use Zipeg (http://www.zipeg.com/) to uncompress the downloaded zip files and then import an appliance where its available.*
+*MacOS users: please use [Zipeg](http://www.zipeg.com/) to uncompress the downloaded zip files and then import an appliance where its available.*
 
-.OVA & .OVF files can be loaded into programs like VirtualBox using the Import Appliance… option.
+.OVA & .OVF files can be loaded into programs like *VirtualBox* using the *Import Appliance…* option.
 
-Contains OpenJDK8 source, but can be used to download and install OpenJDK9.
+Contains OpenJDK8 source, but can also be used to download and install OpenJDK9.
 
 Minimum requirements to use VM
 - 64-bit CPU running a 64-bit OS
