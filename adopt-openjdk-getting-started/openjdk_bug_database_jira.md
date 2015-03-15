@@ -1,8 +1,6 @@
 # OpenJDK Bug database (JIRA)
 
-Main dashboard: https://bugs.openjdk.java.net/secure/Dashboard.jspa
-
-Check out the [JDK bug database](https://bugs.openjdk.java.net/browse/JDK) for existing bugs and issues.
+[Main dashboard](https://bugs.openjdk.java.net/secure/Dashboard.jspa), also check out the [JDK bug database](https://bugs.openjdk.java.net/browse/JDK) for existing bugs and issues.
 
 Search for issue / bug ids via the the Quick Search option (top left corner). 
 
