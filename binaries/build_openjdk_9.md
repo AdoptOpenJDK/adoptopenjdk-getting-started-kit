@@ -1,6 +1,6 @@
 # Build OpenJDK 9
 
-Prerequisite: supporting programs to build OpenJDK8 have been installed before attempting to perform the below instructions (see https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions). Follow the below instructions to build OpenJDK9 from the jdk9 forest:
+Prerequisite: supporting programs to build OpenJDK8 have been installed before attempting to perform the below instructions, [see site](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuild). Follow the below instructions to build OpenJDK9 from the jdk9 forest:
 
 ```
 $ cd $HOME/sources```
