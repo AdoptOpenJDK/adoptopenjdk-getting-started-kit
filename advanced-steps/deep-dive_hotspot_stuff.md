@@ -5,8 +5,7 @@ GC flags in the source files in the hotspot folder
 
 * [../hotspot/src/share/vm/runtime/globals.hpp](http://cr.openjdk.java.net/~gbenson/zero-10/hotspot/src/share/vm/runtime/globals.hpp.html) in the Hotpost repo
 
-HotSpot CLI option - PrintAssembly
-* https://wiki.openjdk.java.net/display/HotSpot/PrintAssembly
+* [HotSpot CLI option - PrintAssembly](https://wiki.openjdk.java.net/display/HotSpot/PrintAssembly)
 
 Neat piece of HotSpot code block - see how branching occurs depending on the type of GC you have selected
 
