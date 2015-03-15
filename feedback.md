@@ -6,7 +6,7 @@ Your feedback means a lot to us!
 
 *Join our mailing list:*
 * email: adoption-discuss@openjdk.java.net
-* http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
+* sign-up: http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
 
 *Discontinued mailing list*
 * ~~adopt-openjdk@googlegroups.com~~
