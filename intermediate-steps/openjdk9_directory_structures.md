@@ -1,3 +1,3 @@
 # OpenJDK9 directory structures
 
-Here is a link to the same tree structures in the OpenJDK9 directory  structure - https://gist.github.com/neomatrix369/5be36b5af8768353eca4
+Take a look at some of the [tree structures](https://gist.github.com/neomatrix369/5be36b5af8768353eca4) of the various folders within the OpenJDK9 directory structure. 
