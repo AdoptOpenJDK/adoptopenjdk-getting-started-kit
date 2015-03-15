@@ -1,6 +1,6 @@
 # Testing Java Early project
 
-To bring the testing process to the community and also testing early for early feedback, the Testing Java projects has been started and supported by the [@LJCJug](http://twitter/ljcjug) and OpenJDK (i.e. @Oracle), to see a handful of Java libraries that have been enlisted, read the details on [this wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8).
+To bring the testing process to the community and also testing early for early feedback, the Testing Java projects has been started and supported by the [@LJCJug](http://twitter/ljcjug) and OpenJDK (i.e. Oracle), to see a handful of Java libraries that have been enlisted, read the details on [this wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8).
 
 But this does not need to stop here, you can select your own java library or opensource project, build it using JDK9 and then run it via JDK9 or JRE9.
 
