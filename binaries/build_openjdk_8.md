@@ -54,7 +54,7 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 .
 .
 ```
-General get_source page: https://java.net/projects/adoptopenjdk/pages/GetSource
+General [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource):
 
 * [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu)
 
