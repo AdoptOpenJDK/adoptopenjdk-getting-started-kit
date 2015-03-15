@@ -12,6 +12,8 @@ $ svn checkout https://svn.java.net/svn/sigtest~svn/trunk
 
 $ cd code/build
 
-$ ant build -Djdk5.home=/path/to/jdk1.5.latest -Djdk8.home=/path/to/jdk8.latest -Dmvn2.exe=/path/to/latest/bin/mvn
+$ ant build -Djdk5.home=/path/to/jdk1.5.latest \
+-Djdk8.home=/path/to/jdk8.latest \
+-Dmvn2.exe=/path/to/latest/bin/mvn
 ```
 Please refer to the project page for build instructions, etc… when they become available, once they do, the above instructions will be removed to avoid duplications.
