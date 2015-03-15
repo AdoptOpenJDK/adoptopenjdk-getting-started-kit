@@ -8,8 +8,6 @@ If you still need more disk space, use the above solution to increase the size o
 
 **How do I change the disk size of the VDIs on the VMs?**
 
-Recommended link shared with the community by Richard Greenlees
-
-http://bit.ly/1qgfZJ7
+[Recommended link shared with the community by Richard Greenlees](http://bit.ly/1qgfZJ7
 http://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/
-https://forums.virtualbox.org/viewtopic.php?t=10348
+https://forums.virtualbox.org/viewtopic.php?t=10348)
