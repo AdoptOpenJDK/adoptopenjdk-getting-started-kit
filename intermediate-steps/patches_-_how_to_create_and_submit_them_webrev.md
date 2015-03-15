@@ -24,7 +24,7 @@ M src/main.py
 D src/watcher/watcher.py
 ? src/xyzzy.txt
 ```
-* And then run webrev as a command-line action as mentioned on this site http://openjdk.java.net/guide/webrevHelp.html, some more links can be found at  http://openjdk.java.net/guide/codeReview.html and http://illumos.org/man/webrev.
+* And then run webrev as a command-line action as mentioned on the [Wiki](http://openjdk.java.net/guide/webrevHelp.html), some more links can be found at  http://openjdk.java.net/guide/codeReview.html and http://illumos.org/man/webrev.
 
 It will create a folder .webrev which contains the artifacts and code-review material you will need to host somewhere and then post the link to that to the respective mailing lists.
 
