@@ -6,8 +6,7 @@ Go to BIOS setting by restarting and enable Virtualization Technology Under the 
 
 **On Windows VM host, the Ubuntu guest is not connected to the internet**
 
-Go to network connections -> Virtual Box Host Only connection -> Select "Properties" -> Check VirtualBox Bridged Networking Driver.
+Go to ```Network connections -> Virtual Box Host Only connection -> Select "Properties" -> Check VirtualBox Bridged Networking Driver```.
 
-Now, internet on guest should work.
-
-http://stackoverflow.com/questions/35375/internet-access-in-ubuntu-on-virtualbox
+Now, internet on guest should work, [see link](
+http://stackoverflow.com/questions/35375/internet-access-in-ubuntu-on-virtualbox).
