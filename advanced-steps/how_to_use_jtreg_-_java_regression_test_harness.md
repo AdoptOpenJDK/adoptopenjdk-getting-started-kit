@@ -14,8 +14,7 @@ After doing the above make a copy of the win32, linux and lib sub-folders from w
 ~~$ cd $HOME/jtreg/lib/~~
 ~~$ wget http://repo1.maven.org/maven2/com/beust/jcommander/1.7/jcommander-1.7.jar~~
 
-Interesting blog on what to keep in mind before writing tests:
-http://arkangelofkaos.blogspot.co.uk/2013/05/openjdk-test-fest-23rd-march-2013.html
+Interesting [blog](http://arkangelofkaos.blogspot.co.uk/2013/05/openjdk-test-fest-23rd-march-2013.html) on what to keep in mind before writing tests.
 
 To see an online help for JTReg perform the below command:
 ```
