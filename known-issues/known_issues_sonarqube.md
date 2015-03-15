@@ -6,4 +6,4 @@ This option has been removed from the drop-down menu but apply the below SQL to 
 
 update widget_properties set text_value = 'violations_density' where kee= 'colorMetric’
 
-In SonarQube 4.5.1, the Violations Density metric is not shown. We could use the SQALE Rating, which is another way to measure code quality - http://www.sonarqube.org/sqale-the-ultimate-quality-model-to-assess-technical-debt/ 
+In SonarQube 4.5.1, the Violations Density metric is not shown. We could use the SQALE Rating, which is another way to measure [code quality](http://www.sonarqube.org/sqale-the-ultimate-quality-model-to-assess-technical-debt/).
