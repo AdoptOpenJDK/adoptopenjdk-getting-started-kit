@@ -11,8 +11,7 @@
 
 This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like http://adoptopenjdk.java.net and http://openjdk.java.net/, and does not override or replace these resources.
 
-Please read and implement the below when attending the presentation or hands-on session!
-
 ---
+
 {% include "SUMMARY.md" %}
 
