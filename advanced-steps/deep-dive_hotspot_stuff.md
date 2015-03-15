@@ -18,7 +18,7 @@ Neat piece of HotSpot code block - see how branching occurs depending on the typ
 
 (http://www.weblogic-training.com/performance-tuning/difference-between-serial-gc-parallgc-cms-(-concurrent-mark-sweep)-gc/)
 
-Code snippet from  [```./hotspot/src/share/vm/memory/universe.cpp```](http://hg.openjdk.java.net/jdk6/jdk6/hotspot/raw-file/a541ca8fa0e3/src/share/vm/memory/universe.cpp)
+Code snippet from  [./hotspot/src/share/vm/memory/universe.cpp](http://hg.openjdk.java.net/jdk6/jdk6/hotspot/raw-file/a541ca8fa0e3/src/share/vm/memory/universe.cpp)
 
 ```java
 .
