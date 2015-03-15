@@ -13,7 +13,7 @@ This document is meant to make it easier for "first time" developers to get star
 
 **Known issue with GitBooks.IO**: some markdown links are returning a ```404 error``` when you click on the link, removing the trailing ```null``` text from the url fixes the problem. This is a [known issue](https://github.com/GitbookIO/documentation/issues/17) and is affecting the UX of this book, and has been reported to the author, our apologies for the inconvenience. 
 
-####[I want to get started...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/)
+#####[Let's get started...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/)
 
 ---
 
