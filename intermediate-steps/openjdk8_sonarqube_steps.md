@@ -17,7 +17,7 @@ $ sonar-runner
 $ cd ../hotspot
 ```
 
-Download and install Sonar C/C++ plugin (github: https://github.com/wenns/sonar-cxx) and then download the sonar-project.properties and place it in the hotspot folder, and run the below command:
+Download and install Sonar C/C++ plugin on [github](https://github.com/wenns/sonar-cxx) and then download the sonar-project.properties and place it in the hotspot folder, and run the below command:
 
 ```
 $ sonar-runner
