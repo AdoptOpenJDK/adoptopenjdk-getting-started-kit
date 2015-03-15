@@ -57,7 +57,7 @@ $ sonar-runner
 Note: If the command fails due to a memory problem, run the below command a re-run the previous one:
 
 ```
-$ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m -XX:MaxPermSize=512m -XX:ReservedCodeCacheSize=128m”
+$ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \ -XX:MaxPermSize=512m -XX:ReservedCodeCacheSize=128m”
 
 $ cd ../nashorn
 ```
