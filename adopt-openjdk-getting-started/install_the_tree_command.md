@@ -17,11 +17,10 @@ fink install tree
 
 or 
 
-follow the link for more options
-http://superuser.com/questions/359723/mac-os-x-equivalent-of-the-ubuntu-tree-command
+follow [the link](http://superuser.com/questions/359723/mac-os-x-equivalent-of-the-ubuntu-tree-command
+) for more options.
 
 *Windows XP or higher*
 
-The tree command is already available in the Windows OS, starting from Windows XP:
-
-http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/tree.mspx?mfr=true
+The tree command is already available on the [Windows OS, starting from Windows XP](
+http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/tree.mspx?mfr=true).
