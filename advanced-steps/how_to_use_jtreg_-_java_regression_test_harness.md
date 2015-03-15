@@ -3,7 +3,7 @@
  * [Problems.txt](advanced-steps/problems.txt)
  * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
 
-Follow the instructions on https://java.net/projects/adoptopenjdk/pages/InstallJtreg and https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg to learn more about the OpenJDK JTReg. For more details steps to build JTReg have a look at http://openjdk.java.net/jtreg/build.html.
+Follow the instructions on https://java.net/projects/adoptopenjdk/pages/InstallJtreg and https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg to learn more about the OpenJDK JTReg. For more details steps to build JTReg have a look at [the link](http://openjdk.java.net/jtreg/build.html).
 
 Download latest JTReg artifact from the [Adopt OpenJDK Cloudbees Jenkin server]( https://adopt-openjdk.ci.cloudbees.com/job/jtreg/lastSuccessfulBuild/artifact/).
 
