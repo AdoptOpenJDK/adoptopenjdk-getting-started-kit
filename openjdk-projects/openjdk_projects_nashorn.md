@@ -1,6 +1,6 @@
 # Nashorn (pronounced: ˈnaːshɔɐ̯n)
 
-Javascript runtime for the JVM (replacement for Rhino). 
+Javascript runtime for the JVM (follow-on from Rhino). 
 
 Project: <br/>
 http://openjdk.java.net/projects/nashorn/
