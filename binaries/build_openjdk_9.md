@@ -47,5 +47,4 @@ or
 $ make clean images LOG=debug     // to display DEBUG information 
 ```
 
-Nashorn forest for jdk9:
-http://hg.openjdk.java.net/nashorn/jdk9
+Check out the [Nashorn forest](http://hg.openjdk.java.net/nashorn/jdk9) for jdk9.
