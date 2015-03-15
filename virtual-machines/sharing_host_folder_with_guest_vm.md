@@ -2,7 +2,7 @@
 
 To access Java source from your IDE, and build the same source code from Ubuntu VBOX-VM 
 
-As tested on Mac OSX 10.10 running Eclipse and VirtualBox 4.3.20 running VM: Ubuntu_12.04_OpenJDK_dev_1
+As tested on *Mac OSX 10.10* running *Eclipse* and *VirtualBox 4.3.20* running VM (Ubuntu_12.04_OpenJDK_dev_1).
 
 Create a folder on host machine eg ~/Public/Java
 
