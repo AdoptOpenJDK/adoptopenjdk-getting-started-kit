@@ -3,8 +3,7 @@
 GC flags in the source files in the hotspot folder
 * http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/4967eb4f67a9/src/share/vm/gc_implementation/g1/g1_globals.hpp (../hotspot/src/share/vm/gc_implementation/g1/g1_globals.hpp in the Hotspot repo)
 
-* http://cr.openjdk.java.net/~gbenson/zero-10/hotspot/src/share/vm/runtime/globals.hpp.html
-(../hotspot/src/share/vm/runtime/globals.hpp in the Hotpost repo)
+* [../hotspot/src/share/vm/runtime/globals.hpp](http://cr.openjdk.java.net/~gbenson/zero-10/hotspot/src/share/vm/runtime/globals.hpp.html) in the Hotpost repo
 
 HotSpot CLI option - PrintAssembly
 * https://wiki.openjdk.java.net/display/HotSpot/PrintAssembly
