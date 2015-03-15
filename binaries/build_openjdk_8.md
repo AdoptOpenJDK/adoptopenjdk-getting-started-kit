@@ -68,11 +68,9 @@ Configure openjdk setup (Optional if you haven’t run it)
 
 ```$ bash configure```
 
-
 Clean build with Images
 
 ```$ make clean images```
-
 
 or
 
