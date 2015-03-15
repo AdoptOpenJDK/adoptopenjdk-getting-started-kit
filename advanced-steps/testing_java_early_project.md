@@ -8,4 +8,4 @@ Ensure you set your PATH and/or JAVA_HOME to point to the JDK image you built us
 
 Record all responses at each of these steps and inform the owners of such libraries or projects using their mailing list or on their project page (github or bitbucket). Also copy the Adoption Discuss mailing list in. In case of an issue contact the owners of the project, Adoption Discuss and the relevant OpenJDK mailing list.
 
-Here is a sample scratchpad of notes of [JBoss Forge built using JDK image created from OpenJDK9](https://gist.github.com/neomatrix369/9fa4147ee8999cfd3a4e), consequently you can setup a local or remote Jenkins image which builds and runs projects using this image.
+Here is a sample scratchpad of notes of [JBoss Forge built using the JDK image created from OpenJDK9](https://gist.github.com/neomatrix369/9fa4147ee8999cfd3a4e), consequently you can setup a local or remote Jenkins image which builds and runs projects using this image.
