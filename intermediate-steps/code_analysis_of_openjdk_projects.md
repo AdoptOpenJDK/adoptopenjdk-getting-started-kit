@@ -54,4 +54,4 @@ $ /opt/sonarqube-4.5.1/bin/linux-x86-64/sonar.sh start   (path may differ)
 Sample visual from SonarQube<br/>
 (jdk repo not included; jitwatch included; zoom to see repo names;)
 
-[[SonarQube Treemap Image]]
+![[[SonarQube Treemap Image]]](SonarQube-OpenJDK8-treemap.jpg)
