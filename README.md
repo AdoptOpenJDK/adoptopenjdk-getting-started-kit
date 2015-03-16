@@ -27,4 +27,6 @@ or
 
 clone the repo **git@github.com:neomatrix369/adoptopenjdk-getting-started-kit.git**, make your amendments, and create a pull request.
 
+Some [documentation](http://help.gitbook.com/) and [how to install GitBook](https://github.com/GitbookIO/gitbook) locally should also help in the process.
+
 ---
