@@ -21,7 +21,7 @@ This document is meant to make it easier for "first time" developers to get star
 
 ##### Want to contribute to this book ?
 
-Create an account on [Gitbook.com](http://Gitbook.com) and request to become a collaborator to the GitBook (http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
+Create an account on [Gitbook.com](http://www.gitbook.com/login) and request to become a collaborator to the GitBook (http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
 
 or 
 
