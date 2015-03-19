@@ -20,15 +20,18 @@ Minimum requirements to use VM
 
 __Ubuntu 12.04 VM with OpenJDK Sources (no IDE installed)__<br/>
 (VM contains OpenJDK sources and JTReg, no IDEs are installed)<br/>
+
 https://copy.com/US0ojEDg1oRc <br/>
 - Login/password: openjdk / openjdk -
 
 __Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
 (VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)<br/>
+
 http://bit.ly/1bgs369 <br/>
 - Login/password: openjdk / j1a2v3a4 -
 
 __Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
+
 http://bit.ly/1gcCxQR <br/>
 - Login/password: openjdk / openjdk -
 
@@ -38,6 +41,7 @@ http://bit.ly/1gcCxQR <br/>
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__
 - Login/password: openjdk / openjdk123 -
 
-__Fedora VM with OpenJDK Sources (no IDE installed) - JDK9__
-[ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova](ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova)
+__Fedora VM with OpenJDK Sources (no IDE installed) - JDK9__<br/>
+
+[ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova](ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova)<br/>
 - Login/password: openjdk / openjdk -
