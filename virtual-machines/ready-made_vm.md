@@ -18,7 +18,7 @@ Minimum requirements to use VM
 - understanding of Java
 - some knowledge of the OpenJDK
 
-__Ubuntu 12.04 VM with OpenJDK Sources (no IDE installed)__
+__Ubuntu 12.04 VM with OpenJDK Sources (no IDE installed)__<br/>
 https://copy.com/US0ojEDg1oRc 
 (VM contains OpenJDK sources and JTReg, no IDEs are installed)
 - Login/password: openjdk / openjdk -
