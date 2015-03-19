@@ -7,4 +7,4 @@ Read all about it in this at:
 * [Video](http://www.youtube.com/watch?v=Cvyo0rfSQsw)
 * [PDF (full presentation)](http://bit.ly/16QUelB)
 * [PPT full presentation)](http://bit.ly/1aXtErZ)
-* [Recent blog post]
+* [Recent blog post on Voxxed](https://www.voxxed.com/blog/2015/01/java-jvm-built-adopt-openjdk-answer/)
