@@ -7,3 +7,4 @@
 * [OpenJDK developers Guide](openjdk_developers_guide.md)
 * [Patches - how to create and submit them (webrev)](patches_-_how_to_create_and_submit_them_webrev.md)
 * [JEPs - JDK Enhancement Proposals](jeps_-_jdk_enhancement_proposals.md)
+* [Code Analysis of OpenJDK projects](code_analysis_of_openjdk_projects.md)
