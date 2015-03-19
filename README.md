@@ -15,10 +15,6 @@ This document is meant to make it easier for "first time" developers to get star
 
 <br/>
 
-**Known issue with GitBooks.IO**: some markdown links are returning a ```404 error``` when you click on the link, removing the trailing ```null``` text from the url fixes the problem. This is a [known issue](https://github.com/GitbookIO/documentation/issues/17) and is affecting the UX of this book, and has been reported to the author, our apologies for the inconvenience. 
-
-<br/>
-
 ##### Want to contribute to this book ?
 
 Create an account on [Gitbook.com](http://www.gitbook.com/login) and [request to become a collaborator](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) to the [Adopt OpenJDK GitBook](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
