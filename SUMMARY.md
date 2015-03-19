@@ -14,6 +14,7 @@
 * [Virtual Machines](virtual-machines/virtual_machines.md)
    * [Ready-made VM](virtual-machines/ready-made_vm.md)
    * [Build your own VM](virtual-machines/build_your_own_vm.md)
+   * [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
    * [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
 * [Binaries](binaries/binaries.md)
    * [OpenJDK Early Access](binaries/openjdk_early_access.md)
