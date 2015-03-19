@@ -47,6 +47,7 @@ http://bit.ly/1gcCxQR <br/>
 ---
 
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__<br/>
+(available via portable drive during the hackday)
 -Login/password: openjdk / openjdk123 -
 
 ---
