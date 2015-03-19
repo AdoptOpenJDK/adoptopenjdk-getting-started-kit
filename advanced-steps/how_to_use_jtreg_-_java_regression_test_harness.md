@@ -1,7 +1,7 @@
 # How to use JTReg… - Java Regression Test Harness ?
 
- * [Problems.txt](advanced-steps/problems.txt.md)
- * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
+ * [Problems.txt](problems.txt.md)
+ * [Examples of annotations in the header of test files](test-annotations.md)
 
 Follow the instructions on https://java.net/projects/adoptopenjdk/pages/InstallJtreg and https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg to learn more about the OpenJDK JTReg. For more details steps to build JTReg have a look at [the link](http://openjdk.java.net/jtreg/build.html).
 
