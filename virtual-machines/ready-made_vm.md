@@ -23,13 +23,17 @@ __Ubuntu 12.04 VM with OpenJDK Sources (no IDE installed)__<br/>
 
 https://copy.com/US0ojEDg1oRc <br/>
 - Login/password: openjdk / openjdk -
+
 ---
+
 __Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
 (VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)<br/>
 
 http://bit.ly/1bgs369 <br/>
 - Login/password: openjdk / j1a2v3a4 -
+
 ---
+
 __Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
 
 http://bit.ly/1gcCxQR <br/>
@@ -37,7 +41,9 @@ http://bit.ly/1gcCxQR <br/>
 
 [ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova](ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova)
 - Login/password: openjdk / j1a2v3a4 -
+
 ---
+
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__
 - Login/password: openjdk / openjdk123 -
 ---
