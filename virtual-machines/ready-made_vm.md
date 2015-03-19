@@ -4,6 +4,8 @@
 
 *MacOS users: please use [Zipeg](http://www.zipeg.com/) to uncompress the downloaded zip files and then import an appliance where its available.*
 
+**Install a Download Manager before downloading any of the below files**
+
 .OVA & .OVF files can be loaded into programs like *VirtualBox* using the *Import Appliance…* option.
 
 Contains OpenJDK8 source, but can also be used to download and install OpenJDK9.
