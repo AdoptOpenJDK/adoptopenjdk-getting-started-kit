@@ -19,13 +19,13 @@ Minimum requirements to use VM
 - some knowledge of the OpenJDK
 
 __Ubuntu 12.04 VM with OpenJDK Sources (no IDE installed)__<br/>
-https://copy.com/US0ojEDg1oRc 
-(VM contains OpenJDK sources and JTReg, no IDEs are installed)
+(VM contains OpenJDK sources and JTReg, no IDEs are installed)<br/>
+https://copy.com/US0ojEDg1oRc <br/>
 - Login/password: openjdk / openjdk -
 
-__Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__
-http://bit.ly/1bgs369 
-(VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)
+__Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
+(VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)<br/>
+http://bit.ly/1bgs369 <br/>
 - Login/password: openjdk / j1a2v3a4 -
 
 __Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__
