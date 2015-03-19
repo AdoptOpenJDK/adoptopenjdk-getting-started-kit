@@ -28,16 +28,16 @@ __Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
 http://bit.ly/1bgs369 <br/>
 - Login/password: openjdk / j1a2v3a4 -
 
-__Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__
-http://bit.ly/1gcCxQR 
+__Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
+http://bit.ly/1gcCxQR <br/>
 - Login/password: openjdk / openjdk -
 
-ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova
+[ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova](ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova)
 - Login/password: openjdk / j1a2v3a4 -
 
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__
 - Login/password: openjdk / openjdk123 -
 
 __Fedora VM with OpenJDK Sources (no IDE installed) - JDK9__
-ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova
+[ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova](ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova)
 - Login/password: openjdk / openjdk -
