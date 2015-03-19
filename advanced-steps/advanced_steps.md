@@ -14,7 +14,7 @@
        * [Change the StringBuffer.java class to add the below method](change_the_stringbufferjava_class_to_add_the_below_method.md)
        * [How to use JTReg… - Java Regression Test Harness ?](how_to_use_jtreg_-_java_regression_test_harness.md)
            * [Problems.txt](problems.txt.md)
-           * [Examples of annotations in the header of test]
+           * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
 
 
 ### Coming soon…
