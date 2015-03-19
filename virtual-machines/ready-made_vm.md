@@ -48,7 +48,9 @@ http://bit.ly/1gcCxQR <br/>
 
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__<br/>
 -Login/password: openjdk / openjdk123 -
+
 ---
+
 __Fedora VM with OpenJDK Sources (no IDE installed) - JDK9__<br/>
 
 [ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova](ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova)<br/>
