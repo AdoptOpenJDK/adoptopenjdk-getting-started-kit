@@ -16,7 +16,6 @@
            * [Problems.txt](problems.txt.md)
            * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
 
-
 ### Coming soon…
 
 * Nashorn goodies…
