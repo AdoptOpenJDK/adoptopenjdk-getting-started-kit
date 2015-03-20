@@ -43,7 +43,6 @@ $ sonar-runner
 $ cd ../hotspot
 ```
 Download and install Sonar C/C++ plugin from
-
 [Sonar C/C++ plugin on github](https://github.com/wenns/sonar-cxx)
 
 
