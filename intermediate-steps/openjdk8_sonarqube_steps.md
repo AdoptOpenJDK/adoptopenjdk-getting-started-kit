@@ -158,7 +158,23 @@ $ cd ../jdk
 Create/update ```sonar-project.properties``` in the ```jdk``` folder, containing:
 
 ```
+# required metadata
+sonar.projectKey=OpenJDK-jdk
+sonar.projectName=OpenJDK-jdk
+sonar.projectVersion=1.0
 
+# path to source directories (required)
+#sonar.sources=src/macosx/classes, src/solaris/classes, src/windows/classes, src/share/classes
+sonar.sources=src
+
+# path to test source directories (optional)
+sonar.tests=test
+sonar.test.exclusions=test/java/lang/instrument/BigClass.java
+sonar.exclusions=sonar.exclusions=**/*.doc,**/*.docx,**/*.ipch
+sonar.skipPackageDesign=true
+
+# path to project binaries (optional), for example directory of Java bytecode
+sonar.binaries=../build/linux-x86_64-normal-server-release/jdk
 ```
 
 and run the below command:
