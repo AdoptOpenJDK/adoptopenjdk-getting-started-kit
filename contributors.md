@@ -11,6 +11,7 @@ Below is a list of contributors both individuals and groups (in no particular or
     - Julius Gamanyi
     - Mike Burton
     - Mike Bateman
+    - John Patrick
     - and many members who participated at the hackdays
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo)
