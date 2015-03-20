@@ -32,11 +32,12 @@ and run the below command:
 
 ```
 $ sonar-runner
+```
+---
 
+```
 $ cd ../hotspot
 ```
-
-
 Download and install Sonar C/C++ plugin from
 ```
 [github](https://github.com/wenns/sonar-cxx)
@@ -60,7 +61,10 @@ and run the below command:
 
 ```
 $ sonar-runner
+```
+---
 
+```
 $ cd ../langtools
 ```
 
@@ -86,11 +90,14 @@ and run the below command:
 
 ```
 $ sonar-runner
+```
+---
 
+```
 $ cd ../jaxp
 ```
 
-Create/update ```pom.xml``` and place it in the ```jaxp``` folder containing:
+Create/update ```pom.xml``` and in the ```jaxp``` folder containing:
 ```
 <project
     xmlns="http://maven.apache.org/POM/4.0.0"
@@ -115,18 +122,46 @@ and run the below command:
 
 ```
 $ mvn sonar:sonar
-
+```
+---
+```
 $ cd ../jaxws
 ```
-Download the sonar-project.properties and place it in the jaxws folder, and run the below command:
+Create/update ```sonar-project.properties``` in the ```jaxws``` folder containing:
+
+```
+# required metadata
+sonar.projectKey=OpenJDK-jaxws
+sonar.projectName=OpenJDK-jaxws
+sonar.projectVersion=1.0
+
+# path to source directories (required)
+sonar.sources=src/share/jaf_classes,src/share/jaxws_classes
+
+# path to test source directories (optional)
+#sonar.tests=test
+
+# path to project binaries (optional), for example directory of Java bytecode
+sonar.binaries=../build/linux-x86_64-normal-server-release/jaxws
+```
+
+and run the below command:
 
 ```
 $ sonar-runner
-
+```
+---
+```
 $ cd ../jdk
 ```
 
-Download the sonar-project.properties and place it in the jdk folder,  and run the below command:
+Create/update ```sonar-project.properties``` in the ```jdk``` folder, containing:
+
+```
+
+```
+
+and run the below command:
 
 ```
 $ sonar-runner
