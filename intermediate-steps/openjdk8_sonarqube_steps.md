@@ -174,7 +174,7 @@ sonar.exclusions=sonar.exclusions=**/*.doc,**/*.docx,**/*.ipch
 sonar.skipPackageDesign=true
 
 # path to project binaries (optional), for example directory of Java bytecode
-sonar.binaries=../build/linux-x86_64-normal-server-release/jdk
+sonar.binaries=../build/linux-x86_64-normal-server-release/jdkO
 ```
 
 and run the below command:
