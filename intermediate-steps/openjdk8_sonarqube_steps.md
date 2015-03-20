@@ -130,6 +130,7 @@ and run the below command:
 $ mvn sonar:sonar
 ```
 ---
+**JaxWs**
 ```
 $ cd ../jaxws
 ```
