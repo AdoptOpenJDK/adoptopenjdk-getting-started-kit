@@ -38,7 +38,7 @@ If the virtual machine boots but you see apt errors. Try logging in aka <code>va
 
 Windows users will need to skip <code>vagrant ssh</code> and once the vm has booted scan the output to see what port it being used for ssh and use putty to login.
 
-#### Initial Vagrant VM setup
+##### Initial Vagrant VM setup
 Once the vm has booted and dependencies have been installed the next script will download the latest version of jdk9, if already cloned it will update so multiple execute is handled.
 
 ```
