@@ -70,7 +70,7 @@ $ cd ../langtools
 
 Create/update ```sonar-project.properties``` in the ```langtools``` repo containing:
 
-```
+```properties
 # required metadata
 sonar.projectKey=OpenJDK-langtools
 sonar.projectName=OpenJDK-langtools
