@@ -1,4 +1,4 @@
-![](https://londonjavacommunity.files.wordpress.com/2009/11/bannerblog.jpg)
+[![](https://londonjavacommunity.files.wordpress.com/2009/11/bannerblog.jpg)](https://londonjavacommunity.wordpress.com/tag/london-java-community/)
 
 ![](AdoptOpenJDKLogo-100x100.png) Adopt OpenJDK - Getting Started Kit... 
 ---
