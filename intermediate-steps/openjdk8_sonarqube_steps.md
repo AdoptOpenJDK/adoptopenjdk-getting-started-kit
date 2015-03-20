@@ -225,4 +225,4 @@ and run :
 $ sonar-runner
 ```
 
-When done, load SonarQube in the browser via http://localhost:9000 to view the results of the above actions. 
+When done, load SonarQube in the browser via http://localhost:9000 to view the results of the above actions.
