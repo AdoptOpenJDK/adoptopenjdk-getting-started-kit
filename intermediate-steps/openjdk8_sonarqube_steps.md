@@ -200,6 +200,7 @@ $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
 **Nashorn**
 ```
 ---
+```
 $ cd ../nashorn
 ```
 
