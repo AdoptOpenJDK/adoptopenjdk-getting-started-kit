@@ -46,7 +46,7 @@ Once the vm has booted and dependencies have been installed the next script will
   $ /vagrant/scripts/source.sh
 ```
 
-#### OpenJDK 9 Build
+##### OpenJDK 9 Build
 ```
   $ vagrant ssh
   $ cd ~/source/jdk9 ;
