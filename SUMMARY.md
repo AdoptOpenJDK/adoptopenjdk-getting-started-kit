@@ -60,7 +60,6 @@
        * [How to use JTReg… - Java Regression Test Harness ?](advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
            * [Problems.txt](advanced-steps/problems.txt.md)
            * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
-* [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
 * [Known issues](known-issues/known_issues.md)
    * [Linux/Unix](known-issues/known_issues_linuxunix.md)
    * [MacOS](known-issues/known_issues_macos.md)
