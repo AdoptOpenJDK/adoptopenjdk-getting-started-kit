@@ -21,17 +21,7 @@ Once vagrant is installed please execute the following command line, it's 377MB 
 
 ```vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";```
 
-On a slow home broadband from zero to full build of OpenJDK 9 can take an hou (machine spec: Using a MacBookPro 2013 with 16GB and SSD)
-
-## Boot Vagrant VM
-The vagrant setup is configured to use the official Ubuntu 14.10 64bit vagrant box provided by Ubuntu. So not a specially customised preconfigured vm. The main reason to this as the base, it that it's up to date, has an proven and tested openjdk-8 installation so no need to built it yourself.
-
-**Before starting feel free to edit the Vagrantfile if your machine has more than 1 cpu and 512MB avaliable. When developing I used 2 cpus and 2048 memory. On 1st boot it will automatically download the vm image which is roughly 350MB. **
-
-```
-  $ vagrant up
-  $ vagrant ssh
-```
+On a slow home broadband from zero to full build of OpenJDK 9 can take an hour (machine spec: Using a MacBookPro 2013 with 16GB and SSD)
 
 ##### Troubleshooting
 If the virtual machine boots but you see apt errors. Try logging in aka <code>vagrant ssh</code> and then execute <code>$ sudo /vagrant/scripts/aptget-deps.sh</code>. This is the main reason it's a seperate script so can be manually re-executed if required.
