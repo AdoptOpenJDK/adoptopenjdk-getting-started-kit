@@ -7,7 +7,7 @@ Its also a file to look into when looking for things to do in the areas of ‘te
 ```
 $ cd $HOME/sources/jdk8_tl
 $ tree -f | grep ProblemList.txt
-│   │   ├── ./jdk/test/ProblemList.txt   ⇐ what we get
+│   │   ├── ./jdk/test/ProblemList.txt ⇐ what we get
 ```
 
 or 
