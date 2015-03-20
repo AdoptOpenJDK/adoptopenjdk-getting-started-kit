@@ -1,9 +1,7 @@
 # Patches - how to create and submit them (webrev)
 
 * Ensure webrev.ksh is available or [download it from](http://hg.openjdk.java.net/code-tools/webrev/raw-file/tip/webrev.ksh).
-
 * Make the necessary OpenJDK changes
-
 * Check for these changes using the below command
 
 ```
