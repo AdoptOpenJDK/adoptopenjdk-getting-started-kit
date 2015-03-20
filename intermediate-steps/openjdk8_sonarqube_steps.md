@@ -196,9 +196,13 @@ Note: If the command fails due to a memory problem, run the below command a re-r
 ```
 $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
 -XX:MaxPermSize=512m -XX:ReservedCodeCacheSize=128m”
+
+---
+
 ```
 **Nashorn**
----
+
+
 ```
 $ cd ../nashorn
 ```
