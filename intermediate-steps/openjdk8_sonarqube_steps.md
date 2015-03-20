@@ -16,8 +16,8 @@ $ cd corba
 Create/update ```sonar-project.properties``` in the ```corba``` repo containing:
 ```
 # required metadata
-sonar.projectKey=OpenJDK-corba
-sonar.projectName=OpenJDK-corba
+sonar.projectKey=OpenJDK8-corba
+sonar.projectName=OpenJDK8-corba
 sonar.projectVersion=1.0
 
 # path to source directories (required)
@@ -47,8 +47,8 @@ Create/update ```sonar-project.properties``` in the ```hotspot``` repo containin
 
 ```
 # required metadata
-sonar.projectKey=OpenJDK-hotspot
-sonar.projectName=OpenJDK-hotspot
+sonar.projectKey=OpenJDK8-hotspot
+sonar.projectName=OpenJDK8-hotspot
 sonar.projectVersion=1.0
 
 # path to source directories (required)
@@ -72,8 +72,8 @@ Create/update ```sonar-project.properties``` in the ```langtools``` repo contain
 
 ```
 # required metadata
-sonar.projectKey=OpenJDK-langtools
-sonar.projectName=OpenJDK-langtools
+sonar.projectKey=OpenJDK8-langtools
+sonar.projectName=OpenJDK8-langtools
 sonar.projectVersion=1.0
 
 # path to source directories (required)
@@ -105,10 +105,10 @@ Create/update ```pom.xml``` and in the ```jaxp``` folder containing:
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.ljc</groupId>
-    <artifactId>OpenJDK-jaxp</artifactId>
+    <artifactId>OpenJDK8-jaxp</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
-    <name>OpenJDK-jaxp</name>
+    <name>OpenJDK8-jaxp</name>
     <build>
         <sourceDirectory>src</sourceDirectory>
     </build>
@@ -131,8 +131,8 @@ Create/update ```sonar-project.properties``` in the ```jaxws``` folder containin
 
 ```
 # required metadata
-sonar.projectKey=OpenJDK-jaxws
-sonar.projectName=OpenJDK-jaxws
+sonar.projectKey=OpenJDK8-jaxws
+sonar.projectName=OpenJDK8-jaxws
 sonar.projectVersion=1.0
 
 # path to source directories (required)
@@ -159,8 +159,8 @@ Create/update ```sonar-project.properties``` in the ```jdk``` folder, containing
 
 ```
 # required metadata
-sonar.projectKey=OpenJDK-jdk
-sonar.projectName=OpenJDK-jdk
+sonar.projectKey=OpenJDK8-jdk
+sonar.projectName=OpenJDK8-jdk
 sonar.projectVersion=1.0
 
 # path to source directories (required)
