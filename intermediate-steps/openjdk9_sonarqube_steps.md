@@ -6,7 +6,7 @@
 ```
 $ cd $SOURCE_CODE
 
-$ cd jdk8
+$ cd jdk9
 ```
 ---
 
