@@ -167,7 +167,6 @@ sonar.projectName=OpenJDK9-jdk
 sonar.projectVersion=1.0
 
 # path to source directories (required)
-#sonar.sources=src/macosx/classes, src/solaris/classes, src/windows/classes, src/share/classes
 sonar.sources=src
 
 # path to test source directories (optional)
