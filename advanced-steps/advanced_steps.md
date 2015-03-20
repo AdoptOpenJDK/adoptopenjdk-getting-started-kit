@@ -2,9 +2,9 @@
 
 * [Advanced steps](advanced_steps.md)
    * [Building jcov](building_jcov.md)
+   * [Building sigtest](building_sigtest.md)
    * [OpenJDK Code coverage](openjdk_code_coverage.md)
    * [Deep-dive Hotspot stuff](deep-dive_hotspot_stuff.md)
-   * [Building sigtest](building_sigtest.md)
    * [Compiler stuff](compiler_stuff.md)
    * [Change java.c & run Hotspot from within Eclipse](change_javac_&_run_hotspot_from_within_eclipse.md)
    * [Change java.c & run Hotspot from the CLI](change_javac_&_run_hotspot_from_the_cli.md)
