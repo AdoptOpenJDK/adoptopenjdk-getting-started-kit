@@ -6,7 +6,8 @@ As tested on *Mac OSX 10.10* running *VirtualBox 4.3.20* with the Ubuntu_12.04_O
 
 We tried using VirtualBox shared folders, but the Open JDK build environment has problems running in a shared folder, particularly concerning C++ precompiled headers. It would be nice to get this working at some stage, and only fire up the VM when you want to build, but for now we can leave the VM running and access its files from the host computer via Samba, as detailed below. 
 
-[Old stuff to delete... ]
+
+###[Old stuff to delete... ]
 Create a folder on host machine such as ```~/Public/Java```
 
 Make sure that the Ubuntu VM has guest additions installed:
