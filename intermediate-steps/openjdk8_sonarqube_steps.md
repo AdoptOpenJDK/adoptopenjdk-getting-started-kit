@@ -13,7 +13,7 @@ $ cd jdk8
 $ cd corba
 ```
 
-Create/update sonar-project.properties in the corba repo containing
+Create/update sonar-project.properties in the ```corba``` repo containing:
 ```
 # required metadata
 sonar.projectKey=OpenJDK-corba
@@ -36,7 +36,27 @@ $ sonar-runner
 $ cd ../hotspot
 ```
 
-Download and install Sonar C/C++ plugin on [github](https://github.com/wenns/sonar-cxx) and then download the sonar-project.properties and place it in the hotspot folder, and run the below command:
+
+Download and install Sonar C/C++ plugin from
+```
+[github](https://github.com/wenns/sonar-cxx)
+```
+
+Create/update sonar-project.properties in the ```hotspot``` repo containing:
+
+```
+# required metadata
+sonar.projectKey=OpenJDK-hotspot
+sonar.projectName=OpenJDK-hotspot
+sonar.projectVersion=1.0
+
+# path to source directories (required)
+sonar.sources=src
+
+# path to project binaries (optional), for example directory of Java bytecode
+sonar.binaries=../build/linux-x86_64-normal-server-release/hotspot
+```
+and run the below command:
 
 ```
 $ sonar-runner
