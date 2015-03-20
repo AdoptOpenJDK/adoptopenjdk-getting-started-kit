@@ -33,8 +33,9 @@
 * [Intermediate steps](intermediate-steps/intermediate_steps.md)
    * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
        * [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
+       * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
    * [Command-line arguments for build performance optimisation](intermediate-steps/command-line_arguments_for_build_performance_optimisation.md)
-   * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
+   
    * [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
    * [OpenJDK developers Guide](intermediate-steps/openjdk_developers_guide.md)
    * [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
