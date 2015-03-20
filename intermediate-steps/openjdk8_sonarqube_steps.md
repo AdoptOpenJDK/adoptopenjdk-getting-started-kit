@@ -38,6 +38,7 @@ $ sonar-runner
 ```
 ---
 
+**Hotspot**
 ```
 $ cd ../hotspot
 ```
@@ -67,6 +68,7 @@ $ sonar-runner
 ```
 ---
 
+**Langtools**
 ```
 $ cd ../langtools
 ```
