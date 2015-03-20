@@ -8,6 +8,4 @@ Once vagrant is installed please execute the following command line, it's 377MB 
 
 ```vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";```
 
-Once you 
-
 On a slow home broadband from zero to full build of OpenJDK 9 can take an hou (machine spec: Using a MacBookPro 2013 with 16GB and SSD).
