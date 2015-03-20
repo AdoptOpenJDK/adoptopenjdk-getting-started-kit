@@ -88,7 +88,7 @@ sonar.binaries=../build/linux-x86_64-normal-server-release/langtools
 ```
 and run the below command:
 
-```
+```bash
 $ sonar-runner
 ```
 ---
