@@ -44,7 +44,7 @@ $ cd ../hotspot
 ```
 Download and install Sonar C/C++ plugin from
 
-[github](https://github.com/wenns/sonar-cxx)
+[Sonar C/C++ plugin on github](https://github.com/wenns/sonar-cxx)
 
 
 Create/update ```sonar-project.properties``` in the ```hotspot``` repo containing:
