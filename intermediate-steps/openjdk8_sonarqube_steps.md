@@ -1,7 +1,5 @@
 # OpenJDK 8 SonarQube steps
 
-*OpenJDK 8*
-
 *Treemap of the OpenJDK project and its components*
 ![](SonarQube-OpenJDK.jpg)
 
