@@ -8,7 +8,7 @@ Hack-a-thons, hackergarten and workshops held at various conferences across Euro
 
 Below is a list of contributors both individuals and groups (in no particular order):
 - LJC 
-    - Julius
+    - Julius Gamanyi
     - Mike Bateman
     - and many members who participated at the hackdays
 - BGJUG (Ivan, Martin, Dmitri)
