@@ -13,7 +13,22 @@ $ cd jdk8
 $ cd corba
 ```
 
-Download the sonar-project.properties and place it in the corba folder, and run the below command:
+Create/update sonar-project.properties in the corba repo containing
+```
+# required metadata
+sonar.projectKey=OpenJDK-corba
+sonar.projectName=OpenJDK-corba
+sonar.projectVersion=1.0
+
+# path to source directories (required)
+sonar.sources=src/share/classes
+
+# path to project binaries (optional), for example directory of Java bytecode
+sonar.binaries=../build/linux-x86_64-normal-server-release/corba
+
+```
+
+and run the below command:
 
 ```
 $ sonar-runner
