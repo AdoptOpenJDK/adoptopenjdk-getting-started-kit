@@ -23,10 +23,7 @@ Once vagrant is installed please execute the following command line, it's 377MB 
 
 On a slow home broadband from zero to full build of OpenJDK 9 can take an hour (machine spec: Using a MacBookPro 2013 with 16GB and SSD)
 
-##### Troubleshooting
-If the virtual machine boots but you see apt errors. Try logging in aka <code>vagrant ssh</code> and then execute <code>$ sudo /vagrant/scripts/aptget-deps.sh</code>. This is the main reason it's a seperate script so can be manually re-executed if required.
-
-Windows users will need to skip <code>vagrant ssh</code> and once the vm has booted scan the output to see what port it being used for ssh and use putty to login.
+Load up VirtualBox and start up the machine.
 
 ##### Initial Vagrant VM setup
 Once the vm has booted and dependencies have been installed the next script will download the latest version of jdk9, if already cloned it will update so multiple execute is handled.
