@@ -203,7 +203,7 @@ Note: If the command fails due to a memory problem, run the above command with a
 $ cd ../nashorn
 ```
 
-Download the sonar-project.properties and place it in the nashorn folder, and run the below command:
+Create/update ```sonar-project.properties``` in the ```nashorn``` folder, containing:
 
 ```
 $ sonar-runner
