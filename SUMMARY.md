@@ -71,5 +71,5 @@
 * [Thanks and support](thanks_and_support.md)
 * [Feedback](feedback.md)
 * [Contributors to this book](contributors.md)
-* [How to contribute to this book](contributors.md)
+* [How to contribute to this book](contribute.md)
 
