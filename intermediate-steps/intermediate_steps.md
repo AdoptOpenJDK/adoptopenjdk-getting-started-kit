@@ -1,5 +1,7 @@
 # Intermediate steps
-
+   * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
+       * [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
+       * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
    * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
    * [Cleaning up build warnings](cleaning_up_build_warnings.md)
    * [Milling Project Coin](milling_project_coin.md)
