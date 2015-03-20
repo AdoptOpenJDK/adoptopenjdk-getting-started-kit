@@ -200,6 +200,24 @@ $ cd ../nashorn
 Create/update ```sonar-project.properties``` in the ```nashorn``` folder, containing:
 
 ```
+# required metadata
+sonar.projectKey=OpenJDK9-nashorn
+sonar.projectName=OpenJDK9-nashorn
+sonar.projectVersion=1.0
+
+# path to source directories (required)
+sonar.sources=src
+
+# path to test source directories (optional)
+sonar.tests=test
+
+# path to project binaries (optional), for example directory of Java bytecode
+sonar.binaries=../build/linux-x86_64-normal-server-release/nashorn
+```
+
+and run :
+
+```
 $ sonar-runner
 ```
 
