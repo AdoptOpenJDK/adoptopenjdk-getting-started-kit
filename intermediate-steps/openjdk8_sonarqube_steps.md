@@ -16,7 +16,6 @@ $ cd jdk8
 ```
 $ cd corba
 ```
-
 Create/update ```sonar-project.properties``` in the ```corba``` repo containing:
 ```
 # required metadata
