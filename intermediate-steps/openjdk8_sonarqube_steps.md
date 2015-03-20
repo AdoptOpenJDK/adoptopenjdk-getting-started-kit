@@ -31,7 +31,7 @@ sonar.binaries=../build/linux-x86_64-normal-server-release/corba
 
 ```
 
-and run the below command:
+and run :
 
 ```
 $ sonar-runner
@@ -60,7 +60,7 @@ sonar.sources=src
 # path to project binaries (optional), for example directory of Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/hotspot
 ```
-and run the below command:
+and run :
 
 ```
 $ sonar-runner
@@ -90,7 +90,7 @@ sonar.skipPackageDesign=true
 # path to project binaries (optional), for example directory of Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/langtools
 ```
-and run the below command:
+and run :
 
 ```
 $ sonar-runner
@@ -123,7 +123,7 @@ Create/update ```pom.xml``` and in the ```jaxp``` folder containing:
     </properties>
 </project>
 ```
-and run the below command:
+and run :
 
 ```
 $ mvn sonar:sonar
@@ -151,7 +151,7 @@ sonar.sources=src/share/jaf_classes,src/share/jaxws_classes
 sonar.binaries=../build/linux-x86_64-normal-server-release/jaxws
 ```
 
-and run the below command:
+and run :
 
 ```
 $ sonar-runner
@@ -184,7 +184,7 @@ sonar.skipPackageDesign=true
 sonar.binaries=../build/linux-x86_64-normal-server-release/jdkO
 ```
 
-and run the below command:
+and run :
 
 ```
 $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
