@@ -15,18 +15,20 @@ $ make jdk_all       &> openJDK_jdk_all_Test_Results.logs
 
 (the necessary environement variables need to be in place before the ```make test``` command work on the above components, for a bigger list see [link](https://java.net/projects/adoptopenjdk/pages/InstallJtreg#Running_tests_via_the_CLI).
 
-Two ways to run jtreg from the CLI
-
-Prerequisites:<br/>
+* Prerequisites:<br/>
 1) ```TEST.ROOT``` must exist in the folder where the below commands will be executed<br/>
 2) jdk images must be present as a result of the ```make images``` or ```make clean images``` command<br/>
 
 * Known issue: <br/>
 “Cannot determine the version of java”, solution: ```unset JT_JAVA in .bashrc```
 
+Method 1 to run ```jtreg``` from the CLI
 ```
 $ java -jar $HOME/jtreg/lib/jtreg.jar -verbose:fail -jdk: <jdk8-path> $1
+```
 
+Method 2 to run ```jtreg``` from the CLI
+```
 $ $HOME/jtreg/linux/bin/jtreg -verbose:fail -jdk: <jdk8-path> $1
 ```
 
