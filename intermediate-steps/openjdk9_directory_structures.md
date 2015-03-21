@@ -83,6 +83,9 @@ images
 ```
 ---
 ```
+$ cd sources/jdk9/jdk/src
+```
+```
 $ tree -dflL 5 java.base/share/classes/java/util
  
 java.base/share/classes/java/util
