@@ -32,7 +32,7 @@ Method 2 to run ```jtreg``` from the CLI
 $ $HOME/jtreg/linux/bin/jtreg -verbose:fail -jdk: <jdk8-path> $1
 ```
 
-```jdk8-path``` - same as ```$PRODUCT_HOME```  (for eg. ```$SOURCE_CODE/jdk9/build/macosx-x64-normal-server-release/images/j2sdk-image```, this may differ on your system)
+```jdk8-path``` - same as ```$PRODUCT_HOME```  (for eg. ```$SOURCE_CODE/jdk8/build/macosx-x64-normal-server-release/images/j2sdk-image```, this may differ on your system)
 
 Replace the ```$1``` with a file or a folder name, below are few examples:
 
