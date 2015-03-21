@@ -66,4 +66,4 @@ Our search gave us the below:
 ./test/
 ```
 
-Plenty to learn and know about OpenJDK hence we look at the tests to learn about the implementation code behind. them..,
+Plenty to learn and know about OpenJDK hence we look at the tests to lear about the implementation code behind. them...
