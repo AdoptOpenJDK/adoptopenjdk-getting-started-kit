@@ -161,7 +161,7 @@ $  tree -dflL 5 java.base/share/classes/java/time
 ```
 ---
 
-**java.util**
+**java.util package**
 ```
 $ tree -dflL 5 java.base/share/classes/java/util
 │   └── java.base/share/classes/java/util
