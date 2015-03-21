@@ -1,4 +1,4 @@
-# Goodies for the die-hard OpenJDK-er
+# Handys scripts
 
 **Handy scripts to update, build and run tests**
 
