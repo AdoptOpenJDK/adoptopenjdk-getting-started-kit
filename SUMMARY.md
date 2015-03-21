@@ -44,7 +44,7 @@
        * [OpenJDK 9 SonarQube steps](intermediate-steps/openjdk9_sonarqube_steps.md)
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)
-       * [OpenJDK9 directory structures](intermediate-steps/openjdk9_directory_structures.md)
+   * [OpenJDK9 directory structures](intermediate-steps/openjdk9_directory_structures.md)
     * [JDK9 - JImage](intermediate-steps/jdk9-jimage,md)
 * [Advanced steps](advanced-steps/advanced_steps.md)
    * [Building jcov](advanced-steps/building_jcov.md)
