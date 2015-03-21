@@ -3,6 +3,7 @@
 ```
 $ cd ./sources/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 ```
+
 ```
 $ ./jimage --help
 Usage: jimage <extract|recreate|info|list|verify> <options> jimage...
