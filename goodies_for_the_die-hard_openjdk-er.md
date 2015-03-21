@@ -53,6 +53,8 @@ build/linux-x86_64-normal-server-release/images/jdk/bin/javap -verbose ChangeRan
 build/linux-x86_64-normal-server-release/images/jre/bin/java -version
 build/linux-x86_64-normal-server-release/images/jre/bin/java ChangeRandom```
 
+**Running JTREG**
+
 ```runJtregViaExecutable.sh``` - run JTREG via the $JTREG/bin/jtreg command
 
 ```
