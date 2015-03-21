@@ -117,7 +117,7 @@ $ tree -dflL 5 java.base/share/classes/java
 
 ---
 
-** **
+**java.io package**
 ```
 $  tree -flL 5 java.base/share/classes/java/io
 $  tree -dflL 5 java.base/share/classes/java/io
