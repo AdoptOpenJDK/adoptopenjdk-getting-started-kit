@@ -106,7 +106,7 @@ java.base/share/classes/java/util
 ```
 ---
 
-** **
+**java.base folder**
 ```
 $ tree -fldL 5 java.base  | less
 
