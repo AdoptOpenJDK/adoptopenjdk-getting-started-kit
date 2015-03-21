@@ -86,6 +86,7 @@ images
 └── images/sec-bin.zip
 ```
 ---
+**jdk/src folder**
 ```
 $ cd sources/jdk9/jdk/src
 ```
