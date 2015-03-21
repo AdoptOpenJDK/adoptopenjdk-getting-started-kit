@@ -116,38 +116,55 @@ $ tree -dflL 5 java.base/share/classes/java
 $  tree -flL 5 java.base/share/classes/java/io
 $  tree -dflL 5 java.base/share/classes/java/io
 │   ├── java.base/share/classes/java/io
- 
+
+** ** 
 $  tree -flL 5 java.base/share/classes/java/lang
 (interesting)
+
+** **
 $  tree -dflL 5 java.base/share/classes/java/lang
 │   ├── java.base/share/classes/java/lang
 .
 .
 .
+
+** **
 $  tree -flL 5 java.base/share/classes/java/nio
 (interesting)
+
+** **
 $  tree -dflL 5 java.base/share/classes/java/nio
 │   ├── java.base/share/classes/java/nio
  
+** **
 $  tree -flL 5 java.base/share/classes/java/text
+
+** **
 $  tree -dflL 5 java.base/share/classes/java/text
 │   ├── java.base/share/classes/java/text
 .
+
+** **
 $  tree -flL 5 java.base/share/classes/java/time
 (interesting)
+
+** **
 $  tree -dflL 5 java.base/share/classes/java/time
 │   ├── java.base/share/classes/java/time
 .
 .
 .
+
+** **
 $ tree -flL 5 java.base/share/classes/java/util
 (interesting)
+
+** **
 $ tree -dflL 5 java.base/share/classes/java/util
 │   └── java.base/share/classes/java/util
  
  
 **(sources/jdk9/jdk/src) folder**
-
 $ tree -dflL 5 java.base/share/classes/java/util
  
 java.base/share/classes/java/util
@@ -161,7 +178,7 @@ java.base/share/classes/java/util
 ├── java.base/share/classes/java/util/stream
 └── java.base/share/classes/java/util/zip
  
-**jdk9 (sources/jdk9/jdk/src) folder**
+**(sources/jdk9/jdk/src) folder**
 $ tree -fl | grep "/Socket." 
  
 OpenJDK 9 - jdk9 (sources/jdk9/jdk/src)
