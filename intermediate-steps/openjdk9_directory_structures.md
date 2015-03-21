@@ -153,7 +153,6 @@ $  tree -dflL 5 java.base/share/classes/java/text
 
 **java.time package**
 ```
-$  tree -flL 5 java.base/share/classes/java/time
 $  tree -dflL 5 java.base/share/classes/java/time
 │   ├── java.base/share/classes/java/time
 .
