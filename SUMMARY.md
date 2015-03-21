@@ -69,7 +69,7 @@
    * [Virtual Machine](known-issues/known_issues_virtual_machine.md)
    * [Mercurial](known-issues/known_issues_mercurial.md)
    * [SonarQube](known-issues/known_issues_sonarqube.md)
-* [Handy scripts for OpenJDK developers](handy-scripts-for-OpenJDK-developers.md)
+* [Handy scripts for OpenJDK developers](goodies_for_the_die-hard_openjdk-er.md)
 * [Thanks and support](thanks_and_support.md)
 * [Feedback](feedback.md)
 * [Contributors to this book](contributors.md)
