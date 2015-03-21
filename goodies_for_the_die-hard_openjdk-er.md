@@ -1,5 +1,7 @@
 # Goodies for the die-hard OpenJDK-er
 
+**Handy scripts to update, build and run tests**
+
 Bash scripts that make make life easier
 ```updateAndCleanBuildOpenJDK.sh``` - run once in a while or if you want a clean build
 
