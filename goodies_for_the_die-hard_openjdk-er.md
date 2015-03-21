@@ -55,7 +55,7 @@ build/linux-x86_64-normal-server-release/images/jre/bin/java ChangeRandom```
 ```runJtregViaExecutable.sh``` - run JTREG via the $JTREG/bin/jtreg command
 
 ```
-$HOME/jtreg/linux/bin/jtreg -verbose:all -cpa:$HOME/jtreg/lib/jcommander-1.7.jar -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1
+$HOME/jtreg/linux/bin/jtreg -verbose:all  -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1
 ```
 
 ```runJtregViaTheJarFile.sh``` - run JTREG via the $JTREG/lib/jtreg.jar command
