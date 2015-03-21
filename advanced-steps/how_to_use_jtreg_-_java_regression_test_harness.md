@@ -5,6 +5,7 @@
  * [Examples of annotations in the header of test files](test-annotations.md)
 ---
 
+Try out the below ```make``` commands to run tests on the individual components:
 ```
 $ cd $HOME/sources/jdk8_tl/test
  
