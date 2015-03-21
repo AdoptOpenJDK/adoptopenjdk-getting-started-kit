@@ -6,8 +6,6 @@
 
 ---
 
-After doing the above make a copy of the win32, linux and lib sub-folders from within the dist/jtreg sub-folder into the jtreg folder - to prevent errors when running tests. In some editions, the files in the win32 folder must be made executable (```chmod u+x …```)
-
 ```
 $ cd $HOME/sources/jdk8_tl/test
  
