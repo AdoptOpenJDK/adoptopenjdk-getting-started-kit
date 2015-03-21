@@ -29,6 +29,9 @@ build
     └── build/linux-x86_64-normal-server-release/support
 ```
 ---
+
+**build/images folder**
+
 ``` 
 $ tree -fL 2 images
 ```
