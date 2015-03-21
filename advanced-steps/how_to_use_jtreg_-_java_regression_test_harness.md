@@ -3,7 +3,6 @@
  * [Preparation](preparation.md)
  * [Problems.txt](problems.txt.md)
  * [Examples of annotations in the header of test files](test-annotations.md)
-
 ---
 
 ```
