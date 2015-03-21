@@ -28,9 +28,9 @@ It will create a folder .webrev which contains the artifacts and code-review mat
 
 Some help by using scripts to work with mercurial (hg) and creating webrevs:
 
-Handy scripts https://bitbucket.org/adoptopenjdk/adopt/src/626e5ccdc28743e93aba9e4daf81255764c090bc/scripts/?at=default
+* Handy scripts https://bitbucket.org/adoptopenjdk/adopt/src/626e5ccdc28743e93aba9e4daf81255764c090bc/scripts/?at=default
 
-Sample Java programs
+* Sample Java programs
 https://bitbucket.org/adoptopenjdk/betterrev/src/9a7abf94ed8f8ec1f2fa67986269e0516fa9f282/betterrev/app/update/mercurial/?at=master
 
 Once you have a webrev ready, contact the relevant mailing list linked to the changes you made (see repo, module, folder or package in which you have made these changes in). On the mailing list request for a sponsor (if you are not a committer yet), you also be asked to cc more than one mailing lists in.
