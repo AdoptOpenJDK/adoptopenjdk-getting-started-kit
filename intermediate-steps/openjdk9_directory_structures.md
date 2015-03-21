@@ -145,12 +145,6 @@ $  tree -dflL 5 java.base/share/classes/java/nio
 
 **java.text package**
 ```
-$  tree -flL 5 java.base/share/classes/java/text
-```
----
-
-** **
-```
 $  tree -dflL 5 java.base/share/classes/java/text
 │   ├── java.base/share/classes/java/text
 .
