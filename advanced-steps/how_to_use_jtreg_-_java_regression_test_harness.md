@@ -8,11 +8,6 @@
 
 After doing the above make a copy of the win32, linux and lib sub-folders from within the dist/jtreg sub-folder into the jtreg folder - to prevent errors when running tests. In some editions, the files in the win32 folder must be made executable (```chmod u+x …```)
 
-~~Download jcommander as TestNG needs it and is missing from some jtreg distributions:~~
-
-~~$ cd $HOME/jtreg/lib/~~
-~~$ wget http://repo1.maven.org/maven2/com/beust/jcommander/1.7/jcommander-1.7.jar~~
-
 ```
 $ cd $HOME/sources/jdk8_tl/test
  
@@ -29,7 +24,7 @@ Prerequisites:<br/>
 1) ```TEST.ROOT``` must exist in the folder where the below commands will be executed<br/>
 2) jdk images must be present as a result of the ```make images``` or ```make clean images``` command<br/>
 
-Known issue: <br/>
+* Known issue: <br/>
 “Cannot determine the version of java”, solution: ```unset JT_JAVA in .bashrc```
 
 ```
