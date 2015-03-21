@@ -51,10 +51,6 @@ $ $HOME/jtreg/linux/bin/jtreg -verbose:all -jdk:$HOME/sources/jdk8_tl/build/linu
 
 The results can be found in the ```JTreport``` and ```JTwork``` folders.
 
-The new versions of JTReg can now be used without having to pass ```-cpa:$HOME/jtreg/lib/jcommander-1.7.jar``` as command line argument.
-
-```/test/``` folders in the ```$HOME/sources/jdk8_tl tree``` 
-
 Run the below to find out the repos or packages that have a test folder in it hence supports jtreg tests, meaning you can go into these folders and run ```make test``` or the ```jtreg``` CLI or binary file commands to run the respective tests:
 
 ```
