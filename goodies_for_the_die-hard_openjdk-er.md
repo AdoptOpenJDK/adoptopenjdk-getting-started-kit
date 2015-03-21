@@ -35,7 +35,7 @@ make images
 make test```
 
 ```
-_ Simple example of changing the OpenJDK code-base and writing a client program to use the change _
+__Simple example of changing the OpenJDK code-base and writing a client program to use the change__
 
 buildAndRunTheChangedRandom.sh``` - run after changing the ChangeRandom.java file```
 
