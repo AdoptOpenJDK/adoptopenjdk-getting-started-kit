@@ -36,8 +36,7 @@ make test```
 
 __Simple example of changing the OpenJDK code-base and writing a client program to use the change__
 
-```
-buildAndRunTheChangedRandom.sh``` - run after changing the ChangeRandom.java file```
+```buildAndRunTheChangedRandom.sh``` - run after changing the ChangeRandom.java file```
 
 ```
 ##### OpenJDK8
