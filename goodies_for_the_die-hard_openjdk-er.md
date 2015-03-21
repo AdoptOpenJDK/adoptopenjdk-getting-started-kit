@@ -61,4 +61,4 @@ $HOME/jtreg/linux/bin/jtreg -verbose:all  -jdk:$HOME/sources/jdk8_tl/build/linux
 ```runJtregViaTheJarFile.sh``` - run JTREG via the $JTREG/lib/jtreg.jar command
 
 ```
-java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all -cpa:$HOME/jtreg/lib/jcommander-1.7.jar -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1```
+java -jar $HOME/jtreg/lib/jtreg.jar -verbose:all  -jdk:$HOME/sources/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/ $1```
