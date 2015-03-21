@@ -1,7 +1,7 @@
 # JDK9 - JImage
 
 ```
-$ cd ./sources/m2/build/linux-x86_64-normal-server-release/images/jdk/bin
+$ cd ./sources/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 ```
 ```
 $ ./jimage --help
