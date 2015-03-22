@@ -38,6 +38,8 @@ $ ls -lash lib/modules
  28M -rw-rw-r-- 1    28M Mar 21 01:49 extmodules.jimage
 ```
 <br/>
+
+***bootmodules.jimage* file in the *lib/modules* folder**
 ```bash
 $ ./bin/jimage list lib/modules/bootmodules.jimage | less
 ```
