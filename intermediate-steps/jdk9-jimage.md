@@ -1,7 +1,7 @@
 # JDK9 - JImage
 
 ```
-$ cd ./sources/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
+$ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 ```
 
 ```
@@ -22,3 +22,17 @@ Possible options include:
   --verbose                            Verbose listing
   --version                            Version information
  ```
+ 
+```bash
+$ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk
+$ ls -lash lib/modules
+```
+```text
+4.0K drwxrwxr-x 2   4.0K Mar 21 01:49 .
+4.0K drwxrwxr-x 5   4.0K Mar 21 01:49 ..
+ 22M -rw-rw-r-- 1    22M Mar 21 01:49 appmodules.jimage
+ 53M -rw-rw-r-- 1    53M Mar 21 01:49 bootmodules.jimage
+ 28M -rw-rw-r-- 1    28M Mar 21 01:49 extmodules.jimage
+```
+
+ 
