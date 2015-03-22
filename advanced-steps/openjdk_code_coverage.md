@@ -61,4 +61,4 @@ $ open index.html
 
 This will normally take a couple of hours depending on the available resources and how performant your sysyem is.
 
-See also [Building jcov](building_jcov.md).
+Also see [Building jcov](building_jcov.md).
