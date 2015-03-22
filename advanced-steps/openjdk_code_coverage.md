@@ -59,6 +59,6 @@ $ cd $SOURCE/jdk9/build/linux-x86_64-normal-server-release/testoutput/jdk_core/J
 $ open index.html
 ```
 
-This will normally take a couple of hours depending on the available resources.
+This will normally take a couple of hours depending on the available resources and how performant your sysyem is.
 
 See also [Building jcov](building_jcov.md).
