@@ -8,4 +8,4 @@
   * [Table of supported OSes & IDEs](table_of_supported_oses_&_ides.md)
   * [OpenJDK Build Benchmarks](openjdk-build-benchmarks.md)
   * [OpenJDK Bug database](openjdk_bug_database_jira.md)
-  * [Install the tree command](install_the_tree_command,md)
+  * [Install the tree command](install_the_tree_command.md)
