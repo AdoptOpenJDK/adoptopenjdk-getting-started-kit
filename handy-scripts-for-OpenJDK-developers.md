@@ -55,6 +55,7 @@ $IMAGES_FOLDER/jdk/bin/javac -version
 $IMAGES_FOLDER/jdk/bin/javac ChangeRandom.java
 $IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "major"
 $IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "minor"
+
 $IMAGES_FOLDER/jre/bin/java -version
 $IMAGES_FOLDER/jre/bin/java ChangeRandom
 ```
