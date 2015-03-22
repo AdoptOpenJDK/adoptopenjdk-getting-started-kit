@@ -8,7 +8,7 @@ Recently we have enabled code coverage on our Adopt OpenJDK build farms running 
 **Running tests with code-coverage enabled for OpenJDK9**
 
 Notes: 
-    * similar steps can me performed for OpenJDK8 as well. 
+    * similar steps can me performed for ```OpenJDK8``` as well. 
     * these settings are for generating coverage for the ```jdk``` repo only
 
 * Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK9``` (see [Build your own OpenJDK](binaries/build_your_own_openjdk.md)).
