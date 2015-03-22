@@ -6,11 +6,11 @@ Recently we have enabled code coverage on our Adopt OpenJDK build farms running 
 
 **Build running tests with code-coverage enabled**
 
-Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK9``` (see [Build your own OpenJDK](binaries/build_your_own_openjdk.md)).
+* Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK9``` (see [Build your own OpenJDK](binaries/build_your_own_openjdk.md)).
 
-Install ```jtreg with the jcov```, see [How to use JTReg... > Preparations](advanced-steps/preparations.md).
+* Install ```jtreg with the jcov```, see [How to use JTReg... > Preparations](advanced-steps/preparations.md).
 
-Apply these exports to your ```.bash_xxx``` profile:
+* Apply these exports to your ```.bash_xxx``` profile:
 
 ```
 export SOURCE_CODE=/home/<username>/workspace/jdk9/
@@ -27,7 +27,7 @@ export CONCURRENCY=8
 $ cd $SOURCES/jdk9/jdk/test
 ```
 
-Edit the ```Makefile``` and add the following, just before the line  ```# Make sure jtreg exists```:
+* Edit the ```Makefile``` and add the following, just before the line  ```# Make sure jtreg exists```:
 
 ```
 jdkroot=<hardcoded path to your jdk9, see above>
@@ -37,7 +37,8 @@ JTREG_TEST_OPTIONS += -jcov/source:$(jdkroot)/jdk/src/java.base/share/classes
 JTREG_TEST_OPTIONS += -jcov/include:*
 ```
 ```
+* Run tests in debug mode
 $ cd ..
-$ make test
+$ make test LOG=debug
 ```
 See also [Building jcov](building_jcov.md).
