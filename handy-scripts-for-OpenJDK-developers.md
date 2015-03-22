@@ -1,4 +1,4 @@
-# Handys scripts
+# Handy scripts
 
 **Handy scripts to update, build and run tests**
 
