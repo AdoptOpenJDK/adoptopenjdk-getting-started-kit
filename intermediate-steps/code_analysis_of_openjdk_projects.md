@@ -1,7 +1,7 @@
 # Code analysis of OpenJDK projects
 
-    * [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
-    * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
+* [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
+* [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
 
 Below will help understand and visualise the contents of the OpenJDK projects to help understand the depth of the projects.
 
