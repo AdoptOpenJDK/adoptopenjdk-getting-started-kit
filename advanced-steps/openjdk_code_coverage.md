@@ -55,7 +55,7 @@ $ make test LOG=debug
 Once finished, look for the report in the below location:
 
 ```
-$ cd $SOURCE/jdk9/build/linux-x86_64-normal-server-release/testoutput/jdk_core/JTreport/jcov/
+$ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/testoutput/jdk_core/JTreport/jcov/
 $ open index.html
 ```
 
