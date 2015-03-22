@@ -38,13 +38,21 @@ JTREG_TEST_OPTIONS += -jcov/classes:$(jdkroot)/build/linux-x86_64-normal-server-
 JTREG_TEST_OPTIONS += -jcov/source:$(jdkroot)/jdk/src/java.base/share/classes
 JTREG_TEST_OPTIONS += -jcov/include:*
 ```
-```
+
 * Run tests in debug mode
+```
 $ cd ..
 $ make test LOG=debug
 ```
-Once finished, look for the 
 
+* Opening the generated coverage report
+
+Once finished, look for the report in the below location:
+
+```
+$ cd $SOURCE/jdk9/build/linux-x86_64-normal-server-release/testoutput/jdk_core/JTreport/jcov/
+$ open index.html
+```
 
 This will normally take a couple of hours depending on the available resources.
 
