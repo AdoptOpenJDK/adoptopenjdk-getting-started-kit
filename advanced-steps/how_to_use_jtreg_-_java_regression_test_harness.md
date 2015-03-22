@@ -52,6 +52,7 @@ $ $HOME/jtreg/linux/bin/jtreg -verbose:all -jdk:$HOME/sources/jdk8_tl/build/linu
 
 The results can be found in the ```JTreport``` and ```JTwork``` folders.
 
+<br/>
 **/test/ folders in the $HOME/sources/jdk8 or $HOME/sources/jdk9 tree**
 
 Run the below to find out the repos or packages that have a test folder in it hence supports ```jtreg``` tests, meaning you can go into these folders and run ```make test``` or the ```jtreg``` CLI or binary file commands to run the respective tests:
