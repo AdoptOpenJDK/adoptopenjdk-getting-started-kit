@@ -28,6 +28,7 @@ Possible options include:
  ```
 <br/>
 ***modules* folder in the *jdk image***
+
 *Command*
 ```bash
 $ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk
