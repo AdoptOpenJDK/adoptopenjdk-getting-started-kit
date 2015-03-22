@@ -1,5 +1,6 @@
 # JDK9 - JImage
 
+***jimage* command**
 ```
 $ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 ```
@@ -22,11 +23,13 @@ Possible options include:
   --verbose                            Verbose listing
   --version                            Version information
  ```
- 
+<br/>
+***modules* folder in the *jdk image***
 ```bash
 $ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk
 $ ls -lash lib/modules
 ```
+*Output*
 ```text
 4.0K drwxrwxr-x 2   4.0K Mar 21 01:49 .
 4.0K drwxrwxr-x 5   4.0K Mar 21 01:49 ..
@@ -34,5 +37,33 @@ $ ls -lash lib/modules
  53M -rw-rw-r-- 1    53M Mar 21 01:49 bootmodules.jimage
  28M -rw-rw-r-- 1    28M Mar 21 01:49 extmodules.jimage
 ```
-
- 
+<br/>
+```bash
+$ ./bin/jimage list lib/modules/bootmodules.jimage | less
+```
+*Output*
+```text
+jimage: bootmodules.jimage
+META-INF/services/java.nio.file.spi.FileSystemProvider
+META-INF/services/javax.print.PrintServiceLookup
+META-INF/services/javax.print.StreamPrintServiceFactory
+META-INF/services/javax.sound.midi.spi.MidiDeviceProvider
+META-INF/services/javax.sound.midi.spi.MidiFileReader
+META-INF/services/javax.sound.midi.spi.MidiFileWriter
+META-INF/services/javax.sound.midi.spi.SoundbankReader
+META-INF/services/javax.sound.sampled.spi.AudioFileReader
+META-INF/services/javax.sound.sampled.spi.AudioFileWriter
+.
+.
+.
+sun/util/resources/en/CurrencyNames_en_ZA.class
+sun/util/resources/en/LocaleNames_en.class
+sun/util/resources/en/LocaleNames_en_MT.class
+sun/util/resources/en/LocaleNames_en_PH.class
+sun/util/resources/en/LocaleNames_en_SG.class
+sun/util/resources/en/TimeZoneNames_en.class
+sun/util/resources/en/TimeZoneNames_en_CA.class
+sun/util/resources/en/TimeZoneNames_en_GB.class
+sun/util/resources/en/TimeZoneNames_en_IE.class
+sun/util/spi/CalendarProvider.class
+```
