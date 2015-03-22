@@ -34,7 +34,7 @@
     * [See directory structure of various OpenJDK projects](see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](openjdk8_directory_structures.md)
        * [OpenJDK9 directory structures](openjdk9_directory_structures.md)
-   * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
+    * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
    * [JEPs - JDK Enhancement Proposals](jeps_-_jdk_enhancement_proposals.md)
    * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
        * [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
