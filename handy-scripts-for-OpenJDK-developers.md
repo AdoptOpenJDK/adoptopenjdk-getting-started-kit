@@ -50,7 +50,7 @@ $IMAGES_FOLDER/j2re-image/bin/java ChangeRandom
 
 ```
 ##### OpenJDK9
-IMAGES_FOLDER=build/linux-x86_64-normal-server-release/images
+IMAGES_FOLDER=$SOURCES/jdk9/build/linux-x86_64-normal-server-release/images
 
 $IMAGES_FOLDER/jdk/bin/javac -version
 $IMAGES_FOLDER/jdk/bin/javac ChangeRandom.java
