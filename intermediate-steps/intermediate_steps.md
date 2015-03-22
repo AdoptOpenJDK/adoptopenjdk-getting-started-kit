@@ -6,7 +6,7 @@
    * [JEPs - JDK Enhancement Proposals](jeps_-_jdk_enhancement_proposals.md)
    * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
        * [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
-       * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
+       * [Milling Project Coin](milling_project_coin.md)
        * [Cleaning up build warnings](cleaning_up_build_warnings.md)
    * [OpenJDK developers Guide](openjdk_developers_guide.md)
    * [Example changesets of contributions into the OpenJDK](example_changesets_of_contributions_into_the_openjdk.md)
