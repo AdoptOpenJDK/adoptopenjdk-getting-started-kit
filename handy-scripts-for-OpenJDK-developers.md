@@ -49,9 +49,10 @@ $SOURCES/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2re-image/bin/
 
 ```
 ##### OpenJDK9
-build/linux-x86_64-normal-server-release/images/jdk/bin/javac -version
-build/linux-x86_64-normal-server-release/images/jdk/bin/javac ChangeRandom.java
-build/linux-x86_64-normal-server-release/images/jdk/bin/javap -verbose ChangeRandom | grep "major"
+IMAGES_FOLDER=build/linux-x86_64-normal-server-release/images
+$IMAGES_FOLDER/jdk/bin/javac -version
+$IMAGES_FOLDER/jdk/bin/javac ChangeRandom.java
+$IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "major"
 build/linux-x86_64-normal-server-release/images/jdk/bin/javap -verbose ChangeRandom | grep "minor"
 build/linux-x86_64-normal-server-release/images/jre/bin/java -version
 build/linux-x86_64-normal-server-release/images/jre/bin/java ChangeRandom```
