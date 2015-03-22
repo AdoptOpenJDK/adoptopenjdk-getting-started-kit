@@ -5,7 +5,7 @@ Here’s the Adopt OpenJDK’s jab at [code-coverage](https://java.net/projects/
 **Existing code coverage reports (OpenJDK8 and OpenJDK9**
 Recently we have enabled code coverage on our Adopt OpenJDK build farms running a CI build of OpenJDK8 and OpenJDK9, publishing jcov reports for [OpenJDK8](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.8-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) and [OpenJDK9](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.9-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) respectively.
 
-**Running tests with code-coverage enabled**
+**Running tests with code-coverage enabled for OpenJDK9**
 
 * Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK9``` (see [Build your own OpenJDK](binaries/build_your_own_openjdk.md)).
 
