@@ -1,6 +1,8 @@
 # JDK9 - JImage
 
-***jimage* command**
+**The new *jimage* command**
+
+*Command*
 ```
 $ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 ```
