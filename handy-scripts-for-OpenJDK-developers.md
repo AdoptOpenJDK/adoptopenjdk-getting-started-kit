@@ -5,7 +5,7 @@
 Bash scripts that make make life easier
 ```updateAndCleanBuildOpenJDK.sh``` - run once in a while or if you want a clean build
 
-```
+```bash
 ./get_source.sh
 bash configure
 make clean images
@@ -13,7 +13,7 @@ make clean images
 
 ```updateCleanBuildAndTestOpenJDK.sh``` - run once in a while or if you want a clean build & test
 
-```
+```bash
 ./get_source.sh
 bash configure
 make clean images
@@ -22,7 +22,7 @@ make test```
 
 ```updateAndBuildOpenJDK.sh``` - run regularly (incremental build)
 
-```
+```bash
 ./get_source.sh
 bash configure
 make images```
@@ -30,7 +30,7 @@ make images```
 
 ```updateBuildAndTestOpenJDK.sh``` - run often
 
-```
+```bash
 ./get_source.sh
 bash configure
 make images
