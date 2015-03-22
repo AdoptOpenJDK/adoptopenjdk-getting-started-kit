@@ -41,14 +41,14 @@ __Simple example of changing the OpenJDK code-base and writing a client program 
 
 ```buildAndRunTheChangedRandom.sh``` - run after changing the ChangeRandom.java file
 
-```
+```bash
 ##### OpenJDK8
 IMAGES_FOLDER=$SOURCES/jdk8/build/linux-x86_64-normal-server-release/images
 $IMAGES_FOLDER/j2sdk-image/bin/javac ChangeRandom.java
 $IMAGES_FOLDER/j2re-image/bin/java ChangeRandom
 ```
 
-```
+```bash
 ##### OpenJDK9
 IMAGES_FOLDER=$SOURCES/jdk9/build/linux-x86_64-normal-server-release/images
 
