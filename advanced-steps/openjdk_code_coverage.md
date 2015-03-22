@@ -28,7 +28,7 @@ $ cd $SOURCES/jdk9/jdk/test
 Edit the ```Makefile``` and add the following, just before the line  ```# Make sure jtreg exists```:
 
 ```
-jdkroot=<path to your jdk9, see above>
+jdkroot=<hardcoded path to your jdk9, see above>
 
 JTREG_TEST_OPTIONS += -jcov/classes:$(jdkroot)/build/linux-x86_64-normal-server-release/jdk/modules/java.base
 JTREG_TEST_OPTIONS += -jcov/source:$(jdkroot)/jdk/src/java.base/share/classes
