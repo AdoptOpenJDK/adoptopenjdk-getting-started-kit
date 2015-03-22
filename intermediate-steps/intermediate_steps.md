@@ -1,4 +1,7 @@
 # Intermediate steps
+   * [See directory structure of various OpenJDK projects](see_directory_structure_of_various_openjdk_projects.md)
+       * [OpenJDK8 directory structures](openjdk8_directory_structures.md)
+       * [OpenJDK9 directory structures](openjdk9_directory_structures.md)
    * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
        * [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
        * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
@@ -11,6 +14,3 @@
    * [Code Analysis of OpenJDK projects](code_analysis_of_openjdk_projects.md)
        * [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
        * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
-   * [See directory structure of various OpenJDK projects](see_directory_structure_of_various_openjdk_projects.md)
-       * [OpenJDK8 directory structures](openjdk8_directory_structures.md)
-       * [OpenJDK9 directory structures](openjdk9_directory_structures.md)
