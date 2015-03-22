@@ -17,7 +17,7 @@ $ ant clean
 $ ant -v -f build.xml -Dasmjar5=/path/to/asm-all-5.0.1.jar -Djavatestjar=/path/to/javatest.jar 
 ```
 
-asm can be downloaded from<br/> http://download.forge.ow2.org/asm/asm-5.0.1-bin.zip
+asm can be downloaded from http://download.forge.ow2.org/asm/asm-5.0.1-bin.zip
 
 jtharness can be downloaded from  https://adopt-openjdk.ci.cloudbees.com/job/jtharness/lastSuccessfulBuild/artifact/
 
