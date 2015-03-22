@@ -41,4 +41,6 @@ JTREG_TEST_OPTIONS += -jcov/include:*
 $ cd ..
 $ make test LOG=debug
 ```
+
+This will normally take a couple of hours depending on the available resources.
 See also [Building jcov](building_jcov.md).
