@@ -51,8 +51,6 @@ Configure Maven plugin for sonar by creating the sonar profile. See steps here: 
 ```
 $ /opt/sonarqube-4.5.1/bin/linux-x86-64/sonar.sh start   (path may differ)
 ```
-* [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
-* [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
 
 Sample visual from SonarQube<br/>
 (jdk repo not included; jitwatch included; zoom to see repo names;)
