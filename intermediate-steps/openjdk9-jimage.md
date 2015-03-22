@@ -1,4 +1,4 @@
-# JDK9 - jimage
+# OpenJDK9 - jimage
 
 **The new *jimage* command**
 

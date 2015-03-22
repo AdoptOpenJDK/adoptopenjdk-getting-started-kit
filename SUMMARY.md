@@ -46,7 +46,7 @@
     * [Code Analysis of OpenJDK projects](intermediate-steps/code_analysis_of_openjdk_projects.md)
        * [OpenJDK 8 SonarQube steps](intermediate-steps/openjdk8_sonarqube_steps.md)
        * [OpenJDK 9 SonarQube steps](intermediate-steps/openjdk9_sonarqube_steps.md)
-    * [JDK9 - jimage](intermediate-steps/jdk9-jimage.md)
+    * [OpenJDK9 - jimage](intermediate-steps/openjdk9-jimage.md)
 * [Advanced steps](advanced-steps/advanced_steps.md)
    * [Building jcov](advanced-steps/building_jcov.md)
    * [Building sigtest](advanced-steps/building_sigtest.md)
