@@ -43,8 +43,9 @@ __Simple example of changing the OpenJDK code-base and writing a client program 
 
 ```
 ##### OpenJDK8
-$SOURCES/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2sdk-image/bin/javac ChangeRandom.java
-$SOURCES/jdk8_tl/build/linux-x86_64-normal-server-release/images/j2re-image/bin/java ChangeRandom
+IMAGES_FOLDER=$SOURCES/jdk8/build/linux-x86_64-normal-server-release/images
+$IMAGES_FOLDER/j2sdk-image/bin/javac ChangeRandom.java
+$IMAGES_FOLDER/j2re-image/bin/java ChangeRandom
 ```
 
 ```
