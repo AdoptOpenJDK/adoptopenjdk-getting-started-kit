@@ -8,7 +8,7 @@ We tried using VirtualBox shared folders, but the Open JDK build environment has
 
 TODO MB complete this bit...
 
-See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) for more details.
+See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
 
 ###[Old stuff to delete... ]
 Create a folder on host machine such as ```~/Public/Java```
