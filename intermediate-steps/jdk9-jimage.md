@@ -39,7 +39,7 @@ $ ls -lash lib/modules
 ```
 <br/>
 
-*Visual extract of the **bootmodules.jimage* file in the *lib/modules* folder**
+**Visual extract of the *bootmodules.jimage* file in the *lib/modules* folder**
 ```bash
 $ ./bin/jimage list lib/modules/bootmodules.jimage | less
 ```
