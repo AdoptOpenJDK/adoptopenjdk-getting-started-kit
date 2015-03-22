@@ -53,9 +53,9 @@ IMAGES_FOLDER=build/linux-x86_64-normal-server-release/images
 $IMAGES_FOLDER/jdk/bin/javac -version
 $IMAGES_FOLDER/jdk/bin/javac ChangeRandom.java
 $IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "major"
-build/linux-x86_64-normal-server-release/images/jdk/bin/javap -verbose ChangeRandom | grep "minor"
-build/linux-x86_64-normal-server-release/images/jre/bin/java -version
-build/linux-x86_64-normal-server-release/images/jre/bin/java ChangeRandom```
+$IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "minor"
+$IMAGES_FOLDER/jre/bin/java -version
+$IMAGES_FOLDER/jre/bin/java ChangeRandom```
 
 <br/>
 **Running JTREG**
