@@ -23,4 +23,4 @@ $ ant -v -f build.xml -Dasmjar5=/path/to/asm-all-5.0.1.jar -Djavatestjar=/path/t
 
 Please refer to the project page for build instructions, etc… when they become available, once they do, the above instructions will be removed to avoid duplications.
 
-See also [OpenJDK Code Coverage](openjdk_code_coverage.md)
+See also [OpenJDK Code Coverage](openjdk_code_coverage.md).
