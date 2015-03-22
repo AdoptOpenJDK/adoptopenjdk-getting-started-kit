@@ -6,7 +6,7 @@ Recently we have enabled code coverage on our Adopt OpenJDK build farms running 
 
 **Build running tests with code-coverage enabled**
 
-Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK8``` (see []()).
+Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK9``` (see [Build your own OpenJDK](binaries/build_your_own_openjdk.md)).
 
 Install ```jtreg with the jcov```, see []().
 
