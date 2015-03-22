@@ -34,7 +34,8 @@ JTREG_TEST_OPTIONS += -jcov/classes:$(jdkroot)/build/linux-x86_64-normal-server-
 JTREG_TEST_OPTIONS += -jcov/source:$(jdkroot)/jdk/src/java.base/share/classes
 JTREG_TEST_OPTIONS += -jcov/include:*
 ```
-
-then just run "make test" inside the root
-
+```
+$ cd ..
+$ make test
+```
 See also [Building jcov](building_jcov.md).
