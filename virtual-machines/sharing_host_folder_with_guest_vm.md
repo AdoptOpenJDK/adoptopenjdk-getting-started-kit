@@ -4,7 +4,7 @@ This section describes how to access the Java source code that is inside a VM, f
 
 As tested on *Mac OSX 10.10* running *VirtualBox 4.3.20* with the Ubuntu_12.04_OpenJDK_dev_1 VM.
 
-We tried using VirtualBox shared folders without success.The Open JDK build environment has problems running in a shared folder, particularly concerning C++ precompiled headers. It would be nice to get this working at some stage, and only run the VM in order to build. For now we can leave the VM running and access its files from the host computer via Samba, as detailed below. 
+A more ideal approach would be to use VirtualBox shared folders and have the VM work within a folder on the host machine. This was attempted unsuccessfully, it seems the Open JDK build environment has problems running in a shared folder, particularly concerning C++ precompiled headers. For now we can leave the VM running and access its files from the host computer via Samba, as detailed below. 
 
 
 ### 1. Configure Samba on the VM
