@@ -11,16 +11,22 @@ TODO MB complete this bit...
 
 Edit the Samba config file: 
 
-`sudo gedit /etc/samba/smb.conf`
+```bash
+sudo gedit /etc/samba/smb.conf
+```
 
-Find the **[homes]** section check that the following lines are uncommented:
- - [homes]
- - comment = Home Directories
- - browseable = yes
- - writable = yes
- 
-Restart the Samba service:And edit as follows:
- - 
+Find the **[homes]** section and check that the following lines are uncommented:
+```ini
+[homes]
+comment = Home Directories
+browseable = yes
+writable = yes
+```
+Restart the Samba service:
+
+```bash
+sudo restart smbd
+```
 
 
 See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
