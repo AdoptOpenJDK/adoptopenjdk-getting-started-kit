@@ -9,13 +9,15 @@ We tried using VirtualBox shared folders without success.The Open JDK build envi
 TODO MB complete this bit...
 ## Configure Samba on the VM
 
-Edit the Samba config file by: `sudo gedit /etc/samba/smb.conf`, find the **[homes]** section check that the following lines are uncommented:
+Edit the Samba config file: 
+`sudo gedit /etc/samba/smb.conf`
+Find the **[homes]** section check that the following lines are uncommented:
  - [homes]
  - comment = Home Directories
  - browseable = yes
  - writable = yes
  
-And edit as follows:
+Restart the Samba service:And edit as follows:
  - 
 
 
