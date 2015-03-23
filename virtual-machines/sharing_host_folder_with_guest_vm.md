@@ -35,9 +35,14 @@ machine > Network> Attached to:
 ```
 And select **Bridged Adapter**
 
-Set the VM's subnet to be the same as the host. On the host run the `ifconfig` command to determine the subnet, 200.200.0.xxx in this example. On a Windows host use `ipconfig` instead.
+Set the VM's subnet to be the same as the host. On the host run the `ifconfig` command to determine the subnet, 200.200.0.xxx in this example. On a Windows host use `ipconfig` instead. Choose an unused address, 200.200.0.129 in this example.
 
-In a command prompt on the VM set the subnet by:
+On the VM set the ip address, subnet and DNS from the graphical **System Settings** tool as follows:
+ - Click **Network**
+ - Click **Wired**
+ - Press the **Options** button
+ - Select the **IPv4** tab
+ - In the **Method** dropdown choose **Manual**
 ```bash
 blaaaah
 ```
