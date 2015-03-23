@@ -24,7 +24,7 @@ __Ubuntu 12.04 VM with OpenJDK Sources (no IDE installed)__<br/>
 (VM contains OpenJDK sources and JTReg, no IDEs are installed)<br/>
 
 https://copy.com/US0ojEDg1oRc <br/>
-- Login/password: openjdk / openjdk -
+- Login/password: openjdk / openjdk
 
 ---
 
