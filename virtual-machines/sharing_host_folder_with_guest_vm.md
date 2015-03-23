@@ -29,7 +29,6 @@ sudo restart smbd
 ```
 
 ### 4. Give the VM a static ip address accessible from the host machine
-####TODO: Get this to work consistently .... 
 
 In the VM's menu: **Machine > Network> Attached to:**
  - In the **Attached to** dropdown select **Bridged Adapter**
