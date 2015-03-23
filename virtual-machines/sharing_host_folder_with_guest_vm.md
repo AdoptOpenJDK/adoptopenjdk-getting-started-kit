@@ -27,7 +27,17 @@ Restart the Samba service:
 sudo restart smbd
 ```
 
-### 2. Connect from host machine
+### 4. Give the VM a static ip address
+
+In the VM's menu choose:
+```bash
+machine > Network> Attached to: 
+```
+And select **Bridged Adapter**
+
+Set the VM's subnet to be the same as the host (200.200.0.xxx in this example)
+
+### 3. Connect from host machine
 Windows: map a drive to 
 
 See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
