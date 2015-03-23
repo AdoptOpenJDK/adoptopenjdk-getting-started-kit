@@ -1,6 +1,6 @@
 # Sharing host folder with guest VM
 
-This section describes how to access the Java source code that is inside a VM, from your IDE running on the host computer. This way you can edit in your favourite IDE and environment, then switch to the VM when you are ready to build...
+This section describes how to access the Java source code that is inside a VM, from your IDE running on the host computer. This way you can edit in your favourite IDE and environment, then switch to the VM when you are ready to build.
 
 As tested on *Mac OSX 10.10* running *VirtualBox 4.3.20* with the Ubuntu_12.04_OpenJDK_dev_1 VM.
 
@@ -10,7 +10,7 @@ TODO MB complete this bit...
 
 See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
 
-###[Old stuff to delete... ]
+###[Old info re using VM's shared folder, to hide, maybe get this working and resurrect later]
 Create a folder on host machine such as ```~/Public/Java```
 
 Make sure that the Ubuntu VM has guest additions installed:
