@@ -10,7 +10,9 @@ TODO MB complete this bit...
 ## Configure Samba on the VM
 
 Edit the Samba config file: 
+
 `sudo gedit /etc/samba/smb.conf`
+
 Find the **[homes]** section check that the following lines are uncommented:
  - [homes]
  - comment = Home Directories
