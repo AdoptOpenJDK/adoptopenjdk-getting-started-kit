@@ -52,7 +52,7 @@ On the VM set the ip address, subnet and DNS from the graphical **System Setting
   - the DNS server ie address of your router (200.200.0.90 in this example)
  - Finally press the **Save** button
 
-To verify the network settings, on the host machine ping the VM, for example: **(TODO make this bit work!!)**
+To verify the network settings, on the host machine ping the VM, for example:
 ```bash
 ping 200.200.0.129
 ```
