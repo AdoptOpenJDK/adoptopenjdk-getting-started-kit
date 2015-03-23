@@ -43,6 +43,10 @@ On the VM set the ip address, subnet and DNS from the graphical **System Setting
  - Press the **Options** button
  - Select the **IPv4** tab
  - In the **Method** dropdown choose **Manual**
+ - Below **Addresses** click **Add** and enter:
+  - the address you chose (200.200.0.129 in this example)
+  - the netmask (255.255.255.0 in this example)
+  - the gateway
 ```bash
 blaaaah
 ```
