@@ -47,6 +47,7 @@ On the VM set the ip address, subnet and DNS from the graphical **System Setting
   - the address you chose (200.200.0.129 in this example)
   - the netmask (255.255.255.0 in this example)
   - the gateway ie address of your router (200.200.0.90 in this example)
+  - the DNS server ie address of your router (200.200.0.90 in this example)
  - Finall press the **Save** button
 
 ### 3. Connect from host machine
