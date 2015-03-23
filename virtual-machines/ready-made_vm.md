@@ -18,6 +18,8 @@ Minimum requirements to use VM
 - understanding of Java
 - some knowledge of the OpenJDK
 
+*All these downloads are available on a portable drive at the hackday as well.*
+
 ---
 
 __Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
@@ -36,7 +38,8 @@ __Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
 ---
 
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__<br/>
-(available via portable drive during the hackday)
+
+https://copy.com/tA0l06zDrJNNDKVL
 - Login/password: openjdk / openjdk123
 
 ---
