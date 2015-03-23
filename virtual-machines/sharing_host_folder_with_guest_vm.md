@@ -15,7 +15,7 @@ Edit the Samba config file by: `sudo gedit /etc/samba/smb.conf` as follows:
  
 [homes]
 comment = Home Directories
-browseable = yes```
+browseable = yes
  
 And edit as follows:
  - 
