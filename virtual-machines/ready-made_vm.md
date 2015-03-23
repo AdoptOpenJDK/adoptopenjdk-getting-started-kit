@@ -39,7 +39,7 @@ __Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
 
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__<br/>
 
-https://copy.com/tA0l06zDrJNNDKVL
+https://copy.com/tA0l06zDrJNNDKVL (not available yet, ask at hackday)
 - Login/password: openjdk / openjdk123
 
 ---
