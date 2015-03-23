@@ -31,10 +31,7 @@ sudo restart smbd
 ### 4. Give the VM a static ip address accessible from the host machine
 ####TODO: Get this to work consistently .... 
 
-In the VM's menu choose:
-```bash
-machine > Network> Attached to: 
-```
+In the VM's menu select **machine > Network> Attached to:**
 And select **Bridged Adapter**
 
 Set the VM's subnet to be the same as the host. On the host run the `ifconfig` command to determine the subnet, 200.200.0.xxx in this example. On a Windows host use `ipconfig` instead. Choose an unused address, 200.200.0.129 in this example.
