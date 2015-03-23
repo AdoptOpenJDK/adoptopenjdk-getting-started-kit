@@ -32,7 +32,7 @@ __Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
 (VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)<br/>
 
 http://bit.ly/1bgs369 <br/>
-- Login/password: openjdk / j1a2v3a4 -
+- Login/password: openjdk / j1a2v3a4
 
 ---
 
