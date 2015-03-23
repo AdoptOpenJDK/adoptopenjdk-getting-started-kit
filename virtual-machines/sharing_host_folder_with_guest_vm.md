@@ -37,6 +37,11 @@ And select **Bridged Adapter**
 
 Set the VM's subnet to be the same as the host. On the host run the `ifconfig` command to determine the subnet, 200.200.0.xxx in this example. On a Windows host use `ipconfig` instead.
 
+In a command prompt on the VM set the subnet by:
+```bash
+blaaaah
+```
+
 ### 3. Connect from host machine
 Windows: map a drive to 
 
