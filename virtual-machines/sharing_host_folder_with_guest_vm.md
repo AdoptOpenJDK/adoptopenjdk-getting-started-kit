@@ -53,9 +53,15 @@ On the VM set the ip address, subnet and DNS from the graphical **System Setting
  - Finall press the **Save** button
 
 ### 3. Connect from host machine
-Windows: map a drive to **\\openjdk\OpenJDK**
+Map a shared drive / folder to the following point:
+ - Server: **openjdk** (or ip address such as 200.200.0.129 if this doesn't work)
+ - User: **OpenJDK**
 
-You might you might need to use the ip address  (200.200.0.129 in this example) instead of **\\openjdk\**
+Windows example: Map a drive to **\\\\200.200.0.129\OpenJDK** 
+
+Mac example: In Finder press CMD-K and connect to **smb://200.200.0.129/openjdk**
+
+You might you might need to use the ip address  (200.200.0.129 in this example) instead of **\\\\openjdk\**
 
 See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
 
