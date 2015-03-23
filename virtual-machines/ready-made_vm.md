@@ -38,9 +38,6 @@ http://bit.ly/1bgs369 <br/>
 
 __Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
 
-http://bit.ly/1gcCxQR <br/>
-- Login/password: openjdk / openjdk -
-
 [ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova](ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova)
 - Login/password: openjdk / j1a2v3a4 -
 
@@ -48,7 +45,7 @@ http://bit.ly/1gcCxQR <br/>
 
 __Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__<br/>
 (available via portable drive during the hackday)
--Login/password: openjdk / openjdk123 -
+- Login/password: openjdk / openjdk123 -
 
 ---
 
