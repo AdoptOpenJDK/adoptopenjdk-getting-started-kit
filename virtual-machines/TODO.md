@@ -1,4 +1,9 @@
-###[Old info re using VM's shared folder, to hide, maybe get this working and resurrect later]
+## TODO
+
+1. In the sharing_host_folder.md, get command-line version of network config working, should be more consistent.
+
+
+###[2. Old info re using VM's shared folder, to hide, maybe get this working and resurrect later]
 Create a folder on host machine such as ```~/Public/Java```
 
 Make sure that the Ubuntu VM has guest additions installed:
