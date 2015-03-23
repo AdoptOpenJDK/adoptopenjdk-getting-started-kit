@@ -11,7 +11,7 @@ TODO MB complete this bit...
 
  - Edit the Samba config file by: ``` sudo gedit /etc/samba/smb.conf
 ```
- - Find the section entitled ```Share Definitions ```
+ - Find the section entitled ```Share Definitions```
  - Uncomment the details so as to look like:
  ```[homes]
 comment = Home Directories
