@@ -64,6 +64,13 @@ Windows example: Map a drive to **\\\\200.200.0.129\OpenJDK**
 Mac example: In Finder press CMD-K and connect to **smb://200.200.0.129/openjdk**
 
 
-
 See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
 
+
+### 4. Editing with your favourite IDE
+Having shared the Java source files from the Ubuntu VM into your host machine, you can now view and edit them using your favourite editor, or an IDE such as:
+ * [IntelliJ](source-code/loading_openjdk_in_intellij.md)
+ * [Eclipse](source-code/loading_openjdk_in_eclipse.md)
+ * [Netbeans](source-code/loading_openjdk_in_netbeans.md)
+
+ 
