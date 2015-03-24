@@ -1,5 +1,6 @@
 # Loading OpenJDK into IDE
 
+Having obtained the Java source files either in native environment by [zz](zz) or  To view / edit Java source code in an IDE see the links below.
 * [IntelliJ](loading_openjdk_in_intellij.md)
 * [Eclipse](loading_openjdk_in_eclipse.md)
 * [Netbeans](loading_openjdk_in_netbeans.md)
