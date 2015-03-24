@@ -69,7 +69,7 @@ See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-direc
 
 ### 4. Editing with your favourite IDE
 Having shared the Java source files from the Ubuntu VM into your host machine, you can now view and edit them using your favourite editor, or an IDE such as:
- * [IntelliJ](source-code/loading_openjdk_in_intellij.md)
+ * [IntelliJ](loading_openjdk_in_intellij.md)
  * [Eclipse](source-code/loading_openjdk_in_eclipse.md)
  * [Netbeans](source-code/loading_openjdk_in_netbeans.md)
 
