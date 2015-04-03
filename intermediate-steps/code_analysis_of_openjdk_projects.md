@@ -14,7 +14,7 @@ After going through the steps below, we'll have this dashboard:
 
 ![[[SonarQube Configured for OpenJDK8 and OpenJDK9]]](SonarQube-OpenJDK8-and-OpenJDK9.png)
 
-We'll configurethe 3 parts of SonarQube following SonarQube before analysing the codebase - http://docs.sonarqube.org/display/SONAR/Installing:
+We'll configure the 3 parts of SonarQube following SonarQube before analysing the codebase - http://docs.sonarqube.org/display/SONAR/Installing:
 * the database (to store the results);
 * the web server (to display and configure sonarqube);
 * the analyzers (which analyse code).
@@ -24,7 +24,7 @@ Then we'll run SonarQube analysis across the codebase, and create custom filters
 * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
 * [OpenJDK SonarQube Dashboard steps](openjdk_sonarqube_dashboard_steps.md)
 
-Known issue: in the latest version of SonarQube, projects are not visible via any of the widgets, after running analysis on them - its being investigate but please feel free to post solutions if you are able to resolve it before us.
+Known issue: in the latest version of SonarQube, projects were not visible via any of the widgets, after running analysis on them - its being investigate but please feel free to post solutions if you are able to resolve it before us.
 
 **Install SonarQube on the Mac OS**
 
@@ -60,7 +60,7 @@ Use this blog to install SonarQube (instructions for Mac OS, might need tweaks f
     sonar.jdbc.username=sonar
     sonar.jdbc.password=sonar
     . . .
-    sonar.jdbc.url
+    sonar.jdbc.url=jdbc:mysql://localhost:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance
     . . .
     sonar.web.host=127.0.0.1
     sonar.web.context=/sonar
