@@ -30,7 +30,6 @@
 * [OpenJDK projects](openjdk-projects/openjdk_projects.md)
    * [Penrose](openjdk-projects/openjdk_projects_penrose.md)
    * [Nashorn](openjdk-projects/openjdk_projects_nashorn.md)
-   * JMH
 * [Intermediate steps](intermediate-steps/intermediate_steps.md)
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)
