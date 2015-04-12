@@ -37,9 +37,15 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.8*'`"
 export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 ```
 
-**Getting started exercises**
+**Getting started**
+
+*Slides*
+
+*Exercises*
 https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
 
+*Other mentions of REPL*
+http://www.infoq.com/news/2014/09/repl-for-java
 
 
 **Gotachas**  
