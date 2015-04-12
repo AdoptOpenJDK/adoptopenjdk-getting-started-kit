@@ -1,4 +1,4 @@
-# Summary
+Summary
 
 * [Introduction](README.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
@@ -31,6 +31,8 @@
    * [Penrose](openjdk-projects/openjdk_projects_penrose.md)
    * [Nashorn](openjdk-projects/openjdk_projects_nashorn.md)
    * [JMH](jmh.md)
+   * [Kulla](kulla.md)
+   * [Valhalla](valhalla.md)
 * [Intermediate steps](intermediate-steps/intermediate_steps.md)
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)
