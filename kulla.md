@@ -39,7 +39,7 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 *Slides*
 [soon to be published]
 
-*Exercises*
+*Exercises*<br/>
 - https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
 
 *Other mentions of REPL*  
