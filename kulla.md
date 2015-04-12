@@ -143,6 +143,8 @@ make clean images
 make install  <=== optional
 ```
 
+To compile and run Kulla, see http://hg.openjdk.java.net/kulla/dev/langtools/file/4933dc482be7/repl/README.
+
 **Gotachas**  
 
 *Clear the terminal window*  
