@@ -77,7 +77,6 @@ function go6 {
 }
 ```
 
-
 **Getting started**
 
 *Running kulla.jar*
