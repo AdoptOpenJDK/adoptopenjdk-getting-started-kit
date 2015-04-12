@@ -95,7 +95,7 @@ $ java -jar ~/sources/kulla/kulla.jar
 | Welcome to the Java REPL -- Version 0.411
 | Type /help for help
 
-->
+->|
 ```
 
 */help options*
