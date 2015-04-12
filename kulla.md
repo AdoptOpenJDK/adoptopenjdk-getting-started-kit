@@ -21,7 +21,7 @@ If you do not want to make JDK9 as the primary Java on your MacOS, here's someth
 What JDK am I using ?
 ```
 // Tells you which JDKs you have
-/usr/libexec/java_home -verbose
+$ /usr/libexec/java_home -verbose
 ```
 
 Can I set JDK8 or JDK9 to be my default JAVA_HOME each time I log into my terminal ?
