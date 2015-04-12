@@ -52,6 +52,28 @@ $ java -jar ~/sources/kulla/kulla.jar
 ->
 ```
 
+*/help options*
+
+```
+-> /help
+Type a Java language expression, statement, or declaration.
+Or type one of the following commands:
+
+{
+. 
+.
+. 
+  [Options]
+. 
+.
+. 
+}
+
+Supported shortcuts include:
+<tab> -- show possible completions for the current text
+Shift-<tab> -- for current method or constructor invocation, show a synopsis of the method/constructor
+```
+
 *Slides*
 [soon to be published]
 
