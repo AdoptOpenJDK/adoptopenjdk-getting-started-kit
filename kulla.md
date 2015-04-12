@@ -49,5 +49,5 @@ http://www.infoq.com/news/2014/09/repl-for-java
 **Gotachas**  
 
 *Clear the terminal window*  
- MacOS: CMD-K
+ MacOS: CMD-K <br/>
  Linux: Ctrl-K or Ctrl-L
