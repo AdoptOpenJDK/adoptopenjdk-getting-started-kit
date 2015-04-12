@@ -36,6 +36,22 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 
 **Getting started**
 
+*Running kulla.jar*
+
+```
+set JAVA_HOME to point to /path/JDK9/bin/
+```
+```
+$ java -jar ~/sources/kulla/kulla.jar
+```
+
+```
+| Welcome to the Java REPL -- Version 0.411
+| Type /help for help
+
+->
+```
+
 *Slides*
 [soon to be published]
 
