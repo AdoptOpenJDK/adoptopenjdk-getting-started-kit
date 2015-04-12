@@ -10,7 +10,6 @@ View or add your comments to the recent LJC hackday [feedback](https://docs.goog
 **Download binaries**  
 
 JDK9: https://jdk9.java.net/download/
-
 Kulla.jar: https://java.net/projects/adoptopenjdk/downloads/download/kulla.jar
 
 
