@@ -136,7 +136,7 @@ Shift-<tab> -- for current method or constructor invocation, show a synopsis of 
 hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
 cd kulla-dev
 sh get_sources.sh
-bash configure
+bash configure --boot-jdk=/path/to/jdk1.8.0
 make clean images
 make install  <=== optional
 ```
