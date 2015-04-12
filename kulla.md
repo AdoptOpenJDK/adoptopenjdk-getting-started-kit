@@ -34,6 +34,50 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.8*'`"
 export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 ```
 
+**Linux/MacOS users**<br/>
+How can I switch between different versions of the JDK if I have multiple of them ?
+
+Add the below to your .bashrc or .bash_profile:
+
+```
+export JAVA9_HOME=/path/to/jdk1.9.0
+export JAVA8_HOME=/path/to/jdk1.8.0
+export JAVA7_HOME=/path/to/jdk1.7.0
+export JAVA6_HOME=/path/to/jdk1.6.0
+export JAVA_HOME=$JAVA7_HOME
+export JDK_HOME=$JAVA7_HOME
+export IDEA_JDK=$JAVA7_HOME
+ 
+function go9 {
+    export JAVA_HOME=$JAVA9_HOME
+    export JDK_HOME=$JAVA_HOME
+    echo "Switched to $JAVA_HOME"
+    export PATH="$JAVA_HOME/bin:$PATH"
+}
+
+function go8 {
+    export JAVA_HOME=$JAVA8_HOME
+    export JDK_HOME=$JAVA_HOME
+    echo "Switched to $JAVA_HOME"
+    export PATH="$JAVA_HOME/bin:$PATH"
+}
+ 
+function go7 {
+    export JAVA_HOME=$JAVA7_HOME
+    export JDK_HOME=$JAVA_HOME
+    echo "Switched to $JAVA_HOME"
+    export PATH="$JAVA_HOME/bin:$PATH"
+}
+ 
+function go6 {
+    export JAVA_HOME=$JAVA6_HOME
+    export JDK_HOME=$JAVA_HOME
+    echo "Switched to $JAVA_HOME"
+    export PATH="$JAVA_HOME/bin:$PATH"
+}
+```
+
+
 **Getting started**
 
 *Running kulla.jar*
