@@ -9,7 +9,11 @@ http://openjdk.java.net/projects/kulla/
 View or add your comments to the recent LJC hackday [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing) by the attendees.
 
 **Download binaries**  
-https://jdk9.java.net/download/
+
+JDK9: https://jdk9.java.net/download/
+
+Kulla.jar: https://java.net/projects/adoptopenjdk/downloads/download/kulla.jar
+
 
 **MacOS users**
 If you do not want to make JDK9 as the primary Java on your MacOS, here's something to try out http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html
