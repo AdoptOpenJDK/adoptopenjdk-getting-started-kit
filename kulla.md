@@ -14,8 +14,29 @@ https://jdk9.java.net/download/
 **MacOS users**
 If you do not want to make JDK9 as the primary Java on your MacOS, here's something to try out http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html
 
+What JDK am I using ?
+```
+// Tells you which JDKs you have
+/usr/libexec/java_home -verbose
+```
+
+Can I set JDK8 or JDK9 to be my default JAVA_HOME each time I log into my terminal ?
+
+```
+// You can set that export command in your ~/.profile
+// and/or ~/.bashrc to permanently set JAVA_HOME
+// for all shells/terminals/applications.
+export JAVA_HOME="`/usr/libexec/java_home -v '1.8*'`"
+
+// Set JAVA_HOME to be Java 9 for the terminal
+// window you are in
+export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
+```
+
 **Getting started exercises**
 https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
+
+
 
 **Gotachas**  
 
