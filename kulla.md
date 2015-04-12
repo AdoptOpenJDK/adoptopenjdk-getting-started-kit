@@ -4,6 +4,9 @@
 Check out the official page on Kulla at 
 http://openjdk.java.net/projects/kulla/
 
+**JEP related to Kulla**<br/>
+https://bugs.openjdk.java.net/browse/JDK-8043364
+
 **Feedback**  
 View or add your comments to the recent LJC hackday [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing) by the attendees.
 
@@ -132,7 +135,7 @@ Shift-<tab> -- for current method or constructor invocation, show a synopsis of 
 ```
 hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
 cd kulla-dev
-./get_sources.sh
+sh get_sources.sh
 bash configure
 make clean images
 make install  <=== optional
