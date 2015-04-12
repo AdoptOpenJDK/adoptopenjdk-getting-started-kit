@@ -5,7 +5,7 @@
 Check out the official page on Kulla at 
 http://openjdk.java.net/projects/kulla/
 
-**Feedback**
+**Feedback**  
 View or add your comments to the recent LJC hackday [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing) by the attendees.
 
 **Download binaries**  
@@ -44,9 +44,6 @@ https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
 
 **Gotachas**  
 
-*Terminal features:*  
-
-*Clear the terminal*  
+*Clear the terminal window*  
  MacOS: CMD-K
  Linux: Ctrl-K or Ctrl-L
-
