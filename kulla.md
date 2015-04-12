@@ -46,7 +46,7 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 - http://www.infoq.com/news/2014/09/repl-for-java
 - http://redcode7.rssing.com/browser.php?indx=11248373&last=1&item=7
 
-** Building Kulla dev branch of OpenJDK9 **
+** Building the Kulla dev branch of OpenJDK9 **
 
 ```
 hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
