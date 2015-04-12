@@ -50,6 +50,7 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 
 ```
 hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
+cd kulla-dev
 ./get_sources.sh
 bash configure
 make clean images
