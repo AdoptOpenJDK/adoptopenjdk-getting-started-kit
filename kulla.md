@@ -127,7 +127,7 @@ Shift-<tab> -- for current method or constructor invocation, show a synopsis of 
 - https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
 
 *Other mentions of REPL*  
-- http://www.infoq.com/news/2014/09/repl-for-java (Java REPL, IntelliJ IDEA Java REPL plugin, Beanshell, etc)
+- http://www.infoq.com/news/2014/09/repl-for-java (Java REPL, IntelliJ IDEA Java REPL plugin, Beanshell, etc...)
 - http://redcode7.rssing.com/browser.php?indx=11248373&last=1&item=7
 
 ** Building the Kulla dev branch of OpenJDK9 **
