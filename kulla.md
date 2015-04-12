@@ -50,7 +50,9 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 
 ```
 hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
-
+bash configure
+make clean images
+make install  <=== optional
 ```
 
 **Gotachas**  
