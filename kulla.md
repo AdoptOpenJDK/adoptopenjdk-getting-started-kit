@@ -14,7 +14,7 @@ JDK9: https://jdk9.java.net/download/
 Kulla.jar: https://java.net/projects/adoptopenjdk/downloads/download/kulla.jar
 
 
-**MacOS users**  
+**MacOS users**<br/>
 If you do not want to make JDK9 as the primary Java on your MacOS, here's something to try out http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html
 
 What JDK am I using ?
