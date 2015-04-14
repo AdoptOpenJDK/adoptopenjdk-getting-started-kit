@@ -1,7 +1,7 @@
 # OpenJDK projects
 
-* [Penrose](openjdk_projects_penrose.md)
-* [Nashorn](openjdk_projects_nashorn.md)
+* [Penrose](penrose.md)
+* [Nashorn](nashorn.md)
 * [JMH](jmh.md)
 * [Kulla](kulla.md)
 * [Valhalla](valhalla.md)
