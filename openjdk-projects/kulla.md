@@ -142,6 +142,9 @@ bash configure --with-boot-jdk=/path/to/jdk1.8.0
 make clean images
 make install  <=== optional
 ```
+Ensure that the path to the JDK built with the above steps is set to the JAVA_HOME and PATH environment variables.
+
+
 
 To compile and run Kulla, see http://hg.openjdk.java.net/kulla/dev/langtools/file/4933dc482be7/repl/README.
 
