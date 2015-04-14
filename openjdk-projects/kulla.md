@@ -142,6 +142,7 @@ bash configure --with-boot-jdk=/path/to/jdk1.8.0
 make clean images
 make install  <=== optional
 ```
+
 Ensure that the path to the JDK built with the above steps is set to the ```JAVA_HOME``` and ```PATH``` environment variables.
 
 Download JLINE2 from [Maven](http://mvnrepository.com/artifact/jline/jline), and set the environment variable ```JLINE2LIB``` to point to the downloaded jar file.
