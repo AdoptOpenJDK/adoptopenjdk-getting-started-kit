@@ -149,6 +149,8 @@ Download ```JLINE2``` from [Maven](http://mvnrepository.com/artifact/jline/jline
 
 To compile and run Kulla, see http://hg.openjdk.java.net/kulla/dev/langtools/file/4933dc482be7/repl/README.
 
+Another good guide to building Kulla from scratch, see this [blog post](http://www.jclarity.com/2015/04/15/java-9-repl-getting-started-guide/).
+
 **Gotachas**  
 
 *Clear the terminal window*  
