@@ -131,6 +131,7 @@ Shift-<tab> -- for current method or constructor invocation, show a synopsis of 
 - http://redcode7.rssing.com/browser.php?indx=11248373&last=1&item=7
 - http://www.javaworld.com/article/2601433/java-language/programmers-could-get-repl-in-official-java.html
 - https://teamtreehouse.com/forum/installing-java-repl
+- [Java REPL](https://github.com/parrt/cs652/blob/master/projects/Java-REPL.md) in 300 lines of code
 
 ** Building the Kulla dev branch of OpenJDK9 **
 
