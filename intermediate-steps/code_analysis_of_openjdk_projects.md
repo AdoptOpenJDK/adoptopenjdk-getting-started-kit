@@ -24,7 +24,7 @@ Then we'll run SonarQube analysis across the codebase, and create custom filters
 * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
 * [OpenJDK SonarQube Dashboard steps](openjdk_sonarqube_dashboard_steps.md)
 
-Known issue: in the latest version of SonarQube, projects were not visible via any of the widgets, after running analysis on them - its being investigate but please feel free to post solutions if you are able to resolve it before us.
+**Known issue:** in the latest version of SonarQube, projects were not visible via any of the widgets, after running analysis on them - its being investigate but please feel free to post solutions if you are able to resolve it before us.
 
 **Install SonarQube on the Mac OS**
 
