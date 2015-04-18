@@ -23,7 +23,7 @@ While SonarQube is running, log in as admin.
     * On right hand side, Click 'Search.' Only OpenJDK8 projects are shown.
 
 ##Configuring the Dashboard##
-We'll ocnfigure the SonarQube to display each OpenJDK version separately.
+We'll configure the SonarQube to display each OpenJDK version separately.
 
 ###OpenJDK9 Dashboard###
 
