@@ -27,17 +27,16 @@ While SonarQube is running, log in as admin.
 ##Configuring the Dashboard##
 We'll configure the SonarQube to display each OpenJDK version separately.
 
-###OpenJDK9 Dashboard###
-
-1. Under the orange box of categories, you'll see 4 widgets:
-2. Move the widget on the right and place it on top of the 'Welcome Widget'. This will push the 'Welcome' downward.
-3. In the orange box, select the tab 'Filters'
-4. Move this new Widget under the first one
-5. On the right, we'll edit the Widget 'Measure Filter as Treemap' to show only OpenJDK9 projects.
-
 ###OpenJDK8 Dashboard###
 1. Under the orange box of categories, you'll see 4 widgets:
 2. Move the widget on the right and place it on top of the 'Welcome Widget'. This will push the 'Welcome' downward.
 3. In the orange box, select the tab 'Filters'
 4. Move this new Widget under the first one
 5. On the right, we'll edit the Widget 'Measure Filter as Treemap' to show only OpenJDK8 projects.
+
+###OpenJDK9 Dashboard###
+1. Under the orange box of categories, you'll see 4 widgets:
+2. Move the widget on the right and place it on top of the 'Welcome Widget'. This will push the 'Welcome' downward.
+3. In the orange box, select the tab 'Filters'
+4. Move this new Widget under the first one
+5. On the right, we'll edit the Widget 'Measure Filter as Treemap' to show only OpenJDK9 projects.
