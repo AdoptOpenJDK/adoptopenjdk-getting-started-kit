@@ -9,18 +9,20 @@ We'll configure sonar to display the dashboard below by:
 ##Creating filters for each OpenJDK version##
 
 While SonarQube is running, log in as admin.
-1. For OpenJDK9
-    * Click the top navigation, 'Measure.'
-    * Click 'New Search'
-    * Click 'More Criteria' --> drop down 'Name contains'
-    * type 'OpenJDK9'
-    * on right hand side, Click 'Search.' Only OpenJDK9 projects are shown.<br><br>
-2. For OpenJDK8
+
+1. For OpenJDK8
     * Click the top navigation, 'Measure.'
     * Click 'New Search'
     * Click 'More Criteria' --> drop down 'Name contains'
     * Type 'OpenJDK9'
     * On right hand side, Click 'Search.' Only OpenJDK8 projects are shown.
+
+2. For OpenJDK9
+    * Click the top navigation, 'Measure.'
+    * Click 'New Search'
+    * Click 'More Criteria' --> drop down 'Name contains'
+    * type 'OpenJDK9'
+    * on right hand side, Click 'Search.' Only OpenJDK9 projects are shown.<br><br>
 
 ##Configuring the Dashboard##
 We'll configure the SonarQube to display each OpenJDK version separately.
