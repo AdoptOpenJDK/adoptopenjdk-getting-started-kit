@@ -111,7 +111,7 @@ Use this [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
       </profile>
     ```
 
-6. Start SonarQube and go to http:localhost:9000/sonar to verify that SonarQube started, and can see an empty dashboard.
+6. Start SonarQube and go to http://localhost:9000/sonar to verify that SonarQube started, and can see an empty dashboard.
 
     ```
     $ /opt/sonarqube-4.5.1/bin/linux-x86-64/sonar.sh start   (path may differ)
