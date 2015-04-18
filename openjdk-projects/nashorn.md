@@ -21,4 +21,4 @@ https://java.net/projects/avatar-js/sources
 
 **Presentation**
 
-Here's a [presentation](JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia.
+Here's a [presentation](JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
