@@ -28,7 +28,7 @@ Known issue: in the latest version of SonarQube, projects were not visible via a
 
 **Install SonarQube on the Mac OS**
 
-Use this blog to install SonarQube (instructions for Mac OS, might need tweaks for other OSes)
+Use this [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqube-formely-sonar-on-mac-os-x-mountain-lion-10-8-4/) to install SonarQube (instructions for Mac OS, might need tweaks for other OSes)
 
 **Install MySQL and SonarQube on the Ubuntu VM**
 1. Download and install MySQL on Ubuntu. See section titled "Installation" on https://help.ubuntu.com/12.04/serverguide/mysql.html
