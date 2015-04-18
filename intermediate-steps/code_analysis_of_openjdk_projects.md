@@ -118,7 +118,7 @@ Use this [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
     ```
 7. Go to http://localhost:9000/
 
-**Note:** if the ```/opt/sonarqube-4.5.1/conf/sonar-properties``` contains, in the “web server” section, the sonar.web.context, then in ```/opt/sonar-runner-2.4/conf/sonar.properties```, set the sonar.host.url=http://localhost:9000/sonar.
+**Note:** if the ```/opt/sonarqube-4.5.1/conf/sonar-properties``` contains, in the “web server” section, the sonar.web.context, then in ```/opt/sonar-runner-2.4/conf/sonar.properties```, set the sonar.host.url=http://localhost:9000/sonar
 
 Otherwise, when SonarQube starts up, and tries to call the sonarqube API from the URL, http://localhost:9000, there will be no response and SonarQube will not start up.
 
