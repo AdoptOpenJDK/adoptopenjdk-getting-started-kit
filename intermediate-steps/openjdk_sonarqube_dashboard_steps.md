@@ -14,7 +14,7 @@ While SonarQube is running, log in as admin.
     * Click the top navigation, 'Measure.'
     * Click 'New Search'
     * Click 'More Criteria' --> drop down 'Name contains'
-    * Type 'OpenJDK9'
+    * Type 'OpenJDK8'
     * On right hand side, Click 'Search.' Only OpenJDK8 projects are shown.
 <br><br>
 2. For OpenJDK9
