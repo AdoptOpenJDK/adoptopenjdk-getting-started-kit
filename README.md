@@ -19,7 +19,11 @@ This document is meant to make it easier for "first time" developers to get star
 
 Do the below and you can immediately start contributing via the github collaboration model:
 
-clone the repo **git@github.com:neomatrix369/adoptopenjdk-getting-started-kit.git**, make your amendments, and create a pull request.
+clone the repo **git@github.com:neomatrix369/adoptopenjdk-getting-started-kit.git**, make your amendments, and create a pull request
+
+or 
+
+You can also [contact](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) the authors.
 
 Some [documentation](http://help.gitbook.com/) and [how to install GitBook](https://github.com/GitbookIO/gitbook) locally should also help in the process.
 
