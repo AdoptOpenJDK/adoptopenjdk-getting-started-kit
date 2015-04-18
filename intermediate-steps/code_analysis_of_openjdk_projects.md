@@ -116,7 +116,6 @@ Use this [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
     ```
     $ /opt/sonarqube-4.5.1/bin/linux-x86-64/sonar.sh start   (path may differ)
     ```
-7. Go to http://localhost:9000/sonar
 
 Note: if the ```/opt/sonarqube-4.5.1/conf/sonar-properties``` contains, in the “web server” section, the sonar.web.context, then in ```/opt/sonar-runner-2.4/conf/sonar.properties```, set the sonar.host.url=http://localhost:9000/sonar.
 
