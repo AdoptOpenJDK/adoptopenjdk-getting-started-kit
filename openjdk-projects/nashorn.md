@@ -18,3 +18,7 @@ https://avatar-js.java.net/  https://avatar.java.net/
 
 Sources:  <br/>
 https://java.net/projects/avatar-js/sources
+
+**Presentation**
+
+Here's a [presentation](JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia.
