@@ -14,7 +14,6 @@ This document is meant to make it easier for "first time" developers to get star
 ####[Let's get started...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/)
 
 <br/>
-
 ##### Want to contribute to this book ?
 
 Do the below and you can immediately start contributing via the github collaboration model:
