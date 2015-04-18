@@ -23,7 +23,7 @@
        * [Build OpenJDK 8](binaries/build_openjdk_8.md)
        * [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * [Source code](source-code/source_code.md)
-   * [Loading OpenJDK into IDE](source-code/loading_openjdk_into_ide.md)
+   * [Loading OpenJDK into a IDE](source-code/loading_openjdk_into_ide.md)
        * [IntelliJ](source-code/loading_openjdk_in_intellij.md)
        * [Eclipse](source-code/loading_openjdk_in_eclipse.md)
        * [Netbeans](source-code/loading_openjdk_in_netbeans.md)
