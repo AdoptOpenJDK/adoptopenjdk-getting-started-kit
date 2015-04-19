@@ -15,7 +15,7 @@ JDK9 binaries: https://jdk9.java.net/download/<br/>
 Kulla.jar: [Adopt OpenJDK Cloudbees Build farm](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/lastSuccessfulBuild/artifact/)
 
 **MacOS users**<br/>
-If you do not want to make JDK9 as the primary Java on your MacOS, here's something to try out http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html
+If you do not want to make JDK9 as the primary Java on your MacOS, here's something to [try out](http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html). 
 
 What JDK am I using ?
 ```
