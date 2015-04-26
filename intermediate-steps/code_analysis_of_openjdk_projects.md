@@ -20,7 +20,7 @@ We'll configure the 3 parts of SonarQube following SonarQube before analysing th
 * the analyzers (which analyse code).
 
 Then we'll run SonarQube analysis across the codebase, and create custom filters on SonarQube to show us one dashboard per version of OpenJDK.
-* [JDK7 SonarQube analysis on Project Nemo](http://nemo.sonarqube.org/dashboard/index/net.java.openjdk:jdk7)
+* [Project Nemo: JDK7 SonarQube analysis](http://nemo.sonarqube.org/dashboard/index/net.java.openjdk:jdk7)
 * [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
 * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
 * [OpenJDK SonarQube Dashboard steps](openjdk_sonarqube_dashboard_steps.md)
