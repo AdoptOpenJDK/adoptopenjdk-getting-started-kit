@@ -5,7 +5,7 @@ To view / edit Java source files from IntelliJ:
  - Browse to the jdk/ folder, which contains the src, make and test folders. For example /home/openjdk/dev/jdk9/jdk on a Ubuntu VM, or smb://server/user/dev/jdk9/jdk if you are using a [share from VM into the host machine](../virtual-machines/sharing_host_folder_with_guest_vm.md). Press OK and be patient.
  - Alternatively choose a sub-folder of the above, such as java.base/share/classes to work with a smaller sub-set.
 
-## Script to load OpenJDK modules into IntelliJ
+## Script to load modules from the JDK repo (OpenJDK repo) into IntelliJ
 https://github.com/AdoptOpenJDK/BuildHelpers/blob/master/buildIntelliJModules.sh
 
 ## Nashorn project
