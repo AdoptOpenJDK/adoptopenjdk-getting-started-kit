@@ -5,7 +5,7 @@ A simplifying and standard virtual machine used for building OpenJDK.
 
 ### Quick Start
 
-Please download and install the latest version of Vagrant 1.7.2 or higher from https://www.vagrantup.com/downloads.html.
+Please download and install the latest version of *Vagrant 1.7.2 or higher* from https://www.vagrantup.com/downloads.html.
 
 Then execute the following command line:
 
