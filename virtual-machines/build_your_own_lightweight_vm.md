@@ -2,8 +2,22 @@
 
 A simplifying and standard virtual machine used for building OpenJDK.
 
+
 ### Quick Start
-The sections in this document are below, all the bullet points are steps required, all **bold** sections provided more information or optional configuration. **Any reference to $ is a comment line argument to be executed within a vagrant vm. **
+
+Please download and install the latest version of Vagrant 1.7.2 or higher from https://www.vagrantup.com/downloads.html.
+
+Then execute the following command line:
+
+```$ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";```
+
+It's 377MB so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a MacBookPro 2013 with 16GB and SSD).
+
+### Detailed steps
+
+If you would like to explore all the technologies used to build the box.
+
+The sections in this document are below, all the bullet points are steps required, all **bold** sections provided more information or optional configuration. **Any reference to $ is a command line argument to be executed within a vagrant vm. **
 
   - Install Virtual Box, Vagrant & Git
   - Boot Vagrant VM
