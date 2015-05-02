@@ -15,7 +15,7 @@ It's about **377MB** so please download beforehand on a slow home broadband, zer
 
 ### Detailed steps
 
-If you would like to explore all the technologies used to build the box.
+*If you would like to do the above and explore all the technologies used to build the box.
 
 The sections in this document are below, all the bullet points are steps required, all **bold** sections provided more information or optional configuration. **Any reference to $ is a command line argument to be executed within a vagrant vm. **
 
