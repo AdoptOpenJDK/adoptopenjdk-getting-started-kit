@@ -1,13 +1,13 @@
 
-JMH is a microbenchmarking tool for Java and other JVM languages. 
+JMH é uma ferramenta para microbenchmarking em Java e outras linguagens da JVM.
 
-A microbenchmark is an attempt to measure the performance of a "mico" portion of the code. These tests are typically in the nanosecond range with thousands of executions.  The tested code usually performs a small task. 
+Um microbenchmark é uma maneira de quantificar a performance de uma "mico" porção de codigo. Estes testes rodam tipicamente em nanosegundos com milhares de execuções.  O codigo testado geralmente executa uma pequena tarefa.
 
-Microbenchmarking is not same as   profiling! 
+Microbenchmarking não é o mesmo que profiling!
 
-When profiling, you work with full app either in production or some similar environment.
+Profiling é quando uma aplicacao inteira em produção ou outro ambiente similar a produção tem sua performance medida.
 
-When you microbenchmark, you get a result that is  fictional since it is very different from a production environment. 
+Enquanto que o Microbenchmark, resulta em uma ciencia ficcional muito diferente de um ambiente de produção.
 
 http://openjdk.java.net/projects/code-tools/jmh/
 
@@ -20,4 +20,4 @@ running benchmarks
 
 IDE plugins
 
-Links and references
+Links e referencias

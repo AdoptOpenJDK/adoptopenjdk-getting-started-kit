@@ -1,12 +1,12 @@
 # Windows
 
-**On Windows platform, when I start my VM in VirtualBox, VirtualBox throws an error Error: “amd-v is disabled in bios”**
+**Quando inicio minha VM no VirtualBox, VirtualBox me retorna um erro Error: “amd-v is disabled in bios”**
 
-Go to BIOS setting by restarting and enable Virtualization Technology Under the Menu option called System Configuration.
+Para resolver este problema, reinicie o computador e configure a "Virtualization Technology" no menu de "System Configuration".
 
-**On Windows VM host, the Ubuntu guest is not connected to the internet**
+**Ubuntu guest não pode conectar a internet**
 
-Go to ```Network connections -> Virtual Box Host Only connection -> Select "Properties" -> Check VirtualBox Bridged Networking Driver```.
+Abra a opção ```Network connections -> Virtual Box Host Only connection -> "Properties" -> Marque a caixinha VirtualBox Bridged Networking Driver```.
 
-Now, internet on guest should work, [see link](
+Caso o problema persista, confira mais informações no [stackoverflow link](
 http://stackoverflow.com/questions/35375/internet-access-in-ubuntu-on-virtualbox).

@@ -1,5 +1,5 @@
 # Penrose
 
-Considering that the old Jigsaw JDK8 EA build is now dropped Penrose sources are currently outdated and the project is still in exploratory phase. 
+Considerando que o antigo Jigsaw JDK8 EA build não esta mais em desenvolvimento (released) O projeto Penrose e seu codigo fonte não esta atualizado com o JDK9 e o mesmo encontra-se em faze de exploração.
 
-However you can inspect old forest under [penrose/jigsaw](http://hg.openjdk.java.net/penrose/jigsaw/) and [penrose/penrose](http://hg.openjdk.java.net/penrose/penrose/) [for some demos].
+Mesmo assim, fique a vontade para explorar [penrose/jigsaw](http://hg.openjdk.java.net/penrose/jigsaw/) e [penrose/penrose](http://hg.openjdk.java.net/penrose/penrose/) [e veja os demos].

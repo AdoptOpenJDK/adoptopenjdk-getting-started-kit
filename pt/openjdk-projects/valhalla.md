@@ -1,4 +1,3 @@
 # Valhalla
 
-Check out the official page on Valhalla at 
-http://openjdk.java.net/projects/valhalla/
+Veja a documentação oficial do [Valhalla](http://openjdk.java.net/projects/valhalla/)

@@ -1,4 +1,4 @@
-# Known issues
+# Problemas conhecidos
 
 * [Linux/Unix](known_issues_linuxunix.md)
 * [MacOS](known_issues_macos.md)
