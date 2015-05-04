@@ -1,3 +1,3 @@
-# Build your own VM
+# Faça sua própria VM
 
-* [Build your own VirtualBox VM](https://github.com/AdoptOpenJDK/openjdk-virtual-images) using ready-made Packer / Puppet / Vagrant / Chef scripts  hosted on the AdoptOpenJDK github repo (instructions to do so available as README.md - takes under 3 hours to complete).
+* [Efetue o Build de sua propria VirtualBox VM](https://github.com/AdoptOpenJDK/openjdk-virtual-images) ultilizando os scripts feitos com Packer / Puppet / Vagrant / Chef scripts  hospedados no projeto do AdoptOpenJDK no github (mais instruções disponiveis em README.md - pode tardar ate 3 horas para completar).

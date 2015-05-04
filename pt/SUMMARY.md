@@ -12,7 +12,7 @@
    * [OpenJDK Bug database (JIRA)](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
    * [Instale o comando tree](adopt-openjdk-getting-started/install_the_tree_command.md)
 * [Maquinas Virtuais](virtual-machines/virtual_machines.md)
-   * [VM Já configurada](virtual-machines/ready-made_vm.md)
+   * [VMs configuradas](virtual-machines/ready-made_vm.md)
    * [Faça sua própria VM](virtual-machines/build_your_own_vm.md)
    * [Faça sua própria VM light-weight](virtual-machines/build_your_own_lightweight_vm.md)
    * [Compartindo arquivos locais com sua VM](virtual-machines/sharing_host_folder_with_guest_vm.md)

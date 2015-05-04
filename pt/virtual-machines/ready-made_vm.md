@@ -1,28 +1,28 @@
-# Ready-made VM
+# VMs configuradas
 
-**Please be mindful these files are several GB in size, so download these files only with a high-speed environment and not at a hands-on event.**
+**Por favor, considere que os arquivos descritos neste documento podem ser grandes e são medidos em gigabites, recomendamos que estes sejam feitos em uma conexão de internet rapida e que se evite efetuar o download em conferencias e salas de aula.**
 
-*MacOS users: please use [Zipeg](http://www.zipeg.com/) to uncompress the downloaded zip files and then import an appliance where its available.*
+*Usuarios MacOS: Recomendamos usar [Zipeg](http://www.zipeg.com/) para efetuar correta descrompressao e consequente importação de arquivos onde aplicavel.*
 
-**Install a Download Manager before downloading any of the below files.**
+**Instale o Download Manager before downloading any of the below files.**
 
-.OVA & .OVF files can be loaded into programs like *VirtualBox* using the *Import Appliance…* option.
+Arquivos .OVA & .OVF podem ser carregados dentro de programas como *VirtualBox* usando a opção *Import Appliance…*.
 
-Contains OpenJDK8 source, but can also be used to download and install OpenJDK9.
+Contem codigo fonte do OpenJDK8, mas pode ser usado também ser usado para instalar o OpenJDK9.
 
-Minimum requirements to use VM
-- 64-bit CPU running a 64-bit OS
-- 10-15 GB free disk space
-- laptop fast enough to run a VM on it
-- VirtualBox installed
-- understanding of Java
-- some knowledge of the OpenJDK
+Requisitos minimos para usar a VM
+- 64-bit CPU - 64-bit OS
+- 10-15 GB de disco livre
+- laptop rapido o suficiente para rodar uma VM
+- VirtualBox instalado
+- Conhecimento Java
+- Conhecimento basico do OpenJDK
 
-*All these downloads are available on a portable drive at the hackday as well.*
+*Todos os downloads estarão disponiveis em um driver usb no hackday.*
 
 ---
 
-__Ubuntu 12.04 VM with OpenJDK Sources and Eclipse__<br/>
+__Ubuntu 12.04 VM com fontes do OpenJDK e Eclipse__<br/>
 (VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)<br/>
 
 http://bit.ly/1bgs369 <br/>
@@ -30,21 +30,21 @@ http://bit.ly/1bgs369 <br/>
 
 ---
 
-__Ubuntu 12.04 VM with OpenJDK Sources and IntelliJ__<br/>
+__Ubuntu 12.04 VM com fontes do OpenJDK e IntelliJ__<br/>
 
 [ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova](ftp://bgjug.sty-consulting.com/openjdk-ubuntu/Ubuntu_12.04_OpenJDK_dev.ova)
 - Login/password: openjdk / j1a2v3a4
 
 ---
 
-__Ubuntu 12.04 VM with OpenJDK9 (jigsaw) Sources and IntelliJ__<br/>
+__Ubuntu 12.04 VM com fontes do OpenJDK9 (jigsaw) e IntelliJ__<br/>
 
 https://copy.com/tA0l06zDrJNNDKVL 
 - Login/password: openjdk / openjdk123
 
 ---
 
-__Fedora VM with OpenJDK Sources (no IDE installed) - JDK9__<br/>
+__Fedora VM com fontes do OpenJDK Sources (sem IDE installed) - JDK9__<br/>
 
 [ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova](ftp://bgjug.sty-consulting.com/openjdk-fedora/openjdk-fedora.ova)<br/>
 - Login/password: openjdk / openjdk

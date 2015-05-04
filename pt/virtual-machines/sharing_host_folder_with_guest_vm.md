@@ -1,4 +1,4 @@
-# Sharing host folder with guest VM
+# Compartindo arquivos locais com sua VM
 
 This section describes how to access the Java source code that is inside a VM, from your IDE running on the host computer. This way you can edit in your favourite IDE and environment, then switch to the VM when you are ready to build.
 

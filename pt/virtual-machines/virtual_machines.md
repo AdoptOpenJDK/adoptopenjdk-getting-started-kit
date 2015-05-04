@@ -1,6 +1,6 @@
-# Virtual Machines
+# Maquinas Virtuais
 
-* [Ready-made VM](ready-made_vm.md)
-* [Build your own VM](build_your_own_vm.md)
-* [Build your own light-weight VM](build_your_own_lightweight_vm.md)
-* [Sharing host folder with guest VM](sharing_host_folder_with_guest_vm.md)
+ * [VMs configuradas](virtual-machines/ready-made_vm.md)
+ * [Faça sua própria VM](virtual-machines/build_your_own_vm.md)
+ * [Faça sua própria VM light-weight](virtual-machines/build_your_own_lightweight_vm.md)
+ * [Compartindo arquivos locais com sua VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
