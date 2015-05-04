@@ -1,14 +1,14 @@
-# Patches - how to create and submit them (webrev)
+# Patches - como criar e submete-los (webrev)
 
-* Ensure webrev.ksh is available or [download it from](http://hg.openjdk.java.net/code-tools/webrev/raw-file/tip/webrev.ksh).
-* Make the necessary OpenJDK changes
-* Check for these changes using the below command
+* Confirme que o webrev.ksh esta disponivel, caso contrario efetue o [download](http://hg.openjdk.java.net/code-tools/webrev/raw-file/tip/webrev.ksh).
+* Realize as mudancas necessárias no OpenJDK
+* Verifique se existem novos updates no repo usando o comando abaixo
 
 ```
 $ hg status
 ```
 
-And you will see the files added, deleted or changed in the process, a sample output can be:
+Este comando quando executado, caso hajam mudancas, pode retornar algo como:
 
 ```
 A COPYING
@@ -22,19 +22,20 @@ M src/main.py
 D src/watcher/watcher.py
 ? src/xyzzy.txt
 ```
-* And then run webrev as a command-line action as mentioned on the [Wiki](http://openjdk.java.net/guide/webrevHelp.html), some more links can be found at  http://openjdk.java.net/guide/codeReview.html and http://illumos.org/man/webrev.
 
-It will create a folder .webrev which contains the artifacts and code-review material you will need to host somewhere and then post the link to that to the respective mailing lists.
+* Em seguida execute webrev em sua linha de comando seguindo os passos mencionaods na [Wiki](http://openjdk.java.net/guide/webrevHelp.html), mais detalhes podem ser encontrados em http://openjdk.java.net/guide/codeReview.html and http://illumos.org/man/webrev.
 
-Some help by using scripts to work with mercurial (hg) and creating webrevs:
+Os passos acima, devem criar um diretorio .webrev que deve conter artifacts e material para a code-review. Estes devem ser enviados a algum servico de storage e um link para o mesmos deve ser enviado para as listas de email apropriadas.
 
-* Handy scripts https://bitbucket.org/adoptopenjdk/adopt/src/626e5ccdc28743e93aba9e4daf81255764c090bc/scripts/?at=default
+Alguns scripts que podem ser de grande ajuda com o mercurial (hg) e para criar webrevs:
 
-* Sample Java programs
+* Canivete suiço scripts https://bitbucket.org/adoptopenjdk/adopt/src/626e5ccdc28743e93aba9e4daf81255764c090bc/scripts/?at=default
+
+* Exemplo de programas Java
 https://bitbucket.org/adoptopenjdk/betterrev/src/9a7abf94ed8f8ec1f2fa67986269e0516fa9f282/betterrev/app/update/mercurial/?at=master
 
-Once you have a webrev ready, contact the relevant mailing list linked to the changes you made (see repo, module, folder or package in which you have made these changes in). On the mailing list request for a sponsor (if you are not a committer yet), you also be asked to cc more than one mailing lists in.
+Uma vez que o webrev esteja pronto, entre em contato com a lista de emails mais apropriada e envie a lista e o link com as mudancas que foram feitas (veja repo, module, arquivo ou diretorio que contenham as mudancas). Na lista de email, procure um sponsor (Se ainda nao for um committer), recomendamos que envie copias para mais de uma lista de email.
 
-At this point you must at least signed the OCA or else sending the webrev for code review won’t yield anything (see [Signing OCA](about_oca_-_signing_the_oca.md)).
+Assine o documento do OCA, caso contrario enviar o webrev nao vai ajudar muito. (veja [Signing OCA](about_oca_-_signing_the_oca.md)).
 
-There is a project in the making that will help replace this process with a more [github like process](https://bitbucket.org/adoptopenjdk/betterrev).
+Existe um projeto em desenvolvimento no github que pode ajudar a torna-lo mais [github like](https://bitbucket.org/adoptopenjdk/betterrev).

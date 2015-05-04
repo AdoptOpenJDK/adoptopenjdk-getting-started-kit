@@ -1,9 +1,9 @@
-# OpenJDK8 directory structures
+# OpenJDK8 estrutura dos diretórios
 
-See directory structure of various OpenJDK projects
-(download the tree command for Ubuntu or install it via ```sudo apt-get install tree```)
+Veja a estrutura de diretórios para varios projetos do OpenJDK
+(Efetue o download do comando tree para Ubuntu ou instale via ```sudo apt-get install tree```)
 
-Below are full or partial outputs of the output from the tree command:
+Abaixo se encontram outputs completos e ou parciais para as os outputs do comando tree:
  
 **OpenJDK (level 1)** <br/>
 ```$ tree -L 1 -d``` <br/>
@@ -48,10 +48,10 @@ build
     ├── nashorn            ⇐ Javascript Runtime for the JVM
     └── tmp
 ```
-Folder jaxp onwards the tree structure has been collapsed to enabling fitting of the build folder structure on this page.
+Na lista acima, os diretórios de jaxp e seguintes estão colapsados de maneira que caibam na pagina.
 
 **Hotspot (all levels)**  <br/>
 ```$ tree -d hotspot```<br/>
 ![](HotspotDirStructure.png)
 
-Only a partial view of the hotspot structure has been displayed on this page to enable us to fit the overview.
+Novamente, os diretórios menos importantes estão colapsados de maneira que caibam na pagina.

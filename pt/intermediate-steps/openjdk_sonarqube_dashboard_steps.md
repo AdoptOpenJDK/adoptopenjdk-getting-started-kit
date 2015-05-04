@@ -1,42 +1,42 @@
-# OpenJDK SonarQube Dashboard steps
+# OpenJDK SonarQube Dashboard passos
 
-We'll configure sonar to display the dashboard below by:
+Nos vamos configurar o sonar para mostrar o dashboard abaixo seguindo os seguintes passos:
 
-* Creating filters for each OpenJDK version
-* Configuring the Widgets of the default dashboard
+* Criando filtros para cada versão do OpenJDK
+* Configurando os Widgets no dashboard default
 
 
-##Creating filters for each OpenJDK version##
+##Criando filtros para cada versão do OpenJDK##
 
-While SonarQube is running, log in as admin.
+Inicie o SonarQube e confirme que este esta rodando corretamente, em seguinda efetue o login como admin.
 
-1. For OpenJDK8
-    * Click the top navigation, 'Measure.'
-    * Click 'New Search'
-    * Click 'More Criteria' --> drop down 'Name contains'
-    * Type 'OpenJDK8'
-    * On right hand side, Click 'Search.' Only OpenJDK8 projects are shown.
+1. Para OpenJDK8
+    * Clique na barra de navegacão do topo no icone, 'Measure.'
+    * Clique 'New Search'
+    * Clique 'More Criteria' --> drop down 'Name contains'
+    * Digite 'OpenJDK8'
+    * No canto direito, Clique 'Buscar.' Somente projetos OpenJDK8 serão mostrados.
 <br><br>
 2. For OpenJDK9
-    * Click the top navigation, 'Measure.'
-    * Click 'New Search'
-    * Click 'More Criteria' --> drop down 'Name contains'
-    * type 'OpenJDK9'
-    * on right hand side, Click 'Search.' Only OpenJDK9 projects are shown.
+    * Clique na barra de navegacão do topo no icone, 'Measure.'
+    * Clique 'New Search'
+    * Clique 'More Criteria' --> drop down 'Name contains'
+    * Digite 'OpenJDK9'
+    * No canto direito, Clique 'Buscar.' Somente projetos OpenJDK9 serão mostrados.
 
-##Configuring the Dashboard##
-We'll configure the SonarQube to display each OpenJDK version separately.
+##Configure o Dashboard##
+Nos vamos configurar o SonarQube para mostrar cada versão OpenJDK separadamente.
 
 ###OpenJDK8 Dashboard###
-1. Under the orange box of categories, you'll see 4 widgets:
-2. Move the widget on the right and place it on top of the 'Welcome Widget'. This will push the 'Welcome' downward.
-3. In the orange box, select the tab 'Filters'
-4. Move this new Widget under the first one
-5. On the right, we'll edit the Widget 'Measure Filter as Treemap' to show only OpenJDK8 projects.
+1. Na caixa laranja das categorias, existem 4 widgets:
+2. Mova o widget que está na direita e coloque em cima do 'Welcome Widget'. Isto fará com que o 'Welcome' se mova para baixo.
+3. Na caixa laranja das categorias, selecione a tab de 'Filters'
+4. Mova o seu novo Widget abaixo do primeiro
+5. Ao lado direito, nos vamos editar o Widget 'Measure Filter as Treemap' para mostrar somente projetos OpenJDK8.
 
 ###OpenJDK9 Dashboard###
-1. Under the orange box of categories, you'll see 4 widgets:
-2. Move the widget on the right and place it on top of the 'Welcome Widget'. This will push the 'Welcome' downward.
-3. In the orange box, select the tab 'Filters'
-4. Move this new Widget under the first one
-5. On the right, we'll edit the Widget 'Measure Filter as Treemap' to show only OpenJDK9 projects.
+1. Na caixa laranja das categorias, existem 4 widgets:
+2. Mova o widget que está na direita e coloque em cima do 'Welcome Widget'. Isto fará com que o 'Welcome' se mova para baixo.
+3. Na caixa laranja das categorias, selecione a tab de 'Filters'
+4. Mova o seu novo Widget abaixo do primeiro
+5. Ao lado direito, nos vamos editar o Widget 'Measure Filter as Treemap' para mostrar somente projetos OpenJDK9.

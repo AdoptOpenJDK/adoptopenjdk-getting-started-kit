@@ -1,8 +1,8 @@
-# OpenJDK9 directory structures
+# OpenJDK9 estrutura dos diretórios
 
-Take a look at some of the [tree structures](https://gist.github.com/neomatrix369/5be36b5af8768353eca4) of the various folders within the OpenJDK9 directory structure.
+De uma olhadinha em algumas das [estruturas da tree](https://gist.github.com/neomatrix369/5be36b5af8768353eca4) dos varios diretorios dentro da estrutura do OpenJDK9.
 
-**build folder**
+**diretórios do build**
 ```
 $ tree -fL 2 build
 ```
@@ -31,7 +31,7 @@ build
 ```
 ---
 
-**build/images folder**
+**diretórios de build/imagens**
 
 ``` 
 $ tree -fL 2 images
@@ -86,7 +86,7 @@ images
 └── images/sec-bin.zip
 ```
 ---
-**jdk/src folder**
+**jdk/src diretórios**
 ```
 $ cd sources/jdk9/jdk/src
 ```
@@ -106,7 +106,7 @@ java.base/share/classes/java/util
 ```
 ---
 
-**java.base folder**
+**java.base diretórios**
 ```
 $ tree -fldL 5 java.base  | less
 
@@ -168,7 +168,7 @@ $ tree -dflL 5 java.base/share/classes/java/util
 ```
 ---
 
-**(sources/jdk9/jdk/src) folder**
+**(sources/jdk9/jdk/src) diretórios**
 ```
 $ tree -dflL 5 java.base/share/classes/java/util
  
@@ -185,7 +185,7 @@ java.base/share/classes/java/util
 ```
 ---
 
-**(sources/jdk9/jdk/src) folder**
+**(sources/jdk9/jdk/src) diretórios**
 ```
 $ tree -fl | grep "/Socket." 
 ```

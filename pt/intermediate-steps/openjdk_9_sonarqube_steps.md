@@ -1,2 +1,2 @@
-# OpenJDK 9 SonarQube steps
+# OpenJDK 9 SonarQube passos
 

@@ -1,6 +1,6 @@
-# OpenJDK 9 SonarQube steps
+# OpenJDK 9 SonarQube passos
 
-*Treemap of the OpenJDK project and its components*
+*Treemap do projeto OpenJDK e seus componentes*
 ![](SonarQube-OpenJDK.jpg)
 
 ```
@@ -14,22 +14,22 @@ $ cd jdk9
 ```
 $ cd corba
 ```
-Create/update ```sonar-project.properties``` in the ```corba``` repo containing:
+Crie/atualize ```sonar-project.properties``` no repo ```corba``` de maneira que contenha:
 ```
-# required metadata
+# metadata requerido
 sonar.projectKey=OpenJDK9-corba
 sonar.projectName=OpenJDK9-corba
 sonar.projectVersion=1.0
 
-# path to source directories (required)
+# path para diretórios fonte (requerido)
 sonar.sources=src/java.corba/share/classes, src/java.sql/share/classes, src/jdk.rmic/share/classes
 
-# path to project binaries (optional), for example directory of Java bytecode
+# path para diretórios binarios (opcional), por exemplo diretórios do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/corba
 
 ```
 
-and run :
+e execute :
 
 ```
 $ sonar-runner
@@ -40,25 +40,26 @@ $ sonar-runner
 ```
 $ cd ../hotspot
 ```
-Download and install Sonar C/C++ plugin from
+
+Efetue o download e instale Sonar C/C++ plugin
 [Sonar C/C++ plugin on github](https://github.com/wenns/sonar-cxx)
 
 
-Create/update ```sonar-project.properties``` in the ```hotspot``` repo containing:
+Crie/atualize ```sonar-project.properties``` no repo```hotspot``` de maneira que contenha:
 
 ```
-# required metadata
+# metadata requerido
 sonar.projectKey=OpenJDK9-hotspot
 sonar.projectName=OpenJDK9-hotspot
 sonar.projectVersion=1.0
 
-# path to source directories (required)
+# path para diretórios fonte (requerido)
 sonar.sources=src
 
-# path to project binaries (optional), for example directory of Java bytecode
+# path para diretórios binarios (opcional), por exemplo diretórios do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/hotspot
 ```
-and run :
+e execute :
 
 ```
 $ sonar-runner
@@ -70,25 +71,25 @@ $ sonar-runner
 $ cd ../langtools
 ```
 
-Create/update ```sonar-project.properties``` in the ```langtools``` repo containing:
+Crie/atualize ```sonar-project.properties``` no repo ```langtools``` de maneira que contenha:
 
 ```
-# required metadata
+# metadata requerido
 sonar.projectKey=OpenJDK9-langtools
 sonar.projectName=OpenJDK9-langtools
 sonar.projectVersion=1.0
 
-# path to source directories (required)
+# path para diretórios fonte (requerido)
 sonar.sources=src
 
-# path to test source directories (optional)
+# path para diretórios teste (opctional)
 sonar.tests=test
 sonar.skipPackageDesign=true
 
-# path to project binaries (optional), for example directory of Java bytecode
+# path para diretórios binarios (opcional), por exemplo diretórios do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/langtools
 ```
-and run :
+e execute :
 
 ```
 $ sonar-runner
@@ -100,7 +101,7 @@ $ sonar-runner
 $ cd ../jaxp
 ```
 
-Create/update ```pom.xml``` and in the ```jaxp``` folder containing:
+Crie/atualize ```pom.xml``` no repo ```jaxp```  de maneira que contenha:
 ```xml
 <project
     xmlns="http://maven.apache.org/POM/4.0.0"
@@ -122,7 +123,7 @@ Create/update ```pom.xml``` and in the ```jaxp``` folder containing:
     </properties>
 </project>
 ```
-and run :
+e execute :
 
 ```
 $ mvn sonar:sonar
@@ -132,22 +133,22 @@ $ mvn sonar:sonar
 ```
 $ cd ../jaxws
 ```
-Create/update ```sonar-project.properties``` in the ```jaxws``` folder containing:
+Crie/atualize ```sonar-project.properties``` no repo ```jaxws``` de maneira que contenha:
 
 ```
-# required metadata
+# metadata requerido
 sonar.projectKey=OpenJDK9-jaxws
 sonar.projectName=OpenJDK9-jaxws
 sonar.projectVersion=1.0
 
-# path to source directories (required)
+# path para diretórios fonte (requerido)
 sonar.sources=src
 
-# path to project binaries (optional), for example directory of Java bytecode
+# path para diretórios binarios (opcional), por exemplo diretórios do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/jaxws
 ```
 
-and run :
+e execute :
 
 ```
 $ sonar-runner
@@ -158,28 +159,28 @@ $ sonar-runner
 $ cd ../jdk
 ```
 
-Create/update ```sonar-project.properties``` in the ```jdk``` folder, containing:
+Crie/atualize ```sonar-project.properties``` no repo ```jdk``` de maneira que contenha:
 
 ```
-# required metadata
+# metadata requerido
 sonar.projectKey=OpenJDK9-jdk
 sonar.projectName=OpenJDK9-jdk
 sonar.projectVersion=1.0
 
-# path to source directories (required)
+# path para diretórios fonte (requerido)
 sonar.sources=src
 
-# path to test source directories (optional)
+# path para diretórios teste (opctional)
 sonar.tests=test
 sonar.test.exclusions=test/java/lang/instrument/BigClass.java
 sonar.exclusions=sonar.exclusions=**/*.doc,**/*.docx,**/*.ipch
 sonar.skipPackageDesign=true
 
-# path to project binaries (optional), for example directory of Java bytecode
+# path para diretórios binarios (opcional), por exemplo diretórios do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/jdkO
 ```
 
-and run :
+e execute :
 
 ```
 $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
@@ -187,7 +188,7 @@ $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
 $ sonar-runner
 ```
 
-Note: If the command fails due to a memory problem, run the above command with additional memory.
+Nota: Se o comando falhar devido a problemas relacionados a memoria, execute novamente com mais memoria.
 
 ---
 
@@ -197,28 +198,28 @@ Note: If the command fails due to a memory problem, run the above command with a
 $ cd ../nashorn
 ```
 
-Create/update ```sonar-project.properties``` in the ```nashorn``` folder, containing:
+Crie/atualize ```sonar-project.properties``` no repo ```nashorn``` de maneira que contenha:
 
 ```
-# required metadata
+# metadata requerido
 sonar.projectKey=OpenJDK9-nashorn
 sonar.projectName=OpenJDK9-nashorn
 sonar.projectVersion=1.0
 
-# path to source directories (required)
+# path para diretórios fonte (requerido)
 sonar.sources=src
 
-# path to test source directories (optional)
+# path para diretórios teste (opctional)
 sonar.tests=test
 
-# path to project binaries (optional), for example directory of Java bytecode
+# path para diretórios binarios (opcional), por exemplo diretórios do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/nashorn
 ```
 
-and run :
+e execute :
 
 ```
 $ sonar-runner
 ```
 
-When done, load SonarQube in the browser via http://localhost:9000 to view the results of the above actions. 
+Muito bem, agora abra o SonarQube em seu browser via http://localhost:9000 para visualizar os resultados dos comandos acima.
