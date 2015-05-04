@@ -1,13 +1,13 @@
 # Virtual Machine
 
-**My VM disk is full since I installed xxx / have been building yyyy? What do I do?**
+**O disco da minha VM ficou cheio quando instalei xxx / ou fiz o build de yyyy? Como devo proceder?**
 
-The ‘build’ folder in jdk8_tl and jdk9 take up a lot of disk space - sometimes upto 3GB, and if not required after building it, can be removed. In the beginning when learning about the system, you won’t need both jdk8 and jdk9 built. 
+O diretorio de ‘build’ no jdk8_tl e jdk9 usam muito espaco em disco - as veses mais de 3GB, e podem ser removidos apos o build.
 
-If you still need more disk space, use the above solution to increase the size of the disk.
+Se mesmo assim, voce precisar de mais espaco em disco, use a solução abaixo para aumentar o espaco em disco:
 
-**How do I change the disk size of the VDIs on the VMs?**
+**Como posso mudar o tamanho do disco (VDIs) em minha VM?**
 
-[Recommended link shared with the community](http://bit.ly/1qgfZJ7
+[Link recomendado](http://bit.ly/1qgfZJ7
 http://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/
-https://forums.virtualbox.org/viewtopic.php?t=10348) by Richard Greenlees.
+https://forums.virtualbox.org/viewtopic.php?t=10348) Por Richard Greenlees.

@@ -1,10 +1,10 @@
 # Linux/Unix
 
-**What is the root password to the Ubuntu OS on these VMs?**
+**Qual é o root password nas maquinas Ubuntu OS?**
 
-The answer to this question can be found [at the link](http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time).
+A resposta para esta pergunta pode ser encontrada em [at the link](http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time).
 
-**I get a freetypefont error under Ubuntu 14.04 when I run bash configure ?**
+**Estou com problemas no freetypefont, me retorna um erro, estou usando Ubuntu 14.04**
 ```text
 .
 .
@@ -22,21 +22,23 @@ Distributor ID:	Ubuntu
 Description:	Ubuntu 14.04.1 LTS
 Release:	14.04
 
-Resolution:
+Solução:
+```
 bash configure --with-freetype-lib=/usr/lib --with-freetype-include=/usr/include/freetype2
-
-Please note the location of freetypefont may vary, please find out using find or locate before applying.
 ```
 
-Additionally you may need to add:
+A localização do freetypefont pode variar, verifique a localização correta usando o find ou manualmente locate before antes de rodar o comando recomendado.
+```
+
+Rode também o comando abaixo, caso o comando acima não resolva o problema:
 ```
 --with-freetype=/usr/include/freetype2
 ```
 
-**I get the below error in the Ubuntu VM when I run ./get_sources.sh ?**
+**Estou tendo problemas quando executo ./get_sources.sh na Ubuntu VM, o que fazer ?**
 
 “Need initial clone with ‘hg paths default’ defined”
-Firstly remove the ```jdk8``` or ```jdk8_tl``` folder, following that please run the below commands:
+Primeiramente, remova o diretorio ```jdk8``` ou ```jdk8_tl```, e em seguida execute os comandos abaixo:
 
 ```
 sudo apt-get install git-core ;

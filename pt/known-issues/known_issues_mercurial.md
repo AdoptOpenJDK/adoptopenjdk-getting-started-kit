@@ -1,35 +1,35 @@
 # Mercurial
 
-**My OpenJDK8 does not build, why? I get an “Http: Error 404: Not Found”.**
+**Meu OpenJDK8 nao conclue o download das sources, porque? Estou recebendo um erro “Http: Error 404: Not Found”.**
 
-There has been a change to the address to mercurial repo for openjdk8, its changed from
+O repo do OpenJDK mudou, verifique que a url que esta sendo usada esta correta.
 
+Era:
 http://hg.openjdk.java.net/jdk8/tl
 
-to 
-
+Mudou para
 http://hg.openjdk.java.net/jdk8/jdk8
 
-jdk8 Updates are available from 
+Atualizações do jdk8 estã disponiveis no usando o link
 http://hg.openjdk.java.net/jdk8u/jdk8u
 
-All hg clone commands should use the latter address, a solution to the problem can be found below under Download source by running... (```#heading=h.fuqz6rlsthji```).
+Todos os comandos hg clone devem usar os links mais atuais.
 
 
-**I get an “HTTP Error 404: Not Found” when downloading sources  (when I run ./get_sources.sh) for the various repos**
+**Meu OpenJDK8 clone retorna “HTTP Error 404: Not Found” quando executo  ./get_sources.sh, porque?**
 
 *Fix 1*
 
-Edit all the .hg/hgrc file in the root repo ($HOME/SOURCE/jdk8_tl) along with those in repos hotspot, jaxws, jaxp, corba, nashorn, jdk, langtools, and change all references to .../tl/... to .../jdk8/… For example, change the below setting,
+Edite todos os arquivos dentro de .hg/hgrc localizados em ($HOME/SOURCE/jdk8_tl) incluindo hotspot, jaxws, jaxp, corba, nashorn, jdk, langtools, e mude todas as referencias de .../tl/... para .../jdk8/… Por exemplo:
 
 ```
 default = http://hg.openjdk.java.net/jdk8/tl/hotspot
 ```
-to 
+para
 ```
 default = http://hg.openjdk.java.net/jdk8/jdk8/hotspot
 ```
-in the hotspot repo, and save the file. Rename the jdk8_tl folder to jdk8:
+dentro do hotspot repo salvando em seguida. Renomeie o diretorio jdk8_tl  para jdk8:
 
 ```
 $ cd ..
@@ -54,11 +54,10 @@ $ ./get_source.sh
 
 $ bash configure
 ```
-
-When the above steps work, remove the backup folder with
+Ao finalizar a execução dos comandos, remova o diretorio de backup:
 
 ```
 $ rm -fr jdk8_tl_backup
 ```
 
-All references to jdk8_tl will change to jdk8. 
+Todas as referencias a jdk8_tl devem ser renomeadas para jdk8.
