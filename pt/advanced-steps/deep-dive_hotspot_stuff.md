@@ -61,7 +61,7 @@ if (UseParallelGC) {
 ```
 
 <br/>
-#####SERIALGC switched ON - platforms that only support SERIAL GC?
+#####SERIALGC switched ON - Ideal para plataformas que somente suportam SERIAL GC?
 ```java
 .
 .
@@ -87,7 +87,7 @@ if (UseParallelGC) {
 .
 ```
 <br/>
-#####SERIALGC switched OFF - platforms that support both types of GC?
+#####SERIALGC switched OFF - Ideal para plataformas que suportam os dois tipos de GC?
 ```java
 .
 .

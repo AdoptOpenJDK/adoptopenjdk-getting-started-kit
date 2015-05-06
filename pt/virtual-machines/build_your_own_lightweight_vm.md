@@ -14,8 +14,7 @@ Este processo pode demorar vários minutos, efetuar o build completo do OpenJDK 
 
 ### Passos iniciais
 
-*
-If you would like to do the above and explore all the technologies used to build the box.
+* Indicado para pessoas que desejam explorar as tecnologias usadas para efetuar o build da box.
 
 Nas seções do documento abaixo, todas sao mandatorias para obter uma completa execução dos procedimentos aqui mencionados. Todas as seções marcasa com **bold** demarcam informações adicionais ou configurações opcionais. **Qualquer referencia ao caracter $ deve se subentender que se fala de um comando em linha de comando a ser executado dentro da vm vagrant. **
 
