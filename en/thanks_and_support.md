@@ -4,6 +4,8 @@ Thanks to **London Java Community**, its founder [Barry Cranford](http://twitter
 
 Also you would like to know that [RecWorks](http://www.recworks.co.uk/) has been supporting LJC with all events and presentation activities, since the inception of the community.
 
+Thanks to [SouJava](http://soujava.org.br/) for helping us to get this book translated into Portuguese.
+
 Not forgetting Oracle for its Open Source spirit & support!
 
 ![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/148838.gif)
