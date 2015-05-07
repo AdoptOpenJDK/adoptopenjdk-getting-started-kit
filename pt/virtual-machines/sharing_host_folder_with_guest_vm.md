@@ -1,74 +1,74 @@
 # Compartindo arquivos locais com sua VM
 
-This section describes how to access the Java source code that is inside a VM, from your IDE running on the host computer. This way you can edit in your favourite IDE and environment, then switch to the VM when you are ready to build.
+Esta secao descreve como acessar os fontes do Java que estao dentro da VM desde a sua IDE rodando no seu computador local.
+Desta maneira voce podera trabalhar com os aruivos do OpenJDK usando sua IDE favorita, e a VM sera usada apenas para efetuar o build.
 
-As tested on *Mac OSX 10.10* running *VirtualBox 4.3.20* with the Ubuntu_12.04_OpenJDK_dev_1 VM.
+Estes passos foram testados em um *Mac OSX 10.10* executando *VirtualBox 4.3.20* em um Ubuntu_12.04_OpenJDK_dev_1 VM.
 
-A more ideal approach would be to use VirtualBox shared folders and have the VM work within a folder on the host machine. This was attempted unsuccessfully, it seems the Open JDK build environment has problems running in a shared folder, particularly concerning C++ precompiled headers. For now we can leave the VM running and access its files from the host computer via Samba, as detailed below. 
+A solucao ideal seria usar a VirtualBox compartindo os mesmos arquivos juntamente com a maquina local. Esta solucao foi testada porem infelizmente nao funcionou muito bem. Desconfiamos que o OpenJDK build possue problemas para executar quando em uma pasta compartida, acreditamos que o problema seja em arquivos C++ e headers pre-compilados. Por hora vamos deixar a vm rodando e usaremos Samba para compartir os arquivos. Veja mais detalhes abaixo.
 
+### 1. Configure o Samba em sua VM
 
-### 1. Configure Samba on the VM
-
-Edit the Samba config file: 
+Edite os arquivos config:
 
 ```bash
 sudo gedit /etc/samba/smb.conf
 ```
 
-Find the **[homes]** section and check that the following lines are uncommented:
+Efetue uma busca por **[homes]** e verifique que as linhas abaixo estao descomentadas:
 ```ini
 [homes]
 comment = Home Directories
 browseable = yes
 writable = yes
 ```
-Restart the Samba service:
+Reinicie o servico Samba:
 
 ```bash
 sudo restart smbd
 ```
 
-### 4. Give the VM a static ip address accessible from the host machine
+### 4. Defina um IP estatico para a VM
 
-In the VM's menu: **Machine > Network> Attached to:**
- - In the **Attached to** dropdown select **Bridged Adapter**
- - In the **Name** dropdown choose the entry that starts with **en0:**
+No menu da VM (Virtualbox): **Machine > Network> Attached to:**
+ - Encontre o menu **Attached to** selecione o dropdown **Bridged Adapter**
+ - Encontre o dropdown **Name**  e selecione a opcao que inicar com **en0:**
 
-Set the VM's subnet to be the same as the host. On the host run the `ifconfig` command to determine the subnet, 200.200.0.xxx in this example. On a Windows host use `ipconfig` instead. Choose an unused address, 200.200.0.129 in this example.
+Sete a VM subnet para que seja a mesma onde esta o host. No host, rode o comando `ifconfig` e selecione a subnet, 200.200.0.xxx (por exemplo). Se estiver usando windows use o comando `ipconfig`. Escolha um endereco ainda nao ultilizado, 200.200.0.129 (exemplo).
 
-On the VM set the ip address, subnet and DNS from the graphical **System Settings** tool as follows:
- - Click **Network**
- - Click on **Wired** in the left-hand list
- - Press the **Options** button
- - Select the **IPv4** tab
- - In the **Method** dropdown choose **Manual**
- - Below **Addresses** click **Add** and enter:
-  - the address you chose (200.200.0.129 in this example)
-  - the netmask (255.255.255.0 in this example)
-  - the gateway ie address of your router (200.200.0.90 in this example)
-  - the DNS server ie address of your router (200.200.0.90 in this example)
- - Finally press the **Save** button
+Na VM, selecione o IP, subnet e DNS ultilizando o menu **System Settings**:
+ - Clique **Network**
+ - Clique em **Wired** que se encontra a sua esquerda
+ - Pressione **Options**
+ - Selecione a tab **IPv4**
+ - No dropdown **Method** selecione **Manual**
+ - Abaixo, em **Addresses** clique **Add** and entre com os dados:
+  - IP escolhido (200.200.0.129)
+  - A netmask (255.255.255.0)
+  - O gateway (200.200.0.90)
+  - O DNS (200.200.0.90)
+ - Finalmente pressione **Save**
 
-To verify the network settings, on the host machine ping the VM, for example:
+Para verificar os settings da network, envie um sinal de ping:
 ```bash
 ping 200.200.0.129
 ```
 
-### 3. Connect from host machine
-Map a shared drive / folder to the following point:
- - Server: **openjdk** (or ip address such as 200.200.0.129 if this doesn't work)
+### 3. Conecte sua maquina local
+Efetue o Map do seu shared drive / arquivos :
+ - Server: **openjdk** (ou ip 200.200.0.129)
  - User: **OpenJDK**
 
-Windows example: Map a drive to **\\\\200.200.0.129\OpenJDK** 
+Exemplo Windows: Mapeie um driver para **\\\\200.200.0.129\OpenJDK**
 
-Mac example: In Finder press CMD-K and connect to **smb://200.200.0.129/openjdk**
-
-
-See [this article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) or [this one]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) for more details.
+Exemplo Mac: Abra o Finder, e pressione CMD-K em seguida conecte a **smb://200.200.0.129/openjdk**
 
 
-### 4. Editing with your favourite IDE
-Having shared the Java source files from the Ubuntu VM into your host machine, you can now view and edit them using your favourite editor, or an IDE such as:
+Veja mais detalhes [neste artigo](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) ou [este]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) .
+
+
+### 4. Editando com sua IDE
+Apos compartir os arquivos fonte com sua VM Ubuntu, Sugerimos que seja feita a instalacao de uma das IDEs abaixo:
  * [IntelliJ](../source-code/loading_openjdk_in_intellij.md)
  * [Eclipse](../source-code/loading_openjdk_in_eclipse.md)
  * [Netbeans](../source-code/loading_openjdk_in_netbeans.md)

@@ -12,7 +12,7 @@
 **C++ build warnings**
 ```$ make clean JAVAC_WARNINGS="-Xlint:all -Xmaxwarns 10000" LOG=info images```
 
-**Java and C++ build warnings**
+**Java e C++ build warnings**
 ```$ make clean JAVAC_WARNINGS="-Xlint:all -Xmaxwarns 10000" DISABLE_WARNINGS="-Xlint:all" LOG=info images```
 
 

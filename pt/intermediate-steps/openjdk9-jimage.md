@@ -1,6 +1,6 @@
 # OpenJDK9 - jimage
 
-**The new *jimage* command**
+**Como criar uma imagem *jimage* nova**
 
 *Command*
 ```
@@ -10,24 +10,24 @@ $ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 *Output*
 ```
 $ ./jimage --help
-Usage: jimage <extract|recreate|info|list|verify> <options> jimage...
+Exemplo para uso: jimage <extract|recreate|info|list|verify> <options> jimage...
  
-  extract  - Extract all jimage entries into separate files into the directory
-             specified by --dir=<directory> (default=.)
-  recreate - Reconstructs a jimage from an extracted directory (--dir)
-  info     - Prints information specified in the jimage header.
-  list     - Prints the names of all the entries in the jimage.  When used with
-             --verbose will also print entry attributes ex. size and offset.
-  verify   - Reports errors on any .class entries that dont verify as classes.
+  extract  - Extrai todas as jimage em arquivos separados dentro do diretorio
+             especificado por --dir=<directory> (default=.)
+  recreate - Reconstroi a jimage desde um diretorio extraido (--dir)
+  info     - Imprime informacao especificada no header da jimage.
+  list     - Imprime os nomes de todos as entradas da jimage.  Quando usado com
+             --verbose imprime todos os atributos ex. size e offset.
+  verify   - Reporta erros em todas as entradas .class
  
-Possible options include:
-  --dir                                Target directory for create/expand
-  --help                               Print this usage message
-  --verbose                            Verbose listing
-  --version                            Version information
+"options" incluidas:
+  --dir                                Especifica um diretorio target para realizar operacoes de create/expand
+  --help                               Ajuda
+  --verbose                            Listagem Verbose
+  --version                            Informacoes de versao
  ```
 <br/>
-***modules* folder in the *jdk image***
+***modules* listar diretorios das *jdk image***
 
 *Command*
 ```bash
@@ -44,7 +44,7 @@ $ ls -lash lib/modules
 ```
 <br/>
 
-**Visual extract of the *bootmodules.jimage* file in the *lib/modules* folder**
+**Listar conteudos dos modulos *bootmodules.jimage* localizados dentro do diretorio *lib/modules* **
 
 *Command*
 ```bash

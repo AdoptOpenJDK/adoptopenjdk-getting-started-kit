@@ -1,10 +1,10 @@
 # VMs configuradas
 
-**Por favor, considere que os arquivos descritos neste documento podem ser grandes e são medidos em gigabites, recomendamos que estes sejam feitos em uma conexão de internet rapida e que se evite efetuar o download em conferencias e salas de aula.**
+**Por favor, considere que os arquivos descritos neste documento podem ser grandes e são medidos em gigabites, recomendamos que estes sejam baixados em uma conexão de internet rapida e que se evite efetuar o download em conferencias e salas de aula.**
 
 *Usuarios MacOS: Recomendamos usar [Zipeg](http://www.zipeg.com/) para efetuar correta descrompressao e consequente importação de arquivos onde aplicavel.*
 
-**Instale o Download Manager before downloading any of the below files.**
+**Instale o Download Manager antes de efetuar o download dos arquivos abaixo.**
 
 Arquivos .OVA & .OVF podem ser carregados dentro de programas como *VirtualBox* usando a opção *Import Appliance…*.
 
@@ -23,7 +23,7 @@ Requisitos minimos para usar a VM
 ---
 
 __Ubuntu 12.04 VM com fontes do OpenJDK e Eclipse__<br/>
-(VM contains OpenJDK sources and Eclipse with OpenJDK sources loaded into Eclipse)<br/>
+(VM contem Eclipse instalado e configurado com os fontes do OpenJDK)<br/>
 
 http://bit.ly/1bgs369 <br/>
 - Login/password: openjdk / j1a2v3a4
