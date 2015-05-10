@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [What's changed](whatsChanged.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
