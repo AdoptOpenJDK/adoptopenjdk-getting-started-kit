@@ -21,6 +21,6 @@ https://java.net/projects/avatar-js/sources
 
 **Presentation**
 
-Here's a [presentation](JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
+Here's a [presentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
 
 See also: [Source Code > Loading OpenJDK in the IDE](../source-code/loading_openjdk_in_intellij.md)
