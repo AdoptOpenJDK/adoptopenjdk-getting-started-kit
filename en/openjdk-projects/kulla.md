@@ -48,7 +48,6 @@ export JAVA7_HOME=/path/to/jdk1.7.0
 export JAVA6_HOME=/path/to/jdk1.6.0
 export JAVA_HOME=$JAVA7_HOME
 export JDK_HOME=$JAVA7_HOME
-export IDEA_JDK=$JAVA7_HOME
  
 function go9 {
     export JAVA_HOME=$JAVA9_HOME
