@@ -1,4 +1,4 @@
-**Maven pom.xml to build your own kulla.jar**
+# Maven pom.xml to build your own kulla.jar
 
 Save the below ```xml``` as ```pom.xml```, and place it in the ```$HOME/sources/kulla-dev/langtools/repl/``` folder:
 
