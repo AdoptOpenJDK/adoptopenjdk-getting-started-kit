@@ -1,6 +1,6 @@
 **pom.xml to build your own kulla.jar**
 
-Save the below ```xml``` into ```pom.xml```:
+Save the below ```xml``` as ```pom.xml```:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
