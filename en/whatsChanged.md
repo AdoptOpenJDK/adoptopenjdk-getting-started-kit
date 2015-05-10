@@ -1,7 +1,6 @@
 ###What's changed
 
 
-* 2015-05-10 [Summary](SUMMARY.md)
 * 2015-05-10 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
 * 2015-05-10 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla-pom-xml.md)
 * 2015-05-10 [Kulla](openjdk-projects/kulla.md)
@@ -27,7 +26,7 @@
 * 2015-05-05 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-05-05 [OpenJDK SonarQube Dashboard steps](intermediate-steps/openjdk_sonarqube_dashboard_steps.md)
 * 2015-05-05 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
-* 2015-05-05 [](openjdk-projects/jmh.md)
+* 2015-05-05 [openjdk-projects/jmh.md](openjdk-projects/jmh.md)
 * 2015-05-05 [OpenJDK mailing lists](openjdk-mailing-lists.md)
 * 2015-05-05 [OpenJDK Early Access](binaries/openjdk_early_access.md)
 * 2015-05-05 [OpenJDK developers Guide](intermediate-steps/openjdk_developers_guide.md)
