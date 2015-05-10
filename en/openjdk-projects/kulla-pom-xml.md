@@ -121,8 +121,10 @@ $ mvn clean package -Dbuild.image.folder=$JAVA9_HOME
 
 where ```$JAVA9_HOME``` points to the JDK9 binary downloaded from the [JDK9 Early Access site](https://jdk9.java.net/download/).
 
-or
+or the below if you have built your own JDK image from the ```kulla-dev``` forest (build folder must have the images created):
 
 ```
 $ mvn clean package -Dbuild.image.folder=../../build/linux-x86_64-normal-server-release/images/jdk
+
+
 ```
