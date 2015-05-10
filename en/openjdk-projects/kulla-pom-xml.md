@@ -115,7 +115,6 @@ Save the below ```xml``` as ```pom.xml```:
 
 And then run the following maven command:
 
-
 ```
 $ mvn clean package -Dbuild.image.folder=$JAVA9_HOME
 ```
