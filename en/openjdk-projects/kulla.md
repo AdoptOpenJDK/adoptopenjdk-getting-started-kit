@@ -84,7 +84,7 @@ function go6 {
 *Running kulla.jar*
 
 ```
-set JAVA_HOME to point to /path/JDK9/bin/
+set JAVA_HOME to point to /path/JDK9/
 ```
 ```
 $ java -jar ~/sources/kulla/kulla.jar
