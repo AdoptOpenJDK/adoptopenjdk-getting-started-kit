@@ -30,10 +30,10 @@ Save the below ```xml``` into ```pom.xml```:
                   </goals>
                   <configuration>
                      <sources>
-                        <source>../../src/jdk.jshell/share/classes/jdk/internal/jshell/impl</source>
-                        <source>../../src/jdk.jshell/share/classes/jdk/internal/jshell/impl/remote</source>
-                        <source>../../src/jdk.jshell/share/classes/jdk/internal/jshell/tool</source>
-                        <source>../../src/jdk.jshell/share/classes/jdk/jshell</source>
+                        <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl</source>
+                        <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl/remote</source>
+                        <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/tool</source>
+                        <source>../src/jdk.jshell/share/classes/jdk/jshell</source>
                      </sources>
                   </configuration>
                </execution>
