@@ -33,13 +33,13 @@ createWhatsChangedMarkdownFileFor()
 	do
 		strippedFilename=$(echo $eachChangedFile | cut -c 4-)
 		if [ -f $strippedFilename ]; then
-		   echo "* Deleted $strippedFilename" >> $language/listOfMarkdownFiles.tmp
+		   echo "* Deleted '$strippedFilename'" >> $language/listOfMarkdownFiles.tmp
 		else
 			changedDateTime=$(echo `git log --format="%cd" -1 --date=short $language/$strippedFilename `)
 			titleOfMarkdownFile=$(head -n 1 $language/$strippedFilename)
 			titleOfMarkdownFile=$(echo $titleOfMarkdownFile | cut -c 3-)
 
-			if [ -z "$titleOfMarkdownFile" ]; then
+			if [ -z "$titleOfMarkdownFile" ] || [ `echo $titleOfMarkdownFile | grep 'https'` ]; then
 			   titleOfMarkdownFile=$strippedFilename
 			fi 
 
