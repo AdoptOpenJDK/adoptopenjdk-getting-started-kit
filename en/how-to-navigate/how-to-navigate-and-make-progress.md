@@ -18,9 +18,9 @@
 .
 
 ##### I find time at home and have the bandwidth I need, how best can take advantages of this situation ?
-.
-.
-.
+
+Look at this [reference](how-to-navigate/free-time-ample-bandwidth.md).
+
 
 ##### I know things that I want to share, and would like to contribute to this book ?
 
