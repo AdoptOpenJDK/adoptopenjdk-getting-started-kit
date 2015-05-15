@@ -1,4 +1,4 @@
-#### I find time at home and have the bandwidth I need, how best can take advantages of this situation ?
+### I find time at home and have the bandwidth I need, how best can take advantages of this situation ?
 
 Go through these sections at a slower pace:
 
