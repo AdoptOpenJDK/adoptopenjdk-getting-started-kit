@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [What's changed](whatsChanged.md)
-* [How to navigate and progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
+* [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
    * Basic level
    * Intermediate level
    * Advanced level
