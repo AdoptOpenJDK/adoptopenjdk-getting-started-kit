@@ -17,6 +17,11 @@
 .
 .
 
+##### I find time at home and have the bandwidth I need, how best can take advantages of this situation ?
+.
+.
+.
+
 ##### I know things that I want to share, and would like to contribute to this book ?
 
 Do the below and you can immediately start contributing via the github collaboration model:
