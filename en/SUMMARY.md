@@ -4,7 +4,7 @@
 * [What's changed](whatsChanged.md)
 * [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
    * [Basic level](how-to-navigate/basic-level.md)
-   * [Intermediate level](intermediate-level/basic-level.md)
+   * [Intermediate level](how-to-navigate/intermediate-level.md)
    * [Advanced level](advanced-level/basic-level.md)
    * [Free time / ample bandwidth](how-to-navigate/free-time-ample-bandwidth.md)
    * [Contribute to this book](how-to-navigate/contribute_to_this_book.md)
