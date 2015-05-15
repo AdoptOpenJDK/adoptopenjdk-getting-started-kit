@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [What's changed](whatsChanged.md)
-* [Where to start ? How to progress ?]()
+* [Where to start ? How to progress ?](where_to_start__how_to_progress.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
@@ -34,7 +34,7 @@
    * [Nashorn](openjdk-projects/nashorn.md)
    * [JMH](openjdk-projects/jmh.md)
    * [Kulla](openjdk-projects/kulla.md)
-     * [Maven pom.xml to build kulla.jar](openjdk-projects/kulla-pom-xml.md)
+       * [Maven pom.xml to build kulla.jar](openjdk-projects/kulla-pom-xml.md)
    * [Valhalla](openjdk-projects/valhalla.md)
 * [Intermediate steps](intermediate-steps/intermediate_steps.md)
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
