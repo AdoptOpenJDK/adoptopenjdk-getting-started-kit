@@ -17,7 +17,7 @@
 .
 .
 
-##### I know something that I want to share, want to contribute to this book ?
+##### I know things that I want to share, and would like to contribute to this book ?
 
 Do the below and you can immediately start contributing via the github collaboration model:
 
