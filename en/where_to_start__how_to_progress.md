@@ -1,6 +1,6 @@
 # Where to start ? How to progress ?
 
-##### I'm a student, new to OpenJDK, want to learn, never been to OpenJDK hackdays before, where do I start ?
+##### I'm a student / progressional beginner, new to OpenJDK, want to learn, never been to OpenJDK hackdays before, where do I start ?
 .
 .
 .
@@ -11,7 +11,7 @@
 .
 .
 
-##### I'm an expert / very regular at OpenJDK hackdays, know a lot about Tech/Java/JVM/OpenJDK, what do you have for me ?
+##### I'm an expert / very regular at OpenJDK hackdays, know a lot about tech/Java/JVM/OpenJDK, what do you have for me ?
 
 .
 .
