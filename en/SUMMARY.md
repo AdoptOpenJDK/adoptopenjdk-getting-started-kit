@@ -4,6 +4,7 @@
 * [What's changed](whatsChanged.md)
 * [Where to start ? How to progress ?](where_to_start__how_to_progress.md)
    * Basic level
+   * Intermediate level
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
