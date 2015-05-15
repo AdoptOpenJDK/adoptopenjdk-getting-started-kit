@@ -24,3 +24,5 @@
 
 ##### I know things that I want to share, and would like to contribute to this book ?
 
+Look at this [reference](how-to-navigate/contribute_to_this_book.md).
+
