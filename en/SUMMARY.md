@@ -6,7 +6,7 @@
    * Basic level
    * Intermediate level
    * Advanced level
-   * Free time / ample bandwidth
+   * [Free time / ample bandwidth](en/how-to-navigate/free-time-ample-bandwidth.md)
    * [Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
