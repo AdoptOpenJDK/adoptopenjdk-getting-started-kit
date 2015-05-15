@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [What's changed](whatsChanged.md)
 * [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
-   * Basic level
-   * Intermediate level
-   * Advanced level
+   * [Basic level]()
+   * [Intermediate level]()
+   * [Advanced level]()
    * [Free time / ample bandwidth](how-to-navigate/free-time-ample-bandwidth.md)
    * [Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
