@@ -1,9 +1,22 @@
 # Where to start ? How to progress ?
 
+##### I'm a student, new to OpenJDK, want to learn, never been to OpenJDK hackdays before, where do I start ?
+.
+.
+.
 
+##### I'm a student / professional, a bit new to OpenJDK, been to OpenJDK hackdays before, where do I continue from ?
 
+.
+.
+.
 
-<br/>
+##### I'm an expert / very regular at OpenJDK hackdays, know a lot about Tech/Java/JVM/OpenJDK, what do you have for me ?
+
+.
+.
+.
+
 ##### I know something that I want to share, want to contribute to this book ?
 
 Do the below and you can immediately start contributing via the github collaboration model:
