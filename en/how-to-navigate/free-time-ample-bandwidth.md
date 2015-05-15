@@ -6,5 +6,5 @@ Go through these sections at a slower pace:
 * [Virtual Machines](virtual-machines/virtual_machines.md)
 * [Binaries](binaries/binaries.md)
 
-If you are done, take look at the Table of Content to see if you have not tried anything out yet.
+If you are done, take look at the [Table of Content](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/) to see if you have not tried anything out yet.
  
