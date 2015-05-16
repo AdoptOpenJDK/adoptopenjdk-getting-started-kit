@@ -1,6 +1,5 @@
 # MacOS
 
-
 ** Why does the configuration fail when freetype is not found ?**
 
 ```configure: error: Could not find freetype!  
