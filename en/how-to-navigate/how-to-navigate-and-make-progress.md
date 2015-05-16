@@ -18,5 +18,5 @@ Look at this [reference](how-to-navigate/free-time-ample-bandwidth.md).
 
 ##### I know things that I want to share, and would like to contribute to this book ?
 
-Look at this [reference](how-to-navigate/contribute_to_this_book.md).
+Look at what you can do [to contribute](how-to-navigate/contribute_to_this_book.md).
 
