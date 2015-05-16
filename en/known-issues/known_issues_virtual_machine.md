@@ -4,7 +4,7 @@
 
 The ‘build’ folder in jdk8_tl and jdk9 take up a lot of disk space - sometimes upto 3GB, and if not required after building it, can be removed. In the beginning when learning about the system, you won’t need both jdk8 and jdk9 built. 
 
-If you still need more disk space, use the above solution to increase the size of the disk.
+If you still need more disk space, use the below solutions to increase the size of the disk.
 
 <br/>
 **How do I change the disk size of the VDIs on the VMs?**
