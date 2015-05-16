@@ -1,6 +1,6 @@
 # Build your own OpenJDK
 
-The below links cover build OpenJDK natively or in the cloud enviromnment for Linux/Unix environments. Before going to the links below, check out these [Handy Scripts](handy-scripts-for-OpenJDK-developers.md).
+The below links cover build OpenJDK natively or in the cloud enviromnment for Linux/Unix environments. Before going to the links below, check out these [Handy bash Scripts](handy-scripts-for-OpenJDK-developers.md).
 
 * [Build OpenJDK 8](build_openjdk_8.md)
 * [Build OpenJDK 9](build_openjdk_9.md)
