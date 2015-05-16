@@ -11,6 +11,6 @@
 - [Testing Java Early](../intermediate-steps/testing_java_early_project.md)
 - [Code Analysis of OpenJDK projects](../intermediate-steps/code_analysis_of_openjdk_projects.md) and [OpenJDK Code Coverage](../advanced-steps/openjdk_code_coverage.md) [Interesting]
 - [Patches - how to create and submit them (webrev)](../intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md) - how to create patches and submit to the OpenJDK team.
-- Take a peek in to the [OpenJDK Bug database (JIRA)](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
+- Take a peek in to the [OpenJDK Bug database (JIRA)](../adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
 - [OpenJDK9 - jimage](../intermediate-steps/openjdk9-jimage.md) [Interesting]
 - Finally go to the [Advanced levels](../how-to-navigate/advanced-level.md).
