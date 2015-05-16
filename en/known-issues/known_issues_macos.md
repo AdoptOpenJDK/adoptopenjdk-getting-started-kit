@@ -13,7 +13,7 @@ configure exiting with result code 1```
 Error: freetype-2.5.3_1 already installed
 To install this version, first `brew unlink freetype’```
 
-** Since it is already installed we configure like this**
+*Solutuon: since it is already installed we configure like this:*
 
 ```$ bash configure –with-freetype-include=/usr/X11/include/freetype2 –with-freetype-lib=/usr/X11/lib
 A new configuration has been successfully created in
