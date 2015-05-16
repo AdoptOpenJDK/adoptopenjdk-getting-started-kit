@@ -35,6 +35,6 @@ https://bitbucket.org/adoptopenjdk/betterrev/src/9a7abf94ed8f8ec1f2fa67986269e05
 
 Once you have a webrev ready, contact the relevant mailing list linked to the changes you made (see repo, module, folder or package in which you have made these changes in). On the mailing list request for a sponsor (if you are not a committer yet), you also be asked to cc more than one mailing lists in.
 
-At this point you must at least signed the OCA or else sending the webrev for code review won’t yield anything (see [Signing OCA](about_oca_-_signing_the_oca.md)).
+At this point you must at least signed the OCA or else sending the webrev for code review won’t yield anything (see [Signing OCA](../adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)).
 
 There is a project in the making that will help replace this process with a more [github like process](https://bitbucket.org/adoptopenjdk/betterrev).
