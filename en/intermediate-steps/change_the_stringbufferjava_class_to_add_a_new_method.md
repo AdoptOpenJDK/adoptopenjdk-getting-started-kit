@@ -1,6 +1,6 @@
 # Change the StringBuffer.java class to add a method
 
-You will need these [Handy bash Scripts](handy-scripts-for-OpenJDK-developers.md) before you do any of the below.
+You will need these [Handy bash scripts](handy-scripts-for-OpenJDK-developers.md) before you do any of the below.
 
 ```
 $ cd $HOME/sources/jdk8_tl/
