@@ -11,7 +11,7 @@ Look a the [Intermediate level](intermediate-level.md) steps.
 <br/>
 ##### I'm an expert / very regular at OpenJDK hackdays, know a lot about tech/Java/JVM/OpenJDK, what do you have for me ?
 
-Look a the [Advanced level](how-to-navigate/advanced-level.md) steps.
+Look a the [Advanced level](advanced-level.md) steps.
 
 <br/>
 ##### I find time at home and have the bandwidth I need, how best can take advantages of this situation ?
