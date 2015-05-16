@@ -44,7 +44,12 @@ __Simple example of changing the OpenJDK code-base and writing a client program 
 ```bash
 ##### OpenJDK8
 IMAGES_FOLDER=$SOURCES/jdk8/build/linux-x86_64-normal-server-release/images
+$IMAGES_FOLDER/j2sdk-image/bin/javac -version
 $IMAGES_FOLDER/j2sdk-image/bin/javac ChangeRandom.java
+$IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "major"
+$IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "minor"
+
+$IMAGES_FOLDER/jre/bin/java -version
 $IMAGES_FOLDER/j2re-image/bin/java ChangeRandom
 ```
 
