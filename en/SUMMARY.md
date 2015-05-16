@@ -7,7 +7,8 @@
    * [Intermediate level](how-to-navigate/intermediate-level.md)
    * [Advanced level](how-to-navigate/advanced-level.md)
    * [Free time / ample bandwidth](how-to-navigate/free-time-ample-bandwidth.md)
-   * [Contribute to this book](how-to-navigate/contribute_to_this_book.md)
+   * [Contributors to this book](contributors.md)
+   * [How to contribute to this book](contribute.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
@@ -87,4 +88,3 @@
 * [Feedback](feedback.md)
 * [Contributors to this book](contributors.md)
 * [How to contribute to this book](contribute.md)
-
