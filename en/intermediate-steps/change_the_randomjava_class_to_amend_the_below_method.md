@@ -1,4 +1,4 @@
-# Change the Random.java class to amend the below method
+# Change the Random.java class
 
 ```
 $ cd $HOME/sources/jdk8/
