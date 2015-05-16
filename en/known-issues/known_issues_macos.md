@@ -18,7 +18,10 @@ To install this version, first `brew unlink freetype’```
 ```$ bash configure –with-freetype-include=/usr/X11/include/freetype2 –with-freetype-lib=/usr/X11/lib
 ```
 A new configuration has been successfully created in
-```[OpenJDK sourcesfolder]/jdk9/build/macosx-x86_64-normal-server-release```
+
+```
+[OpenJDK sourcesfolder]/jdk9/build/macosx-x86_64-normal-server-release
+```
 using configure arguments
 
 ```
