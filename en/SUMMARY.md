@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [What's changed](whatsChanged.md)
 * [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
-   * [Basic level](how-to-navigate/basic-level.md)
+   * [Beginners level](how-to-navigate/basic-level.md)
    * [Intermediate level](how-to-navigate/intermediate-level.md)
    * [Advanced level](how-to-navigate/advanced-level.md)
    * [Free time / ample bandwidth](how-to-navigate/free-time-ample-bandwidth.md)
