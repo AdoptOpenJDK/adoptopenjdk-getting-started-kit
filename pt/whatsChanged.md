@@ -1,6 +1,7 @@
 ###What's changed
 
 
+* 2015-05-16 [MacOS](known-issues/known_issues_macos.md)
 * 2015-05-07 [VMs configuradas](virtual-machines/ready-made_vm.md)
 * 2015-05-07 [Veja a estrutura de diretorios de diversos projetos do OpenJDK](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-05-07 [Removendo warnings indesejados (-Xlint)](intermediate-steps/cleaning_up_build_warnings.md)
@@ -59,7 +60,6 @@
 * 2015-05-03 [OpenJDK Code coverage](advanced-steps/openjdk_code_coverage.md)
 * 2015-05-03 [OpenJDK Build Benchmarks](adopt-openjdk-getting-started/openjdk-build-benchmarks.md)
 * 2015-05-03 [OpenJDK Bug database (JIRA)](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
-* 2015-05-03 [MacOS](known-issues/known_issues_macos.md)
 * 2015-05-03 [JTReg do AdoptOpenJDK BuildFarm](binaries/jtreg_from_buildfarm.md)
 * 2015-05-03 [Instale o comando tree (util)](adopt-openjdk-getting-started/install_the_tree_command.md)
 * 2015-05-03 [HHackeando o JDK, compilando, efetuando o build & rodando testes especificos](advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
