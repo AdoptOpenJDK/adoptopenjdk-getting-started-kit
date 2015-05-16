@@ -15,7 +15,7 @@ Notes:
 ---
 * Ensure your have the lastest ```jdk``` images built in tge build folder of ```OpenJDK9``` (see [Build your own OpenJDK](binaries/build_your_own_openjdk.md)).
 
-* Install ```jtreg with the jcov```, see [How to use JTReg... > Preparations](advanced-steps/preparations.md).
+* Install ```jtreg with the jcov```, see [How to use JTReg... > Preparations](preparations.md).
 
 * Apply these exports to your ```.bash_xxx``` profile:
 
