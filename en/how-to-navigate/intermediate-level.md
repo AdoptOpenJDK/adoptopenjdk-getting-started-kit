@@ -10,4 +10,4 @@
 - [Code Analysis of OpenJDK projects](../intermediate-steps/code_analysis_of_openjdk_projects.md) and [OpenJDK Code Coverage](../advanced-steps/openjdk_code_coverage.md) [Optional]
 - [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md) - how to create patches and submit to the OpenJDK team
 - [OpenJDK9 - jimage](../intermediate-steps/openjdk9-jimage.md) [Interesting]
-- Go to the [Advanced steps](advanced_level.md).
+- Go to the [Advanced steps](how-to-navigate/advanced-level.md).
