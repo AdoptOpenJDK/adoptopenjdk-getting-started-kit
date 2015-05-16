@@ -1,6 +1,6 @@
 # Feedback
 
->Your feedback means a lot to us!</h4>
+Your feedback means a lot to us!
 
        @adoptopenjdk
 
