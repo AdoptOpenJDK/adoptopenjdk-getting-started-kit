@@ -67,7 +67,7 @@
        * [OpenJDK SonarQube Dashboard steps](intermediate-steps/openjdk_sonarqube_dashboard_steps.md)
    * [OpenJDK9 - jimage](intermediate-steps/openjdk9-jimage.md)
 * [Advanced steps](advanced-steps/advanced_steps.md)
-   * [Command-line arguments for build performance optimisation](intermediate-steps/command-line_arguments_for_build_performance_optimisation.md)
+   * [Command-line arguments for build performance optimisation](advanced-steps/command-line_arguments_for_build_performance_optimisation.md)
    * [Building jcov](advanced-steps/building_jcov.md)
    * [Building sigtest](advanced-steps/building_sigtest.md)
    * [OpenJDK Code coverage](advanced-steps/openjdk_code_coverage.md)
