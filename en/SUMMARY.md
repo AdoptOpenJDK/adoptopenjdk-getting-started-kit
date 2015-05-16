@@ -45,7 +45,7 @@
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)
        * [OpenJDK9 directory structures](intermediate-steps/openjdk9_directory_structures.md)
-   * [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
+   * [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](intermediate-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
        * [Testing Java Early project](advanced-steps/testing_java_early_project.md)
        * [Change the Random.java class to amend the below method](advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md)
        * [Change the StringBuffer.java class to add the below method](advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md)
