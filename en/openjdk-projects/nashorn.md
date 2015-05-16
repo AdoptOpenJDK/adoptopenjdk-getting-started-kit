@@ -7,7 +7,7 @@ http://openjdk.java.net/projects/nashorn/
 
 Code base (OpenJDK8): <br/> http://hg.openjdk.java.net/nashorn/jdk8/nashorn/
 
-Code base (OpenJDK9): <br/> http://hg.openjdk.java.net/nashorn/jdk9/nashorn/
+Code base (OpenJDK9): <br/> http://hg.openjdk.java.net/jdk9/jdk9/nashorn
 
 **AvatarJS**
 
