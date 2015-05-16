@@ -6,4 +6,5 @@
 - Try this out first, [Change the Random.java class to amend the below method](../advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md).
 - Try this next, [Change the StringBuffer.java class to add the below method](../advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md).
 - [Cleaning up build warnings](../intermediate-steps/cleaning_up_build_warnings.md)
+- [Code Analysis of OpenJDK projects](../intermediate-steps/code_analysis_of_openjdk_projects.md)
 - Go through the [Intermediate steps](../intermediate-steps/intermediate_steps.md) slowly.
