@@ -56,6 +56,6 @@ Once the vm has booted and dependencies have been installed the next script will
   $ bash configure ;
   $ make clean images ;
 ```  
-``` 
+```bash
   $ make test ;
 ```
