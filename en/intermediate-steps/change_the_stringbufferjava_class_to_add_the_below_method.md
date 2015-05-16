@@ -143,6 +143,6 @@ or
 $ make jdk
 ```
 
-Finally run the below JTReg commands to ensure the tests run, and pass (see section below).
+Finally run JTReg commands shown in [How to use JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md) to ensure the tests run, and pass (see section below).
 
 Change the implementation to something else and re-run the tests again to see them fail.
