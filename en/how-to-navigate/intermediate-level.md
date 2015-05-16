@@ -8,4 +8,4 @@
 - [Cleaning up build warnings](../intermediate-steps/cleaning_up_build_warnings.md)
 - [Code Analysis of OpenJDK projects](../intermediate-steps/code_analysis_of_openjdk_projects.md) [Optional]
 - [OpenJDK9 - jimage](../intermediate-steps/openjdk9-jimage.md) [Interesting]
-- Go through the [Intermediate steps](../intermediate-steps/intermediate_steps.md) slowly.
+- Go to the [Advanced steps](../advanced-steps/intermediate_steps.md) slowly.
