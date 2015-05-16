@@ -52,7 +52,7 @@
        * [How to use JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
            * [Preparations](intermediate-steps/preparations.md)
            * [Problems.txt](intermediate-steps/problems.txt.md)
-           * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
+           * [Examples of annotations in the header of test files](intermediate-steps/test-annotations.md)
    * [Command-line arguments for build performance optimisation](intermediate-steps/command-line_arguments_for_build_performance_optimisation.md)
    * [JEPs - JDK Enhancement Proposals](intermediate-steps/jeps_-_jdk_enhancement_proposals.md)
    * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
