@@ -6,6 +6,7 @@ The ‘build’ folder in jdk8_tl and jdk9 take up a lot of disk space - sometim
 
 If you still need more disk space, use the above solution to increase the size of the disk.
 
+<br/>
 **How do I change the disk size of the VDIs on the VMs?**
 
 Recommended link shared with the community by Richard Greenlees:
