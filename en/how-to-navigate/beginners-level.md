@@ -7,4 +7,3 @@
 - [Build your own OpenJDK](../binaries/build_your_own_openjdk.md) - go through this section and use your VM from the previous step to build the respective version of OpenJDK.
 - Either go to section [Sources Code](../source-code/source_code.md) or go to the [See directory structure of various OpenJDK projects](../intermediate-steps/see_directory_structure_of_various_openjdk_projects.md).
 - Go to the next step [Intermediate level](../how-to-navigate/intermediate-level.md).
-- If you are done, take a look at the [Table of Content](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/) to see if you have not tried anything from the list.
