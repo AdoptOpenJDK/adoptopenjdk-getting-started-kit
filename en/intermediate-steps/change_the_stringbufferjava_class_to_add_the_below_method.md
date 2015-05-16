@@ -1,4 +1,4 @@
-# Change the StringBuffer.java class to add the below method
+# Change the StringBuffer.java class to add a method
 
 ```
 $ cd $HOME/sources/jdk8_tl/
