@@ -6,7 +6,7 @@
 ---
 ##### What is JTReg ?
 
-JTReg stands for Java Regression Test suite, also see 
+JTReg stands for Java Regression Test suite, also see http://openjdk.java.net/jtreg/.
 
 ##### How to use JTReg ?
 Try out the below ```make``` commands to run tests on the individual components:
