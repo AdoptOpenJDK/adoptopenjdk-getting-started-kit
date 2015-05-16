@@ -3,11 +3,13 @@
 
 * Deleted or moved to another location: 'en/where_to_start__how_to_progress.md'
 * Deleted or moved to another location: 'en/preparations.md'
+* Deleted or moved to another location: 'en/intermediate-steps/command-line_arguments_for_build_performance_optimisation.md'
 * Deleted or moved to another location: 'en/intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
 * Deleted or moved to another location: 'en/intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md'
 * Deleted or moved to another location: 'en/intermediate-level/basic-level.md'
 * Deleted or moved to another location: 'en/how-to-navigate/basic-level.md'
 * Deleted or moved to another location: 'en/contribute_to_this_book.md'
+* Deleted or moved to another location: 'en/command-line_arguments_for_build_performance_optimisation.md'
 * Deleted or moved to another location: 'en/advanced-steps/testing_java_early_project.md'
 * Deleted or moved to another location: 'en/advanced-steps/test-annotations.md'
 * Deleted or moved to another location: 'en/advanced-steps/problems.txt.md'
@@ -20,6 +22,7 @@
 * 2015-05-16 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
+* 2015-05-16 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
 * 2015-05-16 [Preparations](intermediate-steps/preparations.md)
 * 2015-05-16 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
@@ -41,6 +44,7 @@
 * 2015-05-16 [Examples of annotations in the header of test files](intermediate-steps/test-annotations.md)
 * 2015-05-16 [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
 * 2015-05-16 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
+* 2015-05-16 [Command-line arguments for build performance optimisation](advanced-steps/command-line_arguments_for_build_performance_optimisation.md)
 * 2015-05-16 [Change the StringBuffer.java class to add a method](intermediate-steps/change_the_stringbufferjava_class_to_add_a_new_method.md)
 * 2015-05-16 [Change the Random.java class](intermediate-steps/change_the_randomjava_class.md)
 * 2015-05-16 [Change java.c & run Hotspot from the CLI](advanced-steps/change_javac_&_run_hotspot_from_the_cli.md)
@@ -65,7 +69,6 @@
 * 2015-05-05 [Source code](source-code/source_code.md)
 * 2015-05-05 [SonarQube](known-issues/known_issues_sonarqube.md)
 * 2015-05-05 [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
-* 2015-05-05 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-05-05 [Ready-made VM](virtual-machines/ready-made_vm.md)
 * 2015-05-05 [Penrose](openjdk-projects/penrose.md)
 * 2015-05-05 [OpenJDK SonarQube Dashboard steps](intermediate-steps/openjdk_sonarqube_dashboard_steps.md)
@@ -96,7 +99,6 @@
 * 2015-05-05 [Custom JUG hand-out template](adopt-openjdk-getting-started/custom_jug_hand-out_template.md)
 * 2015-05-05 [Contributors](contributors.md)
 * 2015-05-05 [Compiler stuff](advanced-steps/compiler_stuff.md)
-* 2015-05-05 [Command-line arguments for build performance optimisation](intermediate-steps/command-line_arguments_for_build_performance_optimisation.md)
 * 2015-05-05 [Code analysis of OpenJDK projects](intermediate-steps/code_analysis_of_openjdk_projects.md)
 * 2015-05-05 [Cleaning up build warnings (-Xlint)](intermediate-steps/cleaning_up_build_warnings.md)
 * 2015-05-05 [Change java.c & run Hotspot from within Eclipse](advanced-steps/change_javac_&_run_hotspot_from_within_eclipse.md)
