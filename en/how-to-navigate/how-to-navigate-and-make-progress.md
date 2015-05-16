@@ -19,13 +19,8 @@ Look a the [Advanced level](advanced-level.md) steps.
 Look at what you should do to make [best use of your time to learn](free-time-ample-bandwidth.md).
 
 <br/>
-##### I know / learnt things about OpenJDK and now I want to contribute to the project ?
-
-To contribute to OpenJDK, take a look at [How to contribute to this book](contribute.md).
-
-<br/>
 ##### I know things that I want to share, and would like to contribute to this book ?
 
-Look at what you can do [to contribute](contribute_to_this_book.md).
+Have a look at [How to contribute to this book](contribute.md).
 
 <br/>
