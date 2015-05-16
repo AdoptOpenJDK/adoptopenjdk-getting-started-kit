@@ -2,4 +2,4 @@
 
 Download latest JTReg artifact from the [Adopt OpenJDK Cloudbees Jenkin server](https://adopt-openjdk.ci.cloudbees.com/job/jtreg/lastSuccessfulBuild/artifact/).
 
-(Previous source) binaries hosted by the OpenJDK team at Oracle from the [ site](http://download.java.net/openjdk/jtreg/).
+(Previous source - discontinued) binaries hosted by the OpenJDK team at Oracle from the [ site](http://download.java.net/openjdk/jtreg/).
