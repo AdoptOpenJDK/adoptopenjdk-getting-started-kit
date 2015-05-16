@@ -42,7 +42,7 @@ Load up VirtualBox and start up the machine.
 ##### Initial Vagrant VM setup
 Once the vm has booted and dependencies have been installed the next script will download the latest version of jdk9, if already cloned it will update so multiple execute is handled.
 
-```
+```bash
   $ vagrant ssh
   $ /vagrant/scripts/source.sh
 ```
