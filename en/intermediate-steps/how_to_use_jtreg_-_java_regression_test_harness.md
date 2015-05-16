@@ -4,7 +4,11 @@
  * [Problems.txt](problems.txt.md)
  * [Examples of annotations in the header of test files](test-annotations.md)
 ---
+##### What is JTReg ?
+<br/>
+JTReg stands for Java Regression Test suite.
 
+##### How to use JTReg ?
 Try out the below ```make``` commands to run tests on the individual components:
 ```
 $ cd $HOME/sources/jdk8_tl/test
