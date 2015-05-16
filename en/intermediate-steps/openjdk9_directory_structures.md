@@ -32,6 +32,7 @@ build
 ---
 
 **build/[OS-related-name]/images folder**
+<br/>
 *[OS-related-name] - could be ```linux....``` or ```macosx...```.
 
 ``` 
