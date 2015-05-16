@@ -32,8 +32,8 @@ createWhatsChangedMarkdownFileFor()
 	for eachChangedFile in $listOfChangedMarkdownFiles
 	do
 		strippedFilename=$(echo $eachChangedFile | cut -c 4-)
-		if [ -f $strippedFilename ]; then
-		   echo "* Deleted '$strippedFilename'" >> $language/listOfMarkdownFiles.tmp
+		if [ ! -f $eachChangedFile ]; then
+		   echo "* Deleted '$eachChangedFile'" >> $language/listOfMarkdownFiles.tmp
 		else
 			changedDateTime=$(echo `git log --format="%cd" -1 --date=short $language/$strippedFilename `)
 			titleOfMarkdownFile=$(head -n 1 $language/$strippedFilename)
@@ -59,4 +59,4 @@ if [ -z "$language" ]; then
 fi
 
 set -eu
-createWhatsChangedMarkdownFileFor $language
+createWhatsChangedMarkdownFileFor "$language"
