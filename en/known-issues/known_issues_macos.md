@@ -9,9 +9,13 @@ configure exiting with result code 1```
 
 ** When we try to install freetype we find it is already installed**
 
-```$ brew install freetype
+```
+$ brew install freetype
 Error: freetype-2.5.3_1 already installed
-To install this version, first `brew unlink freetype’```
+```
+
+To install this version, first 
+```brew unlink freetype```
 
 *Solutuon: since it is already installed we configure like this:*
 
