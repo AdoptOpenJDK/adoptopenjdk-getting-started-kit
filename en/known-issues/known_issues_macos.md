@@ -6,7 +6,7 @@
 ```configure: error: Could not find freetype!  
 configure exiting with result code 1```
 
-
+<br/>
 ** When we try to install freetype we find it is already installed**
 
 ```
