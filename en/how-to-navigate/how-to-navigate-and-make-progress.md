@@ -21,6 +21,6 @@ Look at what you should do to make [best use of your time to learn](free-time-am
 <br/>
 ##### I know things that I want to share, and would like to contribute to this book ?
 
-Have a look at [How to contribute to this book](contribute.md).
+Have a look at [How to contribute to this book](../contribute.md).
 
 <br/>
