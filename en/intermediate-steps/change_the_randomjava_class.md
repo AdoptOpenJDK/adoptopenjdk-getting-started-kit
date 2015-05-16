@@ -1,5 +1,7 @@
 # Change the Random.java class
 
+You will need these [Handy bash Scripts](handy-scripts-for-OpenJDK-developers.md) before you do any of the below.
+
 ```
 $ cd $HOME/sources/jdk8/
 ```
