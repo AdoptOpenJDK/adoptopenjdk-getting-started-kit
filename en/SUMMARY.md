@@ -50,7 +50,7 @@
        * [Change the Random.java class to amend the below method](intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md)
        * [Change the StringBuffer.java class to add the below method](intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md)
        * [How to use JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
-           * [Preparations](preparations.md)
+           * [Preparations](intermediate-steps/preparations.md)
            * [Problems.txt](intermediate-steps/problems.txt.md)
            * [Examples of annotations in the header of test files](advanced-steps/test-annotations.md)
    * [Command-line arguments for build performance optimisation](intermediate-steps/command-line_arguments_for_build_performance_optimisation.md)
