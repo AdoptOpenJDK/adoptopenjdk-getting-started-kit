@@ -1,6 +1,6 @@
 # How to use JTReg… - Java Regression Test Harness ?
 
- * [Preparation](preparation.md)
+ * [Preparation](preparations.md)
  * [Problems.txt](problems.txt.md)
  * [Examples of annotations in the header of test files](test-annotations.md)
 ---
