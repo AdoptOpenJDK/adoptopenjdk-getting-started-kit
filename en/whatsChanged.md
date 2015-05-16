@@ -37,7 +37,7 @@
 * 2015-05-16 [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
 * 2015-05-16 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * 2015-05-16 [Change the StringBuffer.java class to add the below method](intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md)
-* 2015-05-16 [Change the Random.java class to amend the below method](intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md)
+* 2015-05-16 [Change the Random.java class](intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md)
 * 2015-05-16 [Change java.c & run Hotspot from the CLI](advanced-steps/change_javac_&_run_hotspot_from_the_cli.md)
 * 2015-05-16 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-05-16 [# Beginners level](how-to-navigate/beginners-level.md)
