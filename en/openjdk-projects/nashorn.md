@@ -5,7 +5,7 @@ Javascript runtime for the JVM (follow-on from Rhino).
 Project: <br/>
 http://openjdk.java.net/projects/nashorn/
 
-Code base (OpenJDK8): <br/> http://hg.openjdk.java.net/nashorn/jdk8/nashorn/
+Code base (OpenJDK8): <br/> http://hg.openjdk.java.net/jdk8/jdk8/nashorn
 
 Code base (OpenJDK9): <br/> http://hg.openjdk.java.net/jdk9/jdk9/nashorn
 
