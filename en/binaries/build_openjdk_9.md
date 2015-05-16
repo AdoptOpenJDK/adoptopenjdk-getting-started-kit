@@ -50,4 +50,4 @@ $ make clean images LOG=debug
                  ## to display DEBUG information 
 ```
 
-Check out the [Nashorn forest](http://hg.openjdk.java.net/nashorn/jdk9) for JDK9.
+Check out the [Nashorn forest](http://hg.openjdk.java.net/jdk9/jdk9/nashorn) for JDK9.
