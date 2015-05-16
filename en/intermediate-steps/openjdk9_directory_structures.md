@@ -31,7 +31,8 @@ build
 ```
 ---
 
-**build/images folder**
+**build/[OS-related-name]/images folder**
+*[OS-related-name] - could be ```linux....``` or ```macosx...```.
 
 ``` 
 $ tree -fL 2 images
