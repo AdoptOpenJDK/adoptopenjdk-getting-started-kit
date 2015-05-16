@@ -5,7 +5,7 @@
  * [Examples of annotations in the header of test files](test-annotations.md)
 ---
 ##### What is JTReg ?
-<br/>
+
 JTReg stands for Java Regression Test suite, also see 
 
 ##### How to use JTReg ?
