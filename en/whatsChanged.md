@@ -1,40 +1,48 @@
 ###What's changed
 
 
-* Deleted 'en/where_to_start__how_to_progress.md'
-* Deleted 'en/intermediate-level/basic-level.md'
-* Deleted 'en/how-to-navigate/basic-level.md'
-* Deleted 'en/contribute_to_this_book.md'
-* Deleted 'en/advanced-steps/testing_java_early_project.md'
-* Deleted 'en/advanced-steps/test-annotations.md'
-* Deleted 'en/advanced-steps/problems.txt.md'
-* Deleted 'en/advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md'
-* Deleted 'en/advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md'
-* Deleted 'en/advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
-* Deleted 'en/advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md'
-* Deleted 'en/advanced-level/basic-level.md'
-* Deleted 'en/advanced-level/advanced-level.md'
+* Deleted or moved to another location: 'en/where_to_start__how_to_progress.md'
+* Deleted or moved to another location: 'en/preparations.md'
+* Deleted or moved to another location: 'en/intermediate-level/basic-level.md'
+* Deleted or moved to another location: 'en/how-to-navigate/basic-level.md'
+* Deleted or moved to another location: 'en/contribute_to_this_book.md'
+* Deleted or moved to another location: 'en/advanced-steps/testing_java_early_project.md'
+* Deleted or moved to another location: 'en/advanced-steps/test-annotations.md'
+* Deleted or moved to another location: 'en/advanced-steps/problems.txt.md'
+* Deleted or moved to another location: 'en/advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md'
+* Deleted or moved to another location: 'en/advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md'
+* Deleted or moved to another location: 'en/advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
+* Deleted or moved to another location: 'en/advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md'
+* Deleted or moved to another location: 'en/advanced-level/basic-level.md'
+* Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
 * 2015-05-16 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-05-16 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
+* 2015-05-16 [Preparations](intermediate-steps/preparations.md)
+* 2015-05-16 [OpenJDK Code coverage](advanced-steps/openjdk_code_coverage.md)
 * 2015-05-16 [OpenJDK9 directory structures](intermediate-steps/openjdk9_directory_structures.md)
+* 2015-05-16 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
 * 2015-05-16 [MacOS](known-issues/known_issues_macos.md)
+* 2015-05-16 [Loading OpenJDK into a IDE](source-code/loading_openjdk_into_ide.md)
+* 2015-05-16 [JTReg from BuildFarm - binaries download sources](binaries/jtreg_from_buildfarm.md)
 * 2015-05-16 [Intermediate steps](intermediate-steps/intermediate_steps.md)
 * 2015-05-16 [# Intermediate level](how-to-navigate/intermediate-level.md)
 * 2015-05-16 [Intermediate level](basic-level.md)
 * 2015-05-16 [# I find time at home and have the bandwidth I need, how best can take advantages of this situation ?](how-to-navigate/free-time-ample-bandwidth.md)
 * 2015-05-16 [How to use JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
 * 2015-05-16 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
+* 2015-05-16 [Handy scripts](handy-scripts-for-OpenJDK-developers.md)
 * 2015-05-16 [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](intermediate-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
 * 2015-05-16 [Examples of annotations in the header of test files](intermediate-steps/test-annotations.md)
+* 2015-05-16 [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
 * 2015-05-16 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * 2015-05-16 [Change the StringBuffer.java class to add the below method](intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md)
 * 2015-05-16 [Change the Random.java class to amend the below method](intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md)
+* 2015-05-16 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-05-16 [# Beginners level](how-to-navigate/beginners-level.md)
 * 2015-05-16 [Advanced steps](advanced-steps/advanced_steps.md)
 * 2015-05-16 [# Advanced level](how-to-navigate/advanced-level.md)
 * 2015-05-15 [README.md](README.md)
-* 2015-05-10 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
 * 2015-05-10 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla-pom-xml.md)
 * 2015-05-10 [Kulla](openjdk-projects/kulla.md)
 * 2015-05-07 [Virtual Machines](virtual-machines/virtual_machines.md)
@@ -51,7 +59,6 @@
 * 2015-05-05 [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
 * 2015-05-05 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-05-05 [Ready-made VM](virtual-machines/ready-made_vm.md)
-* 2015-05-05 [Preparations](preparations.md)
 * 2015-05-05 [Penrose](openjdk-projects/penrose.md)
 * 2015-05-05 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-05-05 [OpenJDK SonarQube Dashboard steps](intermediate-steps/openjdk_sonarqube_dashboard_steps.md)
@@ -60,7 +67,6 @@
 * 2015-05-05 [OpenJDK mailing lists](openjdk-mailing-lists.md)
 * 2015-05-05 [OpenJDK Early Access](binaries/openjdk_early_access.md)
 * 2015-05-05 [OpenJDK developers Guide](intermediate-steps/openjdk_developers_guide.md)
-* 2015-05-05 [OpenJDK Code coverage](advanced-steps/openjdk_code_coverage.md)
 * 2015-05-05 [OpenJDK Build Benchmarks](adopt-openjdk-getting-started/openjdk-build-benchmarks.md)
 * 2015-05-05 [OpenJDK Bug database (JIRA)](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
 * 2015-05-05 [OpenJDK 9 SonarQube steps](intermediate-steps/openjdk9_sonarqube_steps.md)
@@ -71,18 +77,14 @@
 * 2015-05-05 [Netbeans](source-code/loading_openjdk_in_netbeans.md)
 * 2015-05-05 [Milling Project Coin](intermediate-steps/milling_project_coin.md)
 * 2015-05-05 [Mercurial](known-issues/known_issues_mercurial.md)
-* 2015-05-05 [Loading OpenJDK into a IDE](source-code/loading_openjdk_into_ide.md)
 * 2015-05-05 [Linux/Unix](known-issues/known_issues_linuxunix.md)
 * 2015-05-05 [Known issues](known-issues/known_issues.md)
-* 2015-05-05 [JTReg from BuildFarm - binaries download sources](binaries/jtreg_from_buildfarm.md)
 * 2015-05-05 [JEPs - JDK Enhancement Proposals](intermediate-steps/jeps_-_jdk_enhancement_proposals.md)
 * 2015-05-05 [IntelliJ](source-code/loading_openjdk_in_intellij.md)
 * 2015-05-05 [Install the tree command (useful)](adopt-openjdk-getting-started/install_the_tree_command.md)
 * 2015-05-05 [How to contribute to this book ?](contribute.md)
-* 2015-05-05 [Handy scripts](handy-scripts-for-OpenJDK-developers.md)
 * 2015-05-05 [Hand-out for attendees of the Adopt OpenJDK sessions (also applicable for conferences)](adopt-openjdk-getting-started/hand-out_for_attendees_of_the_adopt_openjdk_sessions_also_applicable_for_conferences.md)
 * 2015-05-05 [Feedback](feedback.md)
-* 2015-05-05 [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
 * 2015-05-05 [Eclipse](source-code/loading_openjdk_in_eclipse.md)
 * 2015-05-05 [Deep-dive Hotspot stuff](advanced-steps/deep-dive_hotspot_stuff.md)
 * 2015-05-05 [Custom JUG hand-out template](adopt-openjdk-getting-started/custom_jug_hand-out_template.md)
@@ -97,7 +99,6 @@
 * 2015-05-05 [Build your own OpenJDK](virtual-machines/build_your_own_openjdk.md)
 * 2015-05-05 [Build your own OpenJDK](binaries/build_your_own_openjdk.md)
 * 2015-05-05 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
-* 2015-05-05 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-05-05 [Build OpenJDK 8](binaries/build_openjdk_8.md)
 * 2015-05-05 [Building sigtest](advanced-steps/building_sigtest.md)
 * 2015-05-05 [Building jcov](advanced-steps/building_jcov.md)
