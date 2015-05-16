@@ -11,7 +11,6 @@
 </h4>
 
 <br/>
-
 *Discontinued mailing list*
 * ~~adopt-openjdk@googlegroups.com~~
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
