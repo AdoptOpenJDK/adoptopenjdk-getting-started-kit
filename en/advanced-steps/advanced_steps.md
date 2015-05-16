@@ -1,6 +1,7 @@
 # Advanced steps
 
 * [Advanced steps](advanced_steps.md)
+    * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
    * [Building jcov](building_jcov.md)
    * [Building sigtest](building_sigtest.md)
    * [OpenJDK Code coverage](openjdk_code_coverage.md)
