@@ -9,7 +9,6 @@
        * [How to use JTReg… - Java Regression Test Harness ?](how_to_use_jtreg_-_java_regression_test_harness.md)
            * [Problems.txt](problems.txt.md)
            * [Examples of annotations in the header of test files](test-annotations.md)
-   * [Command-line arguments for build performance optimisation](command-line_arguments_for_build_performance_optimisation.md)
    * [JEPs - JDK Enhancement Proposals](jeps_-_jdk_enhancement_proposals.md)
    * [Adopt OpenJDK Projects](../adoptopenjdk-projects/adopt_openjdk_projects.md)
        * [Betterrev](../adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
