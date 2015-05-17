@@ -1,6 +1,6 @@
 [![](https://londonjavacommunity.files.wordpress.com/2009/11/bannerblog.jpg)](https://londonjavacommunity.wordpress.com/tag/london-java-community/)
 
-![](AdoptOpenJDKLogo-100x100.png) Знакомство с OpenJDK - инструкции для начинающих 
+![](AdoptOpenJDKLogo-100x100.png) Знакомство с OpenJDK - инструкциия для начинающих 
 ---
 
 *Короткая ссылка: http://bit.ly/1NUkPWw*
