@@ -20,4 +20,4 @@ Now you can update your fork with the original repository: **git fetch upstream*
 5. Push files
 **git push**
 6. Create a pull request
-Visit the original repository on GitHub: https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/pulls and click New Pull Request
+Visit your repository on GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls and click on New Pull Request button and create a new one
