@@ -15,8 +15,9 @@ Visit this website to create a fork: **https://github.com/neomatrix369/adoptopen
 3. Add Upstream
 **git remote add --track master upstream git://github.com/neomatrix369/adoptopenjdk-getting-started-kit.git**. 
 Now you can update your fork with the original repository: **git fetch upstream** and **git merge upstream/master**
-4. Commit modified files
-**git commit -am"meaningful description about your changes"**
+4. Commit modified files <br/>
+**git add <changes files / wild-card pattern>** <br/>
+**git commit -am "meaningful description about your changes"**
 5. Push files
 **git push**
 6. Create a pull request
