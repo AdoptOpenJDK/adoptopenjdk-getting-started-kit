@@ -10,15 +10,24 @@ Some [documentation](http://help.gitbook.com/) and [how to install GitBook](http
 
 1. Create a fork
 Visit this website to create a fork: **https://github.com/neomatrix369/adoptopenjdk-getting-started-kit#fork-destination-box** 
-2. Clone your version into your workspace
-**git clone git@github.com:{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit.git**
-3. Add Upstream
-**git remote add --track master upstream git://github.com/neomatrix369/adoptopenjdk-getting-started-kit.git**. 
-Now you can update your fork with the original repository: **git fetch upstream** and **git merge upstream/master**
+
+2. Clone your version into your workspace <br/>
+```git clone git@github.com:{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit.git```
+
+3. Add Upstream <br/>
+```git remote add --track master upstream git://github.com/neomatrix369/adoptopenjdk-getting-started-kit.git```
+
+Now you can update your fork with the original repository:
+```git fetch upstream``` 
+and 
+```git merge upstream/master```
+
 4. Commit modified files <br/>
-**git add <changes files / wild-card pattern>** <br/>
-**git commit -am "meaningful description about your changes"**
+```git add <changes files / wild-card pattern>```<br/>
+```git commit -am "meaningful description about your changes"```
+
 5. Push files
-**git push**
+```git push```
+
 6. Create a pull request
 Visit your repository on GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls and click on New Pull Request button and create a new one
