@@ -30,4 +30,4 @@ and
 ```git push```
 
 6. Create a pull request
-Visit your repository on GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls and click on New Pull Request button and create a new one
+Visit your repository on GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adoptopenjdk-getting-started-kit/pulls and click on New Pull Request button and create a new one.
