@@ -1,9 +1,11 @@
 
+# JMH: Java Microbenchmarking Harness
+
 JMH is a microbenchmarking tool for Java and other JVM languages. 
 
 A microbenchmark is an attempt to measure the performance of a "mico" portion of the code. These tests are typically in the nanosecond range with thousands of executions.  The tested code usually performs a small task. 
 
-Microbenchmarking is not same as   profiling! 
+Microbenchmarking is not same as  profiling! 
 
 When profiling, you work with full app either in production or some similar environment.
 
@@ -11,6 +13,10 @@ When you microbenchmark, you get a result that is  fictional since it is very di
 
 http://openjdk.java.net/projects/code-tools/jmh/
 
+## Blog Posts
+
+* [Using JMH for Java Microbenchmarking by Michael Nitschinger](http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking) 
+* [Hello JMH by Daniel Mitterdorfer](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
 
 TODO-s 
 
