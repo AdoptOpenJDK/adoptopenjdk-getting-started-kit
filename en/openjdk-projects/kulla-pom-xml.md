@@ -30,12 +30,39 @@ Save the below ```xml``` as ```pom.xml```, and place it in the ```$HOME/sources/
                   </goals>
                   <configuration>
                      <sources>
-                        <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl</source>
+                       <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl</source>
                         <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl/remote</source>
                         <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/tool</source>
                         <source>../src/jdk.jshell/share/classes/jdk/jshell</source>
+                        <source>../../jdk/src/jdk.jline/share/classes/jdk/internal/jline</source>
                      </sources>
                   </configuration>
+               </execution>
+            </executions>
+         </plugin>
+         <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-resources-plugin</artifactId>
+            <version>2.6</version>
+            <executions>
+               <execution>
+                 <id>copy-resources</id>
+                 <phase>validate</phase>
+                 <goals>
+                   <goal>copy-resources</goal>
+                 </goals>
+                 <configuration>
+                   <outputDirectory>${basedir}/target/classes/jdk/internal/jline/console/completer</outputDirectory>
+                   <resources>
+                     <resource>
+                         <directory>${basedir}/../../jdk/src/jdk.jline/share/classes/jdk/internal/jline/console/completer</directory>
+                         <includes>
+                           <include>**/*.properties</include>
+                         </includes>
+                         <filtering>true</filtering>
+                     </resource>
+                   </resources>
+                 </configuration>
                </execution>
             </executions>
          </plugin>
