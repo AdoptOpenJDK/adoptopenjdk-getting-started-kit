@@ -6,7 +6,7 @@ Save the below ```xml``` as ```pom.xml```, and place it in the ```$HOME/sources/
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
    <modelVersion>4.0.0</modelVersion>
-   <groupId>org.adoptopenjdk.ljc</groupId>
+   <groupId>org.ljc.adoptopenjdk</groupId>
    <artifactId>java-repl</artifactId>
    <version>1.0-SNAPSHOT</version>
    <packaging>jar</packaging>
