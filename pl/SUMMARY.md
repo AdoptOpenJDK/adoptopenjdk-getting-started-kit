@@ -11,3 +11,4 @@
 * [Zbiór benchmarków OpenJDK](adopt-openjdk-getting-started/openjdk-build-benchmarks.md)
 * [Baza defektów OpenJDK](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
 * [Jak zainstalować tree](adopt-openjdk-getting-started/install_the_tree_command.md)
+* [Jak współtworzyć tę książkę](contribute.md)
