@@ -10,3 +10,4 @@
 * 2015-05-24 [Zbiór benchmarków kompilowania OpenJDK](adopt-openjdk-getting-started/openjdk-build-benchmarks.md)
 * 2015-05-24 [Baza defektów OpenJDK](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
 * 2015-05-24 [Jak zainstalować tree](adopt-openjdk-getting-started/install_the_tree_command.md)
+* 2015-06-11 [Jak współtworzyć tę książkę](contribute.md)
