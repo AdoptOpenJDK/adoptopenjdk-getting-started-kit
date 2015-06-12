@@ -16,9 +16,17 @@ $ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/uto
 # Change to a folder to create the Vagrantfile
 $ vagrant init ubuntu-14.10-amd64
 
+# Start up the machine
+$ vagrant up
+
+# ssh into the VM
+$ vagrant ssh
 ```
 
-It's about **377MB** so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a *MacBookPro 2013 with 16GB and SSD*).
+Once finished with the above steps, go to [Build your own OpenJDK](binaries/build_your_own_openjdk.md) to continue further with building OpenJDK.
+
+Note: the VM is about **377MB** so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a *MacBookPro 2013 with 16GB and SSD*).
+
 
 ### Detailed steps
 
