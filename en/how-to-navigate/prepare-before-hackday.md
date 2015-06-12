@@ -1,12 +1,15 @@
 ###How to prepare before attending a hackday or workshop?
 
 ##### Minimum hardware / OS platform / software requirements
-Below is the minimum hardware requirements to build or use VMs:
+Below is the minimum hardware requirements to build or use VMs (laptop fast enough to run a VMs):
 
-    64-bit CPU running a 64-bit OS
-    10-15 GB free disk space
-    laptop fast enough to run a VM on it
+    64-bit CPU running a 64-bit OS (Linux, MacOS, Windows)
+    15-20 GB free disk space minimum
+
     VirtualBox installed
+    Java 7 and/or 8 installed
+    Vagrant installed (optional)
+    Docker installer (optional)
     understanding of Java
     some knowledge of the OpenJDK
 
