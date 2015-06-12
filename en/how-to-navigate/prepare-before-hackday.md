@@ -26,8 +26,7 @@ Other requirements:
 - Java: http://www.oracle.com/technetwork/java/javase/d
 Optional
 - Vagrant: https://www.vagrantup.com/
-- Docker: https://www.docker.com/
-ownloads/index.html
+- Docker: https://www.docker.com/downloads/index.html
 - IntelliJ: https://www.jetbrains.com/idea/
 - Eclipse: https://eclipse.org/
 - Netbeans: https://netbeans.org/
