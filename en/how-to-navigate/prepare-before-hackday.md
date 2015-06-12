@@ -31,7 +31,7 @@ _Optional_
 - IntelliJ: https://www.jetbrains.com/idea/
 - Eclipse: https://eclipse.org/
 - Netbeans: https://netbeans.org/
-- SonarQube: http:////www.sonarqube.org/
+- SonarQube: http://www.sonarqube.org/
 
 ##### Build VM
 
