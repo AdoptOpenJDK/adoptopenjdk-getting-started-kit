@@ -10,7 +10,7 @@ Please download and install the latest version of *Vagrant 1.7.2 or higher* from
 Then execute the following command line:
 
 ```
-$ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";
+$ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
 ```
 
 It's about **377MB** so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a *MacBookPro 2013 with 16GB and SSD*).
@@ -36,7 +36,7 @@ Install the software, initially created and tested on a Mac and the versions use
 Once vagrant is installed please execute the following command line, it's 377MB so please download beforehand to save time on the day;
 
 ```
-vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";
+vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
 ```
 
 On a slow home broadband from zero to full build of OpenJDK 9 can take an hour (machine spec: Using a MacBookPro 2013 with 16GB and SSD)
