@@ -10,7 +10,7 @@ Please download and install the latest version of *Vagrant 1.7.2 or higher* from
 Then execute the following command line:
 
 ```
-# Download the virtual machine and add to vagrant's repository
+# Download a VM and add to vagrant's repository
 $ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
 
 # Change to a folder to create the Vagrantfile
