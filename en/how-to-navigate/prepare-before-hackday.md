@@ -22,7 +22,10 @@ Other requirements:
     some knowledge of OpenJDK
 
 ##### Download supporting software
-
+- VirtualBox: https://www.virtualbox.org/
+- Vagrant: https://www.vagrantup.com/
+- Docker: https://www.docker.com/
+- Java: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 ##### Build VM
 
