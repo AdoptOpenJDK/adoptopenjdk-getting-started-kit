@@ -36,6 +36,6 @@ Visit your repository on GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adopto
 
 We have two [scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) in the root folder of the repo, that creates a <b>What's changed</b> markdown page, [like this one](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html).
 
-The [What's changed](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) markdown generator are called [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) and [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
+The [What's changed](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) markdown generator scripts are called [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) and [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
 
 Please feel free to improve it, provided it continues to do what it currently does and more.
