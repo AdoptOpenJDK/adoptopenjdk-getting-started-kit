@@ -2,7 +2,7 @@
 
 ##### What do I do days before a hackday or workshop ?
 - Build or download Virtual machines
-- Check if the VM works
+- Check if the VM works or the container works
 - Check if the build works
 
 Look a [How to prepare before attending a hackday or workshop?]() for detailed flow of steps.
