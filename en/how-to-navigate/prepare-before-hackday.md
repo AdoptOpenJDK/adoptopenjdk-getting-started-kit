@@ -6,6 +6,8 @@ Below is the minimum hardware requirements to build or use VMs (laptop fast enou
     64-bit CPU running a 64-bit OS (Linux, MacOS, Windows)
     15-20 GB free disk space minimum
 
+Platform / software requirements:
+
     VirtualBox installed
     Java 7 and 8 installed
     Vagrant installed (optional)
