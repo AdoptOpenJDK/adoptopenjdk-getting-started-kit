@@ -1,6 +1,7 @@
 # How to navigate and make progress ?
 
 ##### What do I do days before a hackday or workshop ?
+Come prepared with your laptop setup with the environment necessary for the day.
 - Check for minimum hardware / OS platform / software requirements
 - Build or download Virtual machines
 - Check if the VM works or the container works
