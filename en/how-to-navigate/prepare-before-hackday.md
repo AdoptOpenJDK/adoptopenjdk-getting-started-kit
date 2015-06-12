@@ -7,7 +7,7 @@ Below is the minimum hardware requirements to build or use VMs (laptop fast enou
     15-20 GB free disk space minimum
 
     VirtualBox installed
-    Java 7 and/or 8 installed
+    Java 7 and 8 installed
     Vagrant installed (optional)
     Docker installer (optional)
     understanding of Java
