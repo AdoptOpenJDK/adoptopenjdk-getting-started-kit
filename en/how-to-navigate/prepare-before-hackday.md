@@ -10,10 +10,12 @@ Below is the minimum hardware requirements to build or use VMs (laptop fast enou
     Java 7 and 8 installed
     Vagrant installed (optional)
     Docker installer (optional)
+    
+Other requirements:
+
     understanding of Java
+    some knowledge of bash
     some knowledge of the OpenJDK
-
-
 
 ##### Download supporting software
 
