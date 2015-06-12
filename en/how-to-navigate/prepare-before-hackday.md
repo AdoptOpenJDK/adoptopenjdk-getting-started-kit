@@ -25,7 +25,7 @@ Other requirements:
 - VirtualBox: https://www.virtualbox.org/
 - Java: http://www.oracle.com/technetwork/java/javase/d
 
-Optional
+_Optional_
 - Vagrant: https://www.vagrantup.com/
 - Docker: https://www.docker.com/downloads/index.html
 - IntelliJ: https://www.jetbrains.com/idea/
