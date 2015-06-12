@@ -14,7 +14,6 @@ Look a the [Beginners level](beginners-level.md) steps.
 ##### I'm a student / professional, a bit new to Adopt OpenJDK, been to OpenJDK hackdays before, where do I continue from ?
 
 Look a the [Intermediate level](intermediate-level.md) steps.
-
 <br/>
 ##### I'm an expert / very regular at Adopt OpenJDK hackdays, know a lot about tech/Java/JVM/OpenJDK, what do you have for me ?
 
