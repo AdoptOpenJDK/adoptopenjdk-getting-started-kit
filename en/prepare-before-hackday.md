@@ -1,4 +1,4 @@
-# How to prepare before attending a hackday or workshop?
+## How to prepare before attending a hackday or workshop?
 
 #### Download artefacts
 
