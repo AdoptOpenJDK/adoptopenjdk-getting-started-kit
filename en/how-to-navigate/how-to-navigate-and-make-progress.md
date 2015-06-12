@@ -5,7 +5,7 @@
 - Check if the VM works
 - Check if the build works
 
-<i>For a detailed flow of steps please [continue to read]().</i>
+<i>For a detailed steps, please [continue to read by clicking here]().</i>
 
 ##### I'm a student / progressional beginner, new to Adopt OpenJDK, want to learn, never been to OpenJDK hackdays before, where do I start ?
 Look a the [Beginners level](beginners-level.md) steps.
