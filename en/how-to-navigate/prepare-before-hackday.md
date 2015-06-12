@@ -23,7 +23,7 @@ Other requirements:
 
 ##### Download supporting software
 - VirtualBox: https://www.virtualbox.org/
-- Java: http://www.oracle.com/technetwork/java/javase/d
+- Java: http://www.oracle.com/technetwork/java/javase/
 
 _Optional_
 - Vagrant: https://www.vagrantup.com/
@@ -31,6 +31,7 @@ _Optional_
 - IntelliJ: https://www.jetbrains.com/idea/
 - Eclipse: https://eclipse.org/
 - Netbeans: https://netbeans.org/
+- SonarQube: http://http://www.sonarqube.org/
 
 ##### Build VM
 
