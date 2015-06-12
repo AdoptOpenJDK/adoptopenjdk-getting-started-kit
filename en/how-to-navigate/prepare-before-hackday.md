@@ -23,9 +23,14 @@ Other requirements:
 
 ##### Download supporting software
 - VirtualBox: https://www.virtualbox.org/
+- Java: http://www.oracle.com/technetwork/java/javase/d
+Optional
 - Vagrant: https://www.vagrantup.com/
 - Docker: https://www.docker.com/
-- Java: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+ownloads/index.html
+- IntelliJ: https://www.jetbrains.com/idea/
+- Eclipse: https://eclipse.org/
+- Netbeans: https://netbeans.org/
 
 ##### Build VM
 
