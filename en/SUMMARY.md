@@ -8,7 +8,7 @@
    * [Advanced level](how-to-navigate/advanced-level.md)
    * [Free time / ample bandwidth](how-to-navigate/free-time-ample-bandwidth.md)
    * [How to contribute to this book](contribute.md)
-   * [How to prepare before attending a hackday or workshop?](prepare-before-hackday.md)
+   * [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
