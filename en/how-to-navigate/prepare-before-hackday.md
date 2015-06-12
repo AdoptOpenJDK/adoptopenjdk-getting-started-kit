@@ -2,7 +2,7 @@
 
 ##### Minimum hardware / OS platform / software requirements
 
-##### Download artefacts
+##### Download supporting software
 
 
 ##### Build VM
