@@ -21,7 +21,7 @@ Look a the [Intermediate level](intermediate-level.md) steps.
 Look a the [Advanced level](advanced-level.md) steps.
 
 <br/>
-##### I find time at home and have the bandwidth I need, how best can take advantages of this situation ?
+##### I find time at home and have the bandwidth I need, how best can take advantages of this situation ? Or what do I after I have finished attending a hackday or workshop.
 
 Look at what you should do to make [best use of your time to learn](free-time-ample-bandwidth.md).
 
