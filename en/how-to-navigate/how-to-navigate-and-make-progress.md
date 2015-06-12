@@ -6,7 +6,7 @@
 - Check if the VM works or the container works
 - Check if the build works
 
-Look a [How to prepare before attending a hackday or workshop?](prepare-before-hackday.md) for detailed flow of steps.
+Look at [How to prepare before attending a hackday or workshop?](prepare-before-hackday.md) for detailed flow of steps.
 
 ##### I'm a student / progressional beginner, new to Adopt OpenJDK, want to learn, never been to OpenJDK hackdays before, where do I start ?
 Look a the [Beginners level](beginners-level.md) steps.
