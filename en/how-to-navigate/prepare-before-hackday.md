@@ -24,6 +24,7 @@ Other requirements:
 ##### Download supporting software
 - VirtualBox: https://www.virtualbox.org/
 - Java: http://www.oracle.com/technetwork/java/javase/d
+
 Optional
 - Vagrant: https://www.vagrantup.com/
 - Docker: https://www.docker.com/downloads/index.html
