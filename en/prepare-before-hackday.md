@@ -1,13 +1,13 @@
-## How to prepare before attending a hackday or workshop?
+###How to prepare before attending a hackday or workshop?
 
-#### Download artefacts
+##### Download artefacts
 
 or
 
-#### Build VM
+##### Build VM
 
 
-#### Build Containers
+##### Build Containers
 
 
-#### Verify installation and environment
+##### Verify installation and environment
