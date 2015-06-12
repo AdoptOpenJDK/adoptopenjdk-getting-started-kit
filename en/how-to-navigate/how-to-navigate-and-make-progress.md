@@ -1,6 +1,7 @@
 # How to navigate and make progress ?
 
 ##### What do I do days before a hackday or workshop ?
+- Check minimum hardware / OS platform / software requirements
 - Build or download Virtual machines
 - Check if the VM works or the container works
 - Check if the build works
