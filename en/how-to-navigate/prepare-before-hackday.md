@@ -18,7 +18,7 @@ Other requirements:
 
     understanding of Java
     some knowledge of bash
-    some knowledge of the OpenJDK
+    some knowledge of OpenJDK
 
 ##### Download supporting software
 
