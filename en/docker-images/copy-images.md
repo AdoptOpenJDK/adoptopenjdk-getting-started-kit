@@ -21,7 +21,7 @@ or
 docker save neomatrix369/base-image-openjdk9:latest | gzip > base-image-openjdk9.tar.gz
 ```
 
-And ```base-image-openjdk9.tar``` is created in the folder where the command is executed.
+And ```base-image-openjdk9.tar``` or ```base-image-openjdk9.tar.gz``` are created in the folder where the command is executed.
 
 **Load an image**
 ```
