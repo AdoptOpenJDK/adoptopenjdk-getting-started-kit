@@ -22,7 +22,7 @@ phusion/baseimage                      latest              5a14c1498ff4        4
 Now run these commands:
 
 ```
-$ sudo docker run -it --name openjdk9 neomatrix369/full-image-openjdk9  /bin/bash
+$ sudo docker run -it --name openjdk9 neomatrix369/openjdk9  /bin/bash
 ```
 this takes you to the bash shell running in the container
 
