@@ -48,6 +48,10 @@ VM images are available via portable drives to be copied from to your local disk
 
 Images are loaded via the ```File | Import Appliances...``` VirtualBox main menu.
 
+#### Building OpenKJDK natively or on the cloud
+
+See section [Building OpenJDK 9](binaries/build_openjdk_9.md) to find out how you build OpenJDK on a native OS i.e. Linux, MacOS or Windows running on your Desktop/Laptop or even on the cloud.
+
 <br/>
 ##### Verify installation and environment
 Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command (see section [Build OpenJDK 9](../binaries/build_openjdk_9.md)):
