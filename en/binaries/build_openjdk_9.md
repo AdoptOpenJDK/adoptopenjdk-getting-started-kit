@@ -1,8 +1,12 @@
 # Build OpenJDK 9
 
+**Build from scratch (natively)**
+
 Link to a detailed page on the Build step on the [Adopt OpenJDK wiki](https://java.net/projects/adoptopenjdk/pages/Build).
 
-Prerequisite: supporting programs to build OpenJDK8 have been installed before attempting to perform the below instructions, [see site](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuild). Follow the below instructions to build OpenJDK9 from the jdk9 forest:
+*Prerequisite:* supporting programs to build OpenJDK8 have been installed before attempting to perform the below instructions, [see site](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuild). Follow the below instructions to build OpenJDK9 from the jdk9 forest:
+
+**Build from existing repo or Ready-made VM**
 
 ```
 $ cd $HOME/sources```
@@ -13,6 +17,8 @@ or
 ```
 $ cd $HOME/dev
 ```
+
+If ```jdk9``` or ```jdk9_dev``` does not exist in this folder, then do the below:
 
 ```
 $ hg clone http://hg.openjdk.java.net/jdk9/jdk9 jdk9
