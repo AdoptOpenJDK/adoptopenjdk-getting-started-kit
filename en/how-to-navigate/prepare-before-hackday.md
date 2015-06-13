@@ -61,7 +61,7 @@ Note: you will need good bandwidth to download the files, and ample time for the
 
 <br/>
 ##### Download / copy Images
-Images can be copied from one disk to another or downloa
+Images can be copied from one disk to another or downloaded from a central repository.
 
 or
 <br/>
