@@ -5,7 +5,7 @@
 Note: you will need good bandwidth to download the files, and ample time for the build to finish.
 <br/>
 [Build your own VM](../virtual-machines/build_your_own_vm.md) <br/>
-[Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
+[Build your own light-weight VM](../virtual-machines/build_your_own_lightweight_vm.md)
 
 <br/>
 ##### Check VM
