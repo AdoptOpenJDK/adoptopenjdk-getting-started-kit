@@ -20,7 +20,7 @@ Other requirements:
     understanding of build systems, maven, git, etc... 
     some knowledge of bash
     some knowledge of OpenJDK
-
+<br/>
 ##### Download supporting software
 - VirtualBox: https://www.virtualbox.org/
 - Java: http://www.oracle.com/technetwork/java/javase/
@@ -32,7 +32,7 @@ _Optional_
 - Eclipse: https://eclipse.org/
 - Netbeans: https://netbeans.org/
 - SonarQube: http://www.sonarqube.org/
-
+<br/>
 ##### Download or copy ready-made VM
 
 Download the below VM - _Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and IntelliJ_:
@@ -43,28 +43,28 @@ Download the below VM - _Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and
 These images are also available via portable drives to be copied from to your local disk. Load the images via ```File | Import Appliances...``` VirtualBox main menu.
 
 or
-
+<br/>
 ##### Build VM
 
 Note: you will need good bandwidth to download the files, and ample time for the build to finish.
-
+<br/>
 [Build your own VM](../virtual-machines/build_your_own_vm.md) <br/>
 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
-
+<br/>
 ##### Check VM
 - Load the VM into VirtualBox
 - Start the VM
 - Run any program inside the VM
 - Shutdown the VM
-
+<br/>
 ##### Download / Copy Containers
 
 or
-
+<br/>
 ##### Build Containers
 
-
+<br/>
 ##### Check Containers
 
-
+<br/>
 ##### Verify installation and environment
