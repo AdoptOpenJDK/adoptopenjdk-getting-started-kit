@@ -29,7 +29,6 @@
    * [Copy Containers](docker-containers/copy-containers.md)
    * [Build Containers](docker-containers/build-containers.md)
    * [Check Containers](docker-containers/check-containers.md)
-
 * [Binaries](binaries/binaries.md)
    * [OpenJDK Early Access](binaries/openjdk_early_access.md)
    * [JTReg from the AdoptOpenJDK BuildFarm](binaries/jtreg_from_buildfarm.md)
