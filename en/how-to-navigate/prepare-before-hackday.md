@@ -35,7 +35,7 @@ _Optional_
 
 ##### Download or copy ready-made VM
 
-Download the below VM [Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and IntelliJ]:
+Download the below VM - Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and IntelliJ:
     
     https://copy.com/tA0l06zDrJNNDKVL
     Login/password: openjdk / openjdk123
