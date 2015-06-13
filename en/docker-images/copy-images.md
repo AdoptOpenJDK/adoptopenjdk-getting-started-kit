@@ -6,6 +6,10 @@ Images can be copied from drives or portable drives and loaded back into the loc
 ```
 docker save -o <save image to path> <image name>
 ```
+or
+```
+docker save <image name> > <save image to path>
+```
 
 For e.g.
 ```
