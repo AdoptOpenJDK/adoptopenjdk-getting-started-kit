@@ -30,7 +30,7 @@ Checkout [Check Images](docker-images/check-images.md) under Docker images.
 
 <br/>
 ##### Verify installation and environment
-Start the VM or Container, navigate to the jdk8 or jdk9 folders, and run the below command:
+Start the VM or the Docker Container, navigate to the jdk8 or jdk9 folders, and run the below command:
 
 ```
 bash configure
