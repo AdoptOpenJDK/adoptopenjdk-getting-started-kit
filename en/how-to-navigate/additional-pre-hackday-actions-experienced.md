@@ -33,7 +33,7 @@ Checkout the verify section of []().
 Start the VM or Container, navigate to the jdk8 or jdk9 folders, and run the below command:
 
 ```
-bash configurs
+bash configure
 make clean images
 ```
 
