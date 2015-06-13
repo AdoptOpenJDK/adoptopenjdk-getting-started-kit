@@ -72,3 +72,5 @@ or
 
 <br/>
 ##### Verify installation and environment
+
+When done go to the [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md) page, and move to the next step in the flow.
