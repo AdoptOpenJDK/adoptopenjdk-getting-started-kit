@@ -12,7 +12,7 @@ Contains OpenJDK8 source, but can also be used to download and install OpenJDK9.
 
 Minimum requirements to use VM
 - 64-bit CPU running a 64-bit OS
-- 10-15 GB free disk space
+- 15-20 GB free disk space
 - laptop fast enough to run a VM on it
 - VirtualBox installed
 - understanding of Java
