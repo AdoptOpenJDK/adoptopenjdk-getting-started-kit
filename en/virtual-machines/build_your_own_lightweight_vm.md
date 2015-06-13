@@ -22,6 +22,9 @@ $ vagrant up
 
 # ssh into the VM
 $ vagrant ssh
+
+# in the ssh shell
+# Mapping in place: /vagrant/scripts/ ==> [currentfolder]/scripts
 ```
 
 Once finished with the above steps, go to [Build your own OpenJDK](../binaries/build_your_own_openjdk.md) to continue further with building OpenJDK.
@@ -62,7 +65,7 @@ Once the vm has booted and dependencies have been installed the next script will
 
 ```bash
   $ vagrant ssh
-  $ /vagrant/scripts/source.sh
+  $ sh /vagrant/scripts/source-share-with-host.sh
 ```
 
 ##### OpenJDK 9 Build
