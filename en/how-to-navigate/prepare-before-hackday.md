@@ -33,16 +33,20 @@ _Optional_
 - Netbeans: https://netbeans.org/
 - SonarQube: http://www.sonarqube.org/
 
-##### Download ready-made VM
+##### Download or copy ready-made VM
 
 Download the below VM [Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and IntelliJ]
     
     https://copy.com/tA0l06zDrJNNDKVL
     Login/password: openjdk / openjdk123
 
+These images are also available via portable drives.
+
 or
 
 ##### Build VM
+- 
+- Lightweight VM
 
 
 ##### Check VM
