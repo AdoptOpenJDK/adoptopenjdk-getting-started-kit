@@ -50,9 +50,11 @@ Images are loaded via the ```File | Import Appliances...``` VirtualBox main menu
 ##### Verify installation and environment
 Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command (see section [Build OpenJDK 9](binaries/build_openjdk_9.md)):
 
-```bash get_source.sh```
-```bash configure```
-```make clean images```
+```
+bash get_source.sh
+bash configure
+make clean images
+```
 
 If one of the above commands fail then the OpenJDK environment isn't correctly set or the new build is broken in OpenJDK master. In that case refer to the [Known issues](known-issues/known_issues.md) section.
 
