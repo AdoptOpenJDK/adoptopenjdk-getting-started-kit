@@ -29,7 +29,8 @@ Other requirements:
 - Vagrant (to start vagrant boxes) https://www.vagrantup.com/
 
 _Optional_
-- Docker: https://www.docker.com/downloads/index.html
+- Docker: https://docs.docker.com/installation/#installation
+- Boot2Docker: http://boot2docker.io/
 - IntelliJ: https://www.jetbrains.com/idea/
 - Eclipse: https://eclipse.org/
 - Netbeans: https://netbeans.org/
