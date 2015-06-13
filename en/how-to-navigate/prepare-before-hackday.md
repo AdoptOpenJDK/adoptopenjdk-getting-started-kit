@@ -32,6 +32,7 @@ _Optional_
 - Eclipse: https://eclipse.org/
 - Netbeans: https://netbeans.org/
 - SonarQube: http://www.sonarqube.org/
+
 <br/>
 ##### Download or copy ready-made VM
 
@@ -50,12 +51,14 @@ Note: you will need good bandwidth to download the files, and ample time for the
 <br/>
 [Build your own VM](../virtual-machines/build_your_own_vm.md) <br/>
 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
+
 <br/>
 ##### Check VM
 - Load the VM into VirtualBox
 - Start the VM
 - Run any program inside the VM
 - Shutdown the VM
+
 <br/>
 ##### Download / Copy Containers
 
