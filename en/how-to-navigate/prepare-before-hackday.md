@@ -60,6 +60,6 @@ If one of the above commands fail then the OpenJDK environment isn't correctly s
 
 <br/>
 ##### Finally
-When done go to the [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md) page, and move to the next step in the flow.
+When done go to the [How to navigate and make progress ?](how-to-navigate-and-make-progress.md) page, and move to the next step in the flow.
 
 For regular / experienced users, there's also a section, see [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md).
