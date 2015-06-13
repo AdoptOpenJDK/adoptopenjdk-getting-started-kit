@@ -26,7 +26,7 @@
    * [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
    * [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
 * [Docker images](docker-images/docker-images.md)
-   * [Copy Containers](docker-containers/copy-containers.md)
+   * [Copy Images](docker-images/copy-images.md)
    * [Build Images](docker-images/build-images.md)
    * [Check Containers](docker-containers/check-containers.md)
 * [Binaries](binaries/binaries.md)
