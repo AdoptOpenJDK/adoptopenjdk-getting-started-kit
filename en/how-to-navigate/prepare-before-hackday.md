@@ -19,7 +19,7 @@ Other requirements:
 
     understanding of Java
     understanding of build systems, maven, git, etc... 
-    some knowledge of bash
+    some experience with Linux and bash
     some knowledge of OpenJDK
 <br/>
 ##### Download supporting software
