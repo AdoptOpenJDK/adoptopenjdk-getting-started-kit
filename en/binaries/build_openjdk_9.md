@@ -55,3 +55,5 @@ $ make clean images LOG=debug
 ```
 
 Check out the [Nashorn forest](http://hg.openjdk.java.net/jdk9/jdk9/nashorn) for JDK9.
+
+To build OpenJDK with build warnings enabled, see section [Cleaning up build warnings](intermediate-steps/cleaning_up_build_warnings.md).
