@@ -23,7 +23,7 @@ Other requirements:
     some knowledge of OpenJDK
 <br/>
 ##### Download supporting software
-- VirtualBox: https://www.virtualbox.org/
+- VirtualBox (to load the VM): https://www.virtualbox.org/
 - Java (inside the VM): http://www.oracle.com/technetwork/java/javase/
 
 _Optional_
