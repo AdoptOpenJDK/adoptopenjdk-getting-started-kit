@@ -12,7 +12,7 @@ Platform / software requirements:
 
     VirtualBox installed
     Java 7 and 8 installed
-    Vagrant installed (optional)
+    Vagrant installed
     Docker installer (optional)
     
 Other requirements:
@@ -25,9 +25,9 @@ Other requirements:
 ##### Download supporting software
 - VirtualBox (to load the VM): https://www.virtualbox.org/
 - Java (inside the VM): http://www.oracle.com/technetwork/java/javase/
+- Vagrant (to start vagrant boxes) https://www.vagrantup.com/
 
 _Optional_
-- Vagrant: https://www.vagrantup.com/
 - Docker: https://www.docker.com/downloads/index.html
 - IntelliJ: https://www.jetbrains.com/idea/
 - Eclipse: https://eclipse.org/
