@@ -60,7 +60,7 @@ Note: you will need good bandwidth to download the files, and ample time for the
 - Shutdown the VM
 
 <br/>
-##### Download / copy Images
+##### Download / copy VM Images
 Images can be copied from one disk to another or downloaded from a central repository.
 
 or
