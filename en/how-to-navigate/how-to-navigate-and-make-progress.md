@@ -5,6 +5,7 @@ Come prepared with your laptop setup with the environment necessary for the day.
 - Check for minimum hardware / OS platform / software requirements
 - Download supporting software
 - Build or download Virtual machines
+- Build or download Docker images
 - Check if the VM works or the Docker image works
 - Check if the build works
 
