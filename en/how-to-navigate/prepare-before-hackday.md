@@ -24,7 +24,7 @@ Other requirements:
 <br/>
 ##### Download supporting software
 - VirtualBox: https://www.virtualbox.org/
-- Java: http://www.oracle.com/technetwork/java/javase/
+- Java (inside the VM): http://www.oracle.com/technetwork/java/javase/
 
 _Optional_
 - Vagrant: https://www.vagrantup.com/
