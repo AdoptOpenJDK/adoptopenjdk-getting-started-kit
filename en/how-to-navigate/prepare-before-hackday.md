@@ -35,6 +35,8 @@ _Optional_
 
 ##### Download ready-made VM
 
+Download 
+
 or
 
 ##### Build VM
