@@ -27,7 +27,7 @@ $ vagrant ssh
 # Mapping in place: /vagrant/scripts/ ==> [currentfolder]/scripts
 ```
 
-Once finished with the above steps, go to [Build your own OpenJDK](../binaries/build_your_own_openjdk.md) to continue further with building OpenJDK.
+Have a look at the folders and scripts in this repo, as they can be used for various purposes. Once finished with the above steps, go to [Build your own OpenJDK](../binaries/build_your_own_openjdk.md) to continue further with building OpenJDK.
 
 *Note:* the VM is about **377MB** so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a *MacBookPro 2013 with 16GB and SSD*).
 
