@@ -16,17 +16,17 @@ Note: you will need good bandwidth to download the files, and ample time for the
 - Shutdown the VM
 
 <br/>
-##### Download / copy VM Images
-Images can be copied from one disk to another or downloaded from a central repository.
+##### Download / copy Docker Images
+Once images are downloaded they can be copied from one location or device to another, see section [Copy Images](../docker-images/copy-images.md).
 
 or
 <br/>
 ##### Build Images
-Checkout [Build Images](docker-images/build-images.md) under Docker images.
+Checkout [Build Images](../docker-images/build-images.md) under Docker images.
 
 <br/>
 ##### Check Images
-Checkout [Check Images](docker-images/check-images.md) under Docker images.
+Checkout [Check Images](../docker-images/check-images.md) under Docker images.
 
 <br/>
 ##### Verify installation and environment
