@@ -59,6 +59,7 @@ make clean images
 If one of the above commands fail then the OpenJDK environment isn't correctly set or the new build is broken in OpenJDK master. In that case refer to the [Known issues](../known-issues/known_issues.md) section and see the [Feedback](../feedback.md) section.
 
 <br/>
+
 ##### Finally
 When done go to the [How to navigate and make progress ?](how-to-navigate-and-make-progress.md) section, and move to the next step to continue with the flow.
 
