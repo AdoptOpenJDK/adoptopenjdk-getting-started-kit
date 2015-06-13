@@ -10,11 +10,12 @@ Please download and install the latest version of *Vagrant 1.7.2 or higher* from
 Then execute the following command line:
 
 ```
-# Download a VM and add to vagrant's repository
-$ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
+# Clone the adopt-openjdk-kiss-vagrant repo
+$ git clone git@github.com:neomatrix369/adopt-openjdk-kiss-vagrant.git
 
 # Change to a folder to create the Vagrantfile
-$ vagrant init ubuntu-14.10-amd64
+$ cd adopt-openjdk-kiss-vagrant.git
+$ vagrant init
 
 # Start up the machine
 $ vagrant up
@@ -76,4 +77,4 @@ Once the vm has booted and dependencies have been installed the next script will
 ```bash
   $ make test ;
 ```
-There's also a [github repo](https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant) with a Vagrantfile and accompanying scripts.
+There's also a [github repo](https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant) with a *Vagrantfile* and accompanying scripts.
