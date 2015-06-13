@@ -66,12 +66,21 @@ Images can be copied from one disk to another or downloa
 or
 <br/>
 ##### Build Containers
+Checkout the build section of [](). 
 
 <br/>
 ##### Check Containers
+Checkout the verify section of []().
 
 <br/>
 ##### Verify installation and environment
+Start the VM or Container, navigate to the jdk8 or jdk9 folders, and run the below command:
 
+```bash configure```
+```make clean images```
+
+If one of these fails then the OpenJDK environment isn't correctly set.
+
+<br/>
 ##### Finally
 When done go to the [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md) page, and move to the next step in the flow.
