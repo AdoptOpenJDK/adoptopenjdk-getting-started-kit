@@ -45,7 +45,7 @@ VM images are available via portable drives to be copied from to your local disk
 
 or
 <br/>
-##### Build VM
+##### Build your own VM
 
 Note: you will need good bandwidth to download the files, and ample time for the build to finish.
 <br/>
