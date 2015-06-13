@@ -46,6 +46,15 @@ VM images are available via portable drives to be copied from to your local disk
 Images are loaded via the ```File | Import Appliances...``` VirtualBox main menu.
 
 <br/>
+##### Verify installation and environment
+Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command:
+
+```bash configure```
+```make clean images```
+
+If one of the above commands fail then the OpenJDK environment isn't correctly set or the new build is broken in OpenJDK master. In that case refer to the [Known issues](known-issues/known_issues.md) section.
+
+<br/>
 ##### Finally
 When done go to the [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md) page, and move to the next step in the flow.
 
