@@ -1,36 +1,32 @@
 # Build OpenJDK 8
 
-Link to a detailed page on the Build step on the [Adopt OpenJDK wiki](https://java.net/projects/adoptopenjdk/pages/Build).
+*Building OpenJDK from scratch*
 
-*Cloning the OpenJDK repo (one-time)*
-
-In case you don’t have an OpenJDK8 on your VM (jdk8 or jdk8_tl folder) in the following folders:
+In case you don’t have an OpenJDK8 on your VM (jdk8 or jdk8_tl folder) i.e.:
 
 ```$ cd $HOME/sources/jdk8_tl```
-
 
 or
 
 ```$ cd $HOME/sources/jdk8```
 
-
 or 
 
 ```$ cd $HOME/dev/jdk8```
 
-then do the following from within this folder:
+then do the following:
 
 ```
+$ cd $HOME/sources
+or
+$ cd $HOME/dev
+
 $ hg clone http://hg.openjdk.java.net/jdk8/jdk8 jdk8
 $ cd jdk8
+$ chmod +x get_source.sh
+$ ./get_source.sh
 ```
-
-Download source by running get_source.sh (important)
-(to avoid to have to download sources during the presentation please setup and download before hand)
-
-```$ chmod u+x get_source.sh```
-
-```$ sh get_source.sh```
+And you will see the below results:
 
 ```
 # Repositories:  ./corba . ./hotspot ./jaxp ./jaxws ./jdk ./langtools ./nashorn 
@@ -54,7 +50,7 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 .
 .
 ```
-General [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource):
+Take a look at this section [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource):
 
 * [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu)
 
@@ -64,7 +60,7 @@ Note: if you’re using Mac OS X 10.8.5 with XCode 5 you’ll need to follow one
 * [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows)<br/>
 In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and [follow the instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM). Build and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running ```sh getSource.sh```).
 
-Configure Openjdk setup (Optional if you haven’t run it)
+Configure OpenJDK setup (Optional if you haven’t run it)
 
 ```$ bash configure```
 
@@ -76,7 +72,7 @@ or
 
 ```$ make clean images LOG=debug     // to display DEBUG information ```
 
-Build individual components
+Build individual components by doing the below:
 
 ```
 $ make jdk
