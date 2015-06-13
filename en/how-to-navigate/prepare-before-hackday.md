@@ -40,7 +40,6 @@ Download the below VM [Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and I
     https://copy.com/tA0l06zDrJNNDKVL
     Login/password: openjdk / openjdk123
 
-
 or
 
 ##### Build VM
