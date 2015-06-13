@@ -36,3 +36,17 @@ or
 ```
 docker load < <path to image tar file>
 ```
+
+For e.g.
+```
+docker load -i base-image-openjdk9.tar 
+```
+or
+```
+docker load < base-image-openjdk9.tar
+```
+or
+
+```
+docker load < gzip < base-image-openjdk9.tar.gz
+```
