@@ -21,12 +21,12 @@ Images can be copied from one disk to another or downloaded from a central repos
 
 or
 <br/>
-##### Build Containers
-Checkout the build section of [](). 
+##### Build Images
+Checkout [Build Images](docker-images/build-images.md) under Docker images.
 
 <br/>
-##### Check Containers
-Checkout the verify section of []().
+##### Check Images
+Checkout [Check Images](docker-images/check-images.md) under Docker images.
 
 <br/>
 ##### Verify installation and environment
