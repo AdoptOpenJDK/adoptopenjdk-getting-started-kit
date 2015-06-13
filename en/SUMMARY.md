@@ -25,6 +25,11 @@
    * [Build your own VM](virtual-machines/build_your_own_vm.md)
    * [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
    * [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
+* [Docker containers](docker-containers/docker-containers.md)
+   * [Copy Containers](docker-containers/copy-containers.md)
+   * [Build Containers](docker-containers/build-containers.md)
+   * [Check Containers](docker-containers/check-containers.md)
+
 * [Binaries](binaries/binaries.md)
    * [OpenJDK Early Access](binaries/openjdk_early_access.md)
    * [JTReg from the AdoptOpenJDK BuildFarm](binaries/jtreg_from_buildfarm.md)
