@@ -27,7 +27,7 @@
    * [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
 * [Docker images](docker-images/docker-images.md)
    * [Copy Containers](docker-containers/copy-containers.md)
-   * [Build Containers](docker-containers/build-containers.md)
+   * [Build Images](docker-images/build-images.md)
    * [Check Containers](docker-containers/check-containers.md)
 * [Binaries](binaries/binaries.md)
    * [OpenJDK Early Access](binaries/openjdk_early_access.md)
