@@ -16,6 +16,7 @@ or
 docker save neomatrix369/base-image-openjdk9:latest >  base-image-openjdk9.tar
 ```
 
+And ```base-image-openjdk9.tar``` is created in the folder where the command is executed.
 
 **Load an image**
 ```
