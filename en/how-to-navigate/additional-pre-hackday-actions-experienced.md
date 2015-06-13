@@ -32,8 +32,10 @@ Checkout the verify section of []().
 ##### Verify installation and environment
 Start the VM or Container, navigate to the jdk8 or jdk9 folders, and run the below command:
 
-```bash configure```
-```make clean images```
+```
+bash configurs
+make clean images
+```
 
 If one of these fails then the OpenJDK environment isn't correctly set or the new build is broken in OpenJDK master.
 
