@@ -84,3 +84,5 @@ If one of these fails then the OpenJDK environment isn't correctly set or the ne
 <br/>
 ##### Finally
 When done go to the [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md) page, and move to the next step in the flow.
+
+For experienced users, there's also a section, see [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md).
