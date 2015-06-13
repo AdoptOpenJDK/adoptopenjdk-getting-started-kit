@@ -28,7 +28,7 @@
 * [Docker images](docker-images/docker-images.md)
    * [Copy Images](docker-images/copy-images.md)
    * [Build Images](docker-images/build-images.md)
-   * [Check Containers](docker-containers/check-containers.md)
+   * [Check Images](docker-images/check-images.md)
 * [Binaries](binaries/binaries.md)
    * [OpenJDK Early Access](binaries/openjdk_early_access.md)
    * [JTReg from the AdoptOpenJDK BuildFarm](binaries/jtreg_from_buildfarm.md)
