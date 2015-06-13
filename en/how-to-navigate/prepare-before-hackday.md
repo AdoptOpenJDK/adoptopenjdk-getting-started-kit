@@ -79,7 +79,7 @@ Start the VM or Container, navigate to the jdk8 or jdk9 folders, and run the bel
 ```bash configure```
 ```make clean images```
 
-If one of these fails then the OpenJDK environment isn't correctly set.
+If one of these fails then the OpenJDK environment isn't correctly set or the new build is broken in master.
 
 <br/>
 ##### Finally
