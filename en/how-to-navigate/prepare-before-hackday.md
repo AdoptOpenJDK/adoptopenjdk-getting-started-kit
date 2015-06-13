@@ -3,7 +3,8 @@
 ##### Minimum hardware / OS platform / software requirements
 Below is the minimum hardware requirements to build or use VMs:
 
-    64-bit CPU running a 64-bit OS (Linux, MacOS, Windows)
+    64-bit CPU running (~ 2.0 Ghz)
+    64-bit OS (Linux, MacOS, Windows)
     15-20 GB free disk space minimum
     4-8 GB RAM minimum
 
