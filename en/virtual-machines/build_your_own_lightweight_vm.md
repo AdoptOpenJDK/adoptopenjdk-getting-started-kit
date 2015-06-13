@@ -25,7 +25,7 @@ $ vagrant ssh
 
 Once finished with the above steps, go to [Build your own OpenJDK](../binaries/build_your_own_openjdk.md) to continue further with building OpenJDK.
 
-Note: the VM is about **377MB** so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a *MacBookPro 2013 with 16GB and SSD*).
+*Note:* the VM is about **377MB** so please download beforehand on a slow home broadband, zero to full build of OpenJDK 9 takes about an hour (using a *MacBookPro 2013 with 16GB and SSD*).
 
 
 ### Detailed steps
@@ -76,3 +76,4 @@ Once the vm has booted and dependencies have been installed the next script will
 ```bash
   $ make test ;
 ```
+There's also a [github repo](https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant) with a Vagrantfile and accompanying scripts.
