@@ -7,7 +7,7 @@ Come prepared with your laptop setup with the environment necessary for the day.
 - Build or download Virtual machines
 - Build or download Docker images
 - Check if the VM works or the Docker image works
-- Check if the build works
+- Check if the OpenJDK build works
 
 Look at [How to prepare before attending a hackday or workshop?](prepare-before-hackday.md) for detailed explanation of the above points.
 
