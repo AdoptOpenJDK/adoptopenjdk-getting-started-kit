@@ -33,13 +33,17 @@ _Optional_
 - Netbeans: https://netbeans.org/
 - SonarQube: http://www.sonarqube.org/
 
+##### Download ready-made VM
+
+or
+
 ##### Build VM
 
 
-##### Download ready-made VM
-
-
 ##### Check VM
+
+
+##### Download / Copy Containers
 
 or
 
