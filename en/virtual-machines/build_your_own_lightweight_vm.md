@@ -52,7 +52,7 @@ Install the software, initially created and tested on a Mac and the versions use
 ## Download VM from cloud repository
 Once vagrant is installed please execute the following command line, it's 377MB so please download beforehand to save time on the day;
 
-```
+```bash
 vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
 ```
 
@@ -72,7 +72,7 @@ Once the vm has booted and dependencies have been installed the next script will
 
 ```bash
   $ vagrant ssh
-  $ cd ~/source/jdk9 ;
+  $ cd /vagrant/sources/jdk9 ;
   $ bash get_source.sh ;
   $ bash configure ;
   $ make clean images ;
