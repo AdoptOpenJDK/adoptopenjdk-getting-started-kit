@@ -41,7 +41,7 @@ Download the below VM - _Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and
     https://copy.com/tA0l06zDrJNNDKVL
     Login/password: openjdk / openjdk123
 
-These images are also available via portable drives to be copied from to your local disk. Load the images via ```File | Import Appliances...``` VirtualBox main menu.
+VM images are available via portable drives to be copied from to your local disk. Load the images via ```File | Import Appliances...``` VirtualBox main menu.
 
 or
 <br/>
@@ -79,7 +79,7 @@ Start the VM or Container, navigate to the jdk8 or jdk9 folders, and run the bel
 ```bash configure```
 ```make clean images```
 
-If one of these fails then the OpenJDK environment isn't correctly set or the new build is broken in master.
+If one of these fails then the OpenJDK environment isn't correctly set or the new build is broken in masterthes.
 
 <br/>
 ##### Finally
