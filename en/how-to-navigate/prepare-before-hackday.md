@@ -52,7 +52,10 @@ Note: you will need good bandwidth to download the files, and ample time for the
 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
 
 ##### Check VM
-
+- Load the VM into VirtualBox
+- Start the VM
+- Run any program inside the VM
+- Shutdown the VM
 
 ##### Download / Copy Containers
 
