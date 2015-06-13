@@ -1,4 +1,4 @@
-# Build Containers
+# Build Images
 
 Details on how an OpenJDK9 docker image can be built from scratch for Linux, MacOS and Windows can be found here:
 
