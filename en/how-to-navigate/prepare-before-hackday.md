@@ -13,7 +13,8 @@ Platform / software requirements:
     VirtualBox installed
     Java 7 and 8 installed
     Vagrant installed
-    Docker installer (optional)
+    Docker installed (optional)
+    Boot2Docker installed (optional)
     
 Other requirements:
 
