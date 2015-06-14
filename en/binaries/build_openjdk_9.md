@@ -30,7 +30,7 @@ $ ./get_source.sh
 ```
 
 ```
-$ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0
+$ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0 --disable-warnings-as-errors
 ```
 
 ```/usr/lib/jvm/jdk1.8.0``` - can differ in your case, please download JDK 8 at least from the [site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). **It is recommended to use this JDK as it is better tested and free from any changes you might have made to the local copy of the OpenJDK8 sources & images.**
@@ -40,7 +40,7 @@ It is possible to get Oracle JDK 1.8 on Ubuntu by adding the repository of the W
 If you downloaded the virtual machine image then use this path:
 
 ```
-$ bash configure --with-boot-jdk=/usr/lib/jvm/java-8-oracle
+$ bash configure --with-boot-jdk=/usr/lib/jvm/java-8-oracle --disable-warnings-as-errors
 ```
 
 ```

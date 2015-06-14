@@ -74,7 +74,9 @@ Once the vm has booted and dependencies have been installed the next script will
   $ vagrant ssh
   $ cd /vagrant/sources/jdk9 ;
   $ bash get_source.sh ;
-  $ bash configure ;
+  $ bash configure;
+  or 
+  $ bash configure --disable-warnings-as-errors;
   $ make clean images ;
 ```  
 ```bash
