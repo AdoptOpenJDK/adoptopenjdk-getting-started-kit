@@ -1,6 +1,6 @@
 ###How to prepare before attending a hackday or workshop?
 
-Note: refer to the [Known issues] section in case you come across issues, if you don't find the solutions there, either [Contribute to this book](contributors.md) or [Report to us](feedback.md).
+**Note:** refer to the [Known issues] section in case you come across issues, if you don't find the solutions there, either [Contribute to this book](contributors.md) or [Report to us](feedback.md).
 
 ##### Minimum hardware / OS platform / software requirements
 Below is the minimum hardware requirements to build or use VMs:
