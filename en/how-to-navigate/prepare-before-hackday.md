@@ -1,4 +1,4 @@
-###How to prepare before attending a hackday or workshop?
+s###How to prepare before attending a hackday or workshop?
 
 ##### Minimum hardware / OS platform / software requirements
 Below is the minimum hardware requirements to build or use VMs:
@@ -50,7 +50,7 @@ Images are loaded via the ```File | Import Appliances...``` VirtualBox main menu
 
 #### Building OpenKJDK natively or on the cloud
 
-See section [Building OpenJDK 9](binaries/build_openjdk_9.md) to find out how you build OpenJDK on a native OS i.e. Linux, MacOS or Windows running on your Desktop/Laptop or even on the cloud.
+See section [Building OpenJDK 9](../binaries/build_openjdk_9.md) to find out how you build OpenJDK on a native OS i.e. Linux, MacOS or Windows running on your Desktop/Laptop or even on the cloud.
 
 <br/>
 ##### Verify installation and environment
