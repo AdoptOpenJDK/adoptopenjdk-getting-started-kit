@@ -1,5 +1,5 @@
 # Docker images
 
-   * [Copy Images](docker-images/copy-images.md)
-   * [Build Images](docker-images/build-images.md)
-   * [Check Images](docker-images/check-images.md)
+   * [Copy Images](copy-images.md)
+   * [Build Images](build-images.md)
+   * [Check Images](check-images.md)
