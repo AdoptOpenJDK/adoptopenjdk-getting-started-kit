@@ -13,19 +13,19 @@ docker save <image name> > <save image to path>
 
 For e.g.
 ```
-docker save -o base-image-openjdk9.tar neomatrix369/base-image-openjdk9:latest 
+docker save -o base-image-openjdk9.tar neomatrix369/openjdk9-base-image:latest 
 ```
 or
 ```
-docker save neomatrix369/base-image-openjdk9:latest >  base-image-openjdk9.tar
+docker save neomatrix369/openjdk9-base-image:latest >  openjdk9-base-image.tar
 ```
 or
 
 ```
-docker save neomatrix369/base-image-openjdk9:latest | gzip > base-image-openjdk9.tar.gz
+docker save neomatrix369/openjdk9-base-image:latest | gzip > openjdk9-base-image.tar.gz
 ```
 
-And ```base-image-openjdk9.tar``` or ```base-image-openjdk9.tar.gz``` are created in the folder where the command is executed.
+And ```openjdk9-base-image.tar``` or ```openjdk9-base-image.tar.gz``` are created in the folder where the command is executed.
 
 **Load an image**
 ```
@@ -39,14 +39,14 @@ docker load < <path to image tar file>
 
 For e.g.
 ```
-docker load -i base-image-openjdk9.tar 
+docker load -i openjdk9-base-image.tar 
 ```
 or
 ```
-docker load < base-image-openjdk9.tar
+docker load < openjdk9-base-image.tar
 ```
 or
 
 ```
-docker load < gzip < base-image-openjdk9.tar.gz
+docker load < gzip < openjdk9-base-image.tar.gz
 ```
