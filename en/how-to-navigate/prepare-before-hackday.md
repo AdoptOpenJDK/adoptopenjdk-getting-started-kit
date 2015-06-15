@@ -46,7 +46,8 @@ _Optional_
 Download the below VM - _Ubuntu 12.04 VM with OpenJDK9 (jigsaw) with Sources and IntelliJ_:
     
     https://copy.com/tA0l06zDrJNNDKVL
-    Login/password: openjdk / openjdk123
+    Login: openjdk 
+    Password: openjdk123
 
 VM images are available via portable drives to be copied from to your local disk as well. 
 
