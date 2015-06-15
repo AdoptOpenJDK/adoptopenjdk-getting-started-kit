@@ -3,6 +3,7 @@
 
 * Deleted or moved to another location: 'en/where_to_start__how_to_progress.md'
 * Deleted or moved to another location: 'en/prepare-before-hackday.md'
+* Deleted or moved to another location: 'en/prepare-an-environment-machine.md'
 * Deleted or moved to another location: 'en/preparations.md'
 * Deleted or moved to another location: 'en/intermediate-steps/command-line_arguments_for_build_performance_optimisation.md'
 * Deleted or moved to another location: 'en/intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
@@ -10,6 +11,9 @@
 * Deleted or moved to another location: 'en/intermediate-level.md'
 * Deleted or moved to another location: 'en/intermediate-level/basic-level.md'
 * Deleted or moved to another location: 'en/how-to-navigate/basic-level.md'
+* Deleted or moved to another location: 'en/docker-containers/copy-containers.md'
+* Deleted or moved to another location: 'en/docker-containers/check-containers.md'
+* Deleted or moved to another location: 'en/docker-containers/build-containers.md'
 * Deleted or moved to another location: 'en/contribute_to_this_book.md'
 * Deleted or moved to another location: 'en/command-line_arguments_for_build_performance_optimisation.md'
 * Deleted or moved to another location: 'en/basic-level.md'
@@ -23,14 +27,19 @@
 * Deleted or moved to another location: 'en/advanced-level/basic-level.md'
 * Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
 * Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
+* 2015-06-15 [#How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
+* 2015-06-15 [How to prepare an environment on your machine on the day?](how-to-navigate/prepare-an-environment-machine.md)
+* 2015-06-14 [Docker images](docker-images/docker-images.md)
+* 2015-06-14 [Copy Images](docker-images/copy-images.md)
+* 2015-06-14 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
+* 2015-06-14 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-06-13 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-06-13 [Ready-made VM](virtual-machines/ready-made_vm.md)
-* 2015-06-13 [#How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-06-13 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
 * 2015-06-13 [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](intermediate-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
-* 2015-06-13 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
-* 2015-06-13 [Build OpenJDK 9](binaries/build_openjdk_9.md)
+* 2015-06-13 [Check Images](docker-images/check-images.md)
 * 2015-06-13 [Build OpenJDK 8](binaries/build_openjdk_8.md)
+* 2015-06-13 [Build Images](docker-images/build-images.md)
 * 2015-06-13 [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md)
 * 2015-06-12 [# Intermediate level](how-to-navigate/intermediate-level.md)
 * 2015-06-12 [How to contribute to this book ?](contribute.md)
