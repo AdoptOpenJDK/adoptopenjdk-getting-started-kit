@@ -36,6 +36,7 @@ Copy these files from the portable device to your machine:
     Vagrant/openjdk-vagrant-images
     Vagrant/[binaries]
 
+- Install Vagrant and ensure it works in the respective environments
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
 - Study the scripts
