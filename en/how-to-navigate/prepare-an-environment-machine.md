@@ -49,7 +49,6 @@ Copy these files from the portable device to your machine:
     Docker/OpenJDK9
     Docker/OpenJDK9-baseimage
 
-- Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
 - Study the scripts
 - Use the scripts when confident
