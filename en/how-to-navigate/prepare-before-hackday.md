@@ -63,7 +63,7 @@ Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command (s
 ```
 bash get_source.sh <==== do not run this command in the VM or Docker container
 bash configure --disable-warnings-as-errors
-make clean images
+make images
 ```
 
 If one of the above commands fail then the OpenJDK environment isn't correctly set or the new build is broken in OpenJDK master. In that case refer to the [Known issues](../known-issues/known_issues.md) section and see the [Feedback](../feedback.md) section.
