@@ -2,7 +2,7 @@
 
 **Note:** refer to the [Known issues](../known-issues/known_issues.md) section in case you come across issues, if you don't find the solutions there, either [Contribute to this book](../contributors.md) or [Report to us](../feedback.md).
 
-# To build OpenJDK on the cloud
+### To build OpenJDK natively or on the cloud
 You don't need to copy anything, just signup with a cloud environment provider i.e. Amazon or another provider.
 
 Provision a box running an OS of choice, and follow the steps mentioned on [Adopt OpenJDK Build Instruction](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions) (we recommend a Linux distro like Ubuntu or Fedora or Centos).
