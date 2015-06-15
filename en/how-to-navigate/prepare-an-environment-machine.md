@@ -4,7 +4,7 @@
 
 ### To build OpenJDK natively or on the cloud
 
-Note: Unless you are in an high network bandwidth environment, please do NOT attempt to build OpenJDK natively.
+**Note:** Unless you are in an high network bandwidth environment, please do NOT attempt to build OpenJDK natively.
 
 You don't need to copy anything, just signup with a cloud environment provider i.e. Amazon or another provider.
 
