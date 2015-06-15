@@ -38,6 +38,8 @@ Copy these files from the portable device to your machine:
 
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
+- Study the scripts
+- Use the scripts when confident
 - Do not execute the Vagrantfile to build an image - this takes times and requires high network bandwidth
 - Note: no scripts for Windows exists (contributions accepted)
    
@@ -49,5 +51,7 @@ Copy these files from the portable device to your machine:
 
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
+- Study the scripts
+- Use the scripts when confident
 - Do not execute the Dockerfile to build an image - this takes times and requires high network bandwidth
 - Note: no scripts for Windows exists (contributions accepted)
