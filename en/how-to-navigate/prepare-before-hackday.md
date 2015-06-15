@@ -62,7 +62,7 @@ See section [Building OpenJDK 9](../binaries/build_openjdk_9.md) to find out how
 Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command (see section [Build OpenJDK 9](../binaries/build_openjdk_9.md)):
 
 ```
-bash get_source.sh <==== please do not run this command in the VM or Docker container
+bash get_source.sh <==== please do not run this command in the VM or Docker containers
 bash configure --disable-warnings-as-errors
 make images
 ```
