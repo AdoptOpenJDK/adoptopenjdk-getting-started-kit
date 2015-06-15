@@ -39,9 +39,8 @@ Copy these files from the portable device to your machine:
 - Install Vagrant and ensure it works in the respective environments
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
-- Study the scripts
 - Use the scripts when confident
-- Do not execute the Vagrantfile to build an image - this takes times and requires high network bandwidth
+- Note: Do not execute the Vagrantfile to build an image - this takes times and requires high network bandwidth
 - Note: no scripts for Windows exists (contributions accepted)
    
 ### To build OpenJDK in a container created by a Docker script
@@ -52,8 +51,7 @@ Copy these files from the portable device to your machine:
 
 - Install Docker (and Boot2Docker) and ensure they work in the respective environments
 - Read the README.md to understand what each of the script files do
-- Study the scripts
 - Use the scripts when confident
 - Use the loadImageToFile.sh script to load the docker image into your local repository
-- Do not execute the Dockerfile to build an image - this takes times and requires high network bandwidth
+- Note: Do not execute the Dockerfile to build an image - this takes times and requires high network bandwidth
 - Note: no scripts for Windows exists (contributions accepted)
