@@ -59,7 +59,9 @@ See section [Building OpenJDK 9](../binaries/build_openjdk_9.md) to find out how
 
 <br/>
 ##### Verify installation and environment
-Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command (see section [Build OpenJDK 9](../binaries/build_openjdk_9.md)):
+In your native machine or virtual machine, navigate to the openjdk* folders, and run the below command (see section [Build OpenJDK 9](../binaries/build_openjdk_9.md)):
+
+*openjdk - sources/jdk9 or dev/jdk9_dev
 
 ```
 bash get_source.sh   #### please do not run this command in the VM, vagrant box or Docker containers
