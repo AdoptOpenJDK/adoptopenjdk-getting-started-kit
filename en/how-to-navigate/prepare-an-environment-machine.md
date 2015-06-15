@@ -27,7 +27,6 @@ Copy these files from the portable device to your machine:
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
 - Do not execue the Vagrantfile to build an image - this takes times and requires high network bandwidth
-
 - Note: no scripts for Windows exists (contributions accepted)
    
 ### To build OpenJDK in a container created by a Docker script
