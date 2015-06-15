@@ -59,7 +59,7 @@ See section [Building OpenJDK 9](../binaries/build_openjdk_9.md) to find out how
 
 <br/>
 ##### Verify installation and environment
-In your native machine or virtual machine, navigate to the openjdk* folders, and run the below command (see section [Build OpenJDK 9](../binaries/build_openjdk_9.md)):
+In your native machine or virtual machine (inside the VM), navigate to the openjdk* folders, and run the below command (see section [Build OpenJDK 9](../binaries/build_openjdk_9.md)):
 
 *openjdk - sources/jdk9 or dev/jdk9_dev
 
