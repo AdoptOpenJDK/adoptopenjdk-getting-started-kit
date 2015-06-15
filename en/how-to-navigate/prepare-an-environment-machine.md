@@ -10,7 +10,7 @@ Provision a box running an OS of choice, and follow the steps mentioned on [Buil
 # To build OpenJDK in a VM
 Copy these files from the portable device to your machine:
    
-   VirtualBox for Ubuntu
+   VirtualBox for Ubuntu/[binaries]
    
    OpenJDK VM Images/OpenJDK9_Jigsaw_vm
    OpenJDK VM Images/OpenJDK VM with no IDE support
