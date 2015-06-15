@@ -1,6 +1,6 @@
 # How to prepare an environment on your machine ?
 
-**Note:** refer to the [Known issues] section in case you come across issues, if you don't find the solutions there, either [Contribute to this book](../contributors.md) or [Report to us](../feedback.md).
+**Note:** refer to the [Known issues](../known-issues/known_issues.md) section in case you come across issues, if you don't find the solutions there, either [Contribute to this book](../contributors.md) or [Report to us](../feedback.md).
 
 # To build OpenJDK on the cloud
 You don't need to copy anything, just signup with a cloud environment provider i.e. Amazon or another provider.
