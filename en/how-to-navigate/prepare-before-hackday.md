@@ -64,7 +64,7 @@ In your native machine or virtual machine, navigate to the openjdk* folders, and
 *openjdk - sources/jdk9 or dev/jdk9_dev
 
 ```
-bash get_source.sh   #### please do not run this command in the VM, vagrant box or Docker containers
+bash get_source.sh   #### please DO NOT run this command in the VM, vagrant box or Docker containers
 bash configure --disable-warnings-as-errors
 make images
 ```
