@@ -7,7 +7,7 @@ You don't need to copy anything, just signup with a cloud environment provider i
 
 Provision a box running an OS of choice, and follow the steps mentioned on [Adopt OpenJDK Build Instruction](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions) (we recommend a Linux distro like Ubuntu or Fedora or Centos).
 
-###  To build OpenJDK in a VM
+###  To build OpenJDK in a Virtualbox VM
 Copy these files from the portable device to your machine:
    
    VirtualBox for Ubuntu/[binaries]
