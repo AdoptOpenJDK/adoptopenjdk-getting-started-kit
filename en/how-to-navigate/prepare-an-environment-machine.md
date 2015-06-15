@@ -10,13 +10,17 @@ Provision a box running an OS of choice, and follow the steps mentioned on [Adop
 ###  To build OpenJDK in a Virtualbox VM
 Copy these files from the portable device to your machine:
    
-   VirtualBox for Ubuntu/[binaries]
+    VirtualBox for Ubuntu/[binaries]
+                or
+    VirtualBox for MacOS/[binaries]
+                or    
+    VirtualBox for Windows/[binaries]
    
-   OpenJDK VM Images/OpenJDK9_Jigsaw_vm
-   OpenJDK VM Images/OpenJDK VM with no IDE support
-   OpenJDK VM Images/OpenJDK VM with Eclipse
+    OpenJDK VM Images/OpenJDK9_Jigsaw_vm
+    OpenJDK VM Images/OpenJDK VM with no IDE support
+    OpenJDK VM Images/OpenJDK VM with Eclipse
 
-   OpenJDK VM Images/OpenJDK VM passwords.txt
+    OpenJDK VM Images/OpenJDK VM passwords.txt
 
 - Install VirtualBox
 - Import the respective VM
@@ -27,8 +31,8 @@ Finally proceed to the section to [Building OpenJDK 9](../binaries/build_openjdk
 ###  To build OpenJDK in a VM created by a Vagrant script
 Copy these files from the portable device to your machine:
 
-   Vagrant/openjdk-vagrant-images
-   Vagrant/[binaries]
+    Vagrant/openjdk-vagrant-images
+    Vagrant/[binaries]
 
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
@@ -38,8 +42,8 @@ Copy these files from the portable device to your machine:
 ### To build OpenJDK in a container created by a Docker script
 Copy these files from the portable device to your machine:
 
-   Docker/OpenJDK9
-   Docker/OpenJDK9-baseimage
+    Docker/OpenJDK9
+    Docker/OpenJDK9-baseimage
 
 - Unpack the .tar.gz files in the Vagrant folder
 - Read the README.md to understand what each of the script files do
