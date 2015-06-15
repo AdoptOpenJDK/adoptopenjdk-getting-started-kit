@@ -2,7 +2,6 @@
 
 **Note:** refer to the [Known issues](../known-issues/known_issues.md) section in case you come across issues, if you don't find the solutions there, either [Contribute to this book](../contributors.md) or [Report to us](../feedback.md).
 
-
 ##### Minimum hardware / OS platform / software requirements
 Below is the minimum hardware requirements to build or use VMs:
 
