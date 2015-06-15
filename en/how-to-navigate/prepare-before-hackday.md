@@ -62,7 +62,7 @@ Start the VM, navigate to the jdk8 or jdk9 folders, and run the below command (s
 
 ```
 bash get_source.sh <==== do not run this command in the VM or Docker container
-bash configure
+bash configure --disable-warnings-as-errors
 make clean images
 ```
 
