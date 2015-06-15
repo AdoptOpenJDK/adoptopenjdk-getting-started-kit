@@ -24,10 +24,17 @@ Copy these files from the portable device to your machine:
    Vagrant/openjdk-vagrant-images
    Vagrant/[binaries]
 
+- Unpack the .tar.gz files in the Vagrant folder
+- Read the README.md to understand what each of the script files do
+- Note: no scripts for Windows exists (contributions accepted)
    
 ### To build OpenJDK in a container created by a Docker script
 Copy these files from the portable device to your machine:
 
    Docker/OpenJDK9
    Docker/OpenJDK9-baseimage
-   
+
+- Unpack the .tar.gz files in the Vagrant folder
+- Read the README.md to understand what each of the script files do
+- Do not execue the Dockerfile to build an image - NOT recommended in a low-bandwidth environment
+- Note: no scripts for Windows exists (contributions accepted)
