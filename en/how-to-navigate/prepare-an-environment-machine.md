@@ -17,6 +17,12 @@ Copy these files from the portable device to your machine:
    OpenJDK VM Images/OpenJDK VM with Eclipse
 
    OpenJDK VM Images/OpenJDK VM passwords.txt
+
+- Install VirtualBox
+- Import the respective VM
+- Start the VM
+
+Finally proceed to the section to [Building OpenJDK 9](../binaries/build_openjdk_9.html).
    
 ###  To build OpenJDK in a VM created by a Vagrant script
 Copy these files from the portable device to your machine:
