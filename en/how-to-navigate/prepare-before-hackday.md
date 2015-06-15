@@ -5,19 +5,21 @@
 ##### Minimum hardware / OS platform / software requirements
 Below is the minimum hardware requirements to build or use VMs:
 
-    64-bit CPU running (~ 2.0 Ghz)
+    64-bit CPU running (> 2.0 Ghz)
     64-bit OS (Linux, MacOS, Windows)
-    15-20 GB free disk space minimum
+    20-25 GB free disk space minimum
     4-8 GB RAM minimum
 
 Platform / software requirements:
 
     VirtualBox installed
-    Java 7 and 8 installed
+    Java 7 and 8 installed*
     Vagrant installed
     Docker installed (optional)
     Boot2Docker installed (optional)
     
+**depending on if you building OpenJDK natively or in a VM or container, you will need to download it either in the VM or on your machine*
+
 Other requirements:
 
     understanding of Java
