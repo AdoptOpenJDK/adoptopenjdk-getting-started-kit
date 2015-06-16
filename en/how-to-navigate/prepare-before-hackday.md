@@ -85,4 +85,4 @@ If one of the above commands fail then the OpenJDK environment isn't correctly s
 ##### Finally
 When done go to the [How to navigate and make progress ?](how-to-navigate-and-make-progress.md) section, and move to the next step to continue with the flow.
 
-#####For regular / experienced user, have successfully done the above, and wish to explore **Vagrant** and **Docker** scripts. Then there's also a section called [Additional pre-hackday actions for experienced attendees](additional-pre-hackday-actions-experienced.md) for you to pursue.
+#####For regular / experienced users, who have successfully completed the above, and wish to explore **Vagrant** and **Docker** scripts. Then there's a section called [Additional pre-hackday actions for experienced attendees](additional-pre-hackday-actions-experienced.md) for you to pursue.
