@@ -70,6 +70,8 @@ bash get_source.sh
 ```
 Hence please DO NOT run the above command in the VM, vagrant box or Docker containers, as it could lead to waiting for the image to finish building or in some cases a broken build that would require investigation and fixing.
 
+Instead run the below two commands:
+
 ```
 bash configure --disable-warnings-as-errors
 make images
