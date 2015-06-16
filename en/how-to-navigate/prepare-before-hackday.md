@@ -72,11 +72,10 @@ Hence please DO NOT run the above command in the VM, vagrant box or Docker conta
 
 ```
 bash configure --disable-warnings-as-errors
-```
-```
-### Please also avoid the 'make clean images' command, unless its really necessary, to avoid waiting for the whole build process to finish
 make images
 ```
+
+Please also avoid the 'make clean images' command, unless its really necessary, to avoid waiting for the whole build process to finish.
 
 If one of the above commands fail then the OpenJDK environment isn't correctly set or the new build is broken in OpenJDK master. In that case refer to the [Known issues](../known-issues/known_issues.md) section and see the [Feedback](../feedback.md) section.
 
