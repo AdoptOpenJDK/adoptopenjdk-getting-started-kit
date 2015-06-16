@@ -18,7 +18,7 @@ Platform / software requirements:
     Docker installed (optional)
     Boot2Docker installed (optional)
     
-**depending on if you building OpenJDK natively or in a VM or container, you will need to download it either in the VM or on your machine*
+**depending on if you build OpenJDK natively or in a VM or Vagrant box or Docker container, you will need to download it either in the VM or on your machine*
 
 Other requirements:
 
