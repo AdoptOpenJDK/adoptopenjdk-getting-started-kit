@@ -64,12 +64,11 @@ In your native machine or virtual machine (inside the VM), navigate to the openj
 *openjdk - sources/jdk9 or dev/jdk9_dev
 
 
+###### As the VMs, Vagrant boxes or Docker images you may copy or download, already come with a built image, we can continue to use that for the workshop and not need to update the code-base with newer changes and start with the re-build process again. 
 ```
-## As the VMs or Images you copy or download come with a working build image, we can use that for the workshop and do not need to bring down new changes and re-build it.
-## hence please DO NOT run the command in the VM, vagrant box or Docker containers, as it could lead to waiting for the image to build or in some cases a broken build that would require investigation and fixing
-
 bash get_source.sh
 ```
+Hence please DO NOT run the above command in the VM, vagrant box or Docker containers, as it could lead to waiting for the image to finish building or in some cases a broken build that would require investigation and fixing.
 
 ```
 bash configure --disable-warnings-as-errors
