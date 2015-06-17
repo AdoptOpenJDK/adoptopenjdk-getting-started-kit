@@ -36,7 +36,7 @@ Finally proceed to the section to [Building OpenJDK 9](../binaries/build_openjdk
    
 ###  To build OpenJDK in a VM created by a Vagrant script
 Copy these files from the portable device to your machine:
-
+    Vagrant/*.*
     Vagrant/openjdk-vagrant-images
     Vagrant/[binaries]
 
@@ -50,6 +50,7 @@ Copy these files from the portable device to your machine:
 ### To build OpenJDK in a container created by a Docker script
 Copy these files from the portable device to your machine:
 
+    Docker/*.*
     Docker/OpenJDK9
     Docker/OpenJDK9-baseimage
 
