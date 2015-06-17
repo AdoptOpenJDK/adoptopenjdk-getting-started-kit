@@ -8,6 +8,8 @@ To view / edit Java source files from Eclipse:
  
 Un-tick Eclipse's **Build automatically** setting to prevent build errors.
 
+## Nashorn project
+
 The current setup is made on OS X Yosemite and the latest Eclipse (Luna). But the setup for other OSs should run almost the same way.
 
 1 . Verify you have JDK8 installed.
