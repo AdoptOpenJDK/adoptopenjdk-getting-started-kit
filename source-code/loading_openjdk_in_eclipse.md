@@ -43,13 +43,13 @@ The current setup is made on OS X Yosemite and the latest Eclipse (Luna). But th
 
 ![](17 июня 2015 г., 11:54:16.png)
 
-10. Navigate to “<nashorn>/make” folder and run the “all” ant target.
+10 . Navigate to “<nashorn>/make” folder and run the “all” ant target.
 
-11. Add the resulting classed in “<nashorn>/build/classes/” to the “Build Path”:
+11 . Add the resulting classed in “<nashorn>/build/classes/” to the “Build Path”:
 
 ![](17 июня 2015 г., 11:59:31.png)
 
-12. Now it is possible to run the Shell.java to explore and debug the code:
+12 . Now it is possible to run the Shell.java to explore and debug the code:
 
 ![](17 июня 2015 г., 12:02:24.png)
  
