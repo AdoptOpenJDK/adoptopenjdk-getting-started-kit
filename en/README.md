@@ -1,6 +1,6 @@
 [![](https://londonjavacommunity.files.wordpress.com/2009/11/bannerblog.jpg)](https://londonjavacommunity.wordpress.com/tag/london-java-community/)
 
-![](AdoptOpenJDKLogo-100x100.png) Adopt OpenJDK - Getting Started Kit... 
+![](cover_small.jpg) Adopt OpenJDK - Getting Started Kit... 
 ---
 
 *Shortened link to the Adopt OpenJDK Getting Started Kit: http://bit.ly/1NUkPWw*
