@@ -11,5 +11,5 @@
 
 This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like http://adoptopenjdk.java.net and http://openjdk.java.net/, and does not override or replace these resources.
 
-####[Let's get started...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/)
+####[Let's get started...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/index.html)
 ---
