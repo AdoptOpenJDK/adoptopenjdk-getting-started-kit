@@ -516,7 +516,9 @@ These tests are typically in the nanosecond range with thousands of executions. 
 </table>
 
 
-I used 'R' to print the summary details of both data sets for both types of collections. This gives more details to plot other types of graphs.
+'R' is used parse the JMH benchmark data and plot these graphs.
+
+‘R’ summary gives some extra details
 
 <table>
     <thead>
@@ -543,6 +545,8 @@ I used 'R' to print the summary details of both data sets for both types of coll
 ##### R graph showing error bars and 99% CI as a band
 
 ![Alt text](ggplotjc.png)
+
+‘R’ summary gives some extra details.
 
 <table>
     <thead>
