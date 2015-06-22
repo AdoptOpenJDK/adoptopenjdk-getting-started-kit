@@ -8,8 +8,11 @@ These tests are typically in the nanosecond range with thousands of executions. 
 #Blog Posts
 
 [http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking](http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking)
+
 [http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
+
 [http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
+
 [http://shipilev.net/blog/2014/exceptional-performance/](http://shipilev.net/blog/2014/exceptional-performance/)
 
 ##Maven POM
@@ -20,7 +23,7 @@ These tests are typically in the nanosecond range with thousands of executions. 
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>jmh-benchmark</groupId>
-    <artifactId>oracle-stream-javaone-14</artifactId>
+    <artifactId>jmh-benchmar</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>Oracle Stream JavaOne 2014</name>
