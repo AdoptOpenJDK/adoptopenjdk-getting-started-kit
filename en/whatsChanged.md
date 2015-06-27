@@ -1,32 +1,6 @@
 ###What's changed
 
 
-* Deleted or moved to another location: 'en/where_to_start__how_to_progress.md'
-* Deleted or moved to another location: 'en/prepare-before-hackday.md'
-* Deleted or moved to another location: 'en/prepare-an-environment-machine.md'
-* Deleted or moved to another location: 'en/preparations.md'
-* Deleted or moved to another location: 'en/intermediate-steps/command-line_arguments_for_build_performance_optimisation.md'
-* Deleted or moved to another location: 'en/intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
-* Deleted or moved to another location: 'en/intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md'
-* Deleted or moved to another location: 'en/intermediate-level.md'
-* Deleted or moved to another location: 'en/intermediate-level/basic-level.md'
-* Deleted or moved to another location: 'en/how-to-navigate/basic-level.md'
-* Deleted or moved to another location: 'en/docker-containers/copy-containers.md'
-* Deleted or moved to another location: 'en/docker-containers/check-containers.md'
-* Deleted or moved to another location: 'en/docker-containers/build-containers.md'
-* Deleted or moved to another location: 'en/contribute_to_this_book.md'
-* Deleted or moved to another location: 'en/command-line_arguments_for_build_performance_optimisation.md'
-* Deleted or moved to another location: 'en/basic-level.md'
-* Deleted or moved to another location: 'en/advanced-steps/testing_java_early_project.md'
-* Deleted or moved to another location: 'en/advanced-steps/test-annotations.md'
-* Deleted or moved to another location: 'en/advanced-steps/problems.txt.md'
-* Deleted or moved to another location: 'en/advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md'
-* Deleted or moved to another location: 'en/advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md'
-* Deleted or moved to another location: 'en/advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
-* Deleted or moved to another location: 'en/advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md'
-* Deleted or moved to another location: 'en/advanced-level/basic-level.md'
-* Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
-* Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
 * 2015-06-15 [#How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-06-15 [How to prepare an environment on your machine on the day?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
