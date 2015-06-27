@@ -1,7 +1,7 @@
 ###What's changed
 
 
-* 2015-06-15 [#How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
+* 2015-06-15 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-06-15 [How to prepare an environment on your machine on the day?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
 * 2015-06-14 [Copy Images](docker-images/copy-images.md)
