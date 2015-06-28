@@ -11,9 +11,13 @@ Come prepared with your laptop setup with the environment necessary for the day.
 
 Look at [How to prepare before attending a hackday or workshop?](prepare-before-hackday.md) for detailed explanation of the above points.
 
+If this does not apply to you or you have already done this, please check the below sections.
+
 ##### How to setup the environment on your machine on the day ?
 
 After you have been through [What do I do days before a hackday or workshop ?](prepare-before-hackday.md), see [How to setup the environment on your machine on the day ?](prepare-an-environment-machine.md).
+
+If this does not apply to you or you have already done this, please check the below sections.
 
 
 ##### I'm a student / progressional beginner, new to Adopt OpenJDK, want to learn, never been to OpenJDK hackdays before, where do I start ?
