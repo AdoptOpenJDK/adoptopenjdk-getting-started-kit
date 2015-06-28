@@ -1,15 +1,44 @@
 ###What's changed
 
 
-* 2015-06-15 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
-* 2015-06-15 [How to prepare an environment on your machine on the day?](how-to-navigate/prepare-an-environment-machine.md)
+* Deleted or moved to another location: 'en/where_to_start__how_to_progress.md'
+* Deleted or moved to another location: 'en/prepare-before-hackday.md'
+* Deleted or moved to another location: 'en/prepare-an-environment-machine.md'
+* Deleted or moved to another location: 'en/preparations.md'
+* Deleted or moved to another location: 'en/intermediate-steps/command-line_arguments_for_build_performance_optimisation.md'
+* Deleted or moved to another location: 'en/intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
+* Deleted or moved to another location: 'en/intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md'
+* Deleted or moved to another location: 'en/intermediate-level.md'
+* Deleted or moved to another location: 'en/intermediate-level/basic-level.md'
+* Deleted or moved to another location: 'en/how-to-navigate/basic-level.md'
+* Deleted or moved to another location: 'en/docker-containers/copy-containers.md'
+* Deleted or moved to another location: 'en/docker-containers/check-containers.md'
+* Deleted or moved to another location: 'en/docker-containers/build-containers.md'
+* Deleted or moved to another location: 'en/contribute_to_this_book.md'
+* Deleted or moved to another location: 'en/command-line_arguments_for_build_performance_optimisation.md'
+* Deleted or moved to another location: 'en/basic-level.md'
+* Deleted or moved to another location: 'en/advanced-steps/testing_java_early_project.md'
+* Deleted or moved to another location: 'en/advanced-steps/test-annotations.md'
+* Deleted or moved to another location: 'en/advanced-steps/problems.txt.md'
+* Deleted or moved to another location: 'en/advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md'
+* Deleted or moved to another location: 'en/advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md'
+* Deleted or moved to another location: 'en/advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
+* Deleted or moved to another location: 'en/advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md'
+* Deleted or moved to another location: 'en/advanced-level/basic-level.md'
+* Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
+* Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
+* 2015-06-28 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
+* 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
+* 2015-06-22 [Windows](known-issues/known_issues_windows.md)
+* 2015-06-21 [README.md](README.md)
+* 2015-06-17 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
+* 2015-06-16 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
 * 2015-06-14 [Copy Images](docker-images/copy-images.md)
 * 2015-06-14 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
 * 2015-06-14 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-06-13 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-06-13 [Ready-made VM](virtual-machines/ready-made_vm.md)
-* 2015-06-13 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
 * 2015-06-13 [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](intermediate-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
 * 2015-06-13 [Check Images](docker-images/check-images.md)
 * 2015-06-13 [Build OpenJDK 8](binaries/build_openjdk_8.md)
@@ -27,7 +56,6 @@
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
 * 2015-05-16 [Preparations](intermediate-steps/preparations.md)
-* 2015-05-16 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-05-16 [OpenJDK Code coverage](advanced-steps/openjdk_code_coverage.md)
 * 2015-05-16 [OpenJDK9 directory structures](intermediate-steps/openjdk9_directory_structures.md)
 * 2015-05-16 [MacOS](known-issues/known_issues_macos.md)
@@ -50,12 +78,10 @@
 * 2015-05-16 [Advanced steps](advanced-steps/advanced_steps.md)
 * 2015-05-16 [# Advanced level](how-to-navigate/advanced-level.md)
 * 2015-05-16 [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
-* 2015-05-15 [README.md](README.md)
 * 2015-05-07 [Virtual Machines](virtual-machines/virtual_machines.md)
 * 2015-05-07 [Thanks and Support](thanks_and_support.md)
 * 2015-05-07 [OpenJDK 8 Vagrant Puppet](virtual-machines/adoptjdk_puppet_vm.md)
 * 2015-05-05 [Write up on the Adopt OpenJDK & Adopt-a-JSR programs](adopt-openjdk-getting-started/write_up_on_the_adopt_openjdk_&_adopt-a-jsr_programs.md)
-* 2015-05-05 [Windows](known-issues/known_issues_windows.md)
 * 2015-05-05 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
 * 2015-05-05 [Table of supported OSes & IDEs](adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md)
 * 2015-05-05 [Source code](source-code/source_code.md)
