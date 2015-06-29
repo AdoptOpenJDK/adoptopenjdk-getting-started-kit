@@ -7,26 +7,13 @@ These tests are typically in the nanosecond range with thousands of executions. 
 
 #Blog Posts
 
-<<<<<<< HEAD
 [http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking](http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking)
 
 [http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
 
 [http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
-<<<<<<< HEAD
 
 [http://shipilev.net/blog/2014/exceptional-performance/](http://shipilev.net/blog/2014/exceptional-performance/)
-=======
-=======
-[http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking](http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking)
-
-[http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
-
->>>>>>> JMH benchmark code, resuls,R plots
-[http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
-
-[http://shipilev.net/blog/2014/exceptional-performance/](http://shipilev.net/blog/2014/exceptional-performance/)
->>>>>>> JMH benchmark code, resuls,R plots
 
 ##Maven POM
 
@@ -535,13 +522,8 @@ These tests are typically in the nanosecond range with thousands of executions. 
 </table>
 
 
-<<<<<<< HEAD
 'R' is used to parse the JMH benchmark data and plot these graphs.
 
-=======
-'R' is used to parse the JMH benchmark data and plot these graphs.
-
->>>>>>> JMH benchmark code, resuls,R plots
 ‘R’ summary gives some extra details
 
 <table>
