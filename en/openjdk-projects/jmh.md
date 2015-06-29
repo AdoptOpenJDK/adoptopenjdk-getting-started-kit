@@ -535,8 +535,13 @@ These tests are typically in the nanosecond range with thousands of executions. 
 </table>
 
 
+<<<<<<< HEAD
 'R' is used to parse the JMH benchmark data and plot these graphs.
 
+=======
+'R' is used to parse the JMH benchmark data and plot these graphs.
+
+>>>>>>> JMH benchmark code, resuls,R plots
 ‘R’ summary gives some extra details
 
 <table>
