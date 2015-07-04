@@ -4,7 +4,7 @@
 
 Do the below and you can immediately start contributing via the github collaboration model:
 
-clone the repo **git@github.com:neomatrix369/adoptopenjdk-getting-started-kit.git**, make your amendments, and create a pull request
+clone the repo **https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit**, make your amendments, and create a pull request
 
 or 
 
