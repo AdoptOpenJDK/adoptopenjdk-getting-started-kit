@@ -34,7 +34,12 @@ Save the below ```xml``` as ```pom.xml```, and place it in the ```$HOME/sources/
                         <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl/remote</source>
                         <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/tool</source>
                         <source>../src/jdk.jshell/share/classes/jdk/jshell</source>
-                        <source>../../jdk/src/jdk.jline/share/classes/jdk/internal/jline</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console/completer</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console/history</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console/internal</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/internal</source>
                      </sources>
                   </configuration>
                </execution>
@@ -129,7 +134,7 @@ Save the below ```xml``` as ```pom.xml```, and place it in the ```$HOME/sources/
       <dependency>
          <groupId>jline</groupId>
          <artifactId>jline</artifactId>
-         <version>2.11</version>
+         <version>2.12.1</version>
       </dependency>
       <dependency>
          <groupId>com.beust</groupId>
