@@ -26,6 +26,8 @@ Other requirements:
     understanding of build systems, maven, git, etc... 
     some experience with Linux and bash
     some knowledge of OpenJDK
+    experience with vagrant (optional, only if you are going to work with this tech)
+    experience with docker (optional, only if you are going to work with this tech)
 <br/>
 ##### Download supporting software
 - VirtualBox (to load the VM): https://www.virtualbox.org/
