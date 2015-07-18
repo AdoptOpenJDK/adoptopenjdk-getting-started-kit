@@ -64,4 +64,6 @@ Copy these files from the portable device to your machine:
 - Note: Do not execute the Dockerfile to build an image - this takes times and requires high network bandwidth
 - Note: no scripts for Windows exists (contributions accepted)
 
-
+<br/>
+##### Finally
+When done go to the [How to navigate and make progress ?](how-to-navigate-and-make-progress.md) section, and move to the next step to continue with the flow.
