@@ -63,3 +63,5 @@ Copy these files from the portable device to your machine:
 - Use the loadImageToFile.sh script to load the docker image into your local repository
 - Note: Do not execute the Dockerfile to build an image - this takes times and requires high network bandwidth
 - Note: no scripts for Windows exists (contributions accepted)
+
+
