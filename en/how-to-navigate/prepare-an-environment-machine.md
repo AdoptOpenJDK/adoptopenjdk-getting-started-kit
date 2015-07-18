@@ -30,7 +30,7 @@ Copy these files from the portable device to your machine:
 
     OpenJDK VM Images/OpenJDK VM passwords.txt
 
-- Install VirtualBox
+- Install VirtualBox (do not Create a new VirtualBox setting)
 - Run VirtualBox (Oracle VirtualBox)
 - Import the respective VM
 - Start the VM
