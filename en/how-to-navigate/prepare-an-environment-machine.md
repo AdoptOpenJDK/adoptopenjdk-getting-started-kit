@@ -30,9 +30,9 @@ Copy these files from the portable device to your machine:
 
     OpenJDK VM Images/OpenJDK VM passwords.txt
 
-- Install VirtualBox (do not Create a new VirtualBox setting)
+- Install VirtualBox 
 - Run VirtualBox (Oracle VirtualBox)
-- Import the respective VM
+- Import the respective VM (do not Create a new VirtualBox setting)
 - Start the VM
 
 Finally proceed to the section to [Building OpenJDK 9](../binaries/build_openjdk_9.html).
