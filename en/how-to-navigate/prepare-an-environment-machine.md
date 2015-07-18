@@ -19,16 +19,19 @@ Copy these files from the portable device to your machine:
     VirtualBox for MacOS/[binaries]
                 or    
     VirtualBox for Windows/[binaries]
+    
    
     OpenJDK VM Images/OpenJDK9_Jigsaw_vm
                 or    
     OpenJDK VM Images/OpenJDK VM with no IDE support
                 or    
     OpenJDK VM Images/OpenJDK VM with Eclipse
+    
 
     OpenJDK VM Images/OpenJDK VM passwords.txt
 
 - Install VirtualBox
+- Run VirtualBox (Oracle VirtualBox)
 - Import the respective VM
 - Start the VM
 
