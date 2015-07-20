@@ -11,3 +11,5 @@ But this does not need to stop here, you can select your own java library or ope
 * In case of an issue contact the owners of the project, [Adoption Discuss](http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss) and the relevant [OpenJDK](http://mail.openjdk.java.net/mailman/listinfo) mailing list.
 
 Here is a sample scratchpad of notes of [JBoss Forge built using the JDK image created from OpenJDK9](https://gist.github.com/neomatrix369/9fa4147ee8999cfd3a4e), consequently you can setup a local or remote Jenkins image which builds and runs projects using this image.
+
+Another contribution from Joe Kutner (@codefinger), JVM Platform Owner at Heroku, see [Testing JDK 9 EA with Heroku](http://jkutner.github.io/2015/07/16/test-jdk9-heroku.html) - can be used to deploy your applications on Heroku to gather G1GC logs.
