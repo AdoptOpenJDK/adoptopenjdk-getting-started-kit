@@ -7,12 +7,13 @@ The document has grown especially during hackdays in London (host at the @salesf
 Hack-a-thons, hackergarten and workshops held at various conferences across Europe have also helped developed them further.
 
 Below is a list of contributors both individuals and groups (in no particular order):
-- LJC 
+- London Java Community (LJC) 
     - Julius Gamanyi
     - Mike Burton
     - Mike Bateman
     - John Patrick
     - and many members who participated at the hackdays
+- Mohan Radhakrishnan
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo) 
 
