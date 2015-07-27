@@ -16,6 +16,6 @@ Below is a list of contributors both individuals and groups (in no particular or
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo) 
 
-####What to contribute to this book ?
+####Want to contribute to this book ?
 
 See under section [How to contribute to this book ?](contribute.md)
