@@ -14,4 +14,8 @@ Below is a list of contributors both individuals and groups (in no particular or
     - John Patrick
     - and many members who participated at the hackdays
 - BGJUG (Ivan, Martin, Dmitri)
-- CeJUG (Helio, Paulo)
+- CeJUG (Helio, Paulo) 
+
+####What to contribute to this book ?
+
+See under section [How to contribute to this book ?](contribute.md)
