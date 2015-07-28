@@ -9,11 +9,9 @@ Link to a detailed page on the Build step on the [Adopt OpenJDK wiki](https://ja
 **Build from existing repo or Ready-made VM image**
 
 ```
-$ cd $HOME/sources```
-
-
-or 
-
+$ cd $HOME/sources
+```
+or
 ```
 $ cd $HOME/dev
 ```
@@ -33,7 +31,16 @@ $ ./get_source.sh
 $ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0 --disable-warnings-as-errors
 ```
 
-```/usr/lib/jvm/jdk1.8.0``` - can differ in your case, please download JDK 8 at least from the [site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). **It is recommended to use this JDK as it is better tested and free from any changes you might have made to the local copy of the OpenJDK8 sources & images.**
+`/usr/lib/jvm/jdk1.8.0` - can differ in your case, please download JDK 8 at least from the [site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). **It is recommended to use this JDK as it is better tested and free from any changes you might have made to the local copy of the OpenJDK8 sources & images.**
+
+If you are building on MacOSX (e.g. 10.9.0 or above), you might need to install XQuartz from this [site](http://xquartz.macosforge.org/landing) and include the following options to run configure 
+
+```
+$ bash configure --with-freetype-include=/usr/X11/include/freetype2 \
+                --with-freetype-lib=/usr/X11/lib \
+                --disable-warnings-as-errors \             
+                --with-boot-jdk=/usr/lib/jvm/jdk1.8.0
+```
 
 It is possible to get Oracle JDK 1.8 on Ubuntu by adding the repository of the Web Update 8 project, [see instructions](http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/).
 
