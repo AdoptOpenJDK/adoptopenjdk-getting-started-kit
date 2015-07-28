@@ -33,7 +33,7 @@ $ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0 --disable-warnings-as-err
 
 `/usr/lib/jvm/jdk1.8.0` - can differ in your case, please download JDK 8 at least from the [site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). **It is recommended to use this JDK as it is better tested and free from any changes you might have made to the local copy of the OpenJDK8 sources & images.**
 
-If you are building on MacOSX (e.g. 10.9.0 or above), you might need to install XQuartz from [site](http://xquartz.macosforge.org/landing) and include the following options to run configure 
+If you are building on MacOSX (e.g. 10.9.0 or above), you might need to install XQuartz from this [site](http://xquartz.macosforge.org/landing) and include the following options to run configure 
 
 ```
 $ bash configure --with-freetype-include=/usr/X11/include/freetype2 \
