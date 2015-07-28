@@ -36,7 +36,10 @@ $ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0 --disable-warnings-as-err
 If you are building on MacOSX (e.g. 10.9.0 or above), you might need to install XQuartz from [site](http://xquartz.macosforge.org/landing) and include the following options to run configure 
 
 ```
-$ bash configure --with-freetype-include=/usr/X11/include/freetype2 --with-freetype-lib=/usr/X11/lib --disable-warnings-as-errors --with-boot-jdk=/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home
+$ bash configure --with-freetype-include=/usr/X11/include/freetype2 \
+                --with-freetype-lib=/usr/X11/lib \
+                --disable-warnings-as-errors \             
+                --with-boot-jdk=/usr/lib/jvm/jdk1.8.0
 ```
 
 It is possible to get Oracle JDK 1.8 on Ubuntu by adding the repository of the Web Update 8 project, [see instructions](http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/).
