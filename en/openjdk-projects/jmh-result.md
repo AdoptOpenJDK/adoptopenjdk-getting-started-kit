@@ -7,7 +7,7 @@ java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar
 `
 
 
-`
+```
 
   # VM invoker: D:\Java\bin\java.exe
   # VM options: -XX:-TieredCompilation -Dbenchmark.n=10000
@@ -96,6 +96,7 @@ java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar
 
 
   # Run complete. Total time: 00:00:10
+```
 
 <table>
     <thead>
