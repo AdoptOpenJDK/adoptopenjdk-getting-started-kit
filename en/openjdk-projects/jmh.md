@@ -1,29 +1,26 @@
+#JMH: Java Microbenchmarking Harness
 
-# JMH: Java Microbenchmarking Harness
+[JMH](http://openjdk.java.net/projects/code-tools/jmh/) is a micro benchmarking tool for Java and other JVM languages.
 
-JMH is a microbenchmarking tool for Java and other JVM languages. 
+These tests are typically in the nanosecond range with thousands of executions. The tested code usually performs a small task.
 
-A microbenchmark is an attempt to measure the performance of a "mico" portion of the code. These tests are typically in the nanosecond range with thousands of executions.  The tested code usually performs a small task. 
 
-Microbenchmarking is not same as  profiling! 
+#Blog Posts
 
-When profiling, you work with full app either in production or some similar environment.
+[http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking](http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking)
 
-When you microbenchmark, you get a result that is  fictional since it is very different from a production environment. 
+[http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
 
-http://openjdk.java.net/projects/code-tools/jmh/
+[http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
 
-## Blog Posts
+[http://shipilev.net/blog/2014/exceptional-performance/](http://shipilev.net/blog/2014/exceptional-performance/)
 
-* [Using JMH for Java Microbenchmarking by Michael Nitschinger](http://nitschinger.at/Using-JMH-for-Java-Microbenchmarking) 
-* [Hello JMH by Daniel Mitterdorfer](http://daniel.mitterdorfer.name/articles/2014/benchmarking-hello-jmh/)
 
-TODO-s 
 
-project setup
-example test
-running benchmarks 
+# Known issues
 
-IDE plugins
-
-Links and references
+* [Maven Dependencies](maven-dependencies.md)
+* [Code under Test](system-under-test.md)
+* [JMH Benchmark](jmh-benchmark.md)
+* [JMH Result](jmh-result.md)
+* [Analysis using R](analysisusingR.md)
