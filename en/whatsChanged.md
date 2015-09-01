@@ -5,6 +5,14 @@
 * Deleted or moved to another location: 'en/prepare-before-hackday.md'
 * Deleted or moved to another location: 'en/prepare-an-environment-machine.md'
 * Deleted or moved to another location: 'en/preparations.md'
+* Deleted or moved to another location: 'en/openjdk-projects/system-under-test.md'
+* Deleted or moved to another location: 'en/openjdk-projects/maven-dependencies.md'
+* Deleted or moved to another location: 'en/openjdk-projects/kulla-pom-xml.md'
+* Deleted or moved to another location: 'en/openjdk-projects/kulla.md'
+* Deleted or moved to another location: 'en/openjdk-projects/jmh-result.md'
+* Deleted or moved to another location: 'en/openjdk-projects/jmh.md'
+* Deleted or moved to another location: 'en/openjdk-projects/jmh-benchmark.md'
+* Deleted or moved to another location: 'en/openjdk-projects/analysisusingR.md'
 * Deleted or moved to another location: 'en/intermediate-steps/command-line_arguments_for_build_performance_optimisation.md'
 * Deleted or moved to another location: 'en/intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
 * Deleted or moved to another location: 'en/intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md'
@@ -27,20 +35,29 @@
 * Deleted or moved to another location: 'en/advanced-level/basic-level.md'
 * Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
 * Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
+* 2015-09-01 [openjdk-projects/kulla/README.md](openjdk-projects/kulla/README.md)
+* 2015-09-01 [openjdk-projects/jmh/README.md](openjdk-projects/jmh/README.md)
+* 2015-09-01 [MH: Java Microbenchmarking Harness](openjdk-projects/jmh/jmh.md)
+* 2015-09-01 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
+* 2015-09-01 [Maven POM](openjdk-projects/jmh/maven-dependencies.md)
+* 2015-09-01 [Kulla](openjdk-projects/kulla/kulla.md)
+* 2015-09-01 [JMH result](openjdk-projects/jmh/jmh-result.md)
+* 2015-09-01 [JMH Benchmark](openjdk-projects/jmh/jmh-benchmark.md)
+* 2015-09-01 [Java code used for the Test](openjdk-projects/jmh/system-under-test.md)
+* 2015-09-01 [is used to parse the JMH benchmark data and plot these graphs.](openjdk-projects/jmh/analysisusingR.md)
+* 2015-07-28 [Build OpenJDK 9](binaries/build_openjdk_9.md)
+* 2015-07-27 [Contributors](contributors.md)
 * 2015-07-22 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-07-18 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-07-16 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
-* 2015-07-15 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla-pom-xml.md)
 * 2015-07-04 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * 2015-07-04 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
-* 2015-06-29 [MH: Java Microbenchmarking Harness](openjdk-projects/jmh.md)
 * 2015-06-28 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
 * 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-06-22 [Windows](known-issues/known_issues_windows.md)
 * 2015-06-21 [README.md](README.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
 * 2015-06-14 [Copy Images](docker-images/copy-images.md)
-* 2015-06-14 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-06-13 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
 * 2015-06-13 [Ready-made VM](virtual-machines/ready-made_vm.md)
 * 2015-06-13 [Hacking the JDK, compiling, building & running specific tests (change sources in the JDK)](intermediate-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
@@ -52,7 +69,6 @@
 * 2015-06-12 [How to contribute to this book ?](contribute.md)
 * 2015-05-25 [Valhalla](openjdk-projects/valhalla.md)
 * 2015-05-25 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
-* 2015-05-18 [Kulla](openjdk-projects/kulla.md)
 * 2015-05-16 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
@@ -112,7 +128,6 @@
 * 2015-05-05 [Eclipse](source-code/loading_openjdk_in_eclipse.md)
 * 2015-05-05 [Deep-dive Hotspot stuff](advanced-steps/deep-dive_hotspot_stuff.md)
 * 2015-05-05 [Custom JUG hand-out template](adopt-openjdk-getting-started/custom_jug_hand-out_template.md)
-* 2015-05-05 [Contributors](contributors.md)
 * 2015-05-05 [Compiler stuff](advanced-steps/compiler_stuff.md)
 * 2015-05-05 [Code analysis of OpenJDK projects](intermediate-steps/code_analysis_of_openjdk_projects.md)
 * 2015-05-05 [Cleaning up build warnings (-Xlint)](intermediate-steps/cleaning_up_build_warnings.md)
