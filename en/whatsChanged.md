@@ -7,9 +7,11 @@
 * Deleted or moved to another location: 'en/preparations.md'
 * Deleted or moved to another location: 'en/openjdk-projects/system-under-test.md'
 * Deleted or moved to another location: 'en/openjdk-projects/maven-dependencies.md'
+* Deleted or moved to another location: 'en/openjdk-projects/kulla/README.md'
 * Deleted or moved to another location: 'en/openjdk-projects/kulla-pom-xml.md'
 * Deleted or moved to another location: 'en/openjdk-projects/kulla.md'
 * Deleted or moved to another location: 'en/openjdk-projects/jmh-result.md'
+* Deleted or moved to another location: 'en/openjdk-projects/jmh/README.md'
 * Deleted or moved to another location: 'en/openjdk-projects/jmh.md'
 * Deleted or moved to another location: 'en/openjdk-projects/jmh-benchmark.md'
 * Deleted or moved to another location: 'en/openjdk-projects/analysisusingR.md'
@@ -35,8 +37,6 @@
 * Deleted or moved to another location: 'en/advanced-level/basic-level.md'
 * Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
 * Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
-* 2015-09-01 [openjdk-projects/kulla/README.md](openjdk-projects/kulla/README.md)
-* 2015-09-01 [openjdk-projects/jmh/README.md](openjdk-projects/jmh/README.md)
 * 2015-09-01 [MH: Java Microbenchmarking Harness](openjdk-projects/jmh/jmh.md)
 * 2015-09-01 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
 * 2015-09-01 [Maven POM](openjdk-projects/jmh/maven-dependencies.md)
