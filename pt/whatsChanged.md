@@ -22,7 +22,6 @@
 * 2015-05-04 [Penrose](openjdk-projects/penrose.md)
 * 2015-05-04 [Patches - como criar e submete-los (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-05-04 [OpenJDK SonarQube Dashboard passos](intermediate-steps/openjdk_sonarqube_dashboard_steps.md)
-* 2015-05-04 [openjdk-projects/jmh.md](openjdk-projects/jmh.md)
 * 2015-05-04 [OpenJDK Guia para desenvolvedores](intermediate-steps/openjdk_developers_guide.md)
 * 2015-05-04 [OpenJDK 9 SonarQube passos](intermediate-steps/openjdk9_sonarqube_steps.md)
 * 2015-05-04 [OpenJDK 9 SonarQube passos](intermediate-steps/openjdk_9_sonarqube_steps.md)

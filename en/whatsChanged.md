@@ -33,7 +33,6 @@
 * 2015-07-15 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla-pom-xml.md)
 * 2015-07-04 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * 2015-07-04 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
-* 2015-06-29 [MH: Java Microbenchmarking Harness](openjdk-projects/jmh.md)
 * 2015-06-28 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
 * 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-06-22 [Windows](known-issues/known_issues_windows.md)

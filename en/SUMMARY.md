@@ -44,7 +44,6 @@
 * [OpenJDK projects](openjdk-projects/openjdk_projects.md)
    * [Penrose](openjdk-projects/penrose.md)
    * [Nashorn](openjdk-projects/nashorn.md)
-   * [JMH](openjdk-projects/jmh.md)
    * [Kulla](openjdk-projects/kulla.md)
        * [Maven pom.xml to build kulla.jar](openjdk-projects/kulla-pom-xml.md)
    * [Valhalla](openjdk-projects/valhalla.md)
