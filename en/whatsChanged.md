@@ -51,7 +51,6 @@
 * 2015-06-12 [How to contribute to this book ?](contribute.md)
 * 2015-05-25 [Valhalla](openjdk-projects/valhalla.md)
 * 2015-05-25 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
-* 2015-05-18 [Kulla](openjdk-projects/kulla.md)
 * 2015-05-16 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)

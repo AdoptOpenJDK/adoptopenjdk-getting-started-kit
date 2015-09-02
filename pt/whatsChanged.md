@@ -33,7 +33,6 @@
 * 2015-05-04 [Milling Project Coin](intermediate-steps/milling_project_coin.md)
 * 2015-05-04 [Mercurial](known-issues/known_issues_mercurial.md)
 * 2015-05-04 [Linux/Unix](known-issues/known_issues_linuxunix.md)
-* 2015-05-04 [Kulla](openjdk-projects/kulla.md)
 * 2015-05-04 [JEPs - JDK Propostas de melhorias](intermediate-steps/jeps_-_jdk_enhancement_proposals.md)
 * 2015-05-04 [Intermediate steps](intermediate-steps/intermediate_steps.md)
 * 2015-05-04 [IntelliJ](source-code/loading_openjdk_in_intellij.md)
