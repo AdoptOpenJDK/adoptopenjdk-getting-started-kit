@@ -9,4 +9,4 @@ Os links abaixo cobrem o build do OpenJDK nativo ou em um cloud enviromnment par
 Para encontrar mais sobre **building on other platforms** [Adopt OpenJDK - Build OpenJDK page](https://java.net/projects/adoptopenjdk/pages/WhatToWorkOnForOpenJDK#Build_OpenJDK)
 Estas instruções pode ser aplicadas para **cloud** environment desde que os passos no link acima sejam seguidos de acordo com o ambiente recomendado.
 
-Veja também [Table of supported OSes & IDEs](adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md) e [Virtual Machines](virtual-machines/virtual_machines.md).
+Veja também [Table of supported OSes & IDEs](adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md) e [Virtual Machines](virtual_machines.md).
