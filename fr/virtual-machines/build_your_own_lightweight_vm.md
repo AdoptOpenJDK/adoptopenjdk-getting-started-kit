@@ -10,10 +10,26 @@ Téléchargez et installez la dernière version de *Vagrant 1.7.2 ou supérieur* dep
 Puis exécutez la ligne de commande suivante:
 
 ```
-$ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";
+# Clonez la repo adopt-openjdk-kiss-vagrant
+$ git clone git@github.com:neomatrix369/adopt-openjdk-kiss-vagrant.git
+
+# Change vers un répertoire pour créer le Vagrantfile
+$ cd adopt-openjdk-kiss-vagrant.git
+$ vagrant init
+
+# Lancez la machine
+$ vagrant up
+
+# ssh dans la VM
+$ vagrant ssh
+
+# dans le shell ssh
+# Mapping in place: /vagrant/scripts/ ==> [currentfolder]/scripts
 ```
 
-Cela prends à peu près **377Mo** donc s'il vous plait téléchargez avant de venir, de zéro à une build complète prends à peu près une heure (en utilisant un *MacBookPro 2013 avec 16Go et un SSD*).
+Observez les répertoires et scripts de cette repo, car ils peuvent être utiliser pour divers usages. Une fois ces instructions finies, allez à [Construire votre propre OpenJDK](../binaries/build_your_own_openjdk.md) pour continuer à construire OpenJDK.
+
+*NB.* : Cela prends à peu près **377Mo** donc s'il vous plait téléchargez avant de venir, de zéro à une build complète d'OpenJDK 9 prends à peu près une heure (en utilisant un *MacBookPro 2013 avec 16Go et un SSD*).
 
 ### Instructions détaillées
 
@@ -36,7 +52,8 @@ Installer le logiciel, initialement créé et testé sur un Mac et les version util
 Une fois vagrant installé, lancez la ligne de commande suivante, cela prends 377Mo donc s'il vous plait téléchargez avant de venir;
 
 ```
-vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";
+bash
+vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
 ```
 
 Sur une connexion peu rapide, de zéro à un build complète d'OpenJDK 9 peut prendre une heure (en utilisant un *MacBookPro 2013 avec 16Go et un SSD*).
@@ -48,14 +65,14 @@ Une fois la VM démarrée et ses dépendances installées le script suivant va téléc
 
 ```bash
   $ vagrant ssh
-  $ /vagrant/scripts/source.sh
+  $ sh /vagrant/scripts/source-share-with-host.sh
 ```
 
 ##### Construction d'OpenJDK 9
 
 ```bash
   $ vagrant ssh
-  $ cd ~/source/jdk9 ;
+  $ cd /vagrant/sources/jdk9 ;
   $ bash get_source.sh ;
   $ bash configure ;
   $ make clean images ;
@@ -63,3 +80,5 @@ Une fois la VM démarrée et ses dépendances installées le script suivant va téléc
 ```bash
   $ make test ;
 ```
+
+Il y a aussi une [repo GitHub ](https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant) avec un Vagrantfile et les scripts d'accompagnement.

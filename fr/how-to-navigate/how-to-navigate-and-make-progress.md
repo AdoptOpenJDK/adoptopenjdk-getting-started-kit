@@ -1,5 +1,16 @@
 # Comment naviguer et progresser ?
 
+##### Que dois-je faire avant le hackday ou l'atelier ?
+Venez avec un portable configuré avec l'environement nécessaire pour la journée.
+- Vérifiez les prérequis matériel / OS / logiciels
+- Téléchargez les logiciels requis
+- Construisez ou téléchargez les machines virtuelles
+- Construisez ou téléchargez les images Docker
+- Vérifiez que la VM ou l'image Docker fonctionne
+- Vérifiez que la build OpenJDK fonctionne
+
+Regardez [Comment vous préparer avant de participer à un hackday ou atelier ?](prepare-before-hackday.md) pour des instructions détaillées.
+
 ##### Je suis étudiant / débutant, nouveau pour OpenJDK, veux apprendre, n'ai jamais été aux hackdays OpenJDK avant, par quoi dois-je commencer ?
 Regardez les étapes pour [niveau débutant](beginners-level.md).
 
@@ -14,7 +25,7 @@ Regardez les étapes pour [niveau intermédiaire](intermediate-level.md).
 Regardez les étapes pour [niveau avancé](advanced-level.md).
 
 <br/>
-##### J'ai du temps et de la bande passante chez moi, comment puis-je en tirer pleinement parti ?
+##### J'ai du temps et de la bande passante chez moi, comment puis-je en tirer pleinement parti ? Ou que puis-je faire après avoir participer à un hackday ou atelier.
 
 Regardez ce que vous pouver faire [pour utiliser ce temps au mieux pour apprendre](free-time-ample-bandwidth.md).
 

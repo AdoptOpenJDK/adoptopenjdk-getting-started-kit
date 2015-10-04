@@ -1,6 +1,6 @@
 # Tester le projet Java Early
 
-Pour amener la process de tests vers la communauté et également pour tester tôt pour un retour tôt, les projet Testing Java ont été crééer et supportés par le [@LJCJug](http://twitter.com/ljcjug) et OpenJDK (i.e. Oracle), pour voir la poignée de librairies Java participante, lisez la [page wiki](https://java.net/projects/adoptopenjdk/pages/TestingJava8) ainsi que la page [JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach).
+Pour amener la process de tests vers la communauté et également pour tester tôt pour un retour tôt, les projet Testing Java ont été crééer et supportés par le [@LJCJug](http://twitter.com/ljcjug) et OpenJDK (i.e. Oracle), pour voir la poignée de librairies Java participante, lisez la [page wiki](https://java.net/projects/adoptopenjdk/pages/TestingJava8) ainsi qu'au programme [JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach).
 
 Mais cela ne s'arrête pas là, vous pouvez selectionnez votre propre bibliothèque Java ou projet opensource, le construire avec le JDK 9 puis le lancer avec ce même JDK ou le JRE.
 

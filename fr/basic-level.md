@@ -1,2 +1,0 @@
-# Niveau intermédiaire
-

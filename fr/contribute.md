@@ -31,3 +31,11 @@ et
 
 6. Créez une pull request
 Allez sur le site de votre repo sur  GitHub: https://github.com/{VOTRE_COMPTE_GITHUB}/adoptopenjdk-getting-started-kit/pulls et cliquez sur le bouton New Pull Request button (nouvelle pull request) pour en créer une.
+
+
+## Comment identifier des changements à ce livre ?
+
+Nous avons deux [scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) dans le répertoire racine de la repo, qui créent une page markdown <b>Quels changements</b>, [tel celle-ci](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html).
+
+Les scripts générateurs de markdown de [Quels changements](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) s'appellent [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) et [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
+

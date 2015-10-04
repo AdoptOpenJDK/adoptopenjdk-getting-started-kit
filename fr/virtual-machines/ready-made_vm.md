@@ -12,7 +12,7 @@ Ces fichiers contiennent les source d'OpenJDK 8, mais peuvent également être u
 
 Prérequis pour utiliser la VM
 - CPU 64-bit avec un OS 64-bit
-- 10-15 Go d'espace libre sur disque
+- 15-20 Go d'espace libre sur disque
 - un ordinateur suffisament rapide pour faire tourner une VM
 - VirtualBox installé
 - compréhension de Java
