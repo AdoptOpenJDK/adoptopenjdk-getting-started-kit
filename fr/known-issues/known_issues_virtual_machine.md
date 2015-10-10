@@ -11,5 +11,6 @@ Si vous avez encore besoin de plus de place, utilisez les instructions ci-après
 
 Liens recommandés, partagés avec la communauté par Richard Greenlees :
 - [resource 1](http://bit.ly/1qgfZJ7)
-- [resource 2](http://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/)
-- [resource 3](https://forums.virtualbox.org/viewtopic.php?t=10348)
+- [resource 2](http://derekmolloy.ie/resize-a-virtualbox-disk/)
+- [resource 3](http://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/)
+- [resource 4](https://forums.virtualbox.org/viewtopic.php?t=10348)

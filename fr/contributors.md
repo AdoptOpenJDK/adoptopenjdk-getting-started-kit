@@ -9,11 +9,16 @@ du @ljcjuc, de @salesforce, d' @heroku, d' @hackthetower et de @jr0cket).
 Hack-a-thons, hackergarten et autres ateliers tenus durant diverse conférences en Europe ont également contribués à étendre ces documents.
 
 Ci-dessous une liste des contributeurs individuels ou en groupes (sans ordre particulier) :
-- LJC 
+- London Java Community (LJC) 
     - Julius Gamanyi
     - Mike Burton
     - Mike Bateman
     - John Patrick
     - ainsi que les nombreux participants des hackdays
+- Mohan Radhakrishnan
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo)
+
+####Vous voulez contribuer à ce livre ?
+
+Voir la section [Comment contribuer à ce livre ?](contribute.md)

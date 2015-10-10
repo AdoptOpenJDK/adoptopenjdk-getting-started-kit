@@ -11,6 +11,14 @@ Venez avec un portable configuré avec l'environement nécessaire pour la journée.
 
 Regardez [Comment vous préparer avant de participer à un hackday ou atelier ?](prepare-before-hackday.md) pour des instructions détaillées.
 
+Si cela ne s'applique pas à vous, ou que vous l'avez déjà  fait, continuez avec les sections suivantes.
+
+##### Comment configurez l'enviroment sur votre machine lors de l'atelier ?
+
+Après avoir lu [Comment vous préparer avant de participer à un hackday ou atelier ?](prepare-before-hackday.md), lisez [Comment préparer un environement sur votre machine ?](prepare-an-environment-machine.md).
+
+Si cela ne s'applique pas à vous, ou que vous l'avez déjà  fait, continuez avec les sections suivantes.
+
 ##### Je suis étudiant / débutant, nouveau pour OpenJDK, veux apprendre, n'ai jamais été aux hackdays OpenJDK avant, par quoi dois-je commencer ?
 Regardez les étapes pour [niveau débutant](beginners-level.md).
 

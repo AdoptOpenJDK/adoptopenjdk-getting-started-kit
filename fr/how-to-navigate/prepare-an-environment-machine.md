@@ -29,7 +29,8 @@ Copiez ces fichiers sur votre machine :
     OpenJDK VM Images/OpenJDK VM passwords.txt
 
 - Installez VirtualBox
-- Importez la VM appropriée
+- Lancez VirtualBox (Oracle VirtualBox)
+- Importez la VM appropriée (ne créez pas une nouvelle configuration)
 - Démarrez la VM
 
 Enfin procédez jusqu'à la section [Construire OpenJDK 9](../binaries/build_openjdk_9.html).
@@ -61,3 +62,7 @@ Copiez ces fichers vers votre machine :
 - Utilisez le script loadImageToFile.sh pour charger l'image docker dans votre repo locale
 - Note : N'exécutez pas le Dockerfile pour construire une image - cela prends du temps et requiert une large bande passante
 - Note : il n'existe pas de script pour Windows (contributions acceptées)
+
+<br/>
+##### Enfin
+Quand vous avez terminé continuez avec la section [Comment naviguer et progresser ?](how-to-navigate-and-make-progress.md).

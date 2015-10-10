@@ -9,7 +9,8 @@ Lien vers une page avec des instructions détaillées sur le [wiki Adopt OpenJDK](
 **Construisez depuis une repo existante ou une image VM prête à l'emploi**
 
 ```
-$ cd $HOME/sources```
+$ cd $HOME/sources
+```
 
 
 ou 
@@ -35,6 +36,15 @@ $ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0 --disable-warnings-as-err
 ```
 
 ```/usr/lib/jvm/jdk1.8.0``` - peut être différent dans votre cas, veuillez télécharger le JDK depuis le [site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). **Il est recommandé d'utiliser ce JDK car il est mieux testé et sans changement qui pourrait avoir été fait sur la copie locale d'OpenJDK (source ou image).**
+
+Si vous construisez sur MacOSX (e.g. 10.9.0 ou supérieur), vous devrez peut être installer XQuartz depuis le [site](http://xquartz.macosforge.org/landing) et inclure l'option suivante lors de la configuration
+
+```
+$ bash configure --with-freetype-include=/usr/X11/include/freetype2 \
+                 --with-freetype-lib=/usr/X11/lib \
+                 --disable-warnings-as-errors \
+                 --with-boot-jdk=/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home
+```
 
 Sur Ubuntu, il est possible d'obtenir le JDK 8 d'Oracle en ajoutant le dépôt du projet Web Update 8, [voir les instructions](http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/).
 

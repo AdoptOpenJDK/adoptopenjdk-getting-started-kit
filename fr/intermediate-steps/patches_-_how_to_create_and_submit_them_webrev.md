@@ -1,5 +1,7 @@
 # Patches - comment les créer et les soumettre (webrev)](
 
+Avant de créer un patch, lisez [ceci](http://openjdk.java.net/contribute/), ainsi que ces quelques [autres resources](http://events.linuxfoundation.org/sites/events/files/slides/Bird-Successful-Engagement-with-Open-Source-Communities.pdf) qui peuvent également aider.
+
 * Assurez vous que webrev.ksh est disponible ou [téléchargez le](http://hg.openjdk.java.net/code-tools/webrev/raw-file/tip/webrev.ksh).
 * Effectuez les changements requis d'OpenJDK
 * Véfifiez ces changements en utilisant la commande suivante

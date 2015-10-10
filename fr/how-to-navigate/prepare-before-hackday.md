@@ -25,6 +25,8 @@ Autres prérequis :
     compréhension des systèmes de build, maven, git, etc...
     un peu de connaissance de Linux et bash
     un peu de connaissance d'OpenJDK
+    un peu d'experience avec Vagrant (optionnel, uniquement si vous utilisez cette technologie)
+    un peu d'experience avec Docker (optionnel, uniquement si vous utilisez cette technologie)
 <br/>
 ##### Téléchargez logiciels utiles
 - VirtualBox (pour charger la VM) : https://www.virtualbox.org/

@@ -34,7 +34,11 @@ Enregistrez le ```xml``` ci-dessous en ```pom.xml```, et placez le dans le répe
                         <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/impl/remote</source>
                         <source>../src/jdk.jshell/share/classes/jdk/internal/jshell/tool</source>
                         <source>../src/jdk.jshell/share/classes/jdk/jshell</source>
-                        <source>../../jdk/src/jdk.jline/share/classes/jdk/internal/jline</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console/completer</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console/history</source>
+                        <source>../../jdk/src/jdk.internal.le/share/classes/jdk/internal/jline/console/internal</source>
                      </sources>
                   </configuration>
                </execution>

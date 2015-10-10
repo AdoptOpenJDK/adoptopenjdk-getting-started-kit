@@ -11,7 +11,7 @@ Puis exécutez la ligne de commande suivante:
 
 ```
 # Clonez la repo adopt-openjdk-kiss-vagrant
-$ git clone git@github.com:neomatrix369/adopt-openjdk-kiss-vagrant.git
+$ git clone https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant.git
 
 # Change vers un répertoire pour créer le Vagrantfile
 $ cd adopt-openjdk-kiss-vagrant.git
