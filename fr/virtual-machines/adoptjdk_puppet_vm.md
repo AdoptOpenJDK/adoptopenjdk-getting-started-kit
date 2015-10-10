@@ -1,19 +1,19 @@
 # Puppet Vagrant OpenJDK 8 
 
-**S'il vous plaît ayez à l'esprit que ces fichiers font plusieurs giga, donc téléchargez les uniquement sur une connexion haut-débit et non lors d'un lab.**
+**S'il vous plaÃ®t ayez Ã  l'esprit que ces fichiers font plusieurs giga, donc tÃ©lÃ©chargez les uniquement sur une connexion haut-dÃ©bit et non lors d'un lab.**
 
 Description
 ===========
-Ubuntu 12.04 Sandbox est un environement de développement Puppet basé sur [Vagrant](http://vagrantup.com/)
-et utilisé pour lancer et tester des modules OpenJDK 8.
+Ubuntu 12.04 Sandbox est un environement de dÃ©veloppement Puppet basÃ© sur [Vagrant](http://vagrantup.com/)
+et utilisÃ© pour lancer et tester des modules OpenJDK 8.
 
-Il n'a jamais été aussi facile de construire OpenJDK. vagrant up vous lancera o/
+Il n'a jamais Ã©tÃ© aussi facile de construire OpenJDK. vagrant up vous lancera o/
 ![OpenJDK](https://soujavablog.files.wordpress.com/2015/05/openjdk.jpg)
 
-Prérequis
+PrÃ©requis
 ============
 
-Pour utiliser ces instructions vous devez avoir les éléments suivant installés et fonctionels :
+Pour utiliser ces instructions vous devez avoir les Ã©lÃ©ments suivant installÃ©s et fonctionels :
 
 * [VirtualBox](https://www.virtualbox.org/)
 * [Vagrant 1.7+](http://vagrantup.com/)
@@ -23,7 +23,7 @@ Utilisation
 ===========
 
 
-Exécutez Git Clone
+ExÃ©cutez Git Clone
 -------------
 
 ```
@@ -33,17 +33,17 @@ git clone https://github.com/soujava/adoptjdk-puppet-vm.git
 Lancement initial
 ---------------
 
-Pour obtenir l'environement bac-à-sable Puppet, lancez la commande suivante dans le répertoire adoptjdk-puppet-vm:
+Pour obtenir l'environement bac-Ã -sable Puppet, lancez la commande suivante dans le rÃ©pertoire adoptjdk-puppet-vm:
 
 ```
     $ vagrant up
 ```
 
 Puppet installera automatiquement Mercurial et OpenJDK 7,
-clonera le projet OpenJDK 8, exécutera ```get_source.sh``` afin de télécharger les sources d'OpenJDK 8,
-lancera ```bash configure``` pour s'assurer que tout est prêt pour construire and lancera ```make images``` afin de construire les images JDK 8.
+clonera le projet OpenJDK 8, exÃ©cutera ```get_source.sh``` afin de tÃ©lÃ©charger les sources d'OpenJDK 8,
+lancera ```bash configure``` pour s'assurer que tout est prÃªt pour construire and lancera ```make images``` afin de construire les images JDK 8.
 
-*N.B. ce process peut prendre jusqu'à 50 minutes. Testé sur un 2014 250GB SSD 16GB RAM.
+*N.B. ce process peut prendre jusqu'Ã  50 minutes. TestÃ© sur un 2014 250GB SSD 16GB RAM.
 
 
 Si tout va bien, vous devriez voir les messages de log suivants :

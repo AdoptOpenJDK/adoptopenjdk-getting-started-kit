@@ -2,7 +2,7 @@
 
 [JMH](http://openjdk.java.net/projects/code-tools/jmh/) est un outil de microbenchmarking pour Java et autres langages de la JVM.
 
-Ces tests sont typiquement de l'ordre de la nanoseconde pour des milliers d'exécutions. Le code testé effectue habituellement une tâche petite. 
+Ces tests sont typiquement de l'ordre de la nanoseconde pour des milliers d'exÃ©cutions. Le code testÃ© effectue habituellement une tÃ¢che petite. 
 
 ##Posts de blogs
 
@@ -12,10 +12,10 @@ Ces tests sont typiquement de l'ordre de la nanoseconde pour des milliers d'exéc
 [http://shipilev.net/blog/2014/exceptional-performance/](http://shipilev.net/blog/2014/exceptional-performance/)
 
 
-## Problèmes connus
+## ProblÃ¨mes connus
 
-* [Dépendances Maven](maven-dependencies.md)
+* [DÃ©pendances Maven](maven-dependencies.md)
 * [Code sous Test](system-under-test.md)
 * [Benchmark JMH](jmh-benchmark.md)
-* [Résultats de JMH](jmh-result.md)
+* [RÃ©sultats de JMH](jmh-result.md)
 * [Analyse avec R](analysisusingR.md)

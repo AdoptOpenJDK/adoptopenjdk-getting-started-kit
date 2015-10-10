@@ -7,14 +7,14 @@ Options de GC dans les fichers source du dossier hotspot
 
 * [HotSpot CLI option - PrintAssembly](https://wiki.openjdk.java.net/display/HotSpot/PrintAssembly)
 
-Astucieux bloc de code d'HotSpot - observez comment se produit le switch en fonction du type de GC sélectionné
+Astucieux bloc de code d'HotSpot - observez comment se produit le switch en fonction du type de GC sÃ©lectionnÃ©
 
-| Type de GC|Jeune Génération|Vieille Génération |
+| Type de GC|Jeune GÃ©nÃ©ration|Vieille GÃ©nÃ©ration |
 |------------|----------------|--------------|
-| SerialGC  (-XX:+UseSerialGC)|Série|Série |   
-| ParallGC  (-XX:+UseParallelGC)|Parallèle|Série|
-| Parallel Compacting(-XX:+UseParallelOldGC)|Parallèle|Parallèle  |
-| Concurrent Mark Sweep GC (-XX:+UseConcMarkSweepGC)|Parallèle|CMS |
+| SerialGC  (-XX:+UseSerialGC)|SÃ©rie|SÃ©rie |   
+| ParallGC  (-XX:+UseParallelGC)|ParallÃ¨le|SÃ©rie|
+| Parallel Compacting(-XX:+UseParallelOldGC)|ParallÃ¨le|ParallÃ¨le  |
+| Concurrent Mark Sweep GC (-XX:+UseConcMarkSweepGC)|ParallÃ¨le|CMS |
 
 (http://www.weblogic-training.com/performance-tuning/difference-between-serial-gc-parallgc-cms-(-concurrent-mark-sweep)-gc/)
 

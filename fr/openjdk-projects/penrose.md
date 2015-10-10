@@ -1,5 +1,5 @@
 # Penrose
 
-Considérant que les vieilles build EA de Jigsaw JDK 8 sont abandonnées, les sources de Penrose sont actuellement périmées et le projet toujours en phase exploraroire. 
+ConsidÃ©rant que les vieilles build EA de Jigsaw JDK 8 sont abandonnÃ©es, les sources de Penrose sont actuellement pÃ©rimÃ©es et le projet toujours en phase exploraroire. 
 
-Toutefois vous pouvez explorer la vieille forêt sous [penrose/jigsaw](http://hg.openjdk.java.net/penrose/jigsaw/) et [penrose/penrose](http://hg.openjdk.java.net/penrose/penrose/) [pour des démos].
+Toutefois vous pouvez explorer la vieille forÃªt sous [penrose/jigsaw](http://hg.openjdk.java.net/penrose/jigsaw/) et [penrose/penrose](http://hg.openjdk.java.net/penrose/penrose/) [pour des dÃ©mos].

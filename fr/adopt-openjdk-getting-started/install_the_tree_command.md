@@ -22,5 +22,5 @@ suivez [le lien](http://superuser.com/questions/359723/mac-os-x-equivalent-of-th
 
 *Windows*
 
-La commande tree est dÈj‡ disponible sur [Windows](
+La commande tree est d√©j√† disponible sur [Windows](
 http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/tree.mspx?mfr=true).

@@ -1,13 +1,13 @@
-### Comment contribuer à ce livre
+### Comment contribuer Ã  ce livre
 
-##### Je connais certaines choses que je souhaite partager en contribuant à ce livre ?
+##### Je connais certaines choses que je souhaite partager en contribuant Ã  ce livre ?
 
-Faites ce qui suit et vous pourrez immédiatement commencer à contribuer via le modèle collaboratif de Github :
+Faites ce qui suit et vous pourrez immÃ©diatement commencer Ã  contribuer via le modÃ¨le collaboratif de Github :
 
-clonez la repo ***https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit**, faites vos ajustements et créé un pull request
+clonez la repo ***https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit**, faites vos ajustements et crÃ©Ã© un pull request
 
 ou 
 
-Vous pouvez également [contacter](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) es auteurs avec votre nom d'utilisateur Github pour être ajouté à la repo.
+Vous pouvez Ã©galement [contacter](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) es auteurs avec votre nom d'utilisateur Github pour Ãªtre ajoutÃ© Ã  la repo.
 
-Un peu de [documentation](http://help.gitbook.com/) et [comment installer GitBook](https://github.com/GitbookIO/gitbook) localement devrait également être utile.
+Un peu de [documentation](http://help.gitbook.com/) et [comment installer GitBook](https://github.com/GitbookIO/gitbook) localement devrait Ã©galement Ãªtre utile.

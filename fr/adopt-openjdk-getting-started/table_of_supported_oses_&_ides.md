@@ -1,3 +1,3 @@
-# Table des OSes et IDEs supportés
+# Table des OSes et IDEs supportÃ©s
 
 https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions#Manual

@@ -12,22 +12,22 @@ $ cd $SOURCES/jdk9/build/linux-x86_64-normal-server-release/images/jdk/bin
 $ ./jimage --help
 Usage: jimage <extract|recreate|info|list|verify> <options> jimage...
  
-  extract  - Extrait toutes les entrées jimage dans des fichiers séparés
-             dans le répertoire spécifié par --dir=<directory> (défaut=.)
-  recreate - Reconstruit un fichier jimage à partir d'un répertoire extrait (--dir)
-  info     - Affiche les informations spécifiées dans l'entête du fichier jimage.
-  list     - Affiche les noms de toutes les entrées dans le fichier jimage.  Utilisée avec 
-             --verbose affichera également les attributs des entrées par ex. la taille et l'offset.
-  verify   - Rapporte les erreurs sur les entrées .class qui ne seraient pas vérifiées comme des classes.
+  extract  - Extrait toutes les entrÃ©es jimage dans des fichiers sÃ©parÃ©s
+             dans le rÃ©pertoire spÃ©cifiÃ© par --dir=<directory> (dÃ©faut=.)
+  recreate - Reconstruit un fichier jimage Ã  partir d'un rÃ©pertoire extrait (--dir)
+  info     - Affiche les informations spÃ©cifiÃ©es dans l'entÃªte du fichier jimage.
+  list     - Affiche les noms de toutes les entrÃ©es dans le fichier jimage.  UtilisÃ©e avec 
+             --verbose affichera Ã©galement les attributs des entrÃ©es par ex. la taille et l'offset.
+  verify   - Rapporte les erreurs sur les entrÃ©es .class qui ne seraient pas vÃ©rifiÃ©es comme des classes.
  
 Les options possibles inclues :
-  --dir                                Répertoire destination pour créer/extraire
+  --dir                                RÃ©pertoire destination pour crÃ©er/extraire
   --help                               Affiche ce message
-  --verbose                            Affichage détaillé
+  --verbose                            Affichage dÃ©taillÃ©
   --version                            Affichage des information de version
  ```
 <br/>
-**répertoire *modules* dans *jdk image***
+**rÃ©pertoire *modules* dans *jdk image***
 
 *Commande*
 ```bash
@@ -44,7 +44,7 @@ $ ls -lash lib/modules
 ```
 <br/>
 
-**Extrait du fichier *bootmodules.jimage* dans le répertoire *lib/modules* **
+**Extrait du fichier *bootmodules.jimage* dans le rÃ©pertoire *lib/modules* **
 
 *Commande*
 ```bash

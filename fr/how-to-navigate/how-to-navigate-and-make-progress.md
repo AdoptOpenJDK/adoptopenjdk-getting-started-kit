@@ -1,45 +1,45 @@
 # Comment naviguer et progresser ?
 
 ##### Que dois-je faire avant le hackday ou l'atelier ?
-Venez avec un portable configuré avec l'environement nécessaire pour la journée.
-- Vérifiez les prérequis matériel / OS / logiciels
-- Téléchargez les logiciels requis
-- Construisez ou téléchargez les machines virtuelles
-- Construisez ou téléchargez les images Docker
-- Vérifiez que la VM ou l'image Docker fonctionne
-- Vérifiez que la build OpenJDK fonctionne
+Venez avec un portable configurÃ© avec l'environement nÃ©cessaire pour la journÃ©e.
+- VÃ©rifiez les prÃ©requis matÃ©riel / OS / logiciels
+- TÃ©lÃ©chargez les logiciels requis
+- Construisez ou tÃ©lÃ©chargez les machines virtuelles
+- Construisez ou tÃ©lÃ©chargez les images Docker
+- VÃ©rifiez que la VM ou l'image Docker fonctionne
+- VÃ©rifiez que la build OpenJDK fonctionne
 
-Regardez [Comment vous préparer avant de participer à un hackday ou atelier ?](prepare-before-hackday.md) pour des instructions détaillées.
+Regardez [Comment vous prÃ©parer avant de participer Ã  un hackday ou atelier ?](prepare-before-hackday.md) pour des instructions dÃ©taillÃ©es.
 
-Si cela ne s'applique pas à vous, ou que vous l'avez déjà  fait, continuez avec les sections suivantes.
+Si cela ne s'applique pas Ã  vous, ou que vous l'avez dÃ©jÃ   fait, continuez avec les sections suivantes.
 
 ##### Comment configurez l'enviroment sur votre machine lors de l'atelier ?
 
-Après avoir lu [Comment vous préparer avant de participer à un hackday ou atelier ?](prepare-before-hackday.md), lisez [Comment préparer un environement sur votre machine ?](prepare-an-environment-machine.md).
+AprÃ¨s avoir lu [Comment vous prÃ©parer avant de participer Ã  un hackday ou atelier ?](prepare-before-hackday.md), lisez [Comment prÃ©parer un environement sur votre machine ?](prepare-an-environment-machine.md).
 
-Si cela ne s'applique pas à vous, ou que vous l'avez déjà  fait, continuez avec les sections suivantes.
+Si cela ne s'applique pas Ã  vous, ou que vous l'avez dÃ©jÃ   fait, continuez avec les sections suivantes.
 
-##### Je suis étudiant / débutant, nouveau pour OpenJDK, veux apprendre, n'ai jamais été aux hackdays OpenJDK avant, par quoi dois-je commencer ?
-Regardez les étapes pour [niveau débutant](beginners-level.md).
-
-<br/>
-##### Je suis étudiant / professionel, un peu nouveau sur Adopt OpenJDK, j'ai déjà été aux hackdays OpenJDK, où est-ce que je continue ?
-
-Regardez les étapes pour [niveau intermédiaire](intermediate-level.md).
+##### Je suis Ã©tudiant / dÃ©butant, nouveau pour OpenJDK, veux apprendre, n'ai jamais Ã©tÃ© aux hackdays OpenJDK avant, par quoi dois-je commencer ?
+Regardez les Ã©tapes pour [niveau dÃ©butant](beginners-level.md).
 
 <br/>
-##### J'ai beaucoup d'expérience / suis un régulier au hackdays OpenJDK, connais beaucoup les techs/Java/JVM/OpenJDK, qu'avez vous pour moi ?
+##### Je suis Ã©tudiant / professionel, un peu nouveau sur Adopt OpenJDK, j'ai dÃ©jÃ  Ã©tÃ© aux hackdays OpenJDK, oÃ¹ est-ce que je continue ?
 
-Regardez les étapes pour [niveau avancé](advanced-level.md).
+Regardez les Ã©tapes pour [niveau intermÃ©diaire](intermediate-level.md).
 
 <br/>
-##### J'ai du temps et de la bande passante chez moi, comment puis-je en tirer pleinement parti ? Ou que puis-je faire après avoir participer à un hackday ou atelier.
+##### J'ai beaucoup d'expÃ©rience / suis un rÃ©gulier au hackdays OpenJDK, connais beaucoup les techs/Java/JVM/OpenJDK, qu'avez vous pour moi ?
+
+Regardez les Ã©tapes pour [niveau avancÃ©](advanced-level.md).
+
+<br/>
+##### J'ai du temps et de la bande passante chez moi, comment puis-je en tirer pleinement parti ? Ou que puis-je faire aprÃ¨s avoir participer Ã  un hackday ou atelier.
 
 Regardez ce que vous pouver faire [pour utiliser ce temps au mieux pour apprendre](free-time-ample-bandwidth.md).
 
 <br/>
-##### Je connais certaines choses que je souhaite partager en contribuant à ce livre ?
+##### Je connais certaines choses que je souhaite partager en contribuant Ã  ce livre ?
 
-Regardez [Comment contribuer à ce livre](../contribute.md).
+Regardez [Comment contribuer Ã  ce livre](../contribute.md).
 
 <br/>

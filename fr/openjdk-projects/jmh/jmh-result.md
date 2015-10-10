@@ -1,6 +1,6 @@
-##Résultat de JMH
+##RÃ©sultat de JMH
 
-Exécutez le benchmark
+ExÃ©cutez le benchmark
 
 `
 java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar -wi 5 -w 50ms -r 50ms -i 20 -f 1 " .*CollectionComparison.*"
@@ -47,7 +47,7 @@ java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar
   Iteration  20: 0.334 us/op
 
 
-  Result: 0.495 ¦(99.9%) 0.140 us/op [Average]
+  Result: 0.495 Â¦(99.9%) 0.140 us/op [Average]
     Statistics: (min, avg, max) = (0.272, 0.495, 0.815), stdev = 0.162
     Confidence interval (99.9%): [0.355, 0.636]
 
@@ -90,7 +90,7 @@ java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar
   Iteration  20: 0.587 us/op
 
 
-  Result: 0.827 ¦(99.9%) 0.252 us/op [Average]
+  Result: 0.827 Â¦(99.9%) 0.252 us/op [Average]
     Statistics: (min, avg, max) = (0.486, 0.827, 1.477), stdev = 0.291
     Confidence interval (99.9%): [0.574, 1.079]
 
@@ -106,7 +106,7 @@ java -XX:-TieredCompilation -Dbenc hmark.n=10000 -jar target/microbenchmarks.jar
          <td>Echantillon</td>
          <td>Score</td>
          <td>Score erreur</td>
-         <td>Unités</td>
+         <td>UnitÃ©s</td>
     </tr>
     </thead>
     <tr>

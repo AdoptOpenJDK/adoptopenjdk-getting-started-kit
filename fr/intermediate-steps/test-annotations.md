@@ -1,8 +1,8 @@
-# Exemples d'annotations dans l'entête des fichiers de test
+# Exemples d'annotations dans l'entÃªte des fichiers de test
 
-Lancez les commandes suivantes dans chacune des repos pour filtrer les différents exemples, regardez-en autant que possible, étudiez et examinez la syntaxe, observez comment les différentes fonctionalités sont implémentées.
+Lancez les commandes suivantes dans chacune des repos pour filtrer les diffÃ©rents exemples, regardez-en autant que possible, Ã©tudiez et examinez la syntaxe, observez comment les diffÃ©rentes fonctionalitÃ©s sont implÃ©mentÃ©es.
 
-Modifiez les et écrivez en de nouvelles pour voir comment elles peuvent être utilisées, relancez les tests pour voir si elles sont correctes :
+Modifiez les et Ã©crivez en de nouvelles pour voir comment elles peuvent Ãªtre utilisÃ©es, relancez les tests pour voir si elles sont correctes :
 
 ```
 $ cd $SOURCE_CODE

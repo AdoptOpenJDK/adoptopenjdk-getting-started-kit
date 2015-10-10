@@ -1,7 +1,7 @@
-'R' est utilisé pour parser les données du benchmark JMH et construire ces graphs.
+'R' est utilisÃ© pour parser les donnÃ©es du benchmark JMH et construire ces graphs.
 
 
-###Types des barres d'erreurs utilisées pour construire le graphique
+###Types des barres d'erreurs utilisÃ©es pour construire le graphique
 
 <table>
     <thead>
@@ -13,19 +13,19 @@
     </thead>
     <tr>
         <td>Erreur standard (SEM)</td>
-        <td>Inférence</td>
-        <td>Une mesure de comment sera la variabilité de la moyenne, si vous répétez l'étude complète plusieurs fois.</td>
+        <td>InfÃ©rence</td>
+        <td>Une mesure de comment sera la variabilitÃ© de la moyenne, si vous rÃ©pÃ©tez l'Ã©tude complÃ¨te plusieurs fois.</td>
     </tr>
     <tr>
         <td>Interval de confiance (CI)</td>
-        <td>Inférence</td>
-        <td>Une plage de valeurs dont vous pouvez à 99% être confiant qu'elle contient la véritable moyenne.</td>
+        <td>InfÃ©rence</td>
+        <td>Une plage de valeurs dont vous pouvez Ã  99% Ãªtre confiant qu'elle contient la vÃ©ritable moyenne.</td>
     </tr>
 </table>
 
 ###Collections Java
 
-Résumé R
+RÃ©sumÃ© R
 
 <table>
     <thead>
@@ -55,7 +55,7 @@ Résumé R
 
 ###Collections GS
 
-Résumé R
+RÃ©sumÃ© R
 
 <table>
     <thead>

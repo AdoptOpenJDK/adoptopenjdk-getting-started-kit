@@ -1,5 +1,5 @@
 # JTReg de la ferme de build d'AdoptOpenJDK
 
-Téléchargez les dernier artéfact de JTReg depuis [le serveur Jenkins d'Adopt OpenJDK chez Cloudbees](https://adopt-openjdk.ci.cloudbees.com/job/jtreg/lastSuccessfulBuild/artifact/).
+TÃ©lÃ©chargez les dernier artÃ©fact de JTReg depuis [le serveur Jenkins d'Adopt OpenJDK chez Cloudbees](https://adopt-openjdk.ci.cloudbees.com/job/jtreg/lastSuccessfulBuild/artifact/).
 
-(Précédente source - discontinuée, le lien ne fonctionne plus) binaires hébergés par l'équipe OpenJDK chez Oracle depuis le [ site](http://download.java.net/openjdk/jtreg/).
+(PrÃ©cÃ©dente source - discontinuÃ©e, le lien ne fonctionne plus) binaires hÃ©bergÃ©s par l'Ã©quipe OpenJDK chez Oracle depuis le [ site](http://download.java.net/openjdk/jtreg/).

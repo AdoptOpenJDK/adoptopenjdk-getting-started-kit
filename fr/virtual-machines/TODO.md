@@ -1,5 +1,5 @@
 ## TODO
-(intentionnellement laissé en anglais)
+(intentionnellement laissÃ© en anglais)
 
 1. In the sharing_host_folder.md, get command-line version of network config working, should be more consistent.
 

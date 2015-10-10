@@ -1,41 +1,41 @@
-# Actions pré-hackday aditionnelles pour participants expérimentés
+# Actions prÃ©-hackday aditionnelles pour participants expÃ©rimentÃ©s
 
 ##### Construisez votre propre VM
 
-NB. : vous aurez besoin d'une bonne bande passante pour télécharger ces fichiers ainsi que suffisament de temps pour que la construction se termine. **Ceci n'est pas prévu pour être fait via une connexion en wifi.**
+NB. : vous aurez besoin d'une bonne bande passante pour tÃ©lÃ©charger ces fichiers ainsi que suffisament de temps pour que la construction se termine. **Ceci n'est pas prÃ©vu pour Ãªtre fait via une connexion en wifi.**
 
 <br/>
 [Construire votre propre VM](../virtual-machines/build_your_own_vm.md) <br/>
-[Construire votre propre VM légère](../virtual-machines/build_your_own_lightweight_vm.md)
+[Construire votre propre VM lÃ©gÃ¨re](../virtual-machines/build_your_own_lightweight_vm.md)
 
 <br/>
-##### Vérifiez les VMs
+##### VÃ©rifiez les VMs
 - Chargez la VM dans VirtualBox
 - Lancez la VM
 - Lancez un programme quelconque dans cette VM
-- Arrêtez la VM
+- ArrÃªtez la VM
 
-##### Téléchargez / copier les images de VMs
-Les images peuvent être copier d'un disque à un autre ou téléchargées depuis une repo centrale.
+##### TÃ©lÃ©chargez / copier les images de VMs
+Les images peuvent Ãªtre copier d'un disque Ã  un autre ou tÃ©lÃ©chargÃ©es depuis une repo centrale.
 
 ou
 
 ##### Construisez les conteneurs
 Visitez la section construction de []()
 
-##### Vérifiez les conteneurs
-Visitez la section vérification de []()
+##### VÃ©rifiez les conteneurs
+Visitez la section vÃ©rification de []()
 
-##### Vérifiez votre installation et environement
-Lancez la VM o le conteneur, naviguez vers les réperoires jdk8 ou jdk9, et lancer les commandes :
+##### VÃ©rifiez votre installation et environement
+Lancez la VM o le conteneur, naviguez vers les rÃ©peroires jdk8 ou jdk9, et lancer les commandes :
 
 ```
 bash configure
 make clean images
 ```
 
-Si une des ces commandes échoue alors c'est que l'environement d'OpenJDK n'est pas correctement configuré (ou que la build est cassée dans le master).
+Si une des ces commandes Ã©choue alors c'est que l'environement d'OpenJDK n'est pas correctement configurÃ© (ou que la build est cassÃ©e dans le master).
 
 <br/>
 ##### Enfin
-Une fois terminer allez à la section [Comment naviguer et progresser ?](how-to-navigate-and-make-progress.md), et passez à l'étape suivante.
+Une fois terminer allez Ã  la section [Comment naviguer et progresser ?](how-to-navigate-and-make-progress.md), et passez Ã  l'Ã©tape suivante.

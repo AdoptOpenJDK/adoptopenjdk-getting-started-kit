@@ -1,6 +1,6 @@
 # Copier des images
 
-Les images peuvent être copié depuis un disque ou un disque externe et importé dans une repo Docker locale.
+Les images peuvent Ãªtre copiÃ© depuis un disque ou un disque externe et importÃ© dans une repo Docker locale.
 
 **Sauvegarder une image**
 ```
@@ -25,7 +25,7 @@ ou
 docker save neomatrix369/openjdk9-base-image:latest | gzip > openjdk9-base-image.tar.gz
 ```
 
-et ```openjdk9-base-image.tar``` ou ```openjdk9-base-image.tar.gz``` sont créés dans le répertoire où la commande est lancée.
+et ```openjdk9-base-image.tar``` ou ```openjdk9-base-image.tar.gz``` sont crÃ©Ã©s dans le rÃ©pertoire oÃ¹ la commande est lancÃ©e.
 
 **Charger une image**
 ```

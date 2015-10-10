@@ -1,10 +1,10 @@
-# VÈrifier des images
+# V√©rifier des images
 
-*NB.* Cette Ètape est applicable si vous avez dÈj‡ des images OpenJDK de construite ou de chargÈe dans votre repo Docker locale aprËs les actions prÈcÈdentes.
+*NB.* Cette √©tape est applicable si vous avez d√©j√† des images OpenJDK de construite ou de charg√©e dans votre repo Docker locale apr√®s les actions pr√©c√©dentes.
 
-Chargez docker dans votre environement en utilisant la commande habituelle ```boot2docker up``` pour les utilisateurs *MacOS* et *Windows*. Pour les utilisateurs Linux c'est chargÈ lors du boot.
+Chargez docker dans votre environement en utilisant la commande habituelle ```boot2docker up``` pour les utilisateurs *MacOS* et *Windows*. Pour les utilisateurs Linux c'est charg√© lors du boot.
 
-Executez les commandes ci-aprËs :
+Executez les commandes ci-apr√®s :
 
 ```
 $ docker images
@@ -24,12 +24,12 @@ Maintenant lancez ces commandes :
 ```
 $ sudo docker run -it --name openjdk9 neomatrix369/openjdk9  /bin/bash
 ```
-ceci vous ammËne dans le shell bash tournant dans le conteneur
+ceci vous amm√®ne dans le shell bash tournant dans le conteneur
 
 ```
 $ sudo docker run -it --name openjdk9 neomatrix369/openjdk9 java -version
 ```
-ceci lancera la commmande ```java``` et donnera la sortie suivante (uniquement si ```java``` est trouvÈ via les variables d'environement ```PATH``` ou ```JAVA_HOME```) :
+ceci lancera la commmande ```java``` et donnera la sortie suivante (uniquement si ```java``` est trouv√© via les variables d'environement ```PATH``` ou ```JAVA_HOME```) :
 
 ```
 openjdk version "1.9.0-internal"

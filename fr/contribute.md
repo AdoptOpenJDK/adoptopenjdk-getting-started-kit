@@ -1,8 +1,8 @@
-# Comment contribuer à ce livre ?
+# Comment contribuer Ã  ce livre ?
 
 ## Contribuer via GitBook
 
-Créez un compte sur [Gitbook.com](http://www.gitbook.com/login) et [demandez à devenir un collaborateur](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) du [Adopt OpenJDK GitBook](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
+CrÃ©ez un compte sur [Gitbook.com](http://www.gitbook.com/login) et [demandez Ã  devenir un collaborateur](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) du [Adopt OpenJDK GitBook](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/)
 
 Un peu de [documentation](http://help.gitbook.com/) et [comment installer GitBook](https://github.com/GitbookIO/gitbook) localement devrait aider.
 
@@ -17,25 +17,25 @@ Allez sur ce site pour forker : **https://github.com/neomatrix369/adoptopenjdk-g
 3. Ajoutez Upstream <br/>
 ```git remote add --track master upstream git://github.com/neomatrix369/adoptopenjdk-getting-started-kit.git```
 
-Maintenant vous pouvez mettre à jour votre fork à partir de la repo d'origine :
+Maintenant vous pouvez mettre Ã  jour votre fork Ã  partir de la repo d'origine :
 ```git fetch upstream``` 
 et 
 ```git merge upstream/master```
 
-4. Commitez les fichiers modifiés <br/>
-```git add <fichiers modifiés / noms avec jokers>```<br/>
+4. Commitez les fichiers modifiÃ©s <br/>
+```git add <fichiers modifiÃ©s / noms avec jokers>```<br/>
 ```git commit -am "ajoutez une description significatives de vos changements"```
 
 5. Poussez les fichiers
 ```git push```
 
-6. Créez une pull request
-Allez sur le site de votre repo sur  GitHub: https://github.com/{VOTRE_COMPTE_GITHUB}/adoptopenjdk-getting-started-kit/pulls et cliquez sur le bouton New Pull Request button (nouvelle pull request) pour en créer une.
+6. CrÃ©ez une pull request
+Allez sur le site de votre repo sur  GitHub: https://github.com/{VOTRE_COMPTE_GITHUB}/adoptopenjdk-getting-started-kit/pulls et cliquez sur le bouton New Pull Request button (nouvelle pull request) pour en crÃ©er une.
 
 
-## Comment identifier des changements à ce livre ?
+## Comment identifier des changements Ã  ce livre ?
 
-Nous avons deux [scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) dans le répertoire racine de la repo, qui créent une page markdown <b>Quels changements</b>, [tel celle-ci](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html).
+Nous avons deux [scripts](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit) dans le rÃ©pertoire racine de la repo, qui crÃ©ent une page markdown <b>Quels changements</b>, [tel celle-ci](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html).
 
-Les scripts générateurs de markdown de [Quels changements](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) s'appellent [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) et [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
+Les scripts gÃ©nÃ©rateurs de markdown de [Quels changements](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) s'appellent [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) et [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
 

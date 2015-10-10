@@ -6,7 +6,7 @@
 -JAVAC_WARNINGS := -Xlint:-unchecked,-deprecation,auxiliaryclass,cast,classfile,dep-ann,divzero,empty,fallthrough,finally,overloads,overrides,serial,static,try,varargs -Werror
 +JAVAC_WARNINGS := -Xlint:all,-deprecation,-rawtypes,-unchecked -Werror
  
- # Tout code java exécuté durant une construction du JDK pour construire d'autre parties doit l'être
+ # Tout code java exÃ©cutÃ© durant une construction du JDK pour construire d'autre parties doit l'Ãªtre
  # par le JDK de bootstrap (probablement via -Xbootclasspath/p: ) et pour ceci
 ```
 **warnings C++**
@@ -15,7 +15,7 @@
 **warnings Java et C++**
 ```$ make clean JAVAC_WARNINGS="-Xlint:all -Xmaxwarns 10000" DISABLE_WARNINGS="-Xlint:all" LOG=info images```
 
-Puis regardez build.log dans build/linux-x86_64-normal-server-release/ qui contient les warnings. Ouvrez le dans un editeur supportant la recherche par expressions régulières. Vous trouverez les warnings par repo en cherchant avec des regexp comme celles-ci (en supposant que vos sources OpenJDK soient dans le répertoire jdk9) :
+Puis regardez build.log dans build/linux-x86_64-normal-server-release/ qui contient les warnings. Ouvrez le dans un editeur supportant la recherche par expressions rÃ©guliÃ¨res. Vous trouverez les warnings par repo en cherchant avec des regexp comme celles-ci (en supposant que vos sources OpenJDK soient dans le rÃ©pertoire jdk9) :
 
 ```
 jdk9/corba(.)* warning
@@ -23,12 +23,12 @@ jdk9/jaxp(.)* warning
 jdk9/jaxws(.)* warning
 jdk9/nashorn(.)* warning
 ```
-Référez vous à https://bugs.openjdk.java.net/browse/JDK-8048839 
+RÃ©fÃ©rez vous Ã  https://bugs.openjdk.java.net/browse/JDK-8048839 
 
 **JavaLintSummary (Javac build warnings)**<br/>
-Jettez un oeil à http://openjdk.java.net/projects/code-tools/friday-stats/javacLintSummary.html et https://blogs.oracle.com/darcy/entry/warnings_removal_advice
+Jettez un oeil Ã  http://openjdk.java.net/projects/code-tools/friday-stats/javacLintSummary.html et https://blogs.oracle.com/darcy/entry/warnings_removal_advice
 
-Le code se trouvant à http://hg.openjdk.java.net/code-tools/friday-stats/
+Le code se trouvant Ã  http://hg.openjdk.java.net/code-tools/friday-stats/
 
 ```
 $ sudo apt-get install ant

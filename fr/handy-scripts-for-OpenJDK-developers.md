@@ -1,9 +1,9 @@
 # Scripts utiles
 
-**Scripts utiles pour mettre à jour, construire et tester**
+**Scripts utiles pour mettre Ã  jour, construire et tester**
 
 Scripts Bash pour faciliter la vie
-```updateAndCleanBuildOpenJDK.sh``` - à utiliser la première fois ou pour faire une build propre
+```updateAndCleanBuildOpenJDK.sh``` - Ã  utiliser la premiÃ¨re fois ou pour faire une build propre
 
 ```bash
 ./get_source.sh
@@ -11,7 +11,7 @@ bash configure
 make clean images
 ```
 
-```updateCleanBuildAndTestOpenJDK.sh``` - à utiliser de temps en temps ou pour faire une build propre et tester
+```updateCleanBuildAndTestOpenJDK.sh``` - Ã  utiliser de temps en temps ou pour faire une build propre et tester
 
 ```bash
 ./get_source.sh
@@ -20,7 +20,7 @@ make clean images
 make test```
 
 
-```updateAndBuildOpenJDK.sh``` - utilisation régulière (build incrementièle)
+```updateAndBuildOpenJDK.sh``` - utilisation rÃ©guliÃ¨re (build incrementiÃ¨le)
 
 ```bash
 ./get_source.sh
@@ -28,7 +28,7 @@ bash configure
 make images```
 
 
-```updateBuildAndTestOpenJDK.sh``` - utilisation fréquente
+```updateBuildAndTestOpenJDK.sh``` - utilisation frÃ©quente
 
 ```bash
 ./get_source.sh
@@ -37,9 +37,9 @@ make images
 make test```
 
 <br/>
-__Exemple simple de changement du code d'OpenJDK et d'écriture d'un programme client pour ce changement__
+__Exemple simple de changement du code d'OpenJDK et d'Ã©criture d'un programme client pour ce changement__
 
-```buildAndRunTheChangedRandom.sh``` - à utiliser après avoir changé le fichier ChangeRandom.java
+```buildAndRunTheChangedRandom.sh``` - Ã  utiliser aprÃ¨s avoir changÃ© le fichier ChangeRandom.java
 
 ```bash
 ##### OpenJDK8

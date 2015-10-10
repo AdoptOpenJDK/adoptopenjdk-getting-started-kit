@@ -7,6 +7,6 @@ Les liens ci-dessous couvrent la construction d'OpenJDK nativement ou dans le cl
 
 Visitez la page [Adopt OpenJDK - Build OpenJDK](https://java.net/projects/adoptopenjdk/pages/WhatToWorkOnForOpenJDK#Build_OpenJDK) pour apprendre comment **construire sur d'autres platformes**. 
 
-Vous pouvez également suivre ces instructions pour [construire dans le **Cloud**](http://alimacsmusings.blogspot.com/2015/08/building-openjdk9-on-cloud-part-1.html) tant que vous provisionez un environment approprié.
+Vous pouvez Ã©galement suivre ces instructions pour [construire dans le **Cloud**](http://alimacsmusings.blogspot.com/2015/08/building-openjdk9-on-cloud-part-1.html) tant que vous provisionez un environment appropriÃ©.
 
-Voyez également la [table des OSes & IDEs supportés](../adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md) et [machines virtuelles](../virtual-machines/virtual_machines.md).
+Voyez Ã©galement la [table des OSes & IDEs supportÃ©s](../adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md) et [machines virtuelles](../virtual-machines/virtual_machines.md).

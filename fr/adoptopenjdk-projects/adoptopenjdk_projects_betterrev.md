@@ -2,6 +2,6 @@
 
 Lisez la section [Betterrev](https://java.net/projects/adoptopenjdk/pages/WhatToWorkOnForOpenJDK#Betterrev) sur le [wiki](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK) d'Adopt OpenJDK.
 
-Forker son code depuis son dépôt [Bitbucket](https://bitbucket.org/adoptopenjdk/betterrev), où ses [commits](https://bitbucket.org/adoptopenjdk/betterrev/commits/all) et [pull requests](https://bitbucket.org/adoptopenjdk/betterrev/pull-requests) peuvent être vu pour suivre son évolution.
+Forker son code depuis son dÃ©pÃ´t [Bitbucket](https://bitbucket.org/adoptopenjdk/betterrev), oÃ¹ ses [commits](https://bitbucket.org/adoptopenjdk/betterrev/commits/all) et [pull requests](https://bitbucket.org/adoptopenjdk/betterrev/pull-requests) peuvent Ãªtre vu pour suivre son Ã©volution.
 
-*Rejoignez la mailing list à http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss ou envoyez un mail à adoption-discuss@openjdk.java.net.*
+*Rejoignez la mailing list Ã  http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss ou envoyez un mail Ã  adoption-discuss@openjdk.java.net.*

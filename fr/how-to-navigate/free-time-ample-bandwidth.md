@@ -6,5 +6,5 @@ Suivez ces sections tranquillement :
 * [Machines virtuelles](../virtual-machines/virtual_machines.md)
 * [Binaires](../binaries/binaries.md)
 
-Quand vous être prêt, regarder la [table des matières](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/) et ensuite faites ce que vous n'avez pas encore essayé.
+Quand vous Ãªtre prÃªt, regarder la [table des matiÃ¨res](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/) et ensuite faites ce que vous n'avez pas encore essayÃ©.
  

@@ -1,4 +1,4 @@
-# Exemple de changesets de contributions à OpenJDK
+# Exemple de changesets de contributions Ã  OpenJDK
 
 * http://hg.openjdk.java.net/jdk8/jdk8/jdk/rev/b2fc66012451
 * http://hg.openjdk.java.net/jdk8/jdk8/jdk/rev/7758bcf0ab6b

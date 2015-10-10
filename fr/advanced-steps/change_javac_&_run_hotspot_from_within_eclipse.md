@@ -1,4 +1,4 @@
 # Changement de java.c et lancement d'Hotspot depuis Eclipse
-[Optionel mais un challenge intéressant] 
+[Optionel mais un challenge intÃ©ressant] 
 
 Suivez ces [instructions](http://bit.ly/12LxuQy).

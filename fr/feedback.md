@@ -9,6 +9,6 @@ Vos retours nous importent beaucoup !
 * *sign-up:* http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
 
 <br/>
-*Mailing list abandonnée*
+*Mailing list abandonnÃ©e*
 * ~~adopt-openjdk@googlegroups.com~~
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~

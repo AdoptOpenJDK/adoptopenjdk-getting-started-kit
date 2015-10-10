@@ -7,9 +7,9 @@
 
 ---
 
-** Les instructions et astuces ci-dessous sont pour tous, particulièrement ceux qui participent aux hackdays / workshops / hands-on-sessions - sauf celle concernant le Custom JUG handout template, qui est pour les JUG leaders et organisateurs.**
+** Les instructions et astuces ci-dessous sont pour tous, particuliÃ¨rement ceux qui participent aux hackdays / workshops / hands-on-sessions - sauf celle concernant le Custom JUG handout template, qui est pour les JUG leaders et organisateurs.**
 
-Ce document a pour objectif de faciliter les débuts avec OpenJDK aux nouveaux developpeurs, il pointe vers la documentation de référence (http://adoptopenjdk.java.net et http://openjdk.java.net/) aussi souvent que possible et ne modifie pas ni ne remplace ces resources..
+Ce document a pour objectif de faciliter les dÃ©buts avec OpenJDK aux nouveaux developpeurs, il pointe vers la documentation de rÃ©fÃ©rence (http://adoptopenjdk.java.net et http://openjdk.java.net/) aussi souvent que possible et ne modifie pas ni ne remplace ces resources..
 
-####[Commençons...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/fr/index.html)
+####[CommenÃ§ons...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/fr/index.html)
 ---
