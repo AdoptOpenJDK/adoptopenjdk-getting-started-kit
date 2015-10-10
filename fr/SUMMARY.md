@@ -10,6 +10,7 @@
    * [Comment contibuer à ce livre](contribute.md)
    * [Comment vous préparer avant de participer à un hackday ou atelier ?](how-to-navigate/prepare-before-hackday.md)
    * [Actions pré-hackday aditionnelles pour participants expérimentés](how-to-navigate/additional-pre-hackday-actions-experienced.md)
+   * [Comment préparer un environement sur votre machine ?](how-to-navigate/prepare-an-environment-machine.md)
 * [Adopt OpenJDK - Commencement](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [Qu'est-ce qu'OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [A propos de l'OCA - signer l'OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
