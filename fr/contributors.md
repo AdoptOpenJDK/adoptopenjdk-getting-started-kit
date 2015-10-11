@@ -6,7 +6,7 @@ est le résultat de contributions de la communauté dans le monde entier.
 Ce document à particulièrement été étendu durant des hackdays à Londres (aux bureaux de @salesforce et avec le support
 du @ljcjuc, de @salesforce, d' @heroku, d' @hackthetower et de @jr0cket).
 
-Hack-a-thons, hackergarten et autres ateliers tenus durant diverse conférences en Europe ont également contribués à étendre ces documents.
+Hack-a-thons, hackergarten et autres ateliers tenus durant diversed conférences en Europe ont également contribués à étendre ces documents.
 
 Ci-dessous une liste des contributeurs individuels ou en groupes (sans ordre particulier) :
 - London Java Community (LJC) 

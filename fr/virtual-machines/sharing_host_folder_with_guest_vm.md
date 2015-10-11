@@ -68,10 +68,10 @@ Expemple pour Mac : Dans le Finder pressez CMD-K et connectez vous à **smb://20
 Voyez [cet article](http://www.howtogeek.com/howto/ubuntu/share-ubuntu-home-directories-using-samba/) ou [celui-ci]( http://superuser.com/questions/241825/share-virtualbox-folders-in-reverse-guest-host) pour plus de détails.
 
 
-### 4. Accédez au code depuis votre IDE favorit
+### 4. Accédez au code depuis votre IDE favori
 Ayant partagé les sources de Java depuis une VM Ubuntu vers votre hôte, vous pouvez maintenant les voir et modifier dans votre éditeur favorit, ou un IDE tel que :
  * [IntelliJ](../source-code/loading_openjdk_in_intellij.md)
  * [Eclipse](../source-code/loading_openjdk_in_eclipse.md)
- * [Netbeans](../source-code/loading_openjdk_in_netbeans.md)
+ * [NetBeans](../source-code/loading_openjdk_in_netbeans.md)
 
  

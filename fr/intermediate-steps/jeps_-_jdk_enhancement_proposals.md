@@ -1,6 +1,6 @@
 # JEPs - JDK Enhancement Proposals
 
-Un certain nombre de JEPs qui ont été publiés peuvent bénéficier des contributions de la communauté Java, jettez-y un oeil et voyez ceux qui vous intéresse.
+Un certain nombre de JEPs qui ont été publiés peuvent bénéficier des contributions de la communauté Java, jettez-y un oeil et voyez ceux qui vous intéressent.
 
 **Liste des JEPs publiés** <br/>
 http://openjdk.java.net/jeps/0

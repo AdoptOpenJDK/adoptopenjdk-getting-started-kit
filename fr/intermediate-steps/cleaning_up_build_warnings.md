@@ -1,7 +1,7 @@
 # Nettoyage des warnings de build  (-Xlint)
 
 ```
- # Pour construire avec tous les warnings d'activer, utilisez :
+ # Pour construire avec tous les warnings d'activés, utilisez :
  # make JAVAC_WARNINGS="-Xlint:all -Xmaxwarns 10000"
 -JAVAC_WARNINGS := -Xlint:-unchecked,-deprecation,auxiliaryclass,cast,classfile,dep-ann,divzero,empty,fallthrough,finally,overloads,overrides,serial,static,try,varargs -Werror
 +JAVAC_WARNINGS := -Xlint:all,-deprecation,-rawtypes,-unchecked -Werror

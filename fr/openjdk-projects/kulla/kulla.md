@@ -16,7 +16,7 @@ Kulla.jar: [Adopt OpenJDK Cloudbees Build farm](https://adopt-openjdk.ci.cloudbe
 **MacOS users**<br/>
 Si vous ne souhaitez pas définir JDK 9 comme votre JDK principal sur MacOS, voici quelque chose à [essayer](http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html). 
 
-Quel JDK j'utilise ?
+Quel JDK j'utiliser ?
 ```
 // Vous indique les JDKs que vous avez
 $ /usr/libexec/java_home -verbose
@@ -147,7 +147,7 @@ Téléchargez ```JLINE2``` depuis [Maven](http://mvnrepository.com/artifact/jlin
 
 Pour compiler et lancer Kulla, voyez http://hg.openjdk.java.net/kulla/dev/langtools/file/4933dc482be7/repl/README ou téléchargez ce [pom.xml Maven](kulla-pom-xml.md) puis placez le dans le repertoire ```$HOME/sources/kulla-dev/langtools/repl/```.
 
-Autre bon guides pour construire Kulla de zéro, regardez [ce post de JClarity](http://www.jclarity.com/2015/04/15/java-9-repl-getting-started-guide/) et [ce post d'Arun Gupta](http://blog.arungupta.me/jdk9-repl-getting-started/). Et ce joli et court [post](https://znurgl.wordpress.com/2015/05/17/jshell-upcoming-java-repl-packed-into-jdk9/) parGreg Bakos.
+Autre bon guides pour construire Kulla de zéro, regardez [ce post de JClarity](http://www.jclarity.com/2015/04/15/java-9-repl-getting-started-guide/) et [ce post d'Arun Gupta](http://blog.arungupta.me/jdk9-repl-getting-started/). Et ce joli et court [post](https://znurgl.wordpress.com/2015/05/17/jshell-upcoming-java-repl-packed-into-jdk9/) par Greg Bakos.
 
 **Astuces**  
 

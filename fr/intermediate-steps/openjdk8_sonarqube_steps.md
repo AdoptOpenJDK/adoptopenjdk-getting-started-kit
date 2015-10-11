@@ -190,7 +190,7 @@ $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
 $ sonar-runner
 ```
 
-N.B.: Si la commande échoue à cause d'un problème de mémoire, relancez la avec plus de mémoire.
+Note : Si la commande échoue à cause d'un problème de mémoire, relancez la avec plus de mémoire.
 
 ---
 
@@ -224,4 +224,4 @@ puis lancez :
 $ sonar-runner
 ```
 
-Bravo; maintenant lancez SonarQube dans le navigateur via http://localhost:9000 pour voir les résultats des précédentes actions.
+Bravo; maintenant lancez SonarQube dans le navigateur via http://localhost:9000 pour voir les résultats des actions précédentes.

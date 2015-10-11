@@ -13,10 +13,10 @@ Mais cela ne s'arrête pas là, vous pouvez selectionnez votre propre bibliothè
 * Copiez également la [mailing list Adoption Discuss](http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss)+ de ces mails. 
 * En cas de problème contractez les propriétaires du projet, [Adoption Discuss](http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss)+ ainsi que les mailing lists [OpenJDK](http://mail.openjdk.java.net/mailman/listinfo) appropriées.
 
-\+ Vous devez vous abonner aux mailing lists respective avant d'y envoyer des mails.
+\+ Vous devez vous abonner aux mailing lists respectives avant d'y envoyer des mails.
 
-Note : ce ne sont qu'une petite partie des bibliothèque et frameworks que nous avons inscrit - il y a beaucoup d'autre projets dans la nature en attente d'être tester.
+Note : ce ne sont qu'une petite partie des bibliothèque et frameworks que nous avons inscrit - il y a beaucoup d'autre projets dans la nature en attente d'être testés.
 
 Voici un exemple de note de [JBoss Forge construite en utilisant l'image OpenJDK créée depuis OpenJDK9](https://gist.github.com/neomatrix369/9fa4147ee8999cfd3a4e), ensuite vous pouvez définir un job local ou distant de Jenkins pour construire et lancer ces projets en utilisant cette image.
 
-Une autre contribution de Joe Kutner (@codefinger), JVM Platform Owner chez Heroku, lisez [Testing JDK 9 EA with Heroku](http://jkutner.github.io/2015/07/16/test-jdk9-heroku.html) - peut être utiliser pour déployer vos applications sur Heroku pour agréger des logs du GC G1.
+Pour une autre contribution de Joe Kutner (@codefinger), JVM Platform Owner chez Heroku, lisez [Testing JDK 9 EA with Heroku](http://jkutner.github.io/2015/07/16/test-jdk9-heroku.html) - peut être utilisé pour déployer vos applications sur Heroku pour agréger des logs du GC G1.

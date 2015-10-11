@@ -2,7 +2,7 @@
 
 ##### Construisez votre propre VM
 
-NB. : vous aurez besoin d'une bonne bande passante pour télécharger ces fichiers ainsi que suffisament de temps pour que la construction se termine. **Ceci n'est pas prévu pour être fait via une connexion en wifi.**
+Note : vous aurez besoin d'une bonne bande passante pour télécharger ces fichiers ainsi que suffisament de temps pour que la construction se termine. **Ceci n'est pas prévu pour être fait via une connexion en wifi.**
 
 <br/>
 [Construire votre propre VM](../virtual-machines/build_your_own_vm.md) <br/>
@@ -21,10 +21,10 @@ Les images peuvent être copier d'un disque à un autre ou téléchargées depui
 ou
 
 ##### Construisez les conteneurs
-Visitez la section construction de []()
+Visitez la section  [Construire des images](../docker-images/build-images.md) sous Images Docker.
 
 ##### Vérifiez les conteneurs
-Visitez la section vérification de []()
+Visitez la section  [Vérifier des images](../docker-images/check-images.md) sous Images Docker.
 
 ##### Vérifiez votre installation et environement
 Lancez la VM o le conteneur, naviguez vers les réperoires jdk8 ou jdk9, et lancer les commandes :

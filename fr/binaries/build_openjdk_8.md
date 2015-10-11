@@ -15,7 +15,7 @@ ou
 
 ```$ cd $HOME/dev/jdk8```
 
-alors faite ce qui suis dans ce dossier :
+alors faite ce qui suit dans ce dossier :
 
 ```
 $ cd $HOME/sources
@@ -52,7 +52,7 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 .
 .
 ```
-Visitez [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource):
+Visitez la page [get_source](https://java.net/projects/adoptopenjdk/pages/GetSource):
 
 * [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu)
 
@@ -60,6 +60,7 @@ Visitez [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource
 Note : si vous utilisez Mac OS X 10.8.5 avec XCode 5 vous devrez suivre les indications [suivantes](http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html). 
 
 * [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows)<br/>
+
 Au cas où les utilisateurs de Windows ou MacOS X ont des problèmes avec l'installation ou le téléchargement des sources, c'est une bonne idée que de créer une VM avec VirtualBox d'Oracle en suivant [ces instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM). Construisez et continuez avec le reste des instructions jusqu'à la page "Get Sources" (puis suivez les étapes ci-dessus à partir de "Téléchargez les sources en lançant get_source.sh").
 
 Configurez la constuction d'Openjdk (optionel si vous l'avez déjà fait)

@@ -25,7 +25,7 @@ Release:	14.04
 Résolution:
 bash configure --with-freetype-lib=/usr/lib --with-freetype-include=/usr/include/freetype2
 
-N.B. l'emplacement de freetypefont peut varié, vérifiez en utilisant find ou locate.
+Note : l'emplacement de freetypefont peut varié, vérifiez en utilisant find ou locate.
 ```
 
 Vous devrez peut-être également ajouter :
@@ -36,6 +36,7 @@ Vous devrez peut-être également ajouter :
 **J'ai l'erreur ci-dessous sur Ubuntu VM quand je lance ./get_sources.sh ?**
 
 “Need initial clone with ‘hg paths default’ defined”
+
 Tout d'abord, supprimez les répertoires ```jdk8``` ou ```jdk8_tl```, puis lancez les commandes suivantes :
 
 ```

@@ -1,6 +1,6 @@
 # Qu'est-ce qu'OpenJDK ?
 
-Vous saurez tous à son propos en visitant :  
+Vous saurez tout à son propos en visitant :  
 * [Qu'est-ce qu'OpenJDK](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#Getting_Started) - signé avec des sites intéressants
 * [Présentation 1](http://bit.ly/1lZtesx)
 * [Présentation 2](http://www.slideshare.net/neomatrix369/how-is-java-jvm-built-adopt-openjdk-is-your-answer)

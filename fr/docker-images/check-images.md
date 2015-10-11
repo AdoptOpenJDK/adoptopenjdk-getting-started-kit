@@ -1,8 +1,8 @@
 # Vérifier des images
 
-*NB.* Cette étape est applicable si vous avez déjà des images OpenJDK de construite ou de chargée dans votre repo Docker locale après les actions précédentes.
+*NB.* Cette étape est applicable si vous avez déjà des images OpenJDK de construites ou de chargées dans votre repo Docker locale après les actions précédentes.
 
-Chargez docker dans votre environement en utilisant la commande habituelle ```boot2docker up``` pour les utilisateurs *MacOS* et *Windows*. Pour les utilisateurs Linux c'est chargé lors du boot.
+Chargez Docker dans votre environement en utilisant la commande habituelle ```boot2docker up``` pour les utilisateurs *MacOS* et *Windows*. Pour les utilisateurs Linux c'est chargé lors du boot.
 
 Executez les commandes ci-après :
 

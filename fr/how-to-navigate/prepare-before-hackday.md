@@ -1,6 +1,6 @@
 ##Comment vous préparer avant de participer à un hackday ou atelier ?
 
-**Note :** referez vous à la section [Problèmes connus](../known-issues/known_issues.md) si vous rencontrez des difficultés, si vous n'y trouvez pas de la solution, soit [Contributez à ce livre](../contributors.md) ou [Reportez nous le problème](../feedback.md).
+**Note :** référez vous à la section [Problèmes connus](../known-issues/known_issues.md) si vous rencontrez des difficultés, si vous n'y trouvez pas de solution, soit [Contributez à ce livre](../contributors.md) ou [Rapportez nous le problème](../feedback.md).
 
 ##### Prérequis matériel / OS / logiciels
 Prérequis pour construire ou utiliser des VMs :
@@ -11,13 +11,14 @@ Prérequis pour construire ou utiliser des VMs :
     4-8 Go de RAM minimum
 
 Prérequis platforme / logiciels
+
     VirtualBox installé
     Java 7 et 8 installé
     Vagrant installé
     Docker installé (optionel)
     Boot2Docker installé (optionel)
     
-**suivant que vous construisiez OpenJDK nativement ou dans une VM ou dans un Vagrant ou conteneur Docker, vous aurez besoin de le telecharger soit dans une VM soit sur votre machine**
+*suivant que vous construisiez OpenJDK nativement ou dans une VM ou dans un Vagrant ou conteneur Docker, vous aurez besoin de le telecharger soit dans une VM soit sur votre machine*
     
 Autres prérequis :
 
@@ -28,7 +29,7 @@ Autres prérequis :
     un peu d'experience avec Vagrant (optionnel, uniquement si vous utilisez cette technologie)
     un peu d'experience avec Docker (optionnel, uniquement si vous utilisez cette technologie)
 <br/>
-##### Téléchargez logiciels utiles
+##### Téléchargez les logiciels
 - VirtualBox (pour charger la VM) : https://www.virtualbox.org/
 - Java (dans la VM) : http://www.oracle.com/technetwork/java/javase/downloads/index.html
 - Vagrant (pour démarrer les boxes vagrant) https://www.vagrantup.com/
@@ -67,6 +68,7 @@ Comme les VMs, Vagrants, et image Docker que vous copiez ou téléchargez vienne
 bash get_source.sh
 ```
 Par conséquent NE lancez PAS cettte commande dans une VM, un vagrant ou conteneur Docker, car cela peut prendre du temps pour l'image se construise ou dans certain cas mener à une build cassée qui pourrait nécessité une investigation et correction
+
 Au lieu de cela, lancez seulement les deux commandes suivantes :
 
 ```

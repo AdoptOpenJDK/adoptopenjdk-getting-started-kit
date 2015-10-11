@@ -1,4 +1,4 @@
-# VM prêtes à l'emploi ---- @@@@@@@@@@@@@@
+# VM prêtes à l'emploi
 
 **Soyez conscient que ces fichiers font plusieurs Go, donc téléchargez les uniquement sur des connexions à haut débit et non lors d'un lab.**
 
@@ -18,7 +18,7 @@ Prérequis pour utiliser la VM
 - compréhension de Java
 - un peu de connaissance d'OpenJDK
 
-*Tous ces télécharements sont également disponibles sur des disques externes lors du hackday.*
+*Tous ces téléchargements sont également disponibles sur des disques externes lors du hackday.*
 
 ---
 

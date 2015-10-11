@@ -19,7 +19,7 @@ ou
 $ cd $HOME/dev
 ```
 
-Si ```jdk9``` ou ```jdk9_dev``` n'exite pas dans ce repertoire, alors faites ce qui suit :
+Si ```jdk9``` ou ```jdk9_dev``` n'existe pas dans ce repertoire, alors faites ce qui suit :
 
 
 ```

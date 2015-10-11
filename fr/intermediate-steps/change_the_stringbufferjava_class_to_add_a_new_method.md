@@ -1,4 +1,4 @@
-# Changer la classe StringBuffer.java class en y ajoutant une méthode
+# Changer la classe StringBuffer.java en y ajoutant une méthode
 
 Vous aurez besoin de ces [Scripts utiles](../handy-scripts-for-OpenJDK-developers.md) avant de faire quoi que ce soit ci-dessous.
 

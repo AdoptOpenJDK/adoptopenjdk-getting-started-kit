@@ -1,12 +1,12 @@
 ## Comment préparer un environement sur votre machine ?
 
-**Note :** referez vous à la section [Problèmes connus](../known-issues/known_issues.md) si vous rencontrez des difficultés, si vous n'y trouvez pas de la solution, soit [Contributez à ce livre](../contributors.md) ou [Reportez nous le problème](../feedback.md).
+**Note :** referez vous à la section [Problèmes connus](../known-issues/known_issues.md) si vous rencontrez des difficultés, si vous n'y trouvez pas de la solution, soit [Contributez à ce livre](../contributors.md) ou [Rapportez nous le problème](../feedback.md).
 
 ### Pour construire OpenJDK nativement ou dans le Cloud
 
 **Note:** Sauf à avoir une large bande passante, ne tentez pas de construire OpenJDK nativement.
 
-Vous n'avez pas besoin de tout copier, il suffit de vous inscrire au près d'un fournisseur de Cloud, par exemple Amazon ou autre.
+Vous n'avez pas besoin de copier quoi que ce soit, il suffit de vous inscrire au près d'un fournisseur de Cloud, par exemple Amazon ou autre.
 
 Provisionnez une machine faisant tourner l'OS de votre choix, puis suivez les instructions mentionnées dans [Adopt OpenJDK Build Instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions) (nous recommandons une distribution Linux, tel qu'Ubuntu, Fedora ou Centos).
 

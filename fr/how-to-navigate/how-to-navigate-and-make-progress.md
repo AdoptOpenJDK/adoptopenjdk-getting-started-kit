@@ -28,7 +28,7 @@ Regardez les étapes pour [niveau débutant](beginners-level.md).
 Regardez les étapes pour [niveau intermédiaire](intermediate-level.md).
 
 <br/>
-##### J'ai beaucoup d'expérience / suis un régulier au hackdays OpenJDK, connais beaucoup les techs/Java/JVM/OpenJDK, qu'avez vous pour moi ?
+##### J'ai beaucoup d'expérience / suis un régulier aux hackdays OpenJDK, connais beaucoup les techs/Java/JVM/OpenJDK, qu'avez vous pour moi ?
 
 Regardez les étapes pour [niveau avancé](advanced-level.md).
 

@@ -43,7 +43,7 @@ Puppet installera automatiquement Mercurial et OpenJDK 7,
 clonera le projet OpenJDK 8, exécutera ```get_source.sh``` afin de télécharger les sources d'OpenJDK 8,
 lancera ```bash configure``` pour s'assurer que tout est prêt pour construire and lancera ```make images``` afin de construire les images JDK 8.
 
-*N.B. ce process peut prendre jusqu'à 50 minutes. Testé sur un 2014 250GB SSD 16GB RAM.
+*Note ce process peut prendre jusqu'à 50 minutes. Testé sur un MacPro 2014 250GB SSD 16GB RAM.
 
 
 Si tout va bien, vous devriez voir les messages de log suivants :

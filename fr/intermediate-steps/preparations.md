@@ -10,5 +10,5 @@ Tutoriel [Guide de démarrage rapide](http://bit.ly/1fWCqPH) sur JTReg.<br/>
 * Pour voir l'aide en ligne, utilisez la commande ```$ jtreg -onlineHelp```
 
 * Si vous ne souhaitez pas construire votre propre artéfact, téléchargez le dernier artéfact JTReg depuis le serveur[Jenkins Cloudbees d'Adopt OpenJDK]( https://adopt-openjdk.ci.cloudbees.com/job/jtreg/lastSuccessfulBuild/artifact/).
-Puis copiez les sous-répertoire win32, linux et lib depuis dist/jtreg sub-folder dans le répertoire jtreg - pour éviter des erreurs durant l'exécution des tests. Dans certaines cas, les fichiers du répertoire win32 doivent être rendu exécutable (```chmod u+x …```).
+Puis copiez les sous-répertoire win32, linux et lib depuis dist/jtreg sub-folder dans le répertoire jtreg - pour éviter des erreurs durant l'exécution des tests. Dans certains cas, les fichiers du répertoire win32 doivent être rendu exécutable (```chmod u+x …```).
 

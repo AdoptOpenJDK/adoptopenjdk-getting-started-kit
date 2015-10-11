@@ -30,11 +30,11 @@ Ces instructions sont pour OS X Yosemite et IntelliJ Idea version 14. Mais ces i
 
 ![](12.jpg)
 
-7 .  Presque terminer. Encore une partie trompeuse : Dans Nashorn les soit disantes classes “JavaScript” sont générées. Il faut un outil spécial “nasgen” pour cela et il se trouve dans le répertoire “buildtools/nasgen”.
+7 .  Presque terminé. Encore une partie trompeuse : Dans Nashorn les soit disantes classes “JavaScript” sont générées. Il faut un outil spécial “nasgen” pour cela et il se trouve dans le répertoire “buildtools/nasgen”.
 
 ![](13.jpg)
 
-8 . Avant de lancer Nashorn lui-même, la target ant nasgen “all” doit-être lancée.
+8 . Avant de lancer Nashorn lui-même, la cible ant nasgen “all” doit-être lancée.
 
 9 . Ajoutez le “nasgen.jar” résultant aux dépendances du module.
 

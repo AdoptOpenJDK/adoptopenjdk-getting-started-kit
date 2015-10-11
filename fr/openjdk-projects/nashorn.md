@@ -29,4 +29,4 @@ Voici une [présentation](https://github.com/neomatrix369/adoptopenjdk-getting-s
 
 ## Support IDE
 
-[ode source > Ouvrir OpenJDK dans un IDE](../source-code/loading_openjdk_in_intellij.md)
+[Code source > Ouvrir OpenJDK dans un IDE](../source-code/loading_openjdk_in_intellij.md)

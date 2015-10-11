@@ -1,19 +1,19 @@
 # Couverture de code d'OpenJDK
 
-Voici la tentative d'Adopt OpenJDK à de la [couverture de code](https://java.net/projects/adoptopenjdk/pages/Codecoverage).
+Voici la tentative d'Adopt OpenJDK pour apporter de la [couverture de code](https://java.net/projects/adoptopenjdk/pages/Codecoverage).
 
-**Rapport de couverture existants (OpenJDK8 et OpenJDK9)**
-Récemment nous avons activé la couverture de code sur notre ferme de build Adopt OpenJDK faisant tourné des build d'intégration continue d'OpenJDK8 et OpenJDK9, publiant des rapport jcov pour [OpenJDK8](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.8-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) et [OpenJDK9](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.9-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) respectivement.
+**Rapport de couverture existants (OpenJDK 8 et OpenJDK 9)**
+Récemment nous avons activé la couverture de code sur notre ferme de builds Adopt OpenJDK faisant tourner des builds d'intégration continue d'OpenJDK8 et OpenJDK9, publiant des rapports jcov pour [OpenJDK 8](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.8-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) et [OpenJDK 9](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.9-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) respectivement.
 
-**Lancew les tests d'OpenJDK9 avec la couverture de code activée**
+**Lancer les tests d'OpenJDK 9 avec la couverture de code activée**
 
 ---
 Notes: 
-* les étapes sont similaires pour 'OpenJDK8'. 
+* les étapes sont similaires pour 'OpenJDK 8'. 
 * ces paramétrages sont pour la création de rapports de couverture pour la repo 'jdk' uniquement
 * nous ne somme parvenu à en produire pour 'langtools'
 ---
-* Assurez vous d'avoir les dernière images de ```jdk``` de construite dans le dossier tge d' ```OpenJDK9``` (voir [Consntruire votre propre OpenJDK](../binaries/build_your_own_openjdk.md)).
+* Assurez vous d'avoir les dernière images de ```jdk``` de construite dans le dossier d' ```OpenJDK 9``` (voir [Consntruire votre propre OpenJDK](../binaries/build_your_own_openjdk.md)).
 
 * Installez ```jtreg avec jcov```, voir [Utilisation de JTReg... > Préparations](../intermediate-steps/preparations.md).
 

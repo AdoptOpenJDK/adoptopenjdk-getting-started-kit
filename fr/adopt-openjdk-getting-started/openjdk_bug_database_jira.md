@@ -1,6 +1,6 @@
 # Base de bugs d'OpenJDK (JIRA)
 
-[Ecran principal](https://bugs.openjdk.java.net/secure/Dashboard.jspa), véfiez également la [base de bug du JDK](https://bugs.openjdk.java.net/browse/JDK) pour les bugs et problèmes existants.
+[Ecran principal](https://bugs.openjdk.java.net/secure/Dashboard.jspa), vérifiez également la [base de bug du JDK](https://bugs.openjdk.java.net/browse/JDK) pour les bugs et problèmes existants.
 
 Cherchez les problèmes et bugs par identifiant via l'option de recherche rapide (coin en haut à gauche). 
 

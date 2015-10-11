@@ -53,7 +53,7 @@ Suivez les instructions de cet [article](https://neomatrix369.wordpress.com/2013
     Query OK, 0 rows affected (0.01 sec)
     ```
 
-3. Depuis http://www.sonarqube.org/downloads/, téléchargez SonarQube et SonarQube Runner. Supposont que SonarQube et SonarQube Runner soient installé dans ```/opt/sonarqube-4.5.1``` et ```/opt/sonar-runner-2.4``` respectivement.
+3. Depuis http://www.sonarqube.org/downloads/, téléchargez SonarQube et SonarQube Runner. Supposont que SonarQube et SonarQube Runner soient installés dans ```/opt/sonarqube-4.5.1``` et ```/opt/sonar-runner-2.4``` respectivement.
     * Configurez SonarQube pour utiliser la base MySQL au lieu de la base embarquée par défaut en modifiant ``` /opt/sonarqube-4.5.1/conf/sonar.properties ```
 
     * Décommentez les propriétés suivantes :
@@ -83,7 +83,7 @@ Suivez les instructions de cet [article](https://neomatrix369.wordpress.com/2013
     sonar.jdbc.password=sonar
     sonar.sourceEncoding=UTF-8
     ```
-5. Maven est également utilisé pour analyser is jaxp.
+5. Maven est également utilisé pour analyser jaxp.
     * Installez Maven si ce n'est déjà fait.
         * Téléchargez Maven http://maven.apache.org/download.cgi
         * A partir du lien, suivez les étapes dans la section "Unix-based operating Systems."

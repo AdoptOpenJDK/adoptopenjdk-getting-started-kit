@@ -27,13 +27,13 @@ $ vagrant ssh
 # Mapping in place: /vagrant/scripts/ ==> [currentfolder]/scripts
 ```
 
-Observez les répertoires et scripts de cette repo, car ils peuvent être utiliser pour divers usages. Une fois ces instructions finies, allez à [Construire votre propre OpenJDK](../binaries/build_your_own_openjdk.md) pour continuer à construire OpenJDK.
+Observez les répertoires et scripts de cette repo, car ils peuvent être utilisé pour divers usages. Une fois ces instructions finies, allez à [Construire votre propre OpenJDK](../binaries/build_your_own_openjdk.md) pour continuer à construire OpenJDK.
 
-*NB.* : Cela prends à peu près **377Mo** donc s'il vous plait téléchargez avant de venir, de zéro à une build complète d'OpenJDK 9 prends à peu près une heure (en utilisant un *MacBookPro 2013 avec 16Go et un SSD*).
+*Note* : Cela prends à peu près **377Mo** donc s'il vous plait téléchargez avant de venir, de zéro à une build complète d'OpenJDK 9 prends à peu près une heure (en utilisant un *MacBookPro 2013 avec 16Go et un SSD*).
 
 ### Instructions détaillées
 
-*So vous souhaitez reproduire ce qui précède et explorer toutes les technologies utilisées pour contruire cette boîte.
+*Si vous souhaitez reproduire ce qui précède et explorer toutes les technologies utilisées pour contruire cette boîte.
 
 Les sections dans ce document sont ci-après, tous les points sont requis, toutes les sections en **gras** donnent plus d'information ou des configurations optionelles. **Une référence à $ est un argument de la ligne de commande qui sera exécutée dans une vm vagrant.**
 
