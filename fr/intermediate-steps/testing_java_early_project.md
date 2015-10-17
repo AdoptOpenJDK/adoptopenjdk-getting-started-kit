@@ -1,8 +1,8 @@
 # Tester le projet Java Early
 
-Pour amener la process de tests vers la communauté et également pour tester tôt pour un retour tôt, les projet Testing Java ont été crééer et supportés par le [@LJCJug](http://twitter.com/ljcjug) et OpenJDK (i.e. Oracle), pour voir la poignée de librairies Java participante, lisez la [page wiki](https://java.net/projects/adoptopenjdk/pages/TestingJava8) ainsi que les programmes <b>[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)</b> et <b>[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)</b>.
+Pour amener la process de tests vers la communauté et également pour tester tôt pour un retour tôt, les projet Testing Java ont été crééer et supportés par le [@LJCJug](http://twitter.com/ljcjug) et OpenJDK (i.e. Oracle), pour voir la poignée de librairies Java participante, lisez la [page wiki](https://java.net/projects/adoptopenjdk/pages/TestingJava8) ainsi que les programmes **[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)** et **[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)**.
 
-<b>Adopt OpenJDK a son propre effort pour encourager et supporter les efforts ci-dessus, voyez https://java.net/projects/adoptopenjdk/pages/TestingJava8.</b>
+**Adopt OpenJDK a son propre effort pour encourager et supporter les efforts ci-dessus, voyez https://java.net/projects/adoptopenjdk/pages/TestingJava8.**
 
 Mais cela ne s'arrête pas là, vous pouvez selectionnez votre propre bibliothèque Java ou projet opensource, le construire avec le JDK 9 puis le lancer avec ce même JDK ou le JRE.
 

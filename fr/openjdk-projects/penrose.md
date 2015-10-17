@@ -1,4 +1,4 @@
-# Penrose
+# Projet Penrose
 
 Considérant que les vieilles build EA de Jigsaw JDK 8 sont abandonnées, les sources de Penrose sont actuellement périmées et le projet toujours en phase exploraroire. 
 
