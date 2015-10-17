@@ -11,5 +11,5 @@
 
 This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like http://adoptopenjdk.java.net and http://openjdk.java.net/, and does not override or replace these resources.
 
-####Let's get started, and in this order [How to navigate and make progress ?](https://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/how-to-navigate/how-to-navigate-and-make-progress.html) and [Adopt OpenJDK - Getting started](https://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.html).
+####Let's get started, and in this order: [How to navigate and make progress ?](https://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/how-to-navigate/how-to-navigate-and-make-progress.html) and [Adopt OpenJDK - Getting started](https://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.html).
 ---
