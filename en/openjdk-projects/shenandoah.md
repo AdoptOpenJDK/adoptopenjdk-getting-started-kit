@@ -20,3 +20,5 @@ The Mercurial history will remain on Icedtea servers, should anybody be interest
 
 Download JDK/JRE binaries for **Project Shenandoah**, from the **Adopt OpenJDK Cloudbees build farm** [Shenandoah - JDK8](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/project-shenandoah-jdk8/) and 
 [Shenandoah - JDK9](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/project-shenandoah-jdk9/).
+
+[Video: Pavel Tisnovsky’s talk about Shenandoah GC](http://t.co/Nx1frImQAD)
