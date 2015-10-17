@@ -1,7 +1,9 @@
 ###What's changed
 
 
-* 2015-10-17 [Unified logging](adoptopenjdk-projects/unified_logging.md)
+* 2015-10-17 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
+* 2015-10-17 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
+* 2015-10-17 [README.md](README.md)
 * 2015-10-17 [Project Valhalla](openjdk-projects/valhalla.md)
 * 2015-10-17 [Project Shenandoah](openjdk-projects/shenandoah.md)
 * 2015-10-17 [Project Penrose](openjdk-projects/penrose.md)
@@ -23,7 +25,6 @@
 * 2015-09-01 [Java code used for the Test](openjdk-projects/jmh/system-under-test.md)
 * 2015-09-01 [is used to parse the JMH benchmark data and plot these graphs.](openjdk-projects/jmh/analysisusingR.md)
 * 2015-07-27 [Contributors](contributors.md)
-* 2015-07-22 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-07-18 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-07-16 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-07-04 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
@@ -31,7 +32,6 @@
 * 2015-06-28 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
 * 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-06-22 [Windows](known-issues/known_issues_windows.md)
-* 2015-06-21 [README.md](README.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
 * 2015-06-14 [Copy Images](docker-images/copy-images.md)
 * 2015-06-13 [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
@@ -67,7 +67,6 @@
 * 2015-05-07 [Thanks and Support](thanks_and_support.md)
 * 2015-05-07 [OpenJDK 8 Vagrant Puppet](virtual-machines/adoptjdk_puppet_vm.md)
 * 2015-05-05 [Write up on the Adopt OpenJDK & Adopt-a-JSR programs](adopt-openjdk-getting-started/write_up_on_the_adopt_openjdk_&_adopt-a-jsr_programs.md)
-* 2015-05-05 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
 * 2015-05-05 [Table of supported OSes & IDEs](adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md)
 * 2015-05-05 [Source code](source-code/source_code.md)
 * 2015-05-05 [SonarQube](known-issues/known_issues_sonarqube.md)
