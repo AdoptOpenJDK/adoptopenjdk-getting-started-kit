@@ -1,4 +1,4 @@
-# Kulla
+# Project Kulla
 
 **Official homepage** <br/>
 Check out the official page on Kulla at 
