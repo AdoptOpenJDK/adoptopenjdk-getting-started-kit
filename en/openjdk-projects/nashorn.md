@@ -1,4 +1,4 @@
-# Nashorn (pronounced: ˈnaːshɔɐ̯n)
+# Project Nashorn (pronounced: ˈnaːshɔɐ̯n)
 
 Javascript runtime for the JVM (follow-on from [Rhino](https://docs.oracle.com/javase/7/docs/technotes/guides/scripting/programmer_guide/)). 
 
