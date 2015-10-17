@@ -50,7 +50,6 @@
        * [JMH Benchmark](openjdk-projects/jmh/jmh-benchmark.md)
        * [JMH Result](openjdk-projects/jmh/jmh-result.md)
        * [Analysis using R](openjdk-projects/jmh/analysisusingR.md)
-   * [Project Jigsaw](openjdk-projects/project_jigsaw.md)
    * [Project Jigsaw](openjdk-projects/jigsaw/jigsaw.md)
    * [Project Kulla](openjdk-projects/kulla/kulla.md)
        * [Maven pom.xml to build kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
