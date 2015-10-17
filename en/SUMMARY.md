@@ -67,7 +67,7 @@
            * [Problems.txt](intermediate-steps/problems.txt.md)
            * [Examples of annotations in the header of test files](intermediate-steps/test-annotations.md)
    * [JEPs - JDK Enhancement Proposals](intermediate-steps/jeps_-_jdk_enhancement_proposals.md)
-   * [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
+   * [Adopt OpenJDK Projects & Tasks](adoptopenjdk-projects/adopt_openjdk_projects.md)
        * [Betterrev](adoptopenjdk-projects/adoptopenjdk_projects_betterrev.md)
        * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
        * [Cleaning up build warnings](intermediate-steps/cleaning_up_build_warnings.md)
