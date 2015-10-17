@@ -21,10 +21,19 @@ $ cd $HOME/dev
 
 Si ```jdk9``` ou ```jdk9_dev``` n'existe pas dans ce repertoire, alors faites ce qui suit :
 
-
+JDK 9 (non-Jigsaw)
 ```
 $ hg clone http://hg.openjdk.java.net/jdk9/jdk9 jdk9
+```
 
+ou
+
+JDK 9 (Jigsaw)
+```
+$ hg clone http://hg.openjdk.java.net/jigsaw/jake/ jdk9
+```
+
+```
 $ cd jdk9
 
 $ chmod u+x get_source.sh 

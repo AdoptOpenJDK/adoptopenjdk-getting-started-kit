@@ -1,6 +1,8 @@
 # Retours
 
-Vos retours nous importent beaucoup !
+Vos retours nous importent beaucoup ! 
+
+Posez vos questions :
 
        @adoptopenjdk
 
