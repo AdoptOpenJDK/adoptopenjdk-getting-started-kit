@@ -37,6 +37,9 @@
 * Deleted or moved to another location: 'en/advanced-level/basic-level.md'
 * Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
 * Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
+* 2015-10-12 [Virtual Machines](virtual-machines/virtual_machines.md)
+* 2015-09-21 [Build your own OpenJDK](binaries/build_your_own_openjdk.md)
+* 2015-09-07 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-09-01 [MH: Java Microbenchmarking Harness](openjdk-projects/jmh/jmh.md)
 * 2015-09-01 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
 * 2015-09-01 [Maven POM](openjdk-projects/jmh/maven-dependencies.md)
@@ -69,7 +72,6 @@
 * 2015-06-12 [How to contribute to this book ?](contribute.md)
 * 2015-05-25 [Valhalla](openjdk-projects/valhalla.md)
 * 2015-05-25 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
-* 2015-05-16 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
 * 2015-05-16 [Preparations](intermediate-steps/preparations.md)
@@ -89,12 +91,10 @@
 * 2015-05-16 [Change the StringBuffer.java class to add a method](intermediate-steps/change_the_stringbufferjava_class_to_add_a_new_method.md)
 * 2015-05-16 [Change the Random.java class](intermediate-steps/change_the_randomjava_class.md)
 * 2015-05-16 [Change java.c & run Hotspot from the CLI](advanced-steps/change_javac_&_run_hotspot_from_the_cli.md)
-* 2015-05-16 [Build your own OpenJDK](binaries/build_your_own_openjdk.md)
 * 2015-05-16 [# Beginners level](how-to-navigate/beginners-level.md)
 * 2015-05-16 [Advanced steps](advanced-steps/advanced_steps.md)
 * 2015-05-16 [# Advanced level](how-to-navigate/advanced-level.md)
 * 2015-05-16 [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
-* 2015-05-07 [Virtual Machines](virtual-machines/virtual_machines.md)
 * 2015-05-07 [Thanks and Support](thanks_and_support.md)
 * 2015-05-07 [OpenJDK 8 Vagrant Puppet](virtual-machines/adoptjdk_puppet_vm.md)
 * 2015-05-05 [Write up on the Adopt OpenJDK & Adopt-a-JSR programs](adopt-openjdk-getting-started/write_up_on_the_adopt_openjdk_&_adopt-a-jsr_programs.md)
