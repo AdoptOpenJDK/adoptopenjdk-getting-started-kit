@@ -1,10 +1,10 @@
 # Unified logging
 
-Recently a new logging framework was pushed to HotSpot via *JEP 158*:
+Recently a new logging framework was pushed to HotSpot via **JEP 158**:
 
 http://openjdk.java.net/jeps/158
 
-GC logging for the JVM is being changed to make use of the above new logging framework, done via *JEP 271*:
+GC logging for the JVM is being changed to make use of the above new logging framework, done via **JEP 271**:
 
 http://openjdk.java.net/jeps/271
 
