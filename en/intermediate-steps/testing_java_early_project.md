@@ -1,6 +1,6 @@
 # Testing Java Early project
 
-To bring the testing process to the community and also testing early for early feedback, the Testing Java projects has been started and supported by the [@LJCJug](http://twitter.com/ljcjug) and OpenJDK (i.e. Oracle), to see a handful of Java libraries that have been enlisted, read the details on [this wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8) also look at the <b>[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)</b> and <b>[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)</b> programs.
+To bring the testing process to the community and also testing early for early feedback, the Testing Java projects has been started and supported by the [@LJCJug](http://twitter.com/ljcjug) and OpenJDK (i.e. Oracle), to see a handful of Java libraries that have been enlisted, read the details on [this wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8) also look at the [JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach) and [Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach) programs.
 
 <b>Adopt OpenJDK runs its own efforts to encourage and support the above efforts, see https://java.net/projects/adoptopenjdk/pages/TestingJava8.</b>
 
