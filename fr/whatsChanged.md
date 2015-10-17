@@ -1,10 +1,6 @@
 ###What's changed
 
 
-* Deleted or moved to another location: 'fr/openjdk-projects/kulla-pom-xml.md'
-* Deleted or moved to another location: 'fr/openjdk-projects/kulla.md'
-* Deleted or moved to another location: 'fr/openjdk-projects/jmh.md'
-* Deleted or moved to another location: 'fr/basic-level.md'
 * 2015-10-11 [Windows](known-issues/known_issues_windows.md)
 * 2015-10-11 [VM prêtes à l'emploi](virtual-machines/ready-made_vm.md)
 * 2015-10-11 [Vérifier des images](docker-images/check-images.md)

@@ -1,54 +1,27 @@
 ###What's changed
 
 
-* Deleted or moved to another location: 'en/where_to_start__how_to_progress.md'
-* Deleted or moved to another location: 'en/prepare-before-hackday.md'
-* Deleted or moved to another location: 'en/prepare-an-environment-machine.md'
-* Deleted or moved to another location: 'en/preparations.md'
-* Deleted or moved to another location: 'en/openjdk-projects/system-under-test.md'
-* Deleted or moved to another location: 'en/openjdk-projects/maven-dependencies.md'
-* Deleted or moved to another location: 'en/openjdk-projects/kulla/README.md'
-* Deleted or moved to another location: 'en/openjdk-projects/kulla-pom-xml.md'
-* Deleted or moved to another location: 'en/openjdk-projects/kulla.md'
-* Deleted or moved to another location: 'en/openjdk-projects/jmh-result.md'
-* Deleted or moved to another location: 'en/openjdk-projects/jmh/README.md'
-* Deleted or moved to another location: 'en/openjdk-projects/jmh.md'
-* Deleted or moved to another location: 'en/openjdk-projects/jmh-benchmark.md'
-* Deleted or moved to another location: 'en/openjdk-projects/analysisusingR.md'
-* Deleted or moved to another location: 'en/intermediate-steps/command-line_arguments_for_build_performance_optimisation.md'
-* Deleted or moved to another location: 'en/intermediate-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
-* Deleted or moved to another location: 'en/intermediate-steps/change_the_randomjava_class_to_amend_the_below_method.md'
-* Deleted or moved to another location: 'en/intermediate-level.md'
-* Deleted or moved to another location: 'en/intermediate-level/basic-level.md'
-* Deleted or moved to another location: 'en/how-to-navigate/basic-level.md'
-* Deleted or moved to another location: 'en/docker-containers/copy-containers.md'
-* Deleted or moved to another location: 'en/docker-containers/check-containers.md'
-* Deleted or moved to another location: 'en/docker-containers/build-containers.md'
-* Deleted or moved to another location: 'en/contribute_to_this_book.md'
-* Deleted or moved to another location: 'en/command-line_arguments_for_build_performance_optimisation.md'
-* Deleted or moved to another location: 'en/basic-level.md'
-* Deleted or moved to another location: 'en/advanced-steps/testing_java_early_project.md'
-* Deleted or moved to another location: 'en/advanced-steps/test-annotations.md'
-* Deleted or moved to another location: 'en/advanced-steps/problems.txt.md'
-* Deleted or moved to another location: 'en/advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md'
-* Deleted or moved to another location: 'en/advanced-steps/hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md'
-* Deleted or moved to another location: 'en/advanced-steps/change_the_stringbufferjava_class_to_add_the_below_method.md'
-* Deleted or moved to another location: 'en/advanced-steps/change_the_randomjava_class_to_amend_the_below_method.md'
-* Deleted or moved to another location: 'en/advanced-level/basic-level.md'
-* Deleted or moved to another location: 'en/advanced-level/advanced-level.md'
-* Deleted or moved to another location: 'en/additional-pre-hackday-actions-experienced.md'
+* 2015-10-17 [Unified logging](adoptopenjdk-projects/unified_logging.md)
+* 2015-10-17 [Project Valhalla](openjdk-projects/valhalla.md)
+* 2015-10-17 [Project Shenandoah](openjdk-projects/shenandoah.md)
+* 2015-10-17 [Project Penrose](openjdk-projects/penrose.md)
+* 2015-10-17 [Project Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
+* 2015-10-17 [Project Kulla](openjdk-projects/kulla/kulla.md)
+* 2015-10-17 [Project Jigsaw](openjdk-projects/jigsaw/jigsaw.md)
+* 2015-10-17 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
+* 2015-10-17 [Feedback](feedback.md)
+* 2015-10-17 [Build OpenJDK 9](binaries/build_openjdk_9.md)
+* 2015-10-17 [Adopt OpenJDK Projects & Tasks](adoptopenjdk-projects/adopt_openjdk_projects.md)
 * 2015-10-12 [Virtual Machines](virtual-machines/virtual_machines.md)
 * 2015-09-21 [Build your own OpenJDK](binaries/build_your_own_openjdk.md)
 * 2015-09-07 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
 * 2015-09-01 [MH: Java Microbenchmarking Harness](openjdk-projects/jmh/jmh.md)
 * 2015-09-01 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
 * 2015-09-01 [Maven POM](openjdk-projects/jmh/maven-dependencies.md)
-* 2015-09-01 [Kulla](openjdk-projects/kulla/kulla.md)
 * 2015-09-01 [JMH result](openjdk-projects/jmh/jmh-result.md)
 * 2015-09-01 [JMH Benchmark](openjdk-projects/jmh/jmh-benchmark.md)
 * 2015-09-01 [Java code used for the Test](openjdk-projects/jmh/system-under-test.md)
 * 2015-09-01 [is used to parse the JMH benchmark data and plot these graphs.](openjdk-projects/jmh/analysisusingR.md)
-* 2015-07-28 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-07-27 [Contributors](contributors.md)
 * 2015-07-22 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-07-18 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
@@ -70,8 +43,6 @@
 * 2015-06-13 [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md)
 * 2015-06-12 [# Intermediate level](how-to-navigate/intermediate-level.md)
 * 2015-06-12 [How to contribute to this book ?](contribute.md)
-* 2015-05-25 [Valhalla](openjdk-projects/valhalla.md)
-* 2015-05-25 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
 * 2015-05-16 [Preparations](intermediate-steps/preparations.md)
@@ -84,7 +55,6 @@
 * 2015-05-16 [# I find time at home and have the bandwidth I need, how best can take advantages of this situation ?](how-to-navigate/free-time-ample-bandwidth.md)
 * 2015-05-16 [How to use JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
 * 2015-05-16 [Handy scripts](handy-scripts-for-OpenJDK-developers.md)
-* 2015-05-16 [Feedback](feedback.md)
 * 2015-05-16 [Examples of annotations in the header of test files](intermediate-steps/test-annotations.md)
 * 2015-05-16 [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
 * 2015-05-16 [Command-line arguments for build performance optimisation](advanced-steps/command-line_arguments_for_build_performance_optimisation.md)
@@ -94,7 +64,6 @@
 * 2015-05-16 [# Beginners level](how-to-navigate/beginners-level.md)
 * 2015-05-16 [Advanced steps](advanced-steps/advanced_steps.md)
 * 2015-05-16 [# Advanced level](how-to-navigate/advanced-level.md)
-* 2015-05-16 [Adopt OpenJDK Projects](adoptopenjdk-projects/adopt_openjdk_projects.md)
 * 2015-05-07 [Thanks and Support](thanks_and_support.md)
 * 2015-05-07 [OpenJDK 8 Vagrant Puppet](virtual-machines/adoptjdk_puppet_vm.md)
 * 2015-05-05 [Write up on the Adopt OpenJDK & Adopt-a-JSR programs](adopt-openjdk-getting-started/write_up_on_the_adopt_openjdk_&_adopt-a-jsr_programs.md)
@@ -103,9 +72,7 @@
 * 2015-05-05 [Source code](source-code/source_code.md)
 * 2015-05-05 [SonarQube](known-issues/known_issues_sonarqube.md)
 * 2015-05-05 [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
-* 2015-05-05 [Penrose](openjdk-projects/penrose.md)
 * 2015-05-05 [OpenJDK SonarQube Dashboard steps](intermediate-steps/openjdk_sonarqube_dashboard_steps.md)
-* 2015-05-05 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
 * 2015-05-05 [OpenJDK mailing lists](openjdk-mailing-lists.md)
 * 2015-05-05 [OpenJDK Early Access](binaries/openjdk_early_access.md)
 * 2015-05-05 [OpenJDK developers Guide](intermediate-steps/openjdk_developers_guide.md)
