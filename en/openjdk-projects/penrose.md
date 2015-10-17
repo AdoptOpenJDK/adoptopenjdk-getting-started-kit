@@ -1,4 +1,4 @@
-# Penrose
+# Project Penrose
 
 Considering that the old Jigsaw JDK8 EA build is now dropped Penrose sources are currently outdated and the project is still in exploratory phase. 
 
