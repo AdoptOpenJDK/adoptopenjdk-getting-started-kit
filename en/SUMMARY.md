@@ -54,6 +54,7 @@
    * [Project Kulla](openjdk-projects/kulla/kulla.md)
        * [Maven pom.xml to build kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
    * [Project Valhalla](openjdk-projects/valhalla.md)
+   * Project Jigsaw
 * [Intermediate steps](intermediate-steps/intermediate_steps.md)
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)
