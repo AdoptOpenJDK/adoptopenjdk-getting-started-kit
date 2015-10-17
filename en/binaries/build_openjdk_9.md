@@ -20,9 +20,11 @@ If ```jdk9``` or ```jdk9_dev``` does not exist in this folder, then do the below
 
 ```
 $ hg clone http://hg.openjdk.java.net/jdk9/jdk9 jdk9
+```
 
 or 
 
+```
 $ hg clone http://hg.openjdk.java.net/jigsaw/jake/ jdk9
 
 $ cd jdk9
