@@ -30,7 +30,7 @@ and then doing one or more of the following:
 
 ### How to contribute to OpenJDK
 
-Have a read of these sections in the book:
+Have a read of these sections in the book before making plans to submit any contributions to the code base:
 
 - [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
 - [OpenJDK Bug database (JIRA)](adopt-openjdk-getting-started/openjdk_bug_database_jira.md)
