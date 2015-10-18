@@ -1,7 +1,15 @@
 ###What's changed
 
 
-* 2015-10-17 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
+* 2015-10-18 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
+* 2015-10-18 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
+* 2015-10-18 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
+* 2015-10-18 [How to contribute to this book ?](how-to-navigate/contribute.md)
+* 2015-10-18 [ How to contribute to Adopt OpenJDK and OpenJDK ?](how-to-navigate/how_to_contribute_to_adopt_openjdk_and_openjdk.md)
+* 2015-10-18 [G1GC feedback](adoptopenjdk-projects/g1gc_feedback.md)
+* 2015-10-18 [Feedback](feedback.md)
+* 2015-10-18 [Contributors](contributors.md)
+* 2015-10-17 [Unified JVM logging](adoptopenjdk-projects/unified_jvm_logging.md)
 * 2015-10-17 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-10-17 [README.md](README.md)
 * 2015-10-17 [Project Valhalla](openjdk-projects/valhalla.md)
@@ -10,8 +18,6 @@
 * 2015-10-17 [Project Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
 * 2015-10-17 [Project Kulla](openjdk-projects/kulla/kulla.md)
 * 2015-10-17 [Project Jigsaw](openjdk-projects/jigsaw/jigsaw.md)
-* 2015-10-17 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
-* 2015-10-17 [Feedback](feedback.md)
 * 2015-10-17 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2015-10-17 [Adopt OpenJDK Projects & Tasks](adoptopenjdk-projects/adopt_openjdk_projects.md)
 * 2015-10-12 [Virtual Machines](virtual-machines/virtual_machines.md)
@@ -24,12 +30,10 @@
 * 2015-09-01 [JMH Benchmark](openjdk-projects/jmh/jmh-benchmark.md)
 * 2015-09-01 [Java code used for the Test](openjdk-projects/jmh/system-under-test.md)
 * 2015-09-01 [is used to parse the JMH benchmark data and plot these graphs.](openjdk-projects/jmh/analysisusingR.md)
-* 2015-07-27 [Contributors](contributors.md)
 * 2015-07-18 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-07-16 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-07-04 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
 * 2015-07-04 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
-* 2015-06-28 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
 * 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-06-22 [Windows](known-issues/known_issues_windows.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
@@ -42,7 +46,6 @@
 * 2015-06-13 [Build Images](docker-images/build-images.md)
 * 2015-06-13 [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md)
 * 2015-06-12 [# Intermediate level](how-to-navigate/intermediate-level.md)
-* 2015-06-12 [How to contribute to this book ?](contribute.md)
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
 * 2015-05-16 [Preparations](intermediate-steps/preparations.md)
