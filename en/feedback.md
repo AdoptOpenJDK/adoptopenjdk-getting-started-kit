@@ -26,7 +26,7 @@ and then doing one or more of the following:
 - engage in discussions on the mailing list (Adoption Discuss, see above)
 - trial the projects both on the github repos and share feedback on them
 - contribute to the github repos
-- contribute to the documentations
+- contribute to the documentations (wiki and gitbook)
 
 ### How to contribute to OpenJDK
 
