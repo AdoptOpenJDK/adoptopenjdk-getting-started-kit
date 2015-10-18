@@ -40,4 +40,4 @@ The [What's changed](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-starte
 
 Please feel free to improve it, provided it continues to do what it currently does and more.
 
-See also [Feedback & contribute to Adopt OpenJDK](feedback.md).
+See also [Feedback](feedback.md).
