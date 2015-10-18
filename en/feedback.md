@@ -27,9 +27,11 @@ and then doing one or more of the following:
 - engage in discussions on the mailing list (Adoption Discuss, see above)
 - trial the projects both on the github repos and share feedback on them
 - contribute to the github repos
-- contribute to the documentations (wiki and gitbook)
+- contribute to the documentations (wiki and gitbook
 
 ### How to contribute to OpenJDK ?
+
+Adopt OpenJDK is a channel through which you contribute to OpenJDK and Java (the language and the platform).
 
 Have a read of these sections in the book before making plans to submit any contributions to the code base:
 
