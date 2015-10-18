@@ -14,3 +14,21 @@ Your feedback means a lot to us! As any questions on any one of these forms of s
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
 
 ### How to contribute to Adopt OpenJDK
+
+You can start contributing to **Adopt OpenJDK** by first signing up on one or more forms of social media listen on the Adopt OpenJDK homepage:
+
+https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#Getting_Started
+
+and then doing any one of the following:
+
+- giving feedback on Adopt OpenJDK projects and/or OpenJDK projects
+- 
+
+
+### How to contribute to OpenJDK
+
+Have a read of these sections in the book:
+
+- [OpenJDK Developers guide](intermediate-steps/openjdk_developers_guide.md)
+- [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
+- [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
