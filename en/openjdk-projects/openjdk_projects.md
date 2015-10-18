@@ -4,7 +4,7 @@
 * [Project Nashorn](nashorn.md)
 * [JMH](jmh/jmh.md)
 * [Project Jigsaw](jigsaw/jigsaw.md)
-* [Project Kulla](kulla.md)
+* [Project Kulla](kulla/kulla.md)
 * [Project Valhalla](valhalla.md)
 * [Project Shenandoah](shenandoah.md)
 
