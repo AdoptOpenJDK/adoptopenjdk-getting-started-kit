@@ -22,6 +22,7 @@ https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#Getting_Started
 and then doing any one of the following:
 
 - giving feedback on Adopt OpenJDK projects and/or OpenJDK projects
+- giving feedback on the new features / JEPs being worked on
 - engage in discussions on the mailing list (Adoption Discuss, see above)
 - trial the projects both on the github repos and share feedback on them
 - contribute to the github repos
