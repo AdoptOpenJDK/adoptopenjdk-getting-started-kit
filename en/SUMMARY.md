@@ -73,6 +73,7 @@
        * [Milling Project Coin](intermediate-steps/milling_project_coin.md)
        * [Cleaning up build warnings](intermediate-steps/cleaning_up_build_warnings.md)
        * [Unified JVM logging](adoptopenjdk-projects/unified_jvm_logging.md)
+       * G1GC feedback
    * [OpenJDK developers Guide](intermediate-steps/openjdk_developers_guide.md)
    * [Example changesets of contributions into the OpenJDK](intermediate-steps/example_changesets_of_contributions_into_the_openjdk.md)
    * [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
