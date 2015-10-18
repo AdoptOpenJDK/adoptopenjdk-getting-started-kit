@@ -14,7 +14,7 @@ Your feedback means a lot to us! As any questions on any one of these forms of s
 * ~~adopt-openjdk@googlegroups.com~~
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
 
-### How to contribute to Adopt OpenJDK
+### How to contribute to Adopt OpenJDK ?
 
 You can start contributing to **Adopt OpenJDK** by first signing up on one or more forms of social media listen on the Adopt OpenJDK homepage:
 
@@ -29,7 +29,7 @@ and then doing one or more of the following:
 - contribute to the github repos
 - contribute to the documentations (wiki and gitbook)
 
-### How to contribute to OpenJDK
+### How to contribute to OpenJDK ?
 
 Have a read of these sections in the book before making plans to submit any contributions to the code base:
 
