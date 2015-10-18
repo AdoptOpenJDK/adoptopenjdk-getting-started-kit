@@ -19,7 +19,7 @@ You can start contributing to **Adopt OpenJDK** by first signing up on one or mo
 
 https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#Getting_Started
 
-and then doing any one of the following:
+and then doing one or more of the following:
 
 - giving feedback on Adopt OpenJDK projects and/or OpenJDK projects
 - giving feedback on the new features / JEPs being worked on
