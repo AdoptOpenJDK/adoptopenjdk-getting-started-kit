@@ -9,7 +9,7 @@ Your feedback means a lot to us! As any questions on any one of these forms of s
 * *sign-up:* http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
 * *arhives:* http://mail.openjdk.java.net/pipermail/adoption-discuss/
 
-<br/>
+
 *Discontinued mailing list*
 * ~~adopt-openjdk@googlegroups.com~~
 * ~~https://groups.google.com/forum/?fromgroups#!forum/adopt-openjdk~~
