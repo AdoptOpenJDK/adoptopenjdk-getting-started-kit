@@ -8,7 +8,7 @@
    * [Advanced level](how-to-navigate/advanced-level.md)
    * [Free time / ample bandwidth](how-to-navigate/free-time-ample-bandwidth.md)
    * [How to contribute to Adopt OpenJDK and OpenJDK ?](how-to-navigate/how_to_contribute_to_adopt_openjdk_and_openjdk.md)
-   * [How to contribute to this book](contribute.md)
+   * [How to contribute to this book](how-to-navigate/contribute.md)
    * [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
    * [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md)
    * [How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
