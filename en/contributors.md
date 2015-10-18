@@ -21,4 +21,4 @@ If you don't find your name on the list above, please ping us and let us know, w
 
 ####Want to contribute to this book ?
 
-See under section [How to contribute to this book ?](contribute.md) and also [Feedback & contribute to Adopt OpenJDK](feedback.md).
+See under section [How to contribute to this book ?](how-to-navigate/contribute.md).
