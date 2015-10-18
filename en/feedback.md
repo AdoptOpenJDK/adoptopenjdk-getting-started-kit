@@ -2,8 +2,9 @@
 
 Your feedback means a lot to us! As any questions on any one of these forms of social media:
 
-*Join our mailing list:*
 * *twitter:* **@adoptopenjdk**
+
+*Join our mailing list:*
 * *email:* adoption-discuss@openjdk.java.net
 * *sign-up:* http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
 * *arhives:* http://mail.openjdk.java.net/pipermail/adoption-discuss/
