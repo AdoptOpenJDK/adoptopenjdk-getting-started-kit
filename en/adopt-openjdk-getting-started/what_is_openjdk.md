@@ -12,3 +12,4 @@ Read all about it in this at:
 * [PPT full presentation)](http://bit.ly/1aXtErZ)
 * [Recent blog post on Voxxed](https://www.voxxed.com/blog/2015/01/java-jvm-built-adopt-openjdk-answer/)
 * [#Twitter-Scale computing with #OpenJDK](https://t.co/f4GDsfBADv)
+* [Some more OpenJDK related articles on Voxxed](https://www.voxxed.com/?s=openjdk)
