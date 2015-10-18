@@ -19,4 +19,4 @@ Below is a list of contributors both individuals and groups (in no particular or
 
 ####Want to contribute to this book ?
 
-See under section [How to contribute to this book ?](contribute.md)
+See under section [How to contribute to this book ?](contribute.md) and also [Feedback & contribute to Adopt OpenJDK](feedback.md).
