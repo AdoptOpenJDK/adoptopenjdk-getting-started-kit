@@ -3,7 +3,7 @@
 * [Project Penrose](penrose.md)
 * [Project Nashorn](nashorn.md)
 * [JMH](jmh.md)
-* [Project Jigsaw](jigsaw.md)
+* [Project Jigsaw](jigsaw/jigsaw.md)
 * [Project Kulla](kulla.md)
 * [Project Valhalla](valhalla.md)
 * [Project Shenandoah](shenandoah.md)
