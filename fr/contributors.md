@@ -19,6 +19,8 @@ Ci-dessous une liste des contributeurs individuels ou en groupes (sans ordre par
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo)
 
+Si vous ne trouvez pas votre nom dans la liste ci-dessus, faites le nous savoir et on l'ajoutera.
+
 ####Vous voulez contribuer à ce livre ?
 
-Voir la section [Comment contribuer à ce livre ?](contribute.md)
+Voir la section [Comment contribuer à ce livre ?](how-to-navigate/contribute.md).
