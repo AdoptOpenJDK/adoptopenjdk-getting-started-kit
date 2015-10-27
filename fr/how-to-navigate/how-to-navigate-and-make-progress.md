@@ -40,6 +40,6 @@ Regardez ce que vous pouver faire [pour utiliser ce temps au mieux pour apprendr
 <br/>
 ##### Je connais certaines choses que je souhaite partager en contribuant à ce livre ?
 
-Regardez [Comment contribuer à ce livre](../contribute.md).
+Regardez [Comment contribuer à ce livre](contribute.md) et [Comment contribuer à Adopt OpenJDK et OpenJDK ?](how_to_contribute_to_adopt_openjdk_and_openjdk.md)
 
 <br/>

@@ -1,6 +1,15 @@
 ###What's changed
 
 
+* 2015-10-27 [Unified logging](adoptopenjdk-projects/unified_jvm_logging.md)
+* 2015-10-27 [Retours sur le G1GC](adoptopenjdk-projects/g1gc_feedback.md)
+* 2015-10-27 [Retours](feedback.md)
+* 2015-10-27 [Qu'est-ce qu'OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
+* 2015-10-27 [Projets d'OpenJDK](openjdk-projects/openjdk_projects.md)
+* 2015-10-27 [Contributeurs](contributors.md)
+* 2015-10-27 [Comment naviguer et progresser ?](how-to-navigate/how-to-navigate-and-make-progress.md)
+* 2015-10-27 [ Comment contribuer à Adopt OpenJDK et OpenJDK ?](how-to-navigate/how_to_contribute_to_adopt_openjdk_and_openjdk.md)
+* 2015-10-27 [Comment contribuer à  ce livre ?](how-to-navigate/contribute.md)
 * 2015-10-17 [Unified logging](adoptopenjdk-projects/unified_logging.md)
 * 2015-10-17 [Tester le projet Java Early](intermediate-steps/testing_java_early_project.md)
 * 2015-10-17 [Retours](feedback.md)

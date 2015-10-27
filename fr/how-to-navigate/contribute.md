@@ -39,3 +39,6 @@ Nous avons deux [scripts](https://github.com/neomatrix369/adoptopenjdk-getting-s
 
 Les scripts générateurs de markdown de [Quels changements](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) s'appellent [whatsChanged.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) et [whatsChangedForAllLanguages.sh](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
 
+Ne vous gêner pas pour l'améliorer, tant qu'il continue à faire ce qu'il fait actuellement et plus.
+
+Voyez également [Retours](../feedback.md) et [Comment contribuer à Adopt OpenJDK et OpenJDK ?](how_to_contribute_to_adopt_openjdk_and_openjdk.md)
