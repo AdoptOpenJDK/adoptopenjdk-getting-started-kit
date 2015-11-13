@@ -1,6 +1,7 @@
 ###What's changed
 
 
+* 2015-11-13 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-10-18 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
 * 2015-10-18 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
 * 2015-10-18 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
@@ -10,7 +11,6 @@
 * 2015-10-18 [Feedback](feedback.md)
 * 2015-10-18 [Contributors](contributors.md)
 * 2015-10-17 [Unified JVM logging](adoptopenjdk-projects/unified_jvm_logging.md)
-* 2015-10-17 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-10-17 [README.md](README.md)
 * 2015-10-17 [Project Valhalla](openjdk-projects/valhalla.md)
 * 2015-10-17 [Project Shenandoah](openjdk-projects/shenandoah.md)
