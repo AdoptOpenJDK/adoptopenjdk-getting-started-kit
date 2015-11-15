@@ -11,7 +11,7 @@ Then execute the following command line:
 
 ```
 # Clone the adopt-openjdk-kiss-vagrant repo
-$ git clone https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant.git
+$ git clone https://github.com/adoptopenjdk/adopt-openjdk-kiss-vagrant.git
 
 # Change to a folder to create the Vagrantfile
 $ cd adopt-openjdk-kiss-vagrant.git
@@ -82,4 +82,4 @@ Once the vm has booted and dependencies have been installed the next script will
 ```bash
   $ make test ;
 ```
-There's also a [github repo](https://github.com/neomatrix369/adopt-openjdk-kiss-vagrant) with a *Vagrantfile* and accompanying scripts.
+There's also a [github repo](https://github.com/adoptopenjdk/adopt-openjdk-kiss-vagrant) with a *Vagrantfile* and accompanying scripts.
