@@ -1,2 +1,2 @@
-# How to run a hackday, how to prepare ?
+## How to run a hackday, how to prepare ?
 
