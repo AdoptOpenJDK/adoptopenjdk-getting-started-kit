@@ -12,7 +12,7 @@
    * [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
    * [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md)
    * [How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
-   * How to run a hackday, how to prepare ?
+   * [How to run a hackday, how to prepare ?](how-to-navigate/how_to_run_a_hackday,_how_to_prepare.md)
 * [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md)
    * [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
    * [About OCA - signing the OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
