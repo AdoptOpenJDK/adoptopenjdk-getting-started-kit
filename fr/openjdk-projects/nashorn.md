@@ -21,7 +21,7 @@ https://java.net/projects/avatar-js/sources
 
 ## Présentations
 
-Voici une [présentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) d'un membre du BGJUG lors d'une conférence Java à Sofia. Elle couvre des sujets tels que les Lambdas sur Nashorn, AvatarJS, AvatarEE, etc...
+Voici une [présentation](https://github.com/adoptopenjdk/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) d'un membre du BGJUG lors d'une conférence Java à Sofia. Elle couvre des sujets tels que les Lambdas sur Nashorn, AvatarJS, AvatarEE, etc...
 
 ## Posts de blogs
 

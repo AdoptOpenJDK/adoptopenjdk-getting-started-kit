@@ -11,18 +11,18 @@
 
 Ten dokument ma na celu pomóc zrobić pierwsze kroki programistom żeby zacząć z OpenJDK oraz odnosi sie w większości przypadków do takich źródeł jak http://adoptopenjdk.java.net oraz http://openjdk.java.net/, i nie zastępuje ani zamienia tych źródeł.
 
-####[Zaczynamy...](http://neomatrix369.gitbooks.io/adoptopenjdk-getting-started-kit/content/)
+####[Zaczynamy...](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/)
 
 <br/>
 ##### Chcesz być współtwórcą ?
 
 Zrób co poniżej i będziesz w stanie przystąpić do współpracy natychmiast używając modelu współpracy github:
 
-Skopiuj repozytorium **git@github.com:neomatrix369/adoptopenjdk-getting-started-kit.git**, wprowadź swoje zmiany, i stwórz pull request
+Skopiuj repozytorium **git@github.com:adoptopenjdk/adoptopenjdk-getting-started-kit.git**, wprowadź swoje zmiany, i stwórz pull request
 
 lub 
 
-Możesz też [skontaktować się](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) z autorami podając nazwę użytkownika github żeby być dodanym do repozytorium.
+Możesz też [skontaktować się](https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/contact) z autorami podając nazwę użytkownika github żeby być dodanym do repozytorium.
 
 [Dokumentacja](http://help.gitbook.com/) oraz [jak zainstalować GitBook](https://github.com/GitbookIO/gitbook) lokalnie powinny pomoc w procesie.
 

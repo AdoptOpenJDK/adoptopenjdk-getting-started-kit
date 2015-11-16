@@ -1,6 +1,8 @@
 ###What's changed
 
 
+* 2015-11-15 [ How to run a hackday, how to prepare ?](how-to-navigate/how_to_run_a_hackday,_how_to_prepare.md)
+* 2015-11-15 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
 * 2015-11-13 [Testing Java Early project](intermediate-steps/testing_java_early_project.md)
 * 2015-10-18 [What is OpenJDK ?](adopt-openjdk-getting-started/what_is_openjdk.md)
 * 2015-10-18 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
@@ -33,7 +35,6 @@
 * 2015-07-18 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-07-16 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
 * 2015-07-04 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
-* 2015-07-04 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
 * 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-06-22 [Windows](known-issues/known_issues_windows.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)

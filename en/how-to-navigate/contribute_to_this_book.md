@@ -4,10 +4,10 @@
 
 Do the below and you can immediately start contributing via the github collaboration model:
 
-clone the repo **https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit**, make your amendments, and create a pull request
+clone the repo **https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit**, make your amendments, and create a pull request
 
 or 
 
-You can also [contact](https://www.gitbook.com/book/neomatrix369/adoptopenjdk-getting-started-kit/contact) the authors with your github username to be added to the repo.
+You can also [contact](https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/contact) the authors with your github username to be added to the repo.
 
 Some [documentation](http://help.gitbook.com/) and [how to install GitBook](https://github.com/GitbookIO/gitbook) locally should also help in the process.
