@@ -11,5 +11,5 @@
 
 This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like http://adoptopenjdk.java.net and http://openjdk.java.net/, and does not override or replace these resources.
 
-####Let's get started, and in this order: [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md) and [Adopt OpenJDK - Getting started](adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md).
+####Let's get started, and in this order: [How to navigate and make progress ?](en/how-to-navigate/how-to-navigate-and-make-progress.md) and [Adopt OpenJDK - Getting started](en/adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.md).
 ---
