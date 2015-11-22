@@ -11,6 +11,5 @@
 
 Ce document a pour objectif de faciliter les débuts avec OpenJDK aux nouveaux developpeurs, il pointe vers la documentation de référence (http://adoptopenjdk.java.net et http://openjdk.java.net/) aussi souvent que possible et ne modifie pas ni ne remplace ces resources..
 
-####[Commençons...](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/fr/index.html)
 ####Commençons..., et dans cet ordre [Comment naviguer et progresser ?](https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/fr/how-to-navigate/how-to-navigate-and-make-progress.html) and [Adopt OpenJDK - Commencement](https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/fr/adopt-openjdk-getting-started/adopt_openjdk_-_getting_started.html).
 ---
