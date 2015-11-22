@@ -1,6 +1,6 @@
 # Unified logging
 
-Récemment un nouveau framework de log à été poussé vers HotSpot via le **JEP 158**:
+RÃ©cemment un nouveau framework de log Ã  Ã©tÃ© poussÃ© vers HotSpot via le **JEP 158**:
 
 http://openjdk.java.net/jeps/158
 
@@ -8,7 +8,7 @@ Les log du GC pour la JVM sont en cours de changement pour utiliser le nouveau f
 
 http://openjdk.java.net/jeps/271
 
-Ceci va fortement changer ce à quoi ressemblent les logs de la JVM. L'équipe d'Hotspot qui travaille dessus rassemble le plus de retours possible sur le nouveau format. 
+Ceci va fortement changer ce Ã  quoi ressemblent les logs de la JVM. L'Ã©quipe d'Hotspot qui travaille dessus rassemble le plus de retours possible sur le nouveau format. 
 
 Il y a plus d'information sur les changements dans la discussion suivant la publication du JEP :
 
