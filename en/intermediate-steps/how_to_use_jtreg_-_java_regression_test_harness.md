@@ -74,4 +74,10 @@ Our search gave us the below:
 ./test/
 ```
 
+For example cd into 
+``` $SOURCES/dev/jdk9/jdk/test  or  $SOURCES/dev/jdk9/hotspot/test ```
+Then run:  jtreg -verbose:arg .
+
+To run individual tests, specify a subfolder as the argument to jtreg, or cd into that subfolder before running jtreg.
+
 Plenty to learn and know about OpenJDK hence we look at the tests to lear about the implementation code behind. them...
