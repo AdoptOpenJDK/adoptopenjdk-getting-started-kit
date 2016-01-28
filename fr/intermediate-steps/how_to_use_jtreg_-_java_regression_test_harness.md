@@ -63,7 +63,7 @@ Lancez la ligne ci-dessous pour trouver les repos ou packages ayant un répertoi
 $ tree -fL 5 | grep "/test/" | more
 ```
 
-Notre recherche à donner :
+La recherche a donné :
 ```
 ./hotspot/test
 ./jdk/test
@@ -71,5 +71,11 @@ Notre recherche à donner :
 ./nashorn/test
 ./test/
 ```
+
+Allez par exemple dans 
+``` $SOURCES/dev/jdk9/jdk/test  ou  $SOURCES/dev/jdk9/hotspot/test ```
+Puis lancez :  jtreg -verbose:arg .
+
+Pour lancer des tests individuels, spécifiez un sous répertoire comme argument à jtreg, ou lancez depuis ce sous répertoire.
 
 Il y a beaucoup à apprendre à propos d'OpenJDK c'est pourquoi nous regardons les tests pour apprendre le code derrière...
