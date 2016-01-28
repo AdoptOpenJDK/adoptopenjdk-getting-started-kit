@@ -1,4 +1,4 @@
-# Nashorn (pronounced: ˈnaːshɔɐ̯n)
+# Project Nashorn (pronounced: ˈnaːshɔɐ̯n)
 
 Javascript runtime for the JVM (follow-on from [Rhino](https://docs.oracle.com/javase/7/docs/technotes/guides/scripting/programmer_guide/)). 
 
@@ -21,7 +21,7 @@ https://java.net/projects/avatar-js/sources
 
 ## Presentations
 
-Here's a [presentation](https://github.com/neomatrix369/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
+Here's a [presentation](https://github.com/adoptopenjdk/adoptopenjdk-getting-started-kit/blob/master/en/openjdk-projects/JavaScript_J2D.pdf) from a BGJUG member at a Java conference in Sofia. It covers topics like Lambdas on Nashorn, AvatarJS, AvatarEE, etc...
 
 ## Blog Posts
 

@@ -1,4 +1,4 @@
-# Adopt OpenJDK Projects
+# Adopt OpenJDK Projects & Tasks
 
 Projects started by the community:
 * [Betterrev](adoptopenjdk_projects_betterrev.md)

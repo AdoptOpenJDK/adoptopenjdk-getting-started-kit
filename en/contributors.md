@@ -15,8 +15,10 @@ Below is a list of contributors both individuals and groups (in no particular or
     - and many members who participated at the hackdays
 - Mohan Radhakrishnan
 - BGJUG (Ivan, Martin, Dmitri)
-- CeJUG (Helio, Paulo) 
+- CeJUG (Helio, Paulo)
+
+If you don't find your name on the list above, please ping us and let us know, we will add it here.
 
 ####Want to contribute to this book ?
 
-See under section [How to contribute to this book ?](contribute.md)
+See under section [How to contribute to this book ?](how-to-navigate/contribute.md).

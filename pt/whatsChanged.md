@@ -1,6 +1,8 @@
 ###What's changed
 
 
+* 2015-11-16 [README.md](README.md)
+* 2015-11-16 [Como contribuir a este livro](contribute.md)
 * 2015-05-16 [MacOS](known-issues/known_issues_macos.md)
 * 2015-05-07 [VMs configuradas](virtual-machines/ready-made_vm.md)
 * 2015-05-07 [Veja a estrutura de diretorios de diversos projetos do OpenJDK](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
@@ -47,7 +49,6 @@
 * 2015-05-03 [Testando o Java antes do lançamento oficial](advanced-steps/testing_java_early_project.md)
 * 2015-05-03 [Tabela de OSes & IDEs suportados](adopt-openjdk-getting-started/table_of_supported_oses_&_ides.md)
 * 2015-05-03 [Sobre o OCA](adopt-openjdk-getting-started/about_oca_-_signing_the_oca.md)
-* 2015-05-03 [README.md](README.md)
 * 2015-05-03 [Projetos do Adopt OpenJDK](adoptopenjdk-projects/adopt_openjdk_projects.md)
 * 2015-05-03 [Problems.txt](advanced-steps/problems.txt.md)
 * 2015-05-03 [Preparações](preparations.md)
@@ -74,7 +75,6 @@
 * 2015-05-03 [Contribuidores deste livro](contributors.md)
 * 2015-05-03 [Compilador e cia](advanced-steps/compiler_stuff.md)
 * 2015-05-03 [Como usar o JTReg… - Java Regression Test Harness](advanced-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
-* 2015-05-03 [Como contribuir a este livro](contribute.md)
 * 2015-05-03 [Canivete suiço de scripts para desenvolvedores do OpenJDK](handy-scripts-for-OpenJDK-developers.md)
 * 2015-05-03 [Building jcov](advanced-steps/building_jcov.md)
 * 2015-05-03 [Build do OpenJDK 9](binaries/build_openjdk_9.md)
