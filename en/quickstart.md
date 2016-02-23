@@ -1,5 +1,7 @@
 # Getting Started #
 
+TODO suss how to add this chapter into main book
+
 Some knowledge of Ubuntu and Linux commands is useful, but the steps below will get you up and running for now.
 
 Commands that you need to type are shown like this:  
