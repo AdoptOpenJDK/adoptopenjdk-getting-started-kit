@@ -11,7 +11,7 @@
 
 This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like http://adoptopenjdk.java.net and http://openjdk.java.net/, and does not override or replace these resources.
 
-#### Let's get started! ####
-[Click here for Quick Start Guide](https://mikebgx.gitbooks.io/adopt-openjdk-quickstart-chapter/content/quick-start.html)  
-or press the blue "Read" button to the right for the main document.
+#### Let's get started!
+[Click here for Quick Start Guide](https://mikebgx.gitbooks.io/adopt-openjdk-quickstart-chapter/content/quick-start.html)
+###### or press the blue "Read" button to the right for the main document.
 ---
