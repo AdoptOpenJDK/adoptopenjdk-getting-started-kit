@@ -44,6 +44,11 @@
        * [Eclipse](source-code/loading_openjdk_in_eclipse.md)
        * [Netbeans](source-code/loading_openjdk_in_netbeans.md)
 * [OpenJDK projects](openjdk-projects/openjdk_projects.md)
+<<<<<<< HEAD
+   * [Penrose](openjdk-projects/penrose.md)
+   * [Nashorn](openjdk-projects/nashorn.md)
+   * [Valhalla](openjdk-projects/valhalla.md)
+=======
    * [Project Penrose](openjdk-projects/penrose.md)
    * [Project Nashorn](openjdk-projects/nashorn.md)
    * [JMH](openjdk-projects/jmh/jmh.md)
@@ -57,6 +62,7 @@
        * [Maven pom.xml to build kulla.jar](openjdk-projects/kulla/kulla-pom-xml.md)
    * [Project Valhalla](openjdk-projects/valhalla.md)
    * [Project Shenandoah](openjdk-projects/shenandoah.md)
+>>>>>>> 6aac3aea810aa6305b0b5f03c1ca932e78ad39fe
 * [Intermediate steps](intermediate-steps/intermediate_steps.md)
    * [See directory structure of various OpenJDK projects](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)
        * [OpenJDK8 directory structures](intermediate-steps/openjdk8_directory_structures.md)

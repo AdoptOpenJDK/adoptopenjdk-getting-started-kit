@@ -37,6 +37,13 @@
 * 2015-09-01 [is used to parse the JMH benchmark data and plot these graphs.](openjdk-projects/jmh/analysisusingR.md)
 * 2015-07-18 [ How to setup the environment on your machine on the day ?](how-to-navigate/prepare-an-environment-machine.md)
 * 2015-07-16 [How to prepare before attending a hackday or workshop?](how-to-navigate/prepare-before-hackday.md)
+<<<<<<< HEAD
+* 2015-07-15 [Maven pom.xml to build your own kulla.jar](openjdk-projects/kulla-pom-xml.md)
+* 2015-07-04 [# Contribute to this book](how-to-navigate/contribute_to_this_book.md)
+* 2015-07-04 [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
+* 2015-06-28 [How to navigate and make progress ?](how-to-navigate/how-to-navigate-and-make-progress.md)
+=======
+>>>>>>> 6aac3aea810aa6305b0b5f03c1ca932e78ad39fe
 * 2015-06-27 [Patches - how to create and submit them (webrev)](intermediate-steps/patches_-_how_to_create_and_submit_them_webrev.md)
 * 2015-06-22 [Windows](known-issues/known_issues_windows.md)
 * 2015-06-14 [Docker images](docker-images/docker-images.md)
@@ -49,6 +56,13 @@
 * 2015-06-13 [Build Images](docker-images/build-images.md)
 * 2015-06-13 [Additional pre-hackday actions for experienced attendees](how-to-navigate/additional-pre-hackday-actions-experienced.md)
 * 2015-06-12 [# Intermediate level](how-to-navigate/intermediate-level.md)
+<<<<<<< HEAD
+* 2015-06-12 [How to contribute to this book ?](contribute.md)
+* 2015-05-25 [Valhalla](openjdk-projects/valhalla.md)
+* 2015-05-25 [Nashorn (pronounced: ˈnaːshɔɐ̯n)](openjdk-projects/nashorn.md)
+* 2015-05-16 [Virtual Machine](known-issues/known_issues_virtual_machine.md)
+=======
+>>>>>>> 6aac3aea810aa6305b0b5f03c1ca932e78ad39fe
 * 2015-05-16 [ TODO](virtual-machines/TODO.md)
 * 2015-05-16 [ProblemList.txt](intermediate-steps/problems.txt.md)
 * 2015-05-16 [Preparations](intermediate-steps/preparations.md)

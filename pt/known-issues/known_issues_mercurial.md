@@ -5,7 +5,7 @@
 O repo do OpenJDK mudou, verifique que a url que esta sendo usada esta correta.
 
 Era:
-http://hg.openjdk.java.net/jdk8/tl
+hg.openjdk.java.net/jdk8/tl
 
 Mudou para
 http://hg.openjdk.java.net/jdk8/jdk8
@@ -23,7 +23,7 @@ Todos os comandos hg clone devem usar os links mais atuais.
 Edite todos os arquivos dentro de .hg/hgrc localizados em ($HOME/SOURCE/jdk8_tl) incluindo hotspot, jaxws, jaxp, corba, nashorn, jdk, langtools, e mude todas as referencias de .../tl/... para .../jdk8/… Por exemplo:
 
 ```
-default = http://hg.openjdk.java.net/jdk8/tl/hotspot
+default = hg.openjdk.java.net/jdk8/tl/hotspot
 ```
 para
 ```

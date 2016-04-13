@@ -31,8 +31,6 @@
 * [Projetos do OpenJDK](openjdk-projects/openjdk_projects.md)
    * [Penrose](openjdk-projects/penrose.md)
    * [Nashorn](openjdk-projects/nashorn.md)
-   * [JMH](openjdk-projects/jmh.md)
-   * [Kulla](openjdk-projects/kulla.md)
    * [Valhalla](openjdk-projects/valhalla.md)
 * [Passos intermediários](intermediate-steps/intermediate_steps.md)
    * [Veja a estrutura de diversos diretorios e projetos do OpenJDK](intermediate-steps/see_directory_structure_of_various_openjdk_projects.md)

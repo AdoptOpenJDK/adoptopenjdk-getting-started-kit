@@ -8,6 +8,6 @@ Se mesmo assim, voce precisar de mais espaco em disco, use a solução abaixo pa
 
 **Como posso mudar o tamanho do disco (VDIs) em minha VM?**
 
-[Link recomendado](http://bit.ly/1qgfZJ7
-http://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/
-https://forums.virtualbox.org/viewtopic.php?t=10348) Por Richard Greenlees.
+[Link recomendado](http://bit.ly/1qgfZJ7)
+[Link recomendado](http://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/)
+[Link recomendado](https://forums.virtualbox.org/viewtopic.php?t=10348) Por Richard Greenlees
