@@ -3,7 +3,7 @@
 ![](cover_small.jpg) Adopt OpenJDK - Getting Started Kit... 
 ---
 
-*Shortened link to the Adopt OpenJDK Getting Started Kit: http://bit.ly/1NUkPWw*
+*Shortened link to the Adopt OpenJDK Getting Started Kit: http://bit.ly/1XXdTh0*
 
 ---
 
