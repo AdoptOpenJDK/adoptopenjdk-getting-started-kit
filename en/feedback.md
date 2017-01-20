@@ -19,5 +19,9 @@ IRC Channel
 
 * Join us on the IRC channel: \#adoptopenjdk \(via a browser or desktop-based IRC Client\)
 
+Slack channel
+
+* Join us on the [LJC Slack channel](https://londonjavacommunity.slack.com/archives/adopt-openjdk-n-jsrs) for those who are members of the London Java Community
+
 Have a look at [How to contribute to this book](how-to-navigate/contribute.md) and [How to contribute to Adopt OpenJDK and OpenJDK ?](how-to-navigate/how_to_contribute_to_adopt_openjdk_and_openjdk.md)
 
