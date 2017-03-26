@@ -1,6 +1,11 @@
 ###What's changed
 
 
+* 2017-02-05 [Retours et annonces](feedback.md)
+* 2017-02-05 [README.md](README.md)
+* 2017-02-05 [JTReg de la ferme de build d'AdoptOpenJDK](binaries/jtreg_from_buildfarm.md)
+* 2017-02-05 [Construire OpenJDK 9](binaries/build_openjdk_9.md)
+* 2016-01-24 [Utilisation de JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md)
 * 2015-11-22 [Tester le projet Java Early](intermediate-steps/testing_java_early_project.md)
 * 2015-11-22 [README.md](README.md)
 * 2015-11-22 [Comment animer un hackday, comment se préparer?](how-to-navigate/how_to_run_a_hackday,_how_to_prepare.md)
