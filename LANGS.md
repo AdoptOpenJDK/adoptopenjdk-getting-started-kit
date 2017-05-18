@@ -1,6 +1,6 @@
 * [English](en/)
-* [French](fr/)
+<!-- * [French](fr/) -->
 * [Português](pt/)
-* [Polish](pl/)
-* [Russian](ru/)
+<!-- * [Polish](pl/) -->
+<!-- * [Russian](ru/) -->
 

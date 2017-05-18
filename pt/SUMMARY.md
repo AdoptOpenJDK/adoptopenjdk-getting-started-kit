@@ -17,6 +17,8 @@
    * [Faça sua própria VM](virtual-machines/build_your_own_vm.md)
    * [Faça sua própria VM light-weight](virtual-machines/build_your_own_lightweight_vm.md)
    * [Compartindo arquivos locais com sua VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
+   * [OpenJDK 8 Vagrant Puppet ](virtual-machines/adoptjdk_puppet_vm.md)
+   * [Compile a OpenJDK8 no MacOSx](virtual-machines/build_openjdk_jdk8u_virtual_box.md)
 * [Binaries](binaries/binaries.md)
    * [OpenJDK Early Access](binaries/openjdk_early_access.md)
    * [JTReg do AdoptOpenJDK BuildFarm](binaries/jtreg_from_buildfarm.md)

@@ -28,6 +28,8 @@
     * [Build your own VM](virtual-machines/build_your_own_vm.md)
     * [Build your own light-weight VM](virtual-machines/build_your_own_lightweight_vm.md)
     * [Sharing host folder with guest VM](virtual-machines/sharing_host_folder_with_guest_vm.md)
+    * [OpenJDK 8 Vagrant Puppet ](virtual-machines/adoptjdk_puppet_vm.md)
+    * [Compile a OpenJDK8 no MacOSx](virtual-machines/build_openjdk_jdk8u_virtual_box.md)
 * [Docker images](docker-images/docker-images.md)
     * [Copy Images](docker-images/copy-images.md)
     * [Build Images](docker-images/build-images.md)
