@@ -1,11 +1,11 @@
-# Compartindo arquivos locais com sua VM
+# Compartilhando arquivos locais com sua VM
 
-Esta secao descreve como acessar os fontes do Java que estao dentro da VM desde a sua IDE rodando no seu computador local.
-Desta maneira voce podera trabalhar com os aruivos do OpenJDK usando sua IDE favorita, e a VM sera usada apenas para efetuar o build.
+Esta seção descreve como acessar os fontes do Java que estão dentro da VM à partir da sua IDE rodando no seu computador local.
+Desta maneira voce podera trabalhar com os aruivos do OpenJDK usando sua IDE favorita, e a VM será usada apenas para efetuar o build.
 
 Estes passos foram testados em um *Mac OSX 10.10* executando *VirtualBox 4.3.20* em um Ubuntu_12.04_OpenJDK_dev_1 VM.
 
-A solucao ideal seria usar a VirtualBox compartindo os mesmos arquivos juntamente com a maquina local. Esta solucao foi testada porem infelizmente nao funcionou muito bem. Desconfiamos que o OpenJDK build possue problemas para executar quando em uma pasta compartida, acreditamos que o problema seja em arquivos C++ e headers pre-compilados. Por hora vamos deixar a vm rodando e usaremos Samba para compartir os arquivos. Veja mais detalhes abaixo.
+A solucao ideal seria usar a VirtualBox compartilhando os mesmos arquivos juntamente com a máquina local. Esta solucão foi testada porém infelizmente não funcionou muito bem. Desconfiamos que o OpenJDK build possue problemas para executar quando em uma pasta compartida, acreditamos que o problema seja em arquivos C++ e headers pre-compilados. Por hora vamos deixar a vm rodando e usaremos Samba para compartir os arquivos. Veja mais detalhes abaixo.
 
 ### 1. Configure o Samba em sua VM
 
@@ -54,8 +54,8 @@ Para verificar os settings da network, envie um sinal de ping:
 ping 200.200.0.129
 ```
 
-### 3. Conecte sua maquina local
-Efetue o Map do seu shared drive / arquivos :
+### 3. Conecte sua máquina local
+Efetue o Map do seu drive compartilhado (drive/arquivos):
  - Server: **openjdk** (ou ip 200.200.0.129)
  - User: **OpenJDK**
 
