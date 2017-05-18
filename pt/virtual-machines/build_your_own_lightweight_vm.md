@@ -1,63 +1,86 @@
-# Faça sua própria VM light-weight
+# Crie a sua própria light-weight VM
 
-Uma simplificada maquina virtual sem interface grafica configurada para fazer o build do OpenJDK.
+Uma máquina virtual simples e padronizada para buildar a OpenJDK.
 
 
-### Quick Start
+### Início
 
-Para iniciar, efetue o download da versão mais atualizada do *Vagrant 1.7.2 ou mais atual* [link](https://www.vagrantup.com/downloads.html)
+Por favor faça o download e instale a última versão do Vagrant *1.7.2 ou maior* em https://www.vagrantup.com/downloads.html.
 
-Execute os seguintes comandos em sua linha de comando:
+Execute os seguintes comandos:
 
-```$ vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";```
-Este processo pode demorar vários minutos, efetuar o build completo do OpenJDK pode tardar uma hora (testado em um *MacBookPro 2013 with 16GB c/ SSD*).
+```
+# Clone the adopt-openjdk-kiss-vagrant repo
+$ git clone https://github.com/adoptopenjdk/adopt-openjdk-kiss-vagrant.git
 
-### Passos iniciais
+# Mude de diretório para criar o Vagrantfile
+$ cd adopt-openjdk-kiss-vagrant.git
+$ vagrant init
 
-* Indicado para pessoas que desejam explorar as tecnologias usadas para efetuar o build da box.
+# Inicie a máquina virtual
+$ vagrant up
 
-Nas seções do documento abaixo, todas sao mandatorias para obter uma completa execução dos procedimentos aqui mencionados. Todas as seções marcasa com **bold** demarcam informações adicionais ou configurações opcionais. **Qualquer referencia ao caracter $ deve se subentender que se fala de um comando em linha de comando a ser executado dentro da vm vagrant. **
+# Conecte na VM via ssh
+$ vagrant ssh
 
-  - Instalando Virtual Box, Vagrant & Git
-  - Boot Vagrant VM
-  - Initial Vagrant VM setup
-  - OpenJDK 9 Build
+# Em seguida execute
+# Mapping in place: /vagrant/scripts/ ==> [currentfolder]/scripts
+```
 
-## Instalando Virtual Box, Vagrant & Git
-Os softwares abaixo mencionados foram testados e instalados em um Mac e as cujo software e respectiva versão sao da data nao menos rescente que 01/18/2015;
+Dê uma olhada nos scripts e diretórios desse repositório, já que eles podem ser utilizados para diferentes propósitos. Uma vez finalizdos os passos acima, vá até [Build your own OpenJDK](../binaries/build_your_own_openjdk.md) para continuar com o build da OpenJDK.
+
+*Nota:* o tamanho da VM é de aproximadamente **377MB** então por favor, faça o download antecipadamente, em uma conexão lenta, o processo completo até o build pode levar cerca de uma hora (utilizando um *MacBookPro 2013 com 16GB e SSD*)
+
+
+### Processo detalhado
+
+*Caso você queira realizar o processo acima e explorar todas as tecnologias utilizadas para criar a VM.*
+
+Os passos estão na seção abaixo, todos os bullet points são necessários, as partes em **negrito** são configurações opcionais. 
+**Qualuer menção a $ deve ser executado na linha de comando com a Vagrant VM**
+
+  - Instalação da Virtual Box, Vagrant e Git
+  - Inicialização da Vagrant VM
+  - Configuração inicial da Vagrant VM
+  - Build da OpenJDK 9
+
+## Instalação da Virtual Box, Vagrant e Git
+As versões dos softwares instalados e testados em um Mac no dia 18/01/2015 são:
   - Virtual Box v4.3.20 (https://www.virtualbox.org/wiki/Downloads)
   - Vagrant v1.7.1 (https://www.vagrantup.com/downloads.html)
   - Git v2.2.2 (http://git-scm.com/downloads)
 
-## Efetue o Download da VM
-Uma vez que o vagrant estiver instalado execute o comando abaixo em sua linha de comando, vale lembrar que o arquivo esperado deve conter cerca de 377MB. Caso esteja se preparando para ultilizar esta vm em uma conferencia proxima, considere efetuar o download agora para evitar congestionamento nas redes wifi da conferencia.
+## Download da Vagrant VM no repositório remoto
+Uma vez que a VM foi instalado, por favor execute o seguinte comando, o download é de aproximadamente 377MB então por favor faça isso antecipadamente para ganhar tempo.
 
-```vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box";```
-
-Este download e consequente instalação do OpenJDK pode tardar cerca de uma hora em uma conexão de rede lenta. (Testado em um MacBookPro 2013 com 16GB de memoria e hd SSD)
-
-Carregar a imagem no VirtualBox e iniciar a maquina virtual.
-
-##### Instalação e realizando o setup do Vagrant VM
-
-Uma vez finalizado o download e as dependencias estiverem instaladas, o proximo script vai efetuar o download da ultima versao do JDK9 e/ou atualizar arquivos existentes caso os mesmos já existam antes da execução deste comando.
-
+```bash
+vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
 ```
+
+Em uma conexão lenta o processo completo até o build pode levar cerca de uma hora (utilizando um *MacBookPro 2013 com 16GB e SSD*)
+
+Carregando a VirtualBox  and iniciando a VM.
+
+##### Setup inicial da Vagrant VM
+Uma vez que a VM foi inicializada e suas dependencias instaladas, o próximo script fará o download da última versão da jdk9, caso você já tenha alguma versão da jdk, o prócesso executará uma atualização então fique tranquilo quanto a isso.
+
+```bash
   $ vagrant ssh
-  $ /vagrant/scripts/source.sh
+  $ sh /vagrant/scripts/source-share-with-host.sh
 ```
 
-##### Efetuando o build do OpenJDK 9
+##### Build da OpenJDK 9
 
-```
+```bash
   $ vagrant ssh
-  $ cd ~/source/jdk9 ;
+  $ cd /vagrant/sources/jdk9 ;
   $ bash get_source.sh ;
-  $ bash configure ;
+  $ bash configure;
+  or 
+  $ bash configure --disable-warnings-as-errors;
   $ make clean images ;
 ```  
-
-##### Efetuando testes no OpenJDK 9
-```
+```bash
   $ make test ;
 ```
+Há também um [repositório no github](https://github.com/adoptopenjdk/adopt-openjdk-kiss-vagrant) com a *Vagrantfile* e os arquivos necessários.
