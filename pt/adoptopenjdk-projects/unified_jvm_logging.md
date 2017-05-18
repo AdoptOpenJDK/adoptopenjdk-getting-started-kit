@@ -2,7 +2,7 @@
 
 Recentemente, uma nova estrutura de log foi criada para HotSpot via **JEP 158**:
 
-Http://openjdk.java.net/jeps/158
+http://openjdk.java.net/jeps/158
 
 O registo da GC para a JVM está sendo alterado para utilizar a nova estrutura de link acima,  **JEP 271**:
 
