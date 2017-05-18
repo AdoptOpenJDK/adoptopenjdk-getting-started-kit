@@ -7,14 +7,14 @@ http://openjdk.java.net/projects/kulla/
 https://bugs.openjdk.java.net/browse/JDK-8043364
 
 **Feedback**  
-Veja os comentarios do rescente LJC hackday e/ou adicione seus comentarios [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing).
+Veja os comentarios do recente LJC hackday e/ou adicione seus comentários [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing).
 
 **Download binarios**
 JDK9 binarios: https://jdk9.java.net/download/<br/>
 Kulla.jar: [Adopt OpenJDK Cloudbees Build farm](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/lastSuccessfulBuild/artifact/)
 
-**Usuarios MacOS**<br/>
-Se você nao deseja tornar o JDK9 como Java primario no seu MacOS, veja [este link](http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html).
+**Usuários MacOS**<br/>
+Se você não deseja que a JDK9 o padão no seu MacOS, veja [este link](http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html).
 
 Qual JDK estou usando ?
 ```
@@ -22,7 +22,7 @@ Qual JDK estou usando ?
 $ /usr/libexec/java_home -verbose
 ```
 
-Como posso setar JDK8 ou JDK9 para ser a minha default JAVA_HOME de maneira automatica a cada vez que eu abrir o terminal?
+Como posso setar JDK8 ou JDK9 como default JAVA_HOME de maneira automatica a cada vez que eu abrir o terminal?
 ```
 // Você pode setar o comando export no ~/.profile
 // e/ou ~/.bashrc para configurar permanentemente a variavel JAVA_HOME
@@ -35,7 +35,7 @@ export JAVA_HOME="`/usr/libexec/java_home -v '1.9*'`"
 ```
 
 **Usuarios Linux/MacOS**<br/>
-Como posso mudar o JDK de versao se eu tiver mais de um (ou muitos) diferentes ?
+Como posso mudar o JDK de versão se eu tiver diversas versões diferentes?
 
 Adicione as linhas abaixo no seu .bashrc ou .bash_profile:
 
@@ -95,7 +95,7 @@ $ java -jar ~/sources/kulla/kulla.jar
 ->|
 ```
 
-*/Opcoes de ajuda*
+*/Opções de ajuda*
 
 ```
 -> /help
@@ -113,14 +113,14 @@ Ou digite um dos comandos abaixo:
 }
 
 Atalhos suportados incluem:
-<tab> -- mostra todas as possiveis combinacoes para o texto digitado no console
-Shift-<tab> -- mostra uma synopsis para o metodo/construtor digitado no console
+<tab> -- mostra todas as possíveis combinações para o texto digitado no console
+Shift-<tab> -- mostra uma synopsis para o método/construtor digitado no console
 ```
 
 *Slides*
 [em breve]
 
-*Exercicios*<br/>
+*Exercícios*<br/>
 - https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
 
 *Outras publicações disponiveis sobre o REPL*
@@ -128,9 +128,9 @@ Shift-<tab> -- mostra uma synopsis para o metodo/construtor digitado no console
 - http://redcode7.rssing.com/browser.php?indx=11248373&last=1&item=7
 - http://www.javaworld.com/article/2601433/java-language/programmers-could-get-repl-in-official-java.html
 - https://teamtreehouse.com/forum/installing-java-repl
-- [Java REPL](https://github.com/parrt/cs652/blob/master/projects/Java-REPL.md) em 300 linhas de of codigo
+- [Java REPL](https://github.com/parrt/cs652/blob/master/projects/Java-REPL.md) em 300 linhas de  código
 
-** Efetuando o build do Kulla dev branch do OpenJDK9 **
+**Gerando a build do Kulla dev branch do OpenJDK9 **
 
 ```
 hg clone http://hg.openjdk.java.net/kulla/dev kulla-dev
@@ -141,9 +141,9 @@ make clean images
 make install  <=== optional
 ```
 
-Confirme que o PATH do JDK construido com os passos acima esta seteado no```JAVA_HOME``` e ```PATH``` environment variables.
+Confirme que o PATH do JDK está setado nas variáveis de ambiente ```JAVA_HOME``` e ```PATH```.
 
-Download ```JLINE2``` do maven repo [Maven](http://mvnrepository.com/artifact/jline/jline), e sete a environment variable ```JLINE2LIB``` para apontar o jar que acabamos de baixar.
+Baixe ```JLINE2``` do maven repo [Maven](http://mvnrepository.com/artifact/jline/jline), e sete a variável de ambiente ```JLINE2LIB``` para apontar para o jar que acabamos de baixar.
 
 Para compilar e rodar Kulla, veja http://hg.openjdk.java.net/kulla/dev/langtools/file/4933dc482be7/repl/README.
 
