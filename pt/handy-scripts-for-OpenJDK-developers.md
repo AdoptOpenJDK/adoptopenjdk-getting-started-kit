@@ -37,16 +37,22 @@ make images
 make test```
 
 <br/>
-__Exemplo simples de mudancaa no openjdk code-base e escrevendo um cliente que use as mudancas__
+__Exemplo simples de mudançaa no código fonte openjdk + escrevendo um cliente que use as mudancas__
 
 ```buildAndRunTheChangedRandom.sh``` -  rode este comando apos efetuar mudancas no arquivo ChangeRandom.java
 
 ```bash
 ##### OpenJDK8
 IMAGES_FOLDER=$SOURCES/jdk8/build/linux-x86_64-normal-server-release/images
+$IMAGES_FOLDER/j2sdk-image/bin/javac -version
 $IMAGES_FOLDER/j2sdk-image/bin/javac ChangeRandom.java
+$IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "major"
+$IMAGES_FOLDER/jdk/bin/javap -verbose ChangeRandom | grep "minor"
+
+$IMAGES_FOLDER/jre/bin/java -version
 $IMAGES_FOLDER/j2re-image/bin/java ChangeRandom
 ```
+
 
 ```bash
 ##### OpenJDK9
