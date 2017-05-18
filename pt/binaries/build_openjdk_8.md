@@ -1,35 +1,33 @@
-# Build do OpenJDK 8
+# Compilando a OpenJDK 8
 
-Link para uma detalhada pagina coom passos bem detalhados (em ingles) [Adopt OpenJDK wiki](https://java.net/projects/adoptopenjdk/pages/Build).
+* Buildando a OpenJDK a partir do zero *
 
-*Clonando oOpenJDK repo (one-time)*
-
-Caso você nao tenha um OpenJDK8 na sua VM (jdk8 or jdk8_tl folder) nos seguintes diretorios:
+Caso você não tenha um OpenJDK8 na sua máquina virtual (pasta jdk8 ou jdk8_tl) exemplo.:
 
 ```$ cd $HOME/sources/jdk8_tl```
-
 
 ou
 
 ```$ cd $HOME/sources/jdk8```
 
-
-ou
+ou 
 
 ```$ cd $HOME/dev/jdk8```
 
-Então execute os comandos abaixo:
+então faça o seguinte:
 
 ```
+$ cd $HOME/sources
+ou
+$ cd $HOME/dev
+
 $ hg clone http://hg.openjdk.java.net/jdk8/jdk8 jdk8
 $ cd jdk8
+$ chmod +x get_source.sh
+$ ./get_source.sh
 ```
+E você verá os seguintes resultados:
 
-Efetue o Download do codigo fonte rodando get_source.sh (importante)
-
-```$ chmod u+x get_source.sh```
-
-```$ sh get_source.sh```
 
 ```
 # Repositories:  ./corba . ./hotspot ./jaxp ./jaxws ./jdk ./langtools ./nashorn 
@@ -53,18 +51,17 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 .
 .
 ```
-General [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource):
+Geral [obtendo o código fonte](https://java.net/projects/adoptopenjdk/pages/GetSource):
 
 * [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu)
 
 * [MacOS X](https://java.net/projects/adoptopenjdk/pages/GetSource#Mac_OS_X) <br/>
 Nota: Se você estiver usando Mac OS X 10.8.5 com XCode 5 você vai precisar usar o a seguinte [solução](http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html).
 
-* [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows)<br/>
-Em caso de problemas, experimente criar e usar uma VirtualBox [siga as instruções](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM).
-Efetue o build e continue com o restante das instruções.
+* [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows) <br/>
+Caso os usuários do Windows ou MacOS X tenham problemas com a instalação ou o download dos fontes, é uma boa idéia criar sua própria VM usando o VirtualBox da Oracle e [seguir as instruções](https://java.net/projects/adoptopenjdk/pages/ AdoptOpenJDKVM). Crie e continue com o resto das instruções até a página "obtendo o código fonte" (e siga as etapas acima executando ```sh getSource.sh```).
 
-Configure o Openjdk setup (Opcional se você ja rodou o comando anteriormente)
+Configure o Openjdk (Opcional se você ja rodou o comando anteriormente)
 
 ```$ bash configure```
 
