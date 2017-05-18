@@ -122,4 +122,6 @@ Use este [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
 Caso contrario, quando o SonarQube iniciar, e tentar chamar o sonarqube API na URL http://localhost:9000, não haverá resposta e o SonarQube não iniciara corretamente.
 
 Exemplo visual do SonarQube<br/>
+(note: repositório jdk não incluso; jitwatch incluso; zoom para ver os nomes;)
+
 ![[[SonarQube Treemap Image]]](SonarQube-OpenJDK8-treemap.jpg)
