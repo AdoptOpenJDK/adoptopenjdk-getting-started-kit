@@ -2,8 +2,8 @@
 
 **Scripts para atualizar, fazer o build e rodar testes**
 
-Scripts Bash scripts que ajudam sua vida a ser mais facil
-```updateAndCleanBuildOpenJDK.sh``` - rode este sempre que deseje efetuar um clean seguido de build
+Scripts Bash que ajudam sua vida
+```updateAndCleanBuildOpenJDK.sh``` - execute sempre que desejar efetuar um clean seguido de build
 
 ```bash
 ./get_source.sh
@@ -11,7 +11,7 @@ bash configure
 make clean images
 ```
 
-```updateCleanBuildAndTestOpenJDK.sh``` - - rode este sempre que deseje efetuar um clean seguido de build e teste
+```updateCleanBuildAndTestOpenJDK.sh``` - rode este sempre que deseje efetuar um clean seguido de build e teste
 
 ```bash
 ./get_source.sh
@@ -39,7 +39,7 @@ make test```
 <br/>
 __Exemplo simples de mudançaa no código fonte openjdk + escrevendo um cliente que use as mudancas__
 
-```buildAndRunTheChangedRandom.sh``` -  rode este comando apos efetuar mudancas no arquivo ChangeRandom.java
+```buildAndRunTheChangedRandom.sh``` -  rode este comando após efetuar mudancas no arquivo ChangeRandom.java
 
 ```bash
 ##### OpenJDK8
