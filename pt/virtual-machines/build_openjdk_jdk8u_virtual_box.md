@@ -1,12 +1,12 @@
-# Compilando a OpenJDK8 no Mac, usando inception.
+# Compilando a OpenJDK8 no Mac.
 
 Voce pode ver uma outra versão desse tutorial [aqui](http://allandequeiroz.io/2017/05/15/building-openjdk-8-on-mac-inception-approach)
 
 Esse é um meio alternativo para compilar a OpenJDK8 em versões recentes do OSx.
 
-Diferentemente da OpenJDK 9 onde é possível utilizar as versões mais recentes do XCode para compilar a JDK, a OpenJDK 8 continua a utilizar XCode4, caso você esteja enfrentando problemas para fazer isso na sua própria máquina usando as flags xcode-select or --with-xcode-path você pode tentar através dessa alternativa.
+Diferentemente da OpenJDK 9 onde é possível utilizar as versões mais recentes do **XCode** para compilar a **JDK**, a **OpenJDK 8** continua a utilizar **XCode4**, caso você esteja enfrentando problemas para fazer isso na sua própria máquina usando as flags ```xcode-select``` or ```—with-xcode-path``` você pode tentar através dessa alternativa.
 
-Nesse tutorial nós utilizamos VirtualBox 5.1.22, todas as configurações necessárias relacionadas a compilação da JDK tais como, XCode e freetype já estão prontas na adopt-openjdk-jdk8u-build VM, então primeiramente faça os seguintes downloads.
+Nesse tutorial nós utilizamos **VirtualBox 5.1.22**, todas as configurações necessárias relacionadas a compilação da JDK tais como, XCode e freetype já estão prontas na adopt-openjdk-jdk8u-build VM, então primeiramente faça os seguintes downloads.
 
 [http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg)
 

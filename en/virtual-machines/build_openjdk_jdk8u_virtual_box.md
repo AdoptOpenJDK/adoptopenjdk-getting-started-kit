@@ -1,19 +1,19 @@
-# Building OpenJDK8 on Mac, Inception approach.
+# Building OpenJDK8 on Mac.
 
 You can see another version of this turorial [here](http://allandequeiroz.io/2017/05/15/building-openjdk-8-on-mac-inception-approach)
 
 This is an alternative way to build OpenJDK8 on recent versions of OSx.
 
 
-Different of the OpenJDK 9 where you can use the most recent versions of XCode to build the JDK, OpenJDK 8 still using XCode4 to get the job done, if you're facing problems using xcode-select or --with-xcode-path flags to build it directly on your machine an alternative is using a VM with the appropriate configurations.
+Different than the OpenJDK 9 where you can use the most recent versions of **XCode** to build the **JDK**, **OpenJDK 8** still using **XCode4** to get the job done, if you're facing problems using ```xcode-select``` or ```--with-xcode-path``` flags to build it directly on your machine an alternative is using a VM with the appropriate configurations.
 
-In this tutorial, we're using VirtualBox 5.1.22, anything else related like XCode, JDK and freetype are already configured in the adopt-openjdk-jdk8u-build VM, so first step, downloads:
+In this tutorial, we're using **VirtualBox 5.1.22**, anything else related like XCode, JDK and freetype are already configured in the adopt-openjdk-jdk8u-build VM, so first step, downloads:
 
 [http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg](http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-OSX.dmg)
 
 [https://goo.gl/Iw838n](https://goo.gl/Iw838n)
 
-# Throubleshooting
+# Troubleshooting
 
 Just to avoid let you going crazy, let's start with a potential issue related to boot.
 
@@ -33,7 +33,7 @@ Start again and keep pressing **F12**, I'll see the virtual machine "BIOS", sele
 
 ![](../../assets/3.png)
 
-# Configurations ( One time needed )
+# Configurations ( One off )
 
 ### HOST
     
@@ -71,16 +71,16 @@ Using VirtualBox start **adopt-openjdk-jdk8u-build** VM
 
 ### VM
 
-Open Finder inside the VM, you'll notice that your host machine is listed at the left side under **sharing**, click on the shared folder and use the login and password that you has just created on your host machine to get access.
+Open Finder inside the VM, you'll notice that your host machine is listed on the left side under **sharing**, click on the shared folder and use the login and password that you has just created on your host machine to get access.
 
 - login : adoptopenjdk
 - password : adoptopenjdk
 
-Now, to automount this sharing folder across restarts, go to **System Preferences -> Users & Groups**, find the adoptopenjdk user, go to Login Items tab and add the recently mounted sharing folder, It will be located at **/Volumes/AdoptOpenJDK**
+Now, to automount this sharing folder across restarts, go to **System Preferences -> Users & Groups**, find the adoptopenjdk user, go to Login Items tab and add the recently mounted shared folder, It will be located at **/Volumes/AdoptOpenJDK**
 
 ![](../../assets/7.png)
 
-To make it easy, you can created an alias from **/Volumes/AdoptOpenJDK** into **/Users/adoptopenjdk/dev**
+To make it easy, you can created an alias from **/Volumes/AdoptOpenJDK** to **/Users/adoptopenjdk/dev**
 
 ![](../../assets/8.png)
 
