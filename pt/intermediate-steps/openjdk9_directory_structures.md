@@ -1,6 +1,6 @@
 # OpenJDK9 estrutura dos diretórios
 
-De uma olhadinha em algumas das [estruturas da tree](https://gist.github.com/neomatrix369/5be36b5af8768353eca4) dos varios diretorios dentro da estrutura do OpenJDK9.
+De uma olhada em algumas das [estruturas da tree](https://gist.github.com/neomatrix369/5be36b5af8768353eca4) dos vários diretórios dentro da estrutura do OpenJDK9.
 
 **diretórios do build**
 ```
@@ -86,10 +86,15 @@ images
 └── images/sec-bin.zip
 ```
 ---
-**jdk/src diretórios**
+**jdk/src folder**
 ```
 $ cd sources/jdk9/jdk/src
 ```
+ou
+```
+$ cd dev/jdk9_dev/jdk/src
+```
+
 ```
 $ tree -dflL 5 java.base/share/classes/java/util
  
