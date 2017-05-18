@@ -2,9 +2,9 @@
 
 **O disco da minha VM ficou cheio quando instalei xxx/ou fiz o build de yyyy? Como devo proceder?**
 
-O diretorio de ‘build’ no jdk8_tl e jdk9 usam muito espaco em disco - as veses mais de 3GB, e podem ser removidos apos o build.
+O diretorio de ‘build’ no jdk8_tl e jdk9 usam muito espaco em disco - as vezes mais de 3GB, e podem ser removidos após o build.
 
-Se mesmo assim, voce precisar de mais espaco em disco, use a solução abaixo para aumentar o espaco em disco:
+Se mesmo assim, você precisar de mais espaco em disco, use a solução abaixo para aumentar o espaco em disco:
 
 **Como posso mudar o tamanho do disco (VDIs) em minha VM?**
 
