@@ -1,23 +1,16 @@
 # Passos Avançados
 
 
-* [Passos Avançados](advanced_steps.md)
-   * [Compilando jcov](building_jcov.md)
-   * [Compilando sigtest](building_sigtest.md)
-   * [OpenJDK cobertura de código](openjdk_code_coverage.md)
-   * [Deep-dive Hotspot e cia](deep-dive_hotspot_stuff.md)
-   * [Compilador e cia](compiler_stuff.md)
-   * [Efetue mudancas no java.c & e rode com o Hotspot dentro do Eclipse](change_javac_&_run_hotspot_from_within_eclipse.md)
-   * [Efetue mudancas no java.c & e rode com o Hotspot dentro do CLI](change_javac_&_run_hotspot_from_the_cli.md)
-   * [Hackeando o JDK, compilando, efetuando o build & rodando testes especificos](hacking_the_jdk,_compiling,_building_&_running_specific_tests_change_sources_in_the_jdk.md)
-       * [Testando o Java antes do lançamento oficial](testing_java_early_project.md)
-       * [Efetuando mudancas na classe Random.java class](change_the_randomjava_class_to_amend_the_below_method.md)
-       * [Efetuando mudancas na classe StringBuffer.java](change_the_stringbufferjava_class_to_add_the_below_method.md)
-       * [Como usar o JTReg… - Java Regression Test Harness](how_to_use_jtreg_-_java_regression_test_harness.md)
-           * [Preparações](preparations.md)
-           * [Problems.txt](problems.txt.md)
-           * [Exemplos de anotações no header de arquivos de teste](test-annotations.md)
-
+* [Passos avançados](advanced_steps.md)
+    * [Argumentos de linha de comando para otimização de desempenho de compilação](command-line_arguments_for_build_performance_optimisation.md)
+    * [Compilando jcov](building_jcov.md)
+    * [Compilando sigtest](building_sigtest.md)
+    * [Cobertura de código OpenJDK](openjdk_code_coverage.md)
+    * [Aprofundando-se na Hotspot](deep-dive_hotspot_stuff.md)
+    * [Compilação](compilador_stuff.md)
+    * [Alterar java.c & executar o Hotspot a partir do Eclipse](change_javac _ & _ run_hotspot_from_within_eclipse.md)
+    * [Alterar java.c & executar o Hotspot à partir do CLI](change_javac _ & _ run_hotspot_from_the_cli.md)
+   
 ### Muito em breve.…
 
 * Nashorn goodies…
@@ -29,7 +22,7 @@
 * Lisp for the JVM…
 
 
-### Hotspot JVM tasks: tasks adicionais para (nível intermediario / advancado) (Sem tradução)
+### Hotspot JVM tasks: tasks adicionais para (nível intermediario/advancado) (Sem tradução)
 
 *  Insert debug-level log messages into java.c throughout the unit, rebuild gamma and run the Demo class or any other java-based.
 *  Refactor java.c and insert debug-level log messages throughout the unit, rebuild gamma and run the Demo class or any other java-based program.
