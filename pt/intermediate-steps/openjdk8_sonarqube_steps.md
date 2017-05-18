@@ -88,7 +88,7 @@ sonar.skipPackageDesign=true
 # path para o projeto onde os binarios estão localizados (optional), examplo diretório do Java bytecode
 sonar.binaries=../build/linux-x86_64-normal-server-release/langtools
 ```
-and run :
+então execute :
 
 ```
 $ sonar-runner

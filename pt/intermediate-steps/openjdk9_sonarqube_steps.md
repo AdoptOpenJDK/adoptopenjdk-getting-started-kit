@@ -188,7 +188,7 @@ $ export SONAR_RUNNER_OPTS=”-Xms40m -Xmx1536m \
 $ sonar-runner
 ```
 
-Nota: Se o comando falhar devido a problemas relacionados a memoria, execute novamente com mais memoria.
+Nota: Se o comando falhar devido a problemas relacionados a memória, execute novamente com mais memória.
 
 ---
 

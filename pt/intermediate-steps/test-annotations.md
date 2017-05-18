@@ -1,8 +1,8 @@
-# Examples of annotations in the header of test files
+# Exemplos de anotações no cabeçalho dos arquivos de teste
 
-Run the following commands in each of the repos to filter out various examples, look into as many as possible, study and examine the syntax, see how the various functionalities are implemented. 
+Executar os seguintes comandos em cada um dos repos para filtrar vários exemplos, olhar para o maior número possível, estudar e examinar a sintaxe, ver como as várias funcionalidades são implementadas.
 
-Modify them and write new ones to see how they can be used, re-run the tests to see if you got them right:
+Modificá-los e escrever novos para ver como eles podem ser usados, re-executar os testes para ver se você tem direito:
 
 ```
 $ cd $SOURCE_CODE
@@ -58,11 +58,11 @@ $ grep -rH "/-workDir:" .
 $ grep -rH "/-xml" .
 
 $ cd ../jdk/test
-<same as above>
+<mesmo da saída acima>
 
 $ cd ../langtools/test
-<same as above>
+<mesmo da saída acima>
 
 $ cd ../nashorn/test
-<same as above>
+<mesmo da saída acima>
 ```
