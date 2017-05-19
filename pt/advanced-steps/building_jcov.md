@@ -21,6 +21,6 @@ $ ant -v -f build.xml -Dasmjar5=/path/to/asm-all-5.0.1.jar -Djavatestjar=/path/t
 
 ```jtharness``` pode ser encontrado em https://adopt-openjdk.ci.cloudbees.com/job/jtharness/lastSuccessfulBuild/artifact/
 
-*Nota: Estas instuções acima serão removidas assim que a referencia oficial seja atualizada.
+*Nota: As instuções acima serão removidas assim que a referencia oficial for atualizada.
 
 Veja também [OpenJDK Code Coverage](openjdk_code_coverage.md).
