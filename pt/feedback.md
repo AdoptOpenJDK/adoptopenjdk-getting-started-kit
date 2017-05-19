@@ -22,6 +22,6 @@ Canal IRC
 
 Slack channel
 
-* Junte-se a nós no canal [LJC Slack] (https://londonjavacommunity.slack.com/archives/adopt-openjdk-n-jsrs) para aqueles que são membros da Comunidade Java de Londres
+* Junte-se a nós no canal [LJC Slack](https://londonjavacommunity.slack.com/archives/adopt-openjdk-n-jsrs) para aqueles que são membros da Comunidade Java de Londres
 
-Dê uma olhada em [Como contribuir para este livro] (how-to-navigate/contribute.md) e [Como contribuir para Adotar OpenJDK e OpenJDK?] (how-to-navigate/how_to_contribute_to_adopt_openjdk_and_openjdk.md)
+Dê uma olhada em [Como contribuir para este livro](how-to-navigate/contribute.md) e [Como contribuir para Adotar OpenJDK e OpenJDK?](how-to-navigate/how_to_contribute_to_adopt_openjdk_and_openjdk.md)

@@ -1,6 +1,6 @@
 # Colaboradores
 
-Este e-book anteriormente contido em dois documentos do Google, ou seja, [Adopt OpenJDK Getting Started Kit] (http://bit.ly/17ovGUB) e [Adopt OpenJDK intermediário & avançado] (http://bit.ly/1ckphOl) É um resultado de contribuições da comunidade de todo o mundo.
+Este e-book anteriormente contido em dois documentos do Google, ou seja, [Adopt OpenJDK Getting Started Kit](http://bit.ly/17ovGUB) e [Adopt OpenJDK intermediário & avançado](http://bit.ly/1ckphOl) É um resultado de contribuições da comunidade de todo o mundo.
 
 O documento cresceu especialmente durante hackdays em Londres (No escritório de @salesforce - mantido por @ljcjuc, @salesforce, @heroku, @hackthetower e @ jr0cket).
 
@@ -21,4 +21,4 @@ Se você não encontrar o seu nome na lista acima, por favor, entre em contato c
 
 #### Quer contribuir para este livro?
 
-Consulte a seção [Como contribuir para este livro?] (Como-navegar/contribuir.md).
+Consulte a seção [Como contribuir para este livro?](Como-navegar/contribuir.md).
