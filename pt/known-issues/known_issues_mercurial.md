@@ -1,6 +1,6 @@
 # Mercurial
 
-**Meu OpenJDK8 nao conclue o download das sources, porque? Estou recebendo um erro “Http: Error 404: Not Found”.**
+**Meu OpenJDK8 não conclue o download dos fontes, porque? Estou recebendo um erro “Http: Error 404: Not Found”.**
 
 O repo do OpenJDK mudou, verifique que a url que esta sendo usada esta correta.
 
@@ -10,7 +10,7 @@ hg.openjdk.java.net/jdk8/tl
 Mudou para
 http://hg.openjdk.java.net/jdk8/jdk8
 
-Atualizações do jdk8 estã disponiveis no usando o link
+Atualizações do jdk8 estão disponíveis no link
 http://hg.openjdk.java.net/jdk8u/jdk8u
 
 Todos os comandos hg clone devem usar os links mais atuais.

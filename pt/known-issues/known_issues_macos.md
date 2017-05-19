@@ -16,7 +16,7 @@ Error: freetype-2.5.3_1 already installed
 Para instalar essa versão primeiramente:
 ```brew unlink freetype```
 
-*Solução: desde que já esteja instalado a configuração se dá dessa maneira*
+*Solução: desde que já esteja instalado a configuração se da dessa maneira*
 
 ```
 $ bash configure –with-freetype-include=/usr/X11/include/freetype2 –with-freetype-lib=/usr/X11/lib
