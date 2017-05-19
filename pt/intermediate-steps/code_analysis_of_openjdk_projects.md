@@ -3,7 +3,7 @@
 Os passos abaixo servem de grande ajuda para entender mais profundamente a estrutura do projeto
 
 ###Usando IntelliJ###
-Execute sua analysis do OpenJDK dentro do IntelliJ usando o Code analysis:
+Execute sua análise da OpenJDK dentro do IntelliJ usando o Code analysis:
 https://java.net/projects/adoptopenjdk/pages/JavaSourcesWithIntellij
 
 
@@ -17,13 +17,13 @@ Nos vamos configurar 3 passos"  - [SonarQube](http://docs.sonarqube.org/display/
 * o web server (para display e configurar o sonarqube);
 * Os analyzers (Que analizam codigo).
 
-Em seguida nos vamos executar o SonarQube analysis codebase, e criar filtros customizados no SonarQube para mostrar um dashboard por versao do OpenJDK.
+Em seguida nos vamos executar o SonarQube analysis codebase, e criar filtros customizados no SonarQube para mostrar um dashboard por versão do OpenJDK.
 * [Project Nemo: JDK7 SonarQube analysis dashboard](http://nemo.sonarqube.org/dashboard/index/net.java.openjdk:jdk7)
 * [OpenJDK 8 SonarQube steps](openjdk8_sonarqube_steps.md)
 * [OpenJDK 9 SonarQube steps](openjdk9_sonarqube_steps.md)
 * [OpenJDK SonarQube Dashboard steps](openjdk_sonarqube_dashboard_steps.md)
 
-**Problemas conhecidos:** nas ultimas versões do SonarQube, projetos nao estavam visiveis em nenhum dos widgets, apos executar o analysis - estes problemas estão sendo investigados, mas fique a vontade em nos comunicar caso encontre a solução antes de nós.
+**Problemas conhecidos:** nas últimas versões do SonarQube, os projetos não estavam visiveis em nenhum dos widgets, apos executar a análise - estes problemas estão sendo investigados, mas fique a vontade em nos comunicar caso encontre a solução antes.
 
 **Instale o SonarQube no Mac OS**
 
@@ -51,7 +51,7 @@ Use este [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
     Query OK, 0 rows affected (0.01 sec)
     ```
 
-3. Download de http://www.sonarqube.org/downloads/, SonarQube and SonarQube Runner. Asumindo que a instalação do SonarQube e SonarQube Runner será em ```/opt/sonarqube-4.5.1``` e ```/opt/sonar-runner-2.4``` respectivamente.
+3. Baixe o  SonarQube and SonarQube Runner http://www.sonarqube.org/downloads/. Asumindo que a instalação do SonarQube e SonarQube Runner será em ```/opt/sonarqube-4.5.1``` e ```/opt/sonar-runner-2.4``` respectivamente.
     * Configure o SonarQube para usar o MySQL database e ignorar o default in-memory em ``` /opt/sonarqube-4.5.1/conf/sonar.properties ```
 
     * Descomente as linhas abaixo:
@@ -81,11 +81,11 @@ Use este [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
     sonar.jdbc.password=sonar
     sonar.sourceEncoding=UTF-8
     ```
-5. Maven também sera usado para analisarsr o jaxp.
+5. Maven também será usado para analisarsr o jaxp.
     * Instale Maven se não estiver instalado.
         * Download Maven http://maven.apache.org/download.cgi
         * Siga os passos de instalação "Unix-based operating Systems."
-        * Também exporte MAVEN_OPTS environment variable - Requerida para analisar o jdk project; caso contrario, Sonar reclama nao ter memoria suficiente para analisar o jdk.
+        * Também exporte MAVEN_OPTS environment variable - Requerida para analisar o jdk project; caso contrário, o Sonar reclama por não ter memoria suficiente para analisar o jdk.
 
     * Configure o Maven settings com os detalhes do SonarQube no profile - http://docs.codehaus.org/display/SONAR/Installing+and+Configuring+Maven
 
@@ -110,16 +110,16 @@ Use este [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqu
       </profile>
     ```
 
-6. Inicie SonarQube and abra o link http://localhost:9000/sonar verificando que o SonarQube esta iniciado corretamente com uma dashboard vasia.
+6. Inicie SonarQube e abra o link http://localhost:9000/sonar verificando que o SonarQube esta iniciado corretamente com uma dashboard vazia.
 
     ```
     $ /opt/sonarqube-4.5.1/bin/linux-x86-64/sonar.sh start   (path may differ)
     ```
 7. Abra http://localhost:9000/sonar
 
-**Nota:** Se ```/opt/sonarqube-4.5.1/conf/sonar-properties``` contiver na section “web server” sonar.web.context, então ```/opt/sonar-runner-2.4/conf/sonar.properties``` deve estar setado sonar.host.url=http://localhost:9000/sonar
+**Nota:** Se ```/opt/sonarqube-4.5.1/conf/sonar-properties``` contiver na seção “web server” sonar.web.context, então ```/opt/sonar-runner-2.4/conf/sonar.properties``` deve estar setado sonar.host.url=http://localhost:9000/sonar
 
-Caso contrario, quando o SonarQube iniciar, e tentar chamar o sonarqube API na URL http://localhost:9000, não haverá resposta e o SonarQube não iniciara corretamente.
+Caso contrário, quando o SonarQube iniciar e tentar chamar o sonarqube API na URL http://localhost:9000, não haverá resposta e o SonarQube não iniciará corretamente.
 
 Exemplo visual do SonarQube<br/>
 (note: repositório jdk não incluso; jitwatch incluso; zoom para ver os nomes;)

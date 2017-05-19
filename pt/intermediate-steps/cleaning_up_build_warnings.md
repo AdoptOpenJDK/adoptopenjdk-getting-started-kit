@@ -6,7 +6,7 @@
 -JAVAC_WARNINGS := -Xlint:-unchecked,-deprecation,auxiliaryclass,cast,classfile,dep-ann,divzero,empty,fallthrough,finally,overloads,overrides,serial,static,try,varargs -Werror
 +JAVAC_WARNINGS := -Xlint:all,-deprecation,-rawtypes,-unchecked -Werror
  
- # Qualquer codigo java executado durante um JDK build para fazer o build de outras partes do JDK precisam ser
+ # Qualquer codigo java executado durante um build da JDK precisam ser
  # executadas pelo bootstrap JDK (provavelmente com -Xbootclasspath/p: )
 ```
 **C++ build warnings**
@@ -17,7 +17,7 @@
 
 
 Em seguida olhe o build.log em build/linux-x86_64-normal-server-release/ que deve então conter os warnings.
-Abra o log em um editor que suporte buscas com regex. Use uma das regEx abaixo (supondo que o seu OpenJDK sources esta localizado em jdk9 directory):
+Abra o log em um editor que suporte buscas com regex. Use uma das regEx abaixo (supondo que o seu OpenJDK esta localizado em jdk9 directory):
 
 ```
 jdk9/corba(.)* warning
@@ -30,7 +30,7 @@ Referencia: https://bugs.openjdk.java.net/browse/JDK-8048839
 **JavaLintSummary (Javac build warnings)**<br/>
 Veja mais: http://openjdk.java.net/projects/code-tools/friday-stats/javacLintSummary.html e https://blogs.oracle.com/darcy/entry/warnings_removal_advice
 
-Codigo base pode ser encontrado em: http://hg.openjdk.java.net/code-tools/friday-stats/
+O código fonte pode ser encontrado em: http://hg.openjdk.java.net/code-tools/friday-stats/
 
 ```
 $ sudo apt-get install ant

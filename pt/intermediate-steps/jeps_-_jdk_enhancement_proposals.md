@@ -1,6 +1,6 @@
 # JEPs - JDK Propostas de melhorias
 
-Um numero de JEPs foi publicado e precisa de contribuicoes da comunidade Java, de uma olhadinha e veja se encontras algo que chame sua atencao.
+Um numero de JEPs foi publicado e precisa de contribuições da comunidade Java, de uma olhadinha e veja se encontra algo que chame sua atenção.
 
 **Lista de JEPs publicadas** <br/>
 http://openjdk.java.net/jeps/0
