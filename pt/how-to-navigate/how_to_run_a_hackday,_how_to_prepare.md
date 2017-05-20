@@ -1,0 +1,19 @@
+## Como conduzir um hackday, como se preparar?
+
+- Documentação simples e consistente é uma boa ferramenta, sempre compensa - resolvemos isso criando o Kit de Introdução do OpenJDK - http://bit.ly/1NUkPWw (nosso programa de adoção)
+- Ter metas para os participantes (em tantos níveis quanto possível), categorizando os usuários em três categorias principais, iniciante, intermediário e avançado. Ver em: http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/pt/how-to-navigate/how-to-navigate-and-make-progress.html (Q & A estilo documentos funciona muito bem). Objetivos significam: o que eles podem fazer em 3 horas.
+- Se você precisa redistribuir binários para permitir que os desenvolvedores configurem um ambiente, faça com que eles os baixem e os instalem uma ou duas semanas antes (offsite), que eles saibam se eles realmente fizeram isso, eles ajudarão a si mesmos e aos outros também. Sempre respeitoso e consciente do tempo das outras pessoas.
+- Também levar os binários para distribuir em pendrive ou pelo menos, em um par de unidades portáteis HDD. No caso do seu ambiente, talvez você queira torná-lo disponível através de imagens VM ou Docker que eles possam copiar e carregar. Ou scripts equivalentes para os desenvolvedores mais avançados para executá-los em casa.
+- Uma coisa que aprendemos com a experiência, certifique-se de que seus distribuíveis são acessíveis para todas as três plataformas (Windows, Linux e MacOS), resolvemos formatando os nossos portáteis em três tipos de partições e também formatando uma boa quantidade de pendrives da mesma forma. Se você estiver usando pendrive utilize os mais rápidos 3.0 com uma capacidade de pelo menos 32GB.
+- Alternativamente, iniciar um servidor de arquivos interno rápido com binários e instruções sobre como proceder (isso pode se dar de qualquer forma, mas é uma alternativa), de onde todos podem se conectar e baixar.
+- Os participantes também podem ajudar a distribuir os binários para acelerar o processo.
+- Preparação é a "chave", com grandes número sde pessoas muitas coisas podem dar errado, mas melhor preparado você conseguirá minimizar as falhas.
+- Você precisará perguntar e descobrir quem são os desenvolvedores mais e menos experiêntes no dia.
+- Além disso, se você tem um ou mais desenvolvedores que não puderam obter a configuração necessária
+- Coloque-os junto com outros que conseguiram fazer isso em casa.
+- Ter algo pronto de antemão para aqueles que não podem assistir ou aqueles que não puderam obter a sua instalação no tempo ou não puderam obter o ambiente para o trabalho - nosso guia de adoção é um bom exemplo disso.
+- Pense no que você pode fazer para atender aos desenvolvedores no modo offline - wifi ou internet podem parar de funcionar por várias razões, você pode configurar sua própria rede interna nesse caso, este pode ser um plano de fall-back.
+- Pense em tudo o que pode dar errado e priorizá-los, ver como você pode resolver e o que você não pode.
+- Entrar em um canal de IRC ou criar um google doc para reunir feedback dos desenvolvedores (ou ambos) - isso vai ajudar todos aqueles que estão assistindo a apoiarem uns aos outros.
+- Todas estas são idéias que pegamos ao executar hackdays para a Adopt OpenJDK, você não tem que fazer tudo isso, mas esteja preparado. Muitas vezes os desenvolvedores vêm despreparados, não trazem máquinas, então você precisará gerenciar esses casos, então se você estiver preparado, faça um diagrama de fluxo ou mapa mental de todas as coisas mencionadas acima e ver quais te ajudarão a resolver, criar alternativas para resolver os problemas.
+- Você não precisa cobrir tudo, apenas o que você acha que pode acontecer, a preparação é a chave.
