@@ -16,7 +16,7 @@ fink install tree
 ```
 
 Mais informacoes uteis: [no link](http://superuser.com/questions/359723/mac-os-x-equivalent-of-the-ubuntu-tree-command
-) onde mais opções de uso sao desdenhadas.
+) onde mais opções de uso são detalhadas.
 
 *Windows XP ou mais atual*
 

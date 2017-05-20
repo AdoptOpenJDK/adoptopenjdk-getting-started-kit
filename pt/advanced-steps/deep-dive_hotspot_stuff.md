@@ -1,11 +1,11 @@
-# Deep-dive Hotspot e cia
+# Deep-dive Hotspot
 
 GC flags nos arquivos fonte do hotspot
-* [../hotspot/src/share/vm/gc_implementation/g1/g1_globals.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/4967eb4f67a9/src/share/vm/gc_implementation/g1/g1_globals.hpp) Hotspot repo
+*[../hotspot/src/share/vm/gc_implementation/g1/g1_globals.hpp](http://hg.openjdk.java.net/jdk8/jdk8/hotspot/file/4967eb4f67a9/src/share/vm/gc_implementation/g1/g1_globals.hpp) Hotspot repo
 
-* [../hotspot/src/share/vm/runtime/globals.hpp](http://cr.openjdk.java.net/~gbenson/zero-10/hotspot/src/share/vm/runtime/globals.hpp.html) Hotpost repo
+*[../hotspot/src/share/vm/runtime/globals.hpp](http://cr.openjdk.java.net/~gbenson/zero-10/hotspot/src/share/vm/runtime/globals.hpp.html) Hotpost repo
 
-* [HotSpot CLI option - PrintAssembly](https://wiki.openjdk.java.net/display/HotSpot/PrintAssembly)
+*[HotSpot CLI option - PrintAssembly](https://wiki.openjdk.java.net/display/HotSpot/PrintAssembly)
 
 Veja como o branching ocorre de acordo com o tipo de GC selecionado
 

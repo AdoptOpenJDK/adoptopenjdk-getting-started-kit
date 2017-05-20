@@ -14,9 +14,9 @@ Exemplo para uso: jimage <extract|recreate|info|list|verify> <options> jimage...
  
   extract  - Extrai todas as jimage em arquivos separados dentro do diretorio
              especificado por --dir=<directory> (default=.)
-  recreate - Reconstroi a jimage desde um diretorio extraido (--dir)
+  recreate - Reconstroi a jimage à partir de um diretorio extraído (--dir)
   info     - Imprime informacao especificada no header da jimage.
-  list     - Imprime os nomes de todos as entradas da jimage.  Quando usado com
+  list     - Imprime os nomes de todas as entradas da jimage.  Quando usado com
              --verbose imprime todos os atributos ex. size e offset.
   verify   - Reporta erros em todas as entradas .class
  

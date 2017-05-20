@@ -1,4 +1,6 @@
-# Efetuando mudancas na classe Random.java class
+# Modifique a classe Random.java
+
+Você precisará dos [bash scripts auxiliares](../handy-scripts-for-OpenJDK-developers.md) antes de executar qualquer dos passos abaixo.
 
 ```
 $ cd $HOME/sources/jdk8/
@@ -18,7 +20,7 @@ ou
 $ gedit jdk/src/java.base/share/classes/java/util/Random.java 
 ```
 
-Encontre a função next() dentro da classe ```Random.java```
+Localize a função next() em ```Random.java```
 
 ```java
 protected int next(int bits) {
@@ -67,14 +69,20 @@ $ bash buildAndRunTheChangedRandom.sh
 Output
 100
 100
-Its printing the same number over-and-over again! That's not random.
+Continua exibindo o sempre mesmo número! Isso não é randômico.
 ```
 
-Nota: ```nextInt()``` chama ```next()``` com os parametros ignorados retornará sempre 100.
+Note: ```nextInt()``` calls ```next()``` with a parameter which is ignored and instead returns the hardcoded 100.
 
-Undo your changes to ```jdk/src/java.base/share/classes/java/util/Random.java``` or ```jdk/src/share/classes/java/util/Random.java``` and rebuild the images by running.
+Desfaça suas modificações em ```jdk/src/java.base/share/classes/java/util/Random.java``` ou ```jdk/src/share/classes/java/util/Random.java``` e reconstrua as imagens executando:
 
-Para desfazer as mudanças, siga os passos abaixo:
+
+Para desfazer as alterações, você pode:
+```
+$ cd jdk/src/share/classes/java/util
+```
+
+ou
 ```
 $ cd jdk/src/java.base/share/classes/java/util
 

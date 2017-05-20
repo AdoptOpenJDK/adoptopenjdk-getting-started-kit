@@ -1,4 +1,6 @@
-# Efetuando mudancas na classe StringBuffer.java
+# Alterea a classe StringBuffer.java adicionando um método
+
+Você precisará dos [bash scripts auxiliares](../handy-scripts-for-OpenJDK-developers.md) antes de você executar qualquer um dos passos abaixo.
 
 ```
 $ cd $HOME/sources/jdk8_tl/
@@ -7,7 +9,7 @@ ou
 ```
 $ cd $HOME/sources/jdk8/
 ```
-ou
+ou 
 ```
 $ cd $HOME/sources/jdk9/
 ```
@@ -20,7 +22,7 @@ ou
 $ gedit jdk/src/java.base/share/classes/java/lang/StringBuffer.java
 ```
 
-Nota: Confirme que as @annotations no topo das classes de teste não foram alteradas, estas são requeridas pelo jtreg.
+Nota: por favor garanta que as anotações nos cabeçalhos dos testes sejam preservados, eles são necessário para a utilização do jtreg.
 
 ```java
  /**
@@ -33,7 +35,7 @@ Nota: Confirme que as @annotations no topo das classes de teste não foram alter
  }
 ```
 
-Escreva o teste abixo em IsEmptyTest.java no mesmo diretorio
+Escreva o teste abaixo em IsEmptyTest.java em qualquer diretório
 
 ```java
 /* @test
@@ -90,7 +92,7 @@ public class IsEmptyTest {
 }
 ```
 
-Escreva os testes abaixo no formato (TestNG) dentro do arquivo IsEmptyTestNG.java
+Escreva o teste (TestNG) no arquivo IsEmptyTestNG.java
 
 ```java
 /* @test
@@ -137,12 +139,12 @@ public class IsEmptyTestNG {
 $ make images
 ```
 
-ou
+ou 
 
 ```
 $ make jdk
 ```
 
-E para finalizar rode os comandos JTReg acima para executar os testes.
+E por fim execute os comandos JTReg tais como em [How to use JTReg… - Testes de regressão Java](how_to_use_jtreg_-_java_regression_test_harness.md) para garantir que os testes executam corretamente, veja a seção abaixo:
 
-Mude sua implementação e confirme que suas mudanças fazem os testes falhar.
+Modifique a implementação para alguma outra coisa e execute os testes novamente para ve-los falhar.

@@ -2,9 +2,9 @@
 
 **Qual é o root password nas maquinas Ubuntu OS?**
 
-A resposta para esta pergunta pode ser encontrada em [at the link](http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time).
+A resposta para esta pergunta pode ser encontrada em [nesse link](http://askubuntu.com/questions/347818/what-is-the-default-root-password-when-was-never-set-at-installation-time).
 
-**Estou com problemas no freetypefont, me retorna um erro, estou usando Ubuntu 14.04**
+**Estou com problemas no freetypefont, vejo erros, estou usando Ubuntu 14.04**
 ```text
 .
 .
