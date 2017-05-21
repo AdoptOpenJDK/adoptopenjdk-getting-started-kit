@@ -3,10 +3,6 @@
 ![](../cover_small.jpg) Adopt OpenJDK - Kit para iniciantes...
 ---
 
-*Link encurtado para a Adopt OpenJDK Started Kit: https://goo.gl/0oSmRD*
-
----
-
 ** Todas as instruções abaixo servem para o público em geral que venha a atender a algum hackdays/workshops/hands-on-sessions - exceto para o Custom JUG handout template, que serve somente para líderes JUG e organizadores. **
 
 Este documento tem a inteção de facilitar a vida dos desenvolvedores iniciantes da OpenJDK de várias maneiras possíveis, com referência as fontes primárias de informação tais como http://adoptopenjdk.java.net e http://openjdk.java.net/, sem sobrescrever ou alterar-las.

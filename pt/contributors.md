@@ -21,4 +21,4 @@ Se você não encontrar o seu nome na lista acima, por favor, entre em contato c
 
 #### Quer contribuir para este livro?
 
-Consulte a seção [Como contribuir para este livro?](Como-navegar/contribuir.md).
+Consulte a seção [Como contribuir para este livro?](how-to-navigate/contribute.md).
