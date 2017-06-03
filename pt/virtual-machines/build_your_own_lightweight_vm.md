@@ -54,7 +54,7 @@ As versões dos softwares instalados e testados em um Mac no dia 18/01/2015 são
 Uma vez que a VM foi instalado, por favor execute o seguinte comando, o download é de aproximadamente 377MB então por favor faça isso antecipadamente para ganhar tempo.
 
 ```bash
-vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box;
+vagrant box add ubuntu-14.10-amd64 https://cloud-images.ubuntu.com/vagrant/utopic/current/utopic-server-cloudimg-amd64-vagrant-disk1.box; [dead-link]
 ```
 
 Em uma conexão lenta o processo completo até o build pode levar cerca de uma hora (utilizando um *MacBookPro 2013 com 16GB e SSD*)

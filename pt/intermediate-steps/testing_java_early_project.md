@@ -1,14 +1,14 @@
 # Testando projeto Java Early
 
-Para trazer o processo de teste para a comunidade e também para receber feedback antecipado, [@LJCJug](http://twitter.com/ljcjug) and OpenJDK (i.e. Oracle) iniciaram projetos para testes antecipados, para ver bibliotecas úteis por favor veja [essa wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8) assim como **[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)** e **[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)**.
+Para trazer o processo de teste para a comunidade e também para receber feedback antecipado, [@LJCJug](http://twitter.com/ljcjug) and OpenJDK (i.e. Oracle) iniciaram projetos para testes antecipados, para ver bibliotecas úteis por favor veja [essa wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8) [dead-link] assim como **[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)** e **[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)**.
 
-**Adopt OpenJDK encoraja e suporta os esforços listados acima, veja https://java.net/projects/adoptopenjdk/pages/TestingJava8.**
+**Adopt OpenJDK encoraja e suporta os esforços listados acima, veja https://java.net/projects/adoptopenjdk/pages/TestingJava8.** [dead-link]
 
 Porém isso não precisa parar por aqui, você pode selecionar sua própria biblioteca ou projeto opensource, compile usando a JDK9 e execute usando a JDK or JRE 9.
 
 * Tenha certeza de ter configurado seu PATH a/ou JAVA_HOME para apontar para a imagem que você construiu usando OpenJDK9 (veja o diretório de build ```build/linux-x86_64-normal-server-release/images/jdk``` para Linux).
-* Acesso antecipado ao JDK 9 - Baixe os binários do Java 9 em https://jdk9.java.net/download/ (Tenha certeza de ter configurado seu PATH a/ou JAVA_HOME para apontar para a JDK correta).
-* Acesso antecipado ao JDK 9 Jigsaw - Baixe os binários do Java 9 em https://jdk9.java.net/jigsaw/ (Tenha certeza de ter configurado seu PATH a/ou JAVA_HOME para apontar para a JDK correta).
+* Acesso antecipado ao JDK 9 - Baixe os binários do Java 9 em https://jdk9.java.net/download/ [dead-link] (Tenha certeza de ter configurado seu PATH a/ou JAVA_HOME para apontar para a JDK correta).
+* Acesso antecipado ao JDK 9 Jigsaw - Baixe os binários do Java 9 em https://jdk9.java.net/jigsaw/ [dead-link] (Tenha certeza de ter configurado seu PATH a/ou JAVA_HOME para apontar para a JDK correta).
 * Guarde todas as respostas a execução desses passos, da compilação ao build, testes e execuções no ambiente JDK9.
 * Informe aos responsáveis pelas bibliotecas ou projetos usando suas listas de email ou páginas dos projetos (github or bitbucket). 
 * Também copie a lista [Adoption](http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss)+ em seus emails. 

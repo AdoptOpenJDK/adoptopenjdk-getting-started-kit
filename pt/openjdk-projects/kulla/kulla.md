@@ -10,8 +10,8 @@ https://bugs.openjdk.java.net/browse/JDK-8043364
 Veja os comentarios do recente LJC hackday e/ou adicione seus comentários [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing).
 
 **Download binarios**
-JDK9 binarios: https://jdk9.java.net/download/<br/>
-Kulla.jar: [Adopt OpenJDK Cloudbees Build farm](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/lastSuccessfulBuild/artifact/)
+JDK9 binarios: https://jdk9.java.net/download/ [dead-link]<br/>
+Kulla.jar: [Adopt OpenJDK Cloudbees Build farm](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/lastSuccessfulBuild/artifact/) [dead-link]
 
 **Usuários MacOS**<br/>
 Se você não deseja que a JDK9 o padão no seu MacOS, veja [este link](http://javapapo.blogspot.com/2013/02/multiple-java-jdks-on-your-macosx.html).
@@ -121,7 +121,7 @@ Shift-<tab> -- mostra uma synopsis para o método/construtor digitado no console
 [em breve]
 
 *Exercícios*<br/>
-- https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf
+- https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf [dead-link]
 
 *Outras publicações disponiveis sobre o REPL*
 - http://www.infoq.com/news/2014/09/repl-for-java (Java REPL, IntelliJ IDEA Java REPL plugin, Beanshell, etc...)

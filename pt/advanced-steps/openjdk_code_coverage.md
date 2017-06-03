@@ -1,9 +1,9 @@
 # OpenJDK Code coverage
 
-Veja o Adopt OpenJDK’s jab [code-coverage](https://java.net/projects/adoptopenjdk/pages/Codecoverage).
+Veja o Adopt OpenJDK’s jab [code-coverage](https://java.net/projects/adoptopenjdk/pages/Codecoverage) [dead-link].
 
 **Coverage Report para o OpenJDK8 e OpenJDK9**
-Recentemente nós habilitamos o code coverage no Adopt OpenJDK farms rodando um CI build do OpenJDK8 e OpenJDK9, publicando jcon reports para [OpenJDK8](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.8-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) e [OpenJDK9](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.9-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) Respectivamente.
+Recentemente nós habilitamos o code coverage no Adopt OpenJDK farms rodando um CI build do OpenJDK8 e OpenJDK9, publicando jcon reports para [OpenJDK8](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.8-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) e [OpenJDK9](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/openjdk-1.9-linux-x86_64/ws/testoutput/jdk_core/JTreport/jcov/index.html) [dead-link] Respectivamente.
 
 **Rodando tests de code-coverage habilitados para o OpenJDK9**
 

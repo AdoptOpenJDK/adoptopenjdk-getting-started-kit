@@ -8,7 +8,7 @@ http://hg.openjdk.java.net/code-tools/sigtest
 
 Quick build instructions <br/>
 ```
-$ svn checkout https://svn.java.net/svn/sigtest~svn/trunk
+$ svn checkout https://svn.java.net/svn/sigtest~svn/trunk [dead-link]
 
 $ cd code/build
 

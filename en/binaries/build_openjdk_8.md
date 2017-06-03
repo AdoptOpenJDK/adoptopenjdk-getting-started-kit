@@ -50,15 +50,15 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 .
 .
 ```
-Take a look at this section [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource):
+Take a look at this section [get_source page](https://java.net/projects/adoptopenjdk/pages/GetSource) [dead-link]:
 
-* [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu)
+* [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu) [dead-link]
 
-* [MacOS X](https://java.net/projects/adoptopenjdk/pages/GetSource#Mac_OS_X) <br/>
+* [MacOS X](https://java.net/projects/adoptopenjdk/pages/GetSource#Mac_OS_X) [dead-link] <br/>
 Note: if you’re using Mac OS X 10.8.5 with XCode 5 you’ll need to follow one of the [solutions](http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html). 
 
-* [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows)<br/>
-In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and [follow the instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM). Build and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running ```sh getSource.sh```).
+* [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows) [dead-link]<br/>
+In case Windows or MacOS X users have issues with installing or downloading the sources, it is a good idea to create your own VM using Oracle’s VirtualBox and [follow the instructions](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM) [dead-link]. Build and continue with the rest of the instructions till the Get Sources page (and then follow the above steps under Download source by running ```sh getSource.sh```).
 
 Configure OpenJDK setup (Optional if you haven’t run it)
 

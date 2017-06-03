@@ -10,7 +10,7 @@ Efetue o build rápido seguindo as intruções abaixo:
 
 <br/>
 ```
-$ svn checkout https://svn.java.net/svn/sigtest~svn/trunk
+$ svn checkout https://svn.java.net/svn/sigtest~svn/trunk [dead-link]
 
 $ cd code/build
 

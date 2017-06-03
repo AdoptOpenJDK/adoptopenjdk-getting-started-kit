@@ -10,14 +10,14 @@ http://openjdk.java.net/projects/nashorn/
 NodeJS portado do Nashorn (NodeJS na JVM).
 
 Projeto: <br/>
-https://avatar-js.java.net/  https://avatar.java.net/
+https://avatar-js.java.net/ [dead-link]  https://avatar.java.net/ [dead-link] 
 
 Código fonte (OpenJDK8): <br/> http://hg.openjdk.java.net/jdk8/jdk8/nashorn
 
 Código fonte (OpenJDK9): <br/> http://hg.openjdk.java.net/jdk9/jdk9/nashorn
 
 Sources:  <br/>
-https://java.net/projects/avatar-js/sources
+https://java.net/projects/avatar-js/sources [dead-link]
 
 **Apresentações/slides**
 
