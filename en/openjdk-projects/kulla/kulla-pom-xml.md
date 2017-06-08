@@ -151,7 +151,7 @@ And then run the following maven command:
 $ mvn clean package -Dbuild.image.folder=$JAVA9_HOME
 ```
 
-where ```$JAVA9_HOME``` points to the JDK9 binary downloaded from the [JDK9 Early Access site](https://jdk9.java.net/download/) [dead-link].
+where ```$JAVA9_HOME``` points to the JDK9 binary downloaded from the [JDK9 Early Access site](http://jdk.java.net/9/).
 
 or the below if you have built your own JDK image from the ```kulla-dev``` forest (build folder must have the images created):
 

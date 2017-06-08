@@ -32,7 +32,7 @@ Then we'll run SonarQube analysis across the codebase, and create custom filters
 Use this [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqube-formely-sonar-on-mac-os-x-mountain-lion-10-8-4/) to install SonarQube or the instructions below (instructions for Mac OS, might need tweaks for other OSes)
 
 **Install MySQL and SonarQube on the Ubuntu VM**
-1. Download and install MySQL on Ubuntu. See section titled "Installation" on https://help.ubuntu.com/12.04/serverguide/mysql.html [dead-link]
+1. Download and install MySQL on Ubuntu. See section titled "Installation" on https://help.ubuntu.com/lts/serverguide/mysql.html
 
 2. In MySQL, create the sonar database and user - https://github.com/SonarSource/sonar-examples/blob/master/scripts/database/mysql/create_database.sql [dead-link]
 

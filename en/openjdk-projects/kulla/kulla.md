@@ -11,7 +11,7 @@ https://bugs.openjdk.java.net/browse/JDK-8043364
 View or add your comments to the recent LJC hackday [feedback](https://docs.google.com/document/d/1b236MW-cliUrmSWyVkBBs460Inh5lLcLvRsOmGThzlg/edit?usp=sharing) by the attendees.
 
 **Download binaries**  
-JDK9 binaries: https://jdk9.java.net/download/ [dead-link]<br/>
+JDK9 binaries: http://jdk.java.net/9/<br/>
 Kulla.jar: [Adopt OpenJDK Cloudbees Build farm](https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/lastSuccessfulBuild/artifact/) [dead-link]
 
 **MacOS users**<br/>
