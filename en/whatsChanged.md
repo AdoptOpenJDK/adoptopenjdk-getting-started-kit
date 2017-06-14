@@ -1,10 +1,11 @@
 ###What's changed
 
 
+* 2017-05-21 [README.md](README.md)
+* 2017-05-21 [Getting Started #](quickstart.md)
+* 2017-05-18 [Building OpenJDK8 on Mac.](virtual-machines/build_openjdk_jdk8u_virtual_box.md)
 * 2017-01-20 [Feedback & Communication](feedback.md)
-* 2016-05-28 [README.md](README.md)
 * 2016-05-28 [ How to run a hackday, how to prepare ?](how-to-navigate/how_to_run_a_hackday,_how_to_prepare.md)
-* 2016-02-23 [Getting Started #](quickstart.md)
 * 2016-01-28 [OpenJDK projects](openjdk-projects/openjdk_projects.md)
 * 2016-01-28 [Build OpenJDK 9](binaries/build_openjdk_9.md)
 * 2016-01-18 [How to use JTReg… - Java Regression Test Harness ?](intermediate-steps/how_to_use_jtreg_-_java_regression_test_harness.md)

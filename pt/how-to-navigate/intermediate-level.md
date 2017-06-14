@@ -2,7 +2,7 @@
 
 ##### Eu sou um estudante/profissional, um pouco novo para OpenJDK, estive em hackdays OpenJDK antes, como continuar?
 
-- [Construa sua própria VM](../virtual-machines/build_your_own_vm.md) ou [Construa sua própria light-weight VM](../virtual-machines/build_your_own_lightweight_vm.md) seguido por [Compartilhando diretórios entre sua máquina e a VM ](../virtual-machines/sharing_host_folder_with_guest_vm.md), e terminando na seção [Códigos Fonte](../código-fonte/código_de_origem.md).
+- [Construa sua própria VM](../virtual-machines/build_your_own_vm.md) ou [Construa sua própria light-weight VM](../virtual-machines/build_your_own_lightweight_vm.md) seguido por [Compartilhando diretórios entre sua máquina e a VM ](../virtual-machines/sharing_host_folder_with_guest_vm.md), e terminando na seção [Códigos Fonte](../source-code/source_code.md).
 - [Compile a OpenJDK8 no MacOSx](../virtual-machines/build_openjdk_jdk8u_virtual_box.md)
 - Para obter uma visão geral do diretório e estruturas de arquivos do OpenJDK, consulte [Ver estrutura de diretórios de vários projetos OpenJDK](../intermediate-steps/see_directory_structure_of_various_openjdk_projects.md).
 - Experimente primeiro, [Alterar a classe Random.java](../intermediate-steps/change_the_randomjava_class.md).
