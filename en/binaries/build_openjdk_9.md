@@ -4,7 +4,7 @@
 
 Link to a detailed page on the Build step on the [Adopt OpenJDK wiki](https://community.oracle.com/docs/DOC-992134).
 
-*Prerequisite:* supporting programs to build OpenJDK8 have been installed before attempting to perform the below instructions, [see site](https://community.oracle.com/docs/DOC-992134) [dead-link]. Follow the below instructions to build OpenJDK9 from the jdk9 forest:
+*Prerequisite:* supporting programs to build OpenJDK8 have been installed before attempting to perform the below instructions, [see site](https://community.oracle.com/docs/DOC-992134). Follow the below instructions to build OpenJDK9 from the jdk9 forest:
 
 **Build from existing repo or Ready-made VM image**
 
