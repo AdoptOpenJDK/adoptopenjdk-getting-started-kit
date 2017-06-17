@@ -2,9 +2,9 @@
 
 **Buildando no SO nativo (a partir do zero)**
 
-Link para uma página detalhada em [Adopt OpenJDK wiki](https://java.net/projects/adoptopenjdk/pages/Build) [dead-link].
+Link para uma página detalhada em [Adopt OpenJDK wiki](https://community.oracle.com/docs/DOC-992134).
 
-* Pré-requisito: *programas de suporte para buildar a OpenJDK8 foram instalados antes de tentar executar as instruções abaixo,* [ver site](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuild) [dead-link]. Siga as instruções abaixo para criar o OpenJDK9 a partir da forrest jdk9:
+* Pré-requisito: *programas de suporte para buildar a OpenJDK8 foram instalados antes de tentar executar as instruções abaixo,* [ver site](https://community.oracle.com/docs/DOC-992134). Siga as instruções abaixo para criar o OpenJDK9 a partir da forrest jdk9:
 
 **Construir a partir de repo existente ou ready-made VM imagem**
 
@@ -40,7 +40,7 @@ $ ./get_source.sh
 $ bash configure --with-boot-jdk=/usr/lib/jvm/jdk1.8.0 --disable-warnings-as-errors
 ```
 
-`/usr/lib/jvm/jdk1.8.0` - pode diferir no seu caso, faça o download do JDK 8 pelo menos a partir do site [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) [dead-link]. **É recomendável usar este JDK pois é melhor testado e livre de quaisquer alterações que você possa ter feito para a cópia local do OpenJDK8 .**
+`/usr/lib/jvm/jdk1.8.0` - pode diferir no seu caso, faça o download do JDK 8 pelo menos a partir do [site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). **É recomendável usar este JDK pois é melhor testado e livre de quaisquer alterações que você possa ter feito para a cópia local do OpenJDK8 .**
 
 Se você estiver utilizando MacOSX (por exemplo, 10.9.0 ou acima), talvez seja necessário instalar o XQuartz a partir deste [site](http://xquartz.macosforge.org/landing/) e incluir as seguintes opções para executar o bash configure
 

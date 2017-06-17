@@ -18,7 +18,7 @@ $ make jdk_default   &> openJDK_jdk_default_Test_Results.logs
 $ make jdk_all       &> openJDK_jdk_all_Test_Results.logs
 ```
 
-(the necessary environement variables need to be in place before the ```make test``` command work on the above components, for a bigger list see [link](https://java.net/projects/adoptopenjdk/pages/InstallJtreg#Running_tests_via_the_CLI) [dead-link].
+(the necessary environement variables need to be in place before the ```make test``` command work on the above components, for a bigger list see [link](https://community.oracle.com/docs/DOC-992140).
 
 * Prerequisites:<br/>
 1) ```TEST.ROOT``` must exist in the folder where the below commands will be executed<br/>

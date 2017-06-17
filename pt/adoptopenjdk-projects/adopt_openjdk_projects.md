@@ -16,4 +16,4 @@ Projetos doados a comunidade:
 * [JavadocUpdaterTool](http://github.com/adoptopenjdk/JavadocUpdaterTool)
 * [sunflow](http://github.com/adoptopenjdk/sunflow) [dead-link]
 
-Efetue o Download e começe a trabalhar nos projetos do [Adopt OpenJDK projects](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#What_do_we_work_on_for_OpenJDK?) [dead-link] e também [github](https://github.com/AdoptOpenJDK/) e [bitbucket](https://bitbucket.org/adoptopenjdk/) repo.
+Efetue o Download e começe a trabalhar nos projetos do [Adopt OpenJDK projects](https://community.oracle.com/docs/DOC-991498) e também [github](https://github.com/AdoptOpenJDK/) e [bitbucket](https://bitbucket.org/adoptopenjdk/) repo.

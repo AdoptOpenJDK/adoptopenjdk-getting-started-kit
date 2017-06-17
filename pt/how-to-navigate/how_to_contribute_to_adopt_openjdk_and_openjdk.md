@@ -4,7 +4,7 @@
 
 Você pode começar a contribuir para ** AdoptOpenJDK ** primeiramente inscreva-se em uma ou mais formas de mídia social, ouvir, acompanhar a página de adoção da OpenJDK:
 
-https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#Getting_Started [dead-link]
+https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/quickstart.html
 
 E depois fazer o seguinte:
 

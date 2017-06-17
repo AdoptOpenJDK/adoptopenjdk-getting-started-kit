@@ -8,9 +8,9 @@ http://hg.openjdk.java.net/code-tools/sigtest
 
 Quick build instructions <br/>
 ```
-$ svn checkout https://svn.java.net/svn/sigtest~svn/trunk [dead-link]
+$ hg clone http://hg.openjdk.java.net/code-tools/sigtest/
 
-$ cd code/build
+$ cd sigtest/build
 
 $ ant build -Djdk5.home=/path/to/jdk1.5.latest \
 -Djdk8.home=/path/to/jdk8.latest \

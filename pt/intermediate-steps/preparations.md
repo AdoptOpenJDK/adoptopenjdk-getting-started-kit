@@ -1,11 +1,11 @@
 # Preparações
 
-* Siga as instruções em https://java.net/projects/adoptopenjdk/pages/InstallJtreg [dead-link] e https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg [dead-link] para saber mais sobre o OpenJDK JTReg. Para mais detalhes, os passos para compilar o JTReg. Veja também [o link] (http://openjdk.java.net/jtreg/build.html).
+* Siga as instruções em https://java.net/projects/adoptopenjdk/pages/InstallJtreg [dead-link] e https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg [dead-link] para saber mais sobre o OpenJDK JTReg. Para mais detalhes, os passos para compilar o JTReg. Veja também [o link](http://openjdk.java.net/jtreg/build.html).
 
-* Interessante [postagem no blog] (http://arkangelofkaos.blogspot.co.uk/2013/05/openjdk-test-fest-23rd-march-2013.html) sobre o que se deve ter em mente antes de escrever testes.
+* Interessante [postagem no blog](http://arkangelofkaos.blogspot.co.uk/2013/05/openjdk-test-fest-23rd-march-2013.html) sobre o que se deve ter em mente antes de escrever testes.
 
-* Dê uma olhada nesses Tutorial JTReg [vídeos] (http://bit.ly/1bT4g7f) [dead-link]. <br/>
-[Guia de Início Rápido] (http://bit.ly/1fWCqPH) tutorial jtreg. <br/>
+* Dê uma olhada nesses Tutorial JTReg [vídeos](https://www.youtube.com/watch?v=4_MSxD8iC1E) [dead-link]. <br/>
+[Guia de Início Rápido](http://bit.ly/1fWCqPH) tutorial jtreg. <br/>
 
 * Para ver o help on-line JTReg execute o comando `` `$ jtreg -onlineHelp```
 

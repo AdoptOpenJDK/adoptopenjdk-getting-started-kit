@@ -51,14 +51,14 @@ Waiting for processes ( 19269 19296 19308 19321 19341 19347 19360 ) to terminate
 .
 .
 ```
-Geral [obtendo o código fonte](https://java.net/projects/adoptopenjdk/pages/GetSource) [dead-link]:
+Geral [obtendo o código fonte](https://community.oracle.com/docs/DOC-991392) :
 
-* [Linux (Ubuntu/Debian)](https://java.net/projects/adoptopenjdk/pages/GetSource#Debian/Ubuntu) [dead-link]
+* [Linux (Ubuntu/Debian)](https://community.oracle.com/docs/DOC-991392)
 
-* [MacOS X](https://java.net/projects/adoptopenjdk/pages/GetSource#Mac_OS_X) [dead-link] <br/>
+* [MacOS X](https://community.oracle.com/docs/DOC-991392) <br/>
 Nota: Se você estiver usando Mac OS X 10.8.5 com XCode 5 você vai precisar usar o a seguinte [solução](http://mail.openjdk.java.net/pipermail/build-dev/2013-September/010262.html).
 
-* [Windows](https://java.net/projects/adoptopenjdk/pages/GetSource#MS_Windows) [dead-link] <br/>
+* [Windows](https://community.oracle.com/docs/DOC-991392) <br/>
 Caso os usuários do Windows ou MacOS X tenham problemas com a instalação ou o download dos fontes, é uma boa idéia criar sua própria VM usando o VirtualBox da Oracle e [seguir as instruções](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKVM)  [dead-link]. Crie e continue com o resto das instruções até a página "obtendo o código fonte" (e siga as etapas acima executando ```sh getSource.sh```).
 
 Configure o Openjdk (Opcional se você ja rodou o comando anteriormente)

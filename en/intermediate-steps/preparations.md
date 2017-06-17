@@ -4,7 +4,7 @@
 
 * Interesting [blog](http://arkangelofkaos.blogspot.co.uk/2013/05/openjdk-test-fest-23rd-march-2013.html) on what to keep in mind before writing tests.
 
-* Have a look at these JTReg tutorial [videos](http://bit.ly/1bT4g7f) [dead-link].<br/>
+* Have a look at these JTReg tutorial [videos](https://www.youtube.com/watch?v=4_MSxD8iC1E) [dead-link].<br/>
 [Quick Start Guide](http://bit.ly/1fWCqPH) tutorial on jtreg.<br/>
 
 * To see an online help for JTReg perform via command```$ jtreg -onlineHelp```
