@@ -1,8 +1,8 @@
 # Testando projeto Java Early
 
-Para trazer o processo de teste para a comunidade e também para receber feedback antecipado, [@LJCJug](http://twitter.com/ljcjug) and OpenJDK (i.e. Oracle) iniciaram projetos para testes antecipados, para ver bibliotecas úteis por favor veja [essa wiki page](https://java.net/projects/adoptopenjdk/pages/TestingJava8) [dead-link] assim como **[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)** e **[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)**.
+Para trazer o processo de teste para a comunidade e também para receber feedback antecipado, [@LJCJug](http://twitter.com/ljcjug) and OpenJDK (i.e. Oracle) iniciaram projetos para testes antecipados, para ver bibliotecas úteis por favor veja [essa wiki page](https://web.archive.org/web/20160417183545/https://java.net/projects/adoptopenjdk/pages/TestingJava8) assim como **[JDK9 Outreach](https://wiki.openjdk.java.net/display/Adoption/JDK+9+Outreach)** e **[Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach)**.
 
-**Adopt OpenJDK encoraja e suporta os esforços listados acima, veja https://java.net/projects/adoptopenjdk/pages/TestingJava8.** [dead-link]
+**Adopt OpenJDK encoraja e suporta os esforços listados acima, veja https://web.archive.org/web/20160417183545/https://java.net/projects/adoptopenjdk/pages/TestingJava8.**
 
 Porém isso não precisa parar por aqui, você pode selecionar sua própria biblioteca ou projeto opensource, compile usando a JDK9 e execute usando a JDK or JRE 9.
 

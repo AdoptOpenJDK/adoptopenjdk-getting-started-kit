@@ -1,6 +1,6 @@
 # Preparações
 
-* Siga as instruções em https://java.net/projects/adoptopenjdk/pages/InstallJtreg [dead-link] e https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg [dead-link] para saber mais sobre o OpenJDK JTReg. Para mais detalhes, os passos para compilar o JTReg. Veja também [o link](http://openjdk.java.net/jtreg/build.html).
+* Siga as instruções em https://web.archive.org/web/20160623200504/https://java.net/projects/adoptopenjdk/pages/InstallJtreg e https://java.net/projects/adoptopenjdk/pages/EclipseProjectForJTReg [dead-link] para saber mais sobre o OpenJDK JTReg. Para mais detalhes, os passos para compilar o JTReg. Veja também [o link](http://openjdk.java.net/jtreg/build.html).
 
 * Interessante [postagem no blog](http://arkangelofkaos.blogspot.co.uk/2013/05/openjdk-test-fest-23rd-march-2013.html) sobre o que se deve ter em mente antes de escrever testes.
 

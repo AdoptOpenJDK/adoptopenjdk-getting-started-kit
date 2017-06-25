@@ -122,7 +122,7 @@ Shift-<tab> -- for current method or constructor invocation, show a synopsis of 
 [soon to be published]
 
 *Exercises*<br/>
-- https://java.net/projects/adoptopenjdk/downloads/download/REPL_Tutorial.pdf [dead-link]
+- https://web.archive.org/web/20160310170002/https://java.net/downloads/adoptopenjdk/REPL_Tutorial.pdf
 
 *Other mentions of REPL*  
 - http://www.infoq.com/news/2014/09/repl-for-java (Java REPL, IntelliJ IDEA Java REPL plugin, Beanshell, etc...)
