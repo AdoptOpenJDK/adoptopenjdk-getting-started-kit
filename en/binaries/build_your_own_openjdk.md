@@ -5,7 +5,7 @@ The below links cover build OpenJDK natively or in the cloud enviromnment for Li
 * [Build OpenJDK 8](build_openjdk_8.md)
 * [Build OpenJDK 9](build_openjdk_9.md)
 
-Go to the [Adopt OpenJDK - Build OpenJDK  page](https://java.net/projects/adoptopenjdk/pages/WhatToWorkOnForOpenJDK#Build_OpenJDK) to find out more about **building on other platforms**. 
+Go to the [Adopt OpenJDK - Build OpenJDK  page](https://web.archive.org/web/20170428160152/https://java.net/projects/adoptopenjdk/pages/WhatToWorkOnForOpenJDK#Build_OpenJDK) to find out more about **building on other platforms**.
 
 You can also follow these instructions to [build it on the **cloud** environment ](http://alimacsmusings.blogspot.com/2015/08/building-openjdk9-on-cloud-part-1.html) as long as you provision the appropriate environments and follow the instructions from the links above.
 

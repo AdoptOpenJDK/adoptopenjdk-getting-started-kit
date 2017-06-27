@@ -8,7 +8,7 @@
 
 You don't need to copy anything, just signup with a cloud environment provider i.e. Amazon or another provider.
 
-Provision a box running an OS of choice, and follow the steps mentioned on [Adopt OpenJDK Build Instruction](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions) (we recommend a Linux distro like Ubuntu or Fedora or Centos).
+Provision a box running an OS of choice, and follow the steps mentioned on [Adopt OpenJDK Build Instruction](https://community.oracle.com/docs/DOC-992134) (we recommend a Linux distro like Ubuntu or Fedora or Centos).
 
 
 ###  To build OpenJDK in a Virtualbox VM

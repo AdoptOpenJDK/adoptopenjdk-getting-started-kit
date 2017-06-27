@@ -14,10 +14,10 @@ Code base (OpenJDK9): <br/> http://hg.openjdk.java.net/jdk9/jdk9/nashorn
 NodeJS port on Nashorn (NodeJS on the JVM).
 
 Project: <br/>
-https://avatar-js.java.net/  https://avatar.java.net/
+https://web.archive.org/web/20160422030959/https://avatar-js.java.net https://web.archive.org/web/20161116063836/https://avatar.java.net/
 
 Sources:  <br/>
-https://java.net/projects/avatar-js/sources
+https://web.archive.org/web/20160410032600/https://java.net/projects/avatar-js/sources
 
 ## Presentations
 

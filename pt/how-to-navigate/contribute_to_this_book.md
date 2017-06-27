@@ -8,6 +8,6 @@ Clone o repo **https: //www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-s
 
 ou
 
-Você também pode [contactar](https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/contact) os autores com seu nome de usuário github para ser adicionado ao repo.
+Você também pode [contactar](https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/feedback.html) os autores com seu nome de usuário github para ser adicionado ao repo.
 
 Algumas [documentações](http://help.gitbook.com/) e [como instalar o GitBook](https://github.com/GitbookIO/gitbook) localmente também devem ajudar no processo.

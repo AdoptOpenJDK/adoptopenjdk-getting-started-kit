@@ -2,7 +2,7 @@
 
 ## Contribute via GitBook
 
-Create an account on [Gitbook.com](http://www.gitbook.com/login) and [request to become a collaborator](https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/contact) to the [Adopt OpenJDK GitBook](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/)
+Create an account on [Gitbook.com](http://www.gitbook.com/login) and [request to become a collaborator](https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/contributors.html) to the [Adopt OpenJDK GitBook](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/)
 
 Some [documentation](http://help.gitbook.com/) and [how to install GitBook](https://github.com/GitbookIO/gitbook) locally should also help in the process.
 

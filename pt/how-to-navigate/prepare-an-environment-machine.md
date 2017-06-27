@@ -8,7 +8,7 @@
 
 Você não precisa copiar nada, apenas inscreva-se em algum ambiente na nuvem, ou seja, Amazon ou outro provedor.
 
-Utilize uma Box com um sistema operacional de sua preferência e siga as instruções abaixo [Adopt OpenJDK Build Instruções](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuildInstructions) (recomendamos uma distribuição Linux como Ubuntu, Fedora ou Centos ).
+Utilize uma Box com um sistema operacional de sua preferência e siga as instruções abaixo [Adopt OpenJDK Build Instruções](https://community.oracle.com/docs/DOC-992134) (recomendamos uma distribuição Linux como Ubuntu, Fedora ou Centos ).
 
 
 ### Para buildar a OpenJDK em uma VM Virtualbox

@@ -5,9 +5,9 @@
 
 ** All instructions and tips below are for the general public and attendees of hackdays / workshops / hands-on-sessions - except for the one about the Custom JUG handout template, which is for JUG leaders and organisers. **
 
-This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like http://adoptopenjdk.java.net and http://openjdk.java.net/, and does not override or replace these resources.
+This document is meant to make it easier for "first time" developers to get started with OpenJDK and refers to, in as many places as possible, to cannonical sources like https://community.oracle.com/docs/DOC-991498 and http://openjdk.java.net/, and does not override or replace these resources.
 
 #### Let's get started!
-[Click here for Quick Start Guide](https://mikebgx.gitbooks.io/adopt-openjdk-quickstart-chapter/content/quick-start.html)
+[Click here for Quick Start Guide](https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/quickstart.html)
 ###### or press the blue "Read" button to the right for the main document.
 ---

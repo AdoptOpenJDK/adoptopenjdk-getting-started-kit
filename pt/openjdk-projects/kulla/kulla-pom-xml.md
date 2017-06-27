@@ -151,7 +151,7 @@ E então execute o comando a seguir:
 $ mvn clean package -Dbuild.image.folder=$JAVA9_HOME
 ```
 
-onde ```$JAVA9_HOME```aponta para os binários da JDK9 baixados do site [JDK9 Early Access](https://jdk9.java.net/download/).
+onde ```$JAVA9_HOME```aponta para os binários da JDK9 baixados do site [JDK9 Early Access](http://jdk.java.net/9/).
 
 ou o comando abaixo caso você tenha compilado sua própria JDK ```kulla-dev``` (os diretórios precisam conter as imagens já criadas):
 

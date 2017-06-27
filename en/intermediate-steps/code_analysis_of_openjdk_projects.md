@@ -5,7 +5,7 @@ The steps below will allow us to visualise the contents of the OpenJDK projects 
 
 ###Using IntelliJ###
 Perform analysis of any of the OpenJDK projects within IntelliJ using its Code analysis functionality:
-https://java.net/projects/adoptopenjdk/pages/JavaSourcesWithIntellij
+https://web.archive.org/web/20160623200432/https://java.net/projects/adoptopenjdk/pages/JavaSourcesWithIntellij
 
 
 ###Using SonarQube##
@@ -32,9 +32,9 @@ Then we'll run SonarQube analysis across the codebase, and create custom filters
 Use this [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqube-formely-sonar-on-mac-os-x-mountain-lion-10-8-4/) to install SonarQube or the instructions below (instructions for Mac OS, might need tweaks for other OSes)
 
 **Install MySQL and SonarQube on the Ubuntu VM**
-1. Download and install MySQL on Ubuntu. See section titled "Installation" on https://help.ubuntu.com/12.04/serverguide/mysql.html
+1. Download and install MySQL on Ubuntu. See section titled "Installation" on https://help.ubuntu.com/lts/serverguide/mysql.html
 
-2. In MySQL, create the sonar database and user - https://github.com/SonarSource/sonar-examples/blob/master/scripts/database/mysql/create_database.sql
+2. In MySQL, create the sonar database and user - https://web.archive.org/web/20140604201833/https://github.com/SonarSource/sonar-examples/blob/master/scripts/database/mysql/create_database.sql
 
     ```
     mysql> CREATE DATABASE sonar CHARACTER SET utf8 COLLATE utf8_general_ci;

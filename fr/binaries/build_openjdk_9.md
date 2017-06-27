@@ -2,9 +2,9 @@
 
 *Construire OpenJDK depuis l'OS natif (de zéro)*
 
-Lien vers une page avec des instructions détaillées sur le [wiki Adopt OpenJDK](https://java.net/projects/adoptopenjdk/pages/Build).
+Lien vers une page avec des instructions détaillées sur le [wiki Adopt OpenJDK](https://java.net/projects/adoptopenjdk/pages/Build) [dead-link].
 
-*Prérequis* : installer les programmes nécessaires pour construire OpenJDK 9, [voir le site](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuild).
+*Prérequis* : installer les programmes nécessaires pour construire OpenJDK 9, [voir le site](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDKBuild) [dead-link].
 
 **Construisez depuis une repo existante ou une image VM prête à l'emploi**
 

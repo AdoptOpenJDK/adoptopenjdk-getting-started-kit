@@ -14,6 +14,6 @@ Projects donated to the community:
 * [mjprof](http://github.com/adoptopenjdk/mjprof)
 * [obuildfactory](http://github.com/adoptopenjdk/obuildfactory)
 * [JavadocUpdaterTool](http://github.com/adoptopenjdk/JavadocUpdaterTool)
-* [sunflow](http://github.com/adoptopenjdk/sunflow)
+* [sunflow](http://github.com/adoptopenjdk/sunflow) [dead-link]
 
-Download and start working on [Adopt OpenJDK projects](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK#What_do_we_work_on_for_OpenJDK?) and some more on the respective [github](https://github.com/AdoptOpenJDK/) and [bitbucket](https://bitbucket.org/adoptopenjdk/) repos.
+Download and start working on [Adopt OpenJDK projects](https://community.oracle.com/docs/DOC-991498) and some more on the respective [github](https://github.com/AdoptOpenJDK/) and [bitbucket](https://bitbucket.org/adoptopenjdk/) repos.

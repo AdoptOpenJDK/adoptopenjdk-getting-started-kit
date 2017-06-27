@@ -2,7 +2,7 @@
 
 ## Contribuir via GitBook
 
-Crie uma conta no [gitbook.com](http://www.gitbook.com/login) e [envie uma solicitação para se tornar um colaborador]((https://www.gitbook.com/book/adoptopenjdk/adoptopenjdk-getting-started-kit/contact) do [AdoptOpenJDK GitBook](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/)
+Crie uma conta no [gitbook.com](http://www.gitbook.com/login) e [envie uma solicitação para se tornar um colaborador](https://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/contributors.html) do [AdoptOpenJDK GitBook](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/)
 
 [Documentações](http://help.gitbook.com/) e [como instalar o GitBook](https://github.com/GitbookIO/gitbook) localmente também devem ajudar no processo.
 
@@ -36,7 +36,7 @@ Visite seu repositório no GitHub: https://github.com/{YOUR_GITHUB_ACCOUNT}/adop
 
 Temos dois [scripts](https://github.com/adoptopenjdk/adoptopenjdk-getting-started-kit) na pasta raiz do repo que criam páginas markdown <b> What's changed </b>, como esta<br/> http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html.
 
-Os scripts geradores de markdown [What's changed](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) são chamados [whatsChanged.sh](https://github.com /adoptopenjdk/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) e [whatsChangedForAllLanguages.sh](https://github.com/adoptopenjdk/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor. Sh).
+Os scripts geradores de markdown [What's changed](http://adoptopenjdk.gitbooks.io/adoptopenjdk-getting-started-kit/content/en/whatsChanged.html) são chamados [whatsChanged.sh](https://github.com /adoptopenjdk/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh) e [whatsChangedForAllLanguages.sh](https://github.com/adoptopenjdk/adoptopenjdk-getting-started-kit/blob/master/whatsChangedFor.sh).
 
 Sinta-se livre para melhorá-los, desde que continuem a fazer o que fazem.
 

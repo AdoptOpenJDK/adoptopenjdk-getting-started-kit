@@ -4,7 +4,7 @@ Os passos abaixo servem de grande ajuda para entender mais profundamente a estru
 
 ###Usando IntelliJ###
 Execute sua análise da OpenJDK dentro do IntelliJ usando o Code analysis:
-https://java.net/projects/adoptopenjdk/pages/JavaSourcesWithIntellij
+https://web.archive.org/web/20160623200432/https://java.net/projects/adoptopenjdk/pages/JavaSourcesWithIntellij
 
 
 ###Usando SonarQube##
@@ -30,9 +30,9 @@ Em seguida nos vamos executar o SonarQube analysis codebase, e criar filtros cus
 Use este [blog](https://neomatrix369.wordpress.com/2013/09/16/installing-sonarqube-formely-sonar-on-mac-os-x-mountain-lion-10-8-4/) para instalar o SonarQube (Mac OS pode precisar de ajustes especificos)
 
 **Instale MySQL e SonarQube no Ubuntu VM**
-1. Download e instale MySQL no Ubuntu. Busque por "Installation" em https://help.ubuntu.com/12.04/serverguide/mysql.html
+1. Download e instale MySQL no Ubuntu. Busque por "Installation" em https://help.ubuntu.com/lts/serverguide/mysql.html
 
-2. No MySQL, crie a database e user - https://github.com/SonarSource/sonar-examples/blob/master/scripts/database/mysql/create_database.sql
+2. No MySQL, crie a database e user - https://web.archive.org/web/20140604201833/https://github.com/SonarSource/sonar-examples/blob/master/scripts/database/mysql/create_database.sql
 
     ```
     mysql> CREATE DATABASE sonar CHARACTER SET utf8 COLLATE utf8_general_ci;
